@@ -68,7 +68,7 @@ def build_alert_email(alerts):
 </head>
 <body>
 <div class="header">
-  <h1>ALERTA: {count} Colección{"es" if count > 1 else ""} Vacía{"s" if count > 1 else ""}</h1>
+  <h1>ALERT: {count} Empty Collection{"s" if count > 1 else ""}</h1>
   <p>MJG Trading &middot; {now_str}</p>
 </div>"""
 
@@ -88,23 +88,23 @@ def build_alert_email(alerts):
   </div>"""
 
         if sold:
-            html += "<p style='font-weight:bold;margin:14px 0 6px'>Producto que vendió la última unidad:</p>"
+            html += "<p style='font-weight:bold;margin:14px 0 6px'>Product that sold the last unit:</p>"
             for item in sold:
                 html += f"""<div class="product-box">
   <strong>{item['product_title']}</strong><br>
-  SKU: {item['sku'] or '—'} &middot; Tenía {item['prev_qty']} unidad{'es' if item['prev_qty'] != 1 else ''}
+  SKU: {item['sku'] or '—'} &middot; Had {item['prev_qty']} unit{'s' if item['prev_qty'] != 1 else ''}
 </div>"""
 
         html += f"""
   <div style="margin-top:16px">
-    <a class="btn btn-red" href="{admin_url(col['legacy_id'])}">Ocultar colección &rarr;</a>
-    <a class="btn btn-dark" href="{collection_url(col['handle'])}">Ver en tienda &rarr;</a>
+    <a class="btn btn-red" href="{admin_url(col['legacy_id'])}">Hide collection &rarr;</a>
+    <a class="btn btn-dark" href="{collection_url(col['handle'])}">View in store &rarr;</a>
   </div>
 </div>"""
 
     html += """
 <div class="footer">
-  Alerta automática &middot; MJG Trading &middot;
+  Automatic alert &middot; MJG Trading &middot;
   <a href="https://business-mjgtrading.myshopify.com/admin">Admin Shopify</a>
 </div>
 </body></html>"""
@@ -184,7 +184,7 @@ def main():
     if alerts:
         html = build_alert_email(alerts)
         names = ", ".join(a["collection"]["title"] for a in alerts)
-        send_email(f"ALERTA Coleccion Vacia: {names}", html)
+        send_email(f"ALERT Empty Collection: {names}", html)
     else:
         print("  No newly empty collections.")
 

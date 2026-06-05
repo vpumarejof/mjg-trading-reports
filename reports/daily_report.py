@@ -140,44 +140,44 @@ def build_email(collections, products, state):
 </style>
 </head>
 <body>
-<h1>Reporte Diario de Inventario — MJG Trading</h1>
-<p class="meta">{date_str} &middot; 8:00 AM EST &middot; <a href="https://business-mjgtrading.myshopify.com/admin">Ir al Admin</a></p>
+<h1>Daily Inventory Report — MJG Trading</h1>
+<p class="meta">{date_str} &middot; 8:00 AM EST &middot; <a href="https://business-mjgtrading.myshopify.com/admin">Go to Admin</a></p>
 
 <div class="section summary">
-<h2 style="margin-top:0">Resumen General</h2>
+<h2 style="margin-top:0">Summary</h2>
 <div class="stats">
-  <div class="stat"><div class="stat-num" style="color:#28a745">{total_active_skus:,}</div><div class="stat-label">SKUs con stock</div></div>
-  <div class="stat"><div class="stat-num" style="color:#dc3545">{total_zero_skus:,}</div><div class="stat-label">SKUs sin stock</div></div>
-  <div class="stat"><div class="stat-num" style="color:#dc3545">{len(empty_collections)}</div><div class="stat-label">Colecciones vacías</div></div>
-  <div class="stat"><div class="stat-num" style="color:#ffc107">{len(low_stock_collections)}</div><div class="stat-label">Stock bajo (&lt;3)</div></div>
-  <div class="stat"><div class="stat-num" style="color:#fd7e14">{len(out_of_stock_24h)}</div><div class="stat-label">Sin stock hoy</div></div>
-  <div class="stat"><div class="stat-num" style="color:#28a745">{len(new_products)}</div><div class="stat-label">Nuevos hoy</div></div>
+  <div class="stat"><div class="stat-num" style="color:#28a745">{total_active_skus:,}</div><div class="stat-label">SKUs In Stock</div></div>
+  <div class="stat"><div class="stat-num" style="color:#dc3545">{total_zero_skus:,}</div><div class="stat-label">SKUs Out of Stock</div></div>
+  <div class="stat"><div class="stat-num" style="color:#dc3545">{len(empty_collections)}</div><div class="stat-label">Empty Collections</div></div>
+  <div class="stat"><div class="stat-num" style="color:#ffc107">{len(low_stock_collections)}</div><div class="stat-label">Low Stock (&lt;3)</div></div>
+  <div class="stat"><div class="stat-num" style="color:#fd7e14">{len(out_of_stock_24h)}</div><div class="stat-label">Out of Stock Today</div></div>
+  <div class="stat"><div class="stat-num" style="color:#28a745">{len(new_products)}</div><div class="stat-label">New Today</div></div>
 </div>
 </div>
 
 <div class="section empty">
-<h2 style="margin-top:0">Colecciones completamente vacías — considera ocultarlas ({len(empty_collections)})</h2>"""
+<h2 style="margin-top:0">Collections Completely Empty — consider hiding them ({len(empty_collections)})</h2>"""
 
     if empty_collections:
-        html += """<table><tr><th>Colección</th><th>Productos</th><th>SKUs</th><th>Tienda</th><th>Admin</th></tr>"""
+        html += """<table><tr><th>Collection</th><th>Products</th><th>SKUs</th><th>Storefront</th><th>Admin</th></tr>"""
         for col in sorted(empty_collections, key=lambda x: x["title"]):
             html += f"""<tr>
   <td><strong>{col['title']}</strong></td>
   <td>{col['product_count']}</td>
   <td>{col['sku_count']}</td>
-  <td><a href="{collection_url(col['handle'])}">Ver &rarr;</a></td>
-  <td><a href="{admin_url(col['legacy_id'])}">Ocultar &rarr;</a></td>
+  <td><a href="{collection_url(col['handle'])}">View &rarr;</a></td>
+  <td><a href="{admin_url(col['legacy_id'])}">Hide &rarr;</a></td>
 </tr>"""
         html += "</table>"
     else:
-        html += '<p class="ok">No hay colecciones completamente vacías.</p>'
+        html += '<p class="ok">No completely empty collections.</p>'
     html += "</div>"
 
     html += f"""
 <div class="section low">
-<h2 style="margin-top:0">Colecciones con menos de 3 unidades ({len(low_stock_collections)})</h2>"""
+<h2 style="margin-top:0">Collections with Less than 3 Units ({len(low_stock_collections)})</h2>"""
     if low_stock_collections:
-        html += """<table><tr><th>Colección</th><th>Unidades</th><th>Productos</th><th>Admin</th></tr>"""
+        html += """<table><tr><th>Collection</th><th>Units</th><th>Products</th><th>Admin</th></tr>"""
         for col in sorted(low_stock_collections, key=lambda x: x["total_qty"]):
             html += f"""<tr>
   <td><strong>{col['title']}</strong></td>
@@ -187,45 +187,45 @@ def build_email(collections, products, state):
 </tr>"""
         html += "</table>"
     else:
-        html += '<p class="ok">No hay colecciones con stock bajo.</p>'
+        html += '<p class="ok">No collections with low stock.</p>'
     html += "</div>"
 
     html += f"""
 <div class="section oos">
-<h2 style="margin-top:0">Productos que se quedaron sin stock en las últimas 24h ({len(out_of_stock_24h)})</h2>"""
+<h2 style="margin-top:0">Products That Went Out of Stock in the Last 24h ({len(out_of_stock_24h)})</h2>"""
     if out_of_stock_24h:
-        html += """<table><tr><th>Producto</th><th>SKU</th><th>Stock anterior</th></tr>"""
+        html += """<table><tr><th>Product</th><th>SKU</th><th>Previous Stock</th></tr>"""
         for item in out_of_stock_24h:
             html += f"""<tr>
   <td><a href="{product_admin_url(item['legacy_id'])}"><strong>{item['product_title']}</strong></a></td>
   <td>{item['sku']}</td>
-  <td>{item['prev_qty']} unidades</td>
+  <td>{item['prev_qty']} units</td>
 </tr>"""
         html += "</table>"
     else:
-        html += '<p class="ok">Ningún producto se quedó sin stock en las últimas 24h.</p>'
+        html += '<p class="ok">No products went out of stock in the last 24h.</p>'
     html += "</div>"
 
     html += f"""
 <div class="section new">
-<h2 style="margin-top:0">Productos nuevos agregados en las últimas 24h ({len(new_products)})</h2>"""
+<h2 style="margin-top:0">New Products Added in the Last 24h ({len(new_products)})</h2>"""
     if new_products:
-        html += """<table><tr><th>Producto</th><th>SKUs</th><th>Admin</th></tr>"""
+        html += """<table><tr><th>Product</th><th>SKUs</th><th>Admin</th></tr>"""
         for item in new_products:
             html += f"""<tr>
   <td><strong>{item['title']}</strong></td>
   <td>{item['sku_count']}</td>
-  <td><a href="{product_admin_url(item['legacy_id'])}">Ver &rarr;</a></td>
+  <td><a href="{product_admin_url(item['legacy_id'])}">View &rarr;</a></td>
 </tr>"""
         html += "</table>"
     else:
-        html += "<p class=\"ok\">No se agregaron productos nuevos en las últimas 24h.</p>"
+        html += "<p class=\"ok\">No new products added in the last 24h.</p>"
     html += "</div>"
 
     html += """
 <div class="footer">
-  Reporte generado automáticamente &middot; MJG Trading &middot;
-  <a href="https://business-mjgtrading.myshopify.com/admin">Admin Shopify</a>
+  Automatically generated report &middot; MJG Trading &middot;
+  <a href="https://business-mjgtrading.myshopify.com/admin">Shopify Admin</a>
 </div>
 </body></html>"""
 
@@ -249,7 +249,7 @@ def main():
     html = build_email(collections, products, state)
 
     now_est = datetime.now(EST)
-    subject = f"Inventario MJG Trading — {now_est.strftime('%d/%m/%Y')}"
+    subject = f"MJG Trading Inventory Report — {now_est.strftime('%m/%d/%Y')}"
     send_email(subject, html)
 
     # Update daily snapshot for tomorrow's "out of stock 24h" detection
