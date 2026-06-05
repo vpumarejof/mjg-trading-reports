@@ -1,0 +1,40 @@
+name: Daily Inventory Report
+
+on:
+  schedule:
+    - cron: "0 13 * * *"   # 8 AM EST (UTC-5) — cambia a "0 12 * * *" en horario de verano (EDT)
+  workflow_dispatch:        # permite correrlo manualmente desde GitHub para probar
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run daily inventory report
+        env:
+          SHOPIFY_ACCESS_TOKEN: ${{ secrets.SHOPIFY_ACCESS_TOKEN }}
+          SHOPIFY_STORE: ${{ secrets.SHOPIFY_STORE }}
+          OUTLOOK_EMAIL: ${{ secrets.OUTLOOK_EMAIL }}
+          OUTLOOK_PASSWORD: ${{ secrets.OUTLOOK_PASSWORD }}
+          REPORT_EMAIL: ${{ secrets.REPORT_EMAIL }}
+        run: python reports/daily_report.py
+
+      - name: Commit updated state
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git pull --rebase origin main
+          git add state/inventory_state.json
+          git diff --staged --quiet || git commit -m "chore: update daily snapshot [skip ci]"
+          git push
