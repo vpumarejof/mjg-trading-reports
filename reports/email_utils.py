@@ -1,25 +1,31 @@
+import json
 import os
-import smtplib
-from email.mime.multipart import MIMEMultipart
-from email.mime.text import MIMEText
+import urllib.request
 
 
 def send_email(subject, html_body):
-    smtp_user = os.environ["OUTLOOK_EMAIL"]
-    smtp_password = os.environ["OUTLOOK_PASSWORD"]
-    raw = os.environ.get("REPORT_EMAIL", smtp_user)
-    recipients = [r.strip() for r in raw.split(",") if r.strip()]
+    api_key = os.environ["SENDGRID_API_KEY"]
+    from_email = os.environ["OUTLOOK_EMAIL"]
+    raw = os.environ.get("REPORT_EMAIL", from_email)
+    recipients = [{"email": r.strip()} for r in raw.split(",") if r.strip()]
 
-    msg = MIMEMultipart("alternative")
-    msg["Subject"] = subject
-    msg["From"] = smtp_user
-    msg["To"] = ", ".join(recipients)
-    msg.attach(MIMEText(html_body, "html"))
+    payload = json.dumps({
+        "personalizations": [{"to": recipients}],
+        "from": {"email": from_email},
+        "subject": subject,
+        "content": [{"type": "text/html", "value": html_body}],
+    }).encode()
 
-    with smtplib.SMTP("smtp.office365.com", 587) as server:
-        server.ehlo()
-        server.starttls()
-        server.login(smtp_user, smtp_password)
-        server.sendmail(smtp_user, recipients, msg.as_string())
+    req = urllib.request.Request(
+        "https://api.sendgrid.com/v3/mail/send",
+        data=payload,
+        headers={
+            "Authorization": f"Bearer {api_key}",
+            "Content-Type": "application/json",
+        },
+        method="POST",
+    )
+    with urllib.request.urlopen(req) as resp:
+        pass
 
-    print(f"Email sent: {subject} -> {', '.join(recipients)}")
+    print(f"Email sent: {subject} -> {', '.join(r['email'] for r in recipients)}")
