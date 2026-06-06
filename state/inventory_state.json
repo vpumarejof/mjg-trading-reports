@@ -28865,13 +28865,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-06-05T21:12:26.242463+00:00",
+    "updated_at": "2026-06-06T08:03:40.483998+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 2325,
+        "total_qty": 2324,
         "sku_count": 246,
         "product_count": 246
       },
@@ -29311,7 +29311,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 2288,
+        "total_qty": 2287,
         "sku_count": 245,
         "product_count": 245
       },
@@ -29335,7 +29335,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2267,
+        "total_qty": 2266,
         "sku_count": 249,
         "product_count": 249
       },
@@ -29375,7 +29375,7 @@
         "title": "CARTIER",
         "handle": "cartier",
         "legacy_id": "411443298558",
-        "total_qty": 38,
+        "total_qty": 37,
         "sku_count": 23,
         "product_count": 23
       },
@@ -29415,7 +29415,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 25931,
+        "total_qty": 25929,
         "sku_count": 39,
         "product_count": 39
       },
@@ -29671,7 +29671,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 1314,
+        "total_qty": 1313,
         "sku_count": 249,
         "product_count": 249
       },
@@ -29783,7 +29783,7 @@
         "title": "LONGCHAMP",
         "handle": "longchamp",
         "legacy_id": "476032958718",
-        "total_qty": 382,
+        "total_qty": 381,
         "sku_count": 49,
         "product_count": 49
       },
@@ -31000,7 +31000,7 @@
         "sku": "CARTIER-CT0502S-001"
       },
       "gid://shopify/ProductVariant/47448055709950": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "CT0532S-001",
         "sku": "CARTIER-CT0532S-001"
       },
@@ -43035,7 +43035,7 @@
         "sku": "LONGCHAMP-LO647S-219"
       },
       "gid://shopify/ProductVariant/47845512347902": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "LO647S-228",
         "sku": "LONGCHAMP-LO647S-228"
       },
@@ -45190,7 +45190,7 @@
         "sku": "PP-VPP016M-0700-54"
       },
       "gid://shopify/ProductVariant/46059134714110": {
-        "qty": 9790,
+        "qty": 9788,
         "product_title": "DropShip",
         "sku": "DropShip"
       },
