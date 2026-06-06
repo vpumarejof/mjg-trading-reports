@@ -28856,13 +28856,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-06-06T16:19:05.483134+00:00",
+    "updated_at": "2026-06-06T20:42:57.397444+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 2324,
+        "total_qty": 2323,
         "sku_count": 246,
         "product_count": 246
       },
@@ -29158,7 +29158,7 @@
         "title": "DAVID BECKHAM",
         "handle": "david-beckham",
         "legacy_id": "397089702142",
-        "total_qty": 364,
+        "total_qty": 363,
         "sku_count": 50,
         "product_count": 50
       },
@@ -29294,7 +29294,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 6146,
+        "total_qty": 6145,
         "sku_count": 249,
         "product_count": 249
       },
@@ -29326,7 +29326,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2266,
+        "total_qty": 2265,
         "sku_count": 249,
         "product_count": 249
       },
@@ -29342,7 +29342,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 6146,
+        "total_qty": 6145,
         "sku_count": 249,
         "product_count": 249
       },
@@ -29406,7 +29406,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 25929,
+        "total_qty": 25927,
         "sku_count": 39,
         "product_count": 39
       },
@@ -29494,7 +29494,7 @@
         "title": "VALENTINO",
         "handle": "valentino",
         "legacy_id": "462679113982",
-        "total_qty": 209,
+        "total_qty": 208,
         "sku_count": 32,
         "product_count": 32
       },
@@ -29574,9 +29574,9 @@
         "title": "LIGHTEC-MOREL",
         "handle": "lightec-morel",
         "legacy_id": "466217926910",
-        "total_qty": 2439,
-        "sku_count": 109,
-        "product_count": 109
+        "total_qty": 2435,
+        "sku_count": 108,
+        "product_count": 108
       },
       "gid://shopify/Collection/466217992446": {
         "title": "OGA-MOREL",
@@ -29614,7 +29614,7 @@
         "title": "NOMAD-MOREL",
         "handle": "nomad-morel",
         "legacy_id": "466916409598",
-        "total_qty": 869,
+        "total_qty": 867,
         "sku_count": 52,
         "product_count": 52
       },
@@ -30116,7 +30116,7 @@
         "sku": "DB-7000/S-BSC/51"
       },
       "gid://shopify/ProductVariant/48121213223166": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "7111/S-WR7/MT",
         "sku": "DB-7111/S-WR7/MT"
       },
@@ -42396,7 +42396,7 @@
         "sku": "NOMAD-MOREL-40159N-ND04-49"
       },
       "gid://shopify/ProductVariant/47558960316670": {
-        "qty": 33,
+        "qty": 32,
         "product_title": "40159N-PP05-49",
         "sku": "NOMAD-MOREL-40159N-PP05-49"
       },
@@ -45181,7 +45181,7 @@
         "sku": "PP-VPP016M-0700-54"
       },
       "gid://shopify/ProductVariant/46059134714110": {
-        "qty": 9788,
+        "qty": 9786,
         "product_title": "DropShip",
         "sku": "DropShip"
       },
@@ -47226,7 +47226,7 @@
         "sku": "VALENTINO-V - SOUL - II-VLS-128B"
       },
       "gid://shopify/ProductVariant/47462523339006": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "V - SOUL - II-VLS-128C",
         "sku": "VALENTINO-V - SOUL - II-VLS-128C"
       },
@@ -48116,7 +48116,7 @@
         "sku": "LIGHTEC-MOREL-30140L-NB06-51"
       },
       "gid://shopify/ProductVariant/47558957465854": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "30140L-PP04-51",
         "sku": "LIGHTEC-MOREL-30140L-PP04-51"
       },
@@ -48144,11 +48144,6 @@
         "qty": 7,
         "product_title": "30179L-MG13-51",
         "sku": "MOREL-30179L-MG13-51"
-      },
-      "gid://shopify/ProductVariant/47558957891838": {
-        "qty": 1,
-        "product_title": "30179L-TN06-51",
-        "sku": "LIGHTEC-MOREL-30179L-TN06-51"
       },
       "gid://shopify/ProductVariant/47558957924606": {
         "qty": 29,
@@ -48201,7 +48196,7 @@
         "sku": "LIGHTEC-MOREL-30263L-BG17-50"
       },
       "gid://shopify/ProductVariant/46658082210046": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "30263L-GG16-50",
         "sku": "MOREL-30263L-GG16-50"
       },
@@ -48251,7 +48246,7 @@
         "sku": "LIGHTEC-MOREL-7672L-BB042-54"
       },
       "gid://shopify/ProductVariant/47558958514430": {
-        "qty": 11,
+        "qty": 10,
         "product_title": "7674L-BB063-51",
         "sku": "LIGHTEC-MOREL-7674L-BB063-51"
       },
@@ -48641,7 +48636,7 @@
         "sku": "NOMAD-MOREL-40107N-TG06-54"
       },
       "gid://shopify/ProductVariant/47021048299774": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "40124N-RR09-53",
         "sku": "NOMAD-MOREL-40124N-RR09-53"
       },
