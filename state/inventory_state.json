@@ -28856,7 +28856,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-06-07T08:37:04.381956+00:00",
+    "updated_at": "2026-06-07T15:08:58.180462+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
@@ -34130,6 +34130,11 @@
         "product_title": "MB0325S-004",
         "sku": "MONTBLANC-MB0325S-004"
       },
+      "gid://shopify/ProductVariant/48288334283006": {
+        "qty": 3,
+        "product_title": "MB0325S-003",
+        "sku": "MONTBLANC-MB0325S-003"
+      },
       "gid://shopify/ProductVariant/48288334250238": {
         "qty": 10,
         "product_title": "MB0320S-003",
@@ -34404,11 +34409,6 @@
         "qty": 33,
         "product_title": "MB0330S-003",
         "sku": "MONTBLANC-MB0330S-003"
-      },
-      "gid://shopify/ProductVariant/48288334283006": {
-        "qty": 3,
-        "product_title": "MB0325S-003",
-        "sku": "MONTBLANC-MB0325S-003"
       },
       "gid://shopify/ProductVariant/48288334217470": {
         "qty": 12,
@@ -45090,6 +45090,11 @@
         "product_title": "KL6150-541-53",
         "sku": "KL-KL6150-541-53"
       },
+      "gid://shopify/ProductVariant/47609150374142": {
+        "qty": 2,
+        "product_title": "KL6150-242-53",
+        "sku": "KL-KL6150-242-53"
+      },
       "gid://shopify/ProductVariant/47609150079230": {
         "qty": 3,
         "product_title": "KL6136-020-51",
@@ -45109,11 +45114,6 @@
         "qty": 3,
         "product_title": "KL6151-516-53",
         "sku": "KL-KL6151-516-53"
-      },
-      "gid://shopify/ProductVariant/47609150374142": {
-        "qty": 2,
-        "product_title": "KL6150-242-53",
-        "sku": "KL-KL6150-242-53"
       },
       "gid://shopify/ProductVariant/47609150013694": {
         "qty": 5,
@@ -48620,6 +48620,11 @@
         "product_title": "40123N-TO05-50",
         "sku": "NOMAD-MOREL-40123N-TO05-50"
       },
+      "gid://shopify/ProductVariant/47021048299774": {
+        "qty": 7,
+        "product_title": "40124N-RR09-53",
+        "sku": "NOMAD-MOREL-40124N-RR09-53"
+      },
       "gid://shopify/ProductVariant/47558959661310": {
         "qty": 140,
         "product_title": "40037N-SP05-50",
@@ -48634,11 +48639,6 @@
         "qty": 2,
         "product_title": "40107N-TG06-54",
         "sku": "NOMAD-MOREL-40107N-TG06-54"
-      },
-      "gid://shopify/ProductVariant/47021048299774": {
-        "qty": 7,
-        "product_title": "40124N-RR09-53",
-        "sku": "NOMAD-MOREL-40124N-RR09-53"
       },
       "gid://shopify/ProductVariant/47558959857918": {
         "qty": 55,
