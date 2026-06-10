@@ -29126,13 +29126,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-06-09T23:06:40.174784+00:00",
+    "updated_at": "2026-06-10T11:58:20.490981+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 2488,
+        "total_qty": 2486,
         "sku_count": 246,
         "product_count": 246
       },
@@ -29228,7 +29228,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 998,
+        "total_qty": 992,
         "sku_count": 143,
         "product_count": 143
       },
@@ -29572,7 +29572,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 1791,
+        "total_qty": 1786,
         "sku_count": 248,
         "product_count": 248
       },
@@ -29724,7 +29724,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 176,
+        "total_qty": 175,
         "sku_count": 194,
         "product_count": 194
       },
@@ -30837,7 +30837,7 @@
         "sku": "KS-BELLAMY-YRQ/GB"
       },
       "gid://shopify/ProductVariant/47577490292990": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "BELLAMY/S/US-086/HA",
         "sku": "KS-BELLAMY/S/US-086/HA"
       },
@@ -31057,7 +31057,7 @@
         "sku": "AW-PREIS-CALLA-B"
       },
       "gid://shopify/ProductVariant/47432858796286": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "CAMRYN/S-7ZJ/9O",
         "sku": "KS-CAMRYN/S-7ZJ/9O"
       },
@@ -33832,7 +33832,7 @@
         "sku": "KS-FRIDA/G/S-PJP/9O"
       },
       "gid://shopify/ProductVariant/48011977621758": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "FAY/G/S-HT8/HA",
         "sku": "KS-FAY/G/S-HT8/HA"
       },
@@ -33977,7 +33977,7 @@
         "sku": "KS-VONNIE/F/S-807/9O"
       },
       "gid://shopify/ProductVariant/47432864760062": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "TAMMY/S-Z9K/HA",
         "sku": "KS-TAMMY/S-Z9K/HA"
       },
@@ -34072,7 +34072,7 @@
         "sku": "KS-GOLDA/G/S-0W4A/3X"
       },
       "gid://shopify/ProductVariant/47056115728638": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "DALILA/S-035J/FF",
         "sku": "KS-DALILA/S-035J/FF"
       },
@@ -34227,7 +34227,7 @@
         "sku": "KS-JUNI/G/S-PEARL-0807/9O"
       },
       "gid://shopify/ProductVariant/45901594034430": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "HARLOW-G-S-0086-HA",
         "sku": "KS-HARLOW/G/S-0086/HA"
       },
@@ -50981,15 +50981,15 @@
         "product_title": "TF4231U-8055S4",
         "sku": "TF-TF4231U-8055S4"
       },
-      "gid://shopify/ProductVariant/48223291867390": {
-        "qty": 7,
-        "product_title": "TF4232-80013C",
-        "sku": "TF-TF4232-80013C"
-      },
       "gid://shopify/ProductVariant/48223291670782": {
         "qty": 6,
         "product_title": "TF4047B-80553C",
         "sku": "TF-TF4047B-80553C"
+      },
+      "gid://shopify/ProductVariant/48223291867390": {
+        "qty": 7,
+        "product_title": "TF4232-80013C",
+        "sku": "TF-TF4232-80013C"
       },
       "gid://shopify/ProductVariant/48223291769086": {
         "qty": 8,
