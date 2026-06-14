@@ -29357,13 +29357,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-06-14T15:29:37.556328+00:00",
+    "updated_at": "2026-06-14T20:24:24.952743+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 2394,
+        "total_qty": 2391,
         "sku_count": 248,
         "product_count": 248
       },
@@ -29371,7 +29371,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 15817,
+        "total_qty": 15816,
         "sku_count": 249,
         "product_count": 249
       },
@@ -29395,7 +29395,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1884,
+        "total_qty": 1880,
         "sku_count": 102,
         "product_count": 102
       },
@@ -29459,7 +29459,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 923,
+        "total_qty": 922,
         "sku_count": 141,
         "product_count": 141
       },
@@ -29523,9 +29523,9 @@
         "title": "TOMMY HILFIGER",
         "handle": "tommy-hilfiger",
         "legacy_id": "391775912190",
-        "total_qty": 336,
-        "sku_count": 65,
-        "product_count": 65
+        "total_qty": 334,
+        "sku_count": 64,
+        "product_count": 64
       },
       "gid://shopify/Collection/391776010494": {
         "title": "VERSACE",
@@ -29563,7 +29563,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 2017,
+        "total_qty": 2014,
         "sku_count": 250,
         "product_count": 250
       },
@@ -29587,7 +29587,7 @@
         "title": "LACOSTE",
         "handle": "lacoste",
         "legacy_id": "393068577022",
-        "total_qty": 244,
+        "total_qty": 243,
         "sku_count": 30,
         "product_count": 30
       },
@@ -29739,7 +29739,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 1958,
+        "total_qty": 1955,
         "sku_count": 195,
         "product_count": 195
       },
@@ -29771,7 +29771,7 @@
         "title": "MISSONI",
         "handle": "missoni",
         "legacy_id": "408673911038",
-        "total_qty": 818,
+        "total_qty": 817,
         "sku_count": 66,
         "product_count": 66
       },
@@ -29803,7 +29803,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 6230,
+        "total_qty": 6229,
         "sku_count": 249,
         "product_count": 249
       },
@@ -29819,7 +29819,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2857,
+        "total_qty": 2856,
         "sku_count": 207,
         "product_count": 207
       },
@@ -29835,7 +29835,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2309,
+        "total_qty": 2306,
         "sku_count": 250,
         "product_count": 250
       },
@@ -29851,7 +29851,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 6230,
+        "total_qty": 6229,
         "sku_count": 249,
         "product_count": 249
       },
@@ -29923,7 +29923,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 25900,
+        "total_qty": 25899,
         "sku_count": 39,
         "product_count": 39
       },
@@ -30091,9 +30091,9 @@
         "title": "LIGHTEC-MOREL",
         "handle": "lightec-morel",
         "legacy_id": "466217926910",
-        "total_qty": 2433,
-        "sku_count": 108,
-        "product_count": 108
+        "total_qty": 2432,
+        "sku_count": 107,
+        "product_count": 107
       },
       "gid://shopify/Collection/466217992446": {
         "title": "OGA-MOREL",
@@ -30606,7 +30606,7 @@
         "sku": "CARRERA-305/S-KB7/FQ"
       },
       "gid://shopify/ProductVariant/48336088400126": {
-        "qty": 20,
+        "qty": 19,
         "product_title": "305/S-M4P/08",
         "sku": "CARRERA-305/S-M4P/08"
       },
@@ -31341,7 +31341,7 @@
         "sku": "CARRERA-CARDUC-018/S-807/IR"
       },
       "gid://shopify/ProductVariant/48336088957182": {
-        "qty": 8,
+        "qty": 6,
         "product_title": "CARDUC-022/S-807/IR",
         "sku": "CARRERA-CARDUC-022/S-807/IR"
       },
@@ -32806,7 +32806,7 @@
         "sku": "KOALI-MOREL-20034K-BP18-54"
       },
       "gid://shopify/ProductVariant/46265761988862": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "2005-0DDB-53",
         "sku": "TH-TH-2005-0DDB-53"
       },
@@ -33246,7 +33246,7 @@
         "sku": "CARRERA-309-PJP-57"
       },
       "gid://shopify/ProductVariant/48094136795390": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "2010T-V81-51",
         "sku": "CARRERA-2010T-V81-51"
       },
@@ -33956,7 +33956,7 @@
         "sku": "KS-IVIE-0AW-52"
       },
       "gid://shopify/ProductVariant/48121214271742": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "HAZEN-807-51",
         "sku": "KS-HAZEN-807-51"
       },
@@ -36064,11 +36064,6 @@
         "qty": 8,
         "product_title": "TH-1893-010A-48",
         "sku": "TH-TH-1893-010A-48"
-      },
-      "gid://shopify/ProductVariant/47845514182910": {
-        "qty": 1,
-        "product_title": "TH-1909-PJP-54",
-        "sku": "TH-TH-1909-PJP-54"
       },
       "gid://shopify/ProductVariant/48094137975038": {
         "qty": 3,
@@ -39676,7 +39671,7 @@
         "sku": "LACOSTE-L6035S-214"
       },
       "gid://shopify/ProductVariant/47609133334782": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "L6043S-301",
         "sku": "LACOSTE-L6043S-301"
       },
@@ -42641,7 +42636,7 @@
         "sku": "MISSONI-MIS-0091-0EX4-52"
       },
       "gid://shopify/ProductVariant/46754108735742": {
-        "qty": 15,
+        "qty": 14,
         "product_title": "MIS-0091-0SR8-52",
         "sku": "MISSONI-MIS-0091-0SR8-52"
       },
@@ -45781,7 +45776,7 @@
         "sku": "PP-VPP016M-0700-54"
       },
       "gid://shopify/ProductVariant/46059134714110": {
-        "qty": 9767,
+        "qty": 9766,
         "product_title": "DropShip",
         "sku": "DropShip"
       },
@@ -48579,11 +48574,6 @@
         "qty": 1,
         "product_title": "30004L-NT40-47",
         "sku": "LIGHTEC-MOREL-30004L-NT40-47"
-      },
-      "gid://shopify/ProductVariant/47558955827454": {
-        "qty": 1,
-        "product_title": "30007L-RT31-50",
-        "sku": "LIGHTEC-MOREL-30007L-RT31-50"
       },
       "gid://shopify/ProductVariant/47558955860222": {
         "qty": 10,
