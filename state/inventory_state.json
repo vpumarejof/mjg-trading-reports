@@ -29357,13 +29357,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-06-13T20:49:38.965396+00:00",
+    "updated_at": "2026-06-14T08:56:42.103308+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 2493,
+        "total_qty": 2490,
         "sku_count": 248,
         "product_count": 248
       },
@@ -29395,7 +29395,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1886,
+        "total_qty": 1885,
         "sku_count": 102,
         "product_count": 102
       },
@@ -29459,7 +29459,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 945,
+        "total_qty": 944,
         "sku_count": 141,
         "product_count": 141
       },
@@ -29539,7 +29539,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 15580,
+        "total_qty": 15578,
         "sku_count": 249,
         "product_count": 249
       },
@@ -29739,7 +29739,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 2289,
+        "total_qty": 2287,
         "sku_count": 213,
         "product_count": 213
       },
@@ -29811,7 +29811,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 1869,
+        "total_qty": 1868,
         "sku_count": 248,
         "product_count": 248
       },
@@ -29835,7 +29835,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2311,
+        "total_qty": 2309,
         "sku_count": 250,
         "product_count": 250
       },
@@ -29843,7 +29843,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 13230,
+        "total_qty": 13229,
         "sku_count": 226,
         "product_count": 226
       },
@@ -30011,7 +30011,7 @@
         "title": "VALENTINO",
         "handle": "valentino",
         "legacy_id": "462679113982",
-        "total_qty": 195,
+        "total_qty": 194,
         "sku_count": 30,
         "product_count": 30
       },
@@ -30179,7 +30179,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 1080,
+        "total_qty": 1078,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30291,7 +30291,7 @@
         "title": "LONGCHAMP",
         "handle": "longchamp",
         "legacy_id": "476032958718",
-        "total_qty": 375,
+        "total_qty": 374,
         "sku_count": 49,
         "product_count": 49
       },
@@ -30331,7 +30331,7 @@
         "title": "BUGATTI",
         "handle": "bugatti",
         "legacy_id": "480545439998",
-        "total_qty": 218,
+        "total_qty": 217,
         "sku_count": 28,
         "product_count": 28
       },
@@ -30363,9 +30363,9 @@
         "title": "CELINE",
         "handle": "celine",
         "legacy_id": "483191193854",
-        "total_qty": 45,
-        "sku_count": 17,
-        "product_count": 17
+        "total_qty": 43,
+        "sku_count": 16,
+        "product_count": 16
       },
       "gid://shopify/Collection/483397370110": {
         "title": "TIFFANY & CO",
@@ -30526,7 +30526,7 @@
         "sku": "BUGATTI-11-BGM"
       },
       "gid://shopify/ProductVariant/47931243102462": {
-        "qty": 15,
+        "qty": 14,
         "product_title": "11-BK/SS",
         "sku": "BUGATTI-11-BK/SS"
       },
@@ -30566,7 +30566,7 @@
         "sku": "BUGATTI-12-CRY"
       },
       "gid://shopify/ProductVariant/48336088367358": {
-        "qty": 18,
+        "qty": 17,
         "product_title": "133/S-2M2/HA",
         "sku": "CARRERA-133/S-2M2/HA"
       },
@@ -31556,7 +31556,7 @@
         "sku": "CELINE-CL40321I-01B"
       },
       "gid://shopify/ProductVariant/48336358146302": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "CL40321I 5352A",
         "sku": "CELINE-CL40321I-52A"
       },
@@ -34276,7 +34276,7 @@
         "sku": "KS-MARLAH/S-0PJP/9O"
       },
       "gid://shopify/ProductVariant/47180872351998": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "ZELDA-00JU-50",
         "sku": "KS-ZELDA-00JU-50"
       },
@@ -38835,6 +38835,11 @@
         "product_title": "GG1729O-002-53-RELABELED",
         "sku": "GUCCI-GG1729O-002-53_R"
       },
+      "gid://shopify/ProductVariant/48301161808126": {
+        "qty": 3,
+        "product_title": "GG1717O-005-54-RELABELED",
+        "sku": "GUCCI-GG1717O-005-54_R"
+      },
       "gid://shopify/ProductVariant/43458420670718": {
         "qty": 0,
         "product_title": "0001-S-0EM5-9O",
@@ -42084,11 +42089,6 @@
         "qty": 9,
         "product_title": "GG1717O-005-54",
         "sku": "GUCCI-GG1717O-005-54"
-      },
-      "gid://shopify/ProductVariant/48301161808126": {
-        "qty": 3,
-        "product_title": "GG1717O-005-54-RELABELED",
-        "sku": "GUCCI-GG1717O-005-54_R"
       },
       "gid://shopify/ProductVariant/48288332906750": {
         "qty": 8,
@@ -47926,7 +47926,7 @@
         "sku": "VALENTINO-V-SOUL-VLS-127A-53"
       },
       "gid://shopify/ProductVariant/46622348771582": {
-        "qty": 14,
+        "qty": 13,
         "product_title": "V-SOUL-VLS-127B-53",
         "sku": "VALENTINO-V-SOUL-VLS-127B-53"
       },
@@ -50941,7 +50941,7 @@
         "sku": "LONGCHAMP-LO686S-001"
       },
       "gid://shopify/ProductVariant/48175301198078": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "LO659S-001",
         "sku": "LONGCHAMP-LO659S-001"
       },
