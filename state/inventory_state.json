@@ -29627,7 +29627,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-06-19T22:38:54.724632+00:00",
+    "updated_at": "2026-06-20T10:14:10.564913+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
@@ -29665,7 +29665,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1727,
+        "total_qty": 1726,
         "sku_count": 97,
         "product_count": 97
       },
@@ -29769,7 +29769,7 @@
         "title": "PRADA",
         "handle": "prada",
         "legacy_id": "391775289598",
-        "total_qty": 183,
+        "total_qty": 182,
         "sku_count": 47,
         "product_count": 47
       },
@@ -29785,7 +29785,7 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 909,
+        "total_qty": 908,
         "sku_count": 101,
         "product_count": 101
       },
@@ -29833,7 +29833,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 2254,
+        "total_qty": 2251,
         "sku_count": 250,
         "product_count": 250
       },
@@ -29889,7 +29889,7 @@
         "title": "MOSCHINO",
         "handle": "moschino",
         "legacy_id": "395943837950",
-        "total_qty": 297,
+        "total_qty": 295,
         "sku_count": 32,
         "product_count": 32
       },
@@ -30009,7 +30009,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 1506,
+        "total_qty": 1504,
         "sku_count": 225,
         "product_count": 225
       },
@@ -30081,7 +30081,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 1931,
+        "total_qty": 1926,
         "sku_count": 248,
         "product_count": 248
       },
@@ -30089,7 +30089,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2852,
+        "total_qty": 2850,
         "sku_count": 207,
         "product_count": 207
       },
@@ -30177,7 +30177,7 @@
         "title": "KARL LAGERFELD",
         "handle": "karl-lagerfeld",
         "legacy_id": "422907576574",
-        "total_qty": 495,
+        "total_qty": 494,
         "sku_count": 42,
         "product_count": 42
       },
@@ -30561,9 +30561,9 @@
         "title": "LONGCHAMP",
         "handle": "longchamp",
         "legacy_id": "476032958718",
-        "total_qty": 355,
-        "sku_count": 48,
-        "product_count": 48
+        "total_qty": 352,
+        "sku_count": 47,
+        "product_count": 47
       },
       "gid://shopify/Collection/476563603710": {
         "title": "CHARRIOL",
@@ -30625,7 +30625,7 @@
         "title": "ELTON JOHN",
         "handle": "elton-john",
         "legacy_id": "482187051262",
-        "total_qty": 1659,
+        "total_qty": 1657,
         "sku_count": 79,
         "product_count": 79
       },
@@ -33721,7 +33721,7 @@
         "sku": "CARRERA-FLAGLAB-13-040G/9O"
       },
       "gid://shopify/ProductVariant/45539350642942": {
-        "qty": 157,
+        "qty": 156,
         "product_title": "FLAGLAB-13-0086-HA",
         "sku": "CARRERA-FLAGLAB-13-0086/HA"
       },
@@ -35476,7 +35476,7 @@
         "sku": "PRADA-PS-04VS-1BO9Q1"
       },
       "gid://shopify/ProductVariant/48392229781758": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "PS-03ZS-1BO05U",
         "sku": "PRADA-PS-03ZS-1BO05U"
       },
@@ -35766,7 +35766,7 @@
         "sku": "SF-SF1073S-240"
       },
       "gid://shopify/ProductVariant/48094648631550": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "SF1081S-001",
         "sku": "SF-SF1081S-001"
       },
@@ -38741,7 +38741,7 @@
         "sku": "PC-6240-0FLL-57"
       },
       "gid://shopify/ProductVariant/48349469933822": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "MOS632-MVU-53",
         "sku": "MOSCHINO-MOS632-MVU-53"
       },
@@ -38936,7 +38936,7 @@
         "sku": "KL-KL6180S-N-232"
       },
       "gid://shopify/ProductVariant/48307063095550": {
-        "qty": 23,
+        "qty": 22,
         "product_title": "KL6139S-240",
         "sku": "KL-KL6139S-240"
       },
@@ -40246,7 +40246,7 @@
         "sku": "MOSCHINO-MOS145/S-0B3V/IR"
       },
       "gid://shopify/ProductVariant/48174871478526": {
-        "qty": 23,
+        "qty": 22,
         "product_title": "MOS180/S-C9A/9O",
         "sku": "MOSCHINO-MOS180/S-C9A/9O"
       },
@@ -43886,7 +43886,7 @@
         "sku": "PD-FLASH-1-4224"
       },
       "gid://shopify/ProductVariant/48094431215870": {
-        "qty": 22,
+        "qty": 21,
         "product_title": "FLASHBULB5-VVBLK",
         "sku": "EJ-FLASHBULB5-VVBLK"
       },
@@ -43981,7 +43981,7 @@
         "sku": "KL-KL6208S-242"
       },
       "gid://shopify/ProductVariant/48094432133374": {
-        "qty": 19,
+        "qty": 18,
         "product_title": "LEGEND-BLK",
         "sku": "EJ-LEGEND-BLK"
       },
@@ -44006,7 +44006,7 @@
         "sku": "LONGCHAMP-LO164S-714"
       },
       "gid://shopify/ProductVariant/47845510643966": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "LO627S-001",
         "sku": "LONGCHAMP-LO627S-001"
       },
@@ -44036,7 +44036,7 @@
         "sku": "LONGCHAMP-LO659S-001"
       },
       "gid://shopify/ProductVariant/47845512413438": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "LO659S-214",
         "sku": "LONGCHAMP-LO659S-214"
       },
@@ -51149,11 +51149,6 @@
         "qty": 5,
         "product_title": "LO2716-001-54",
         "sku": "LONGCHAMP-LO2716-001-54"
-      },
-      "gid://shopify/ProductVariant/47845512511742": {
-        "qty": 1,
-        "product_title": "LO697S-001",
-        "sku": "LONGCHAMP-LO697S-001"
       },
       "gid://shopify/ProductVariant/47609153159422": {
         "qty": 8,
