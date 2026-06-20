@@ -29627,13 +29627,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-06-20T10:14:10.564913+00:00",
+    "updated_at": "2026-06-20T15:57:04.370116+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 2466,
+        "total_qty": 2464,
         "sku_count": 248,
         "product_count": 248
       },
@@ -29665,7 +29665,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1726,
+        "total_qty": 1725,
         "sku_count": 97,
         "product_count": 97
       },
@@ -29729,7 +29729,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 799,
+        "total_qty": 798,
         "sku_count": 133,
         "product_count": 133
       },
@@ -29793,7 +29793,7 @@
         "title": "TOMMY HILFIGER",
         "handle": "tommy-hilfiger",
         "legacy_id": "391775912190",
-        "total_qty": 313,
+        "total_qty": 311,
         "sku_count": 60,
         "product_count": 60
       },
@@ -29809,7 +29809,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 15535,
+        "total_qty": 15534,
         "sku_count": 250,
         "product_count": 250
       },
@@ -29833,7 +29833,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 2251,
+        "total_qty": 2250,
         "sku_count": 250,
         "product_count": 250
       },
@@ -29889,7 +29889,7 @@
         "title": "MOSCHINO",
         "handle": "moschino",
         "legacy_id": "395943837950",
-        "total_qty": 295,
+        "total_qty": 293,
         "sku_count": 32,
         "product_count": 32
       },
@@ -30009,7 +30009,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 1504,
+        "total_qty": 1503,
         "sku_count": 225,
         "product_count": 225
       },
@@ -30089,7 +30089,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2850,
+        "total_qty": 2849,
         "sku_count": 207,
         "product_count": 207
       },
@@ -30105,7 +30105,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2354,
+        "total_qty": 2352,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30841,7 +30841,7 @@
         "sku": "BUGATTI-12-CRY"
       },
       "gid://shopify/ProductVariant/48336088367358": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "133/S-2M2/HA",
         "sku": "CARRERA-133/S-2M2/HA"
       },
@@ -30856,7 +30856,7 @@
         "sku": "CARRERA-2047T/S-7ZJ/Z9"
       },
       "gid://shopify/ProductVariant/47783446511870": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "2087/S-SVK/GK",
         "sku": "TH-TH-2087/S-SVK/GK"
       },
@@ -34606,7 +34606,7 @@
         "sku": "KS-JUNI/G/S-0086/HA"
       },
       "gid://shopify/ProductVariant/45939142689022": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "MAKENSIE-0B3V-53",
         "sku": "KS-MAKENSIE-0B3V-53"
       },
@@ -36351,7 +36351,7 @@
         "sku": "TH-TH-1963-C8C-55"
       },
       "gid://shopify/ProductVariant/48174870954238": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "TH-1974/S-003/IR",
         "sku": "TH-TH-1974/S-003/IR"
       },
@@ -40181,7 +40181,7 @@
         "sku": "MOSCHINO-MOS148/S-7RM/9O"
       },
       "gid://shopify/ProductVariant/48174871511294": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "MOS171/S-807/9O",
         "sku": "MOSCHINO-MOS171/S-807/9O"
       },
@@ -40221,7 +40221,7 @@
         "sku": "MOSCHINO-MOS-616/F-0086-54"
       },
       "gid://shopify/ProductVariant/46998479765758": {
-        "qty": 13,
+        "qty": 12,
         "product_title": "MOS157/S-0807/SQ",
         "sku": "MOSCHINO-MOS157/S-0807/SQ"
       },
@@ -40229,6 +40229,11 @@
         "qty": 8,
         "product_title": "MOS123/S-3H2/JP",
         "sku": "MOSCHINO-MOS123/S-3H2/JP"
+      },
+      "gid://shopify/ProductVariant/48174871478526": {
+        "qty": 22,
+        "product_title": "MOS180/S-C9A/9O",
+        "sku": "MOSCHINO-MOS180/S-C9A/9O"
       },
       "gid://shopify/ProductVariant/46646965502206": {
         "qty": 5,
@@ -40244,11 +40249,6 @@
         "qty": 30,
         "product_title": "MOS145/S-0B3V/IR",
         "sku": "MOSCHINO-MOS145/S-0B3V/IR"
-      },
-      "gid://shopify/ProductVariant/48174871478526": {
-        "qty": 22,
-        "product_title": "MOS180/S-C9A/9O",
-        "sku": "MOSCHINO-MOS180/S-C9A/9O"
       },
       "gid://shopify/ProductVariant/47577495240958": {
         "qty": 5,
