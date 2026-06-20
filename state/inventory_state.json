@@ -29627,13 +29627,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-06-20T15:57:04.370116+00:00",
+    "updated_at": "2026-06-20T20:51:46.071684+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 2464,
+        "total_qty": 2461,
         "sku_count": 248,
         "product_count": 248
       },
@@ -29665,7 +29665,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1725,
+        "total_qty": 1722,
         "sku_count": 97,
         "product_count": 97
       },
@@ -29729,7 +29729,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 798,
+        "total_qty": 795,
         "sku_count": 133,
         "product_count": 133
       },
@@ -29777,7 +29777,7 @@
         "title": "SAINT LAURENT",
         "handle": "saint-laurent",
         "legacy_id": "391775584510",
-        "total_qty": 25,
+        "total_qty": 24,
         "sku_count": 15,
         "product_count": 15
       },
@@ -29833,7 +29833,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 2250,
+        "total_qty": 2247,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30009,7 +30009,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 1503,
+        "total_qty": 1500,
         "sku_count": 225,
         "product_count": 225
       },
@@ -30081,7 +30081,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 1926,
+        "total_qty": 1925,
         "sku_count": 248,
         "product_count": 248
       },
@@ -30089,7 +30089,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2849,
+        "total_qty": 2846,
         "sku_count": 207,
         "product_count": 207
       },
@@ -30105,7 +30105,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2352,
+        "total_qty": 2351,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30871,12 +30871,12 @@
         "sku": "BUGATTI-29-GRY"
       },
       "gid://shopify/ProductVariant/48336088498430": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "305/S-KB7/FQ",
         "sku": "CARRERA-305/S-KB7/FQ"
       },
       "gid://shopify/ProductVariant/48336088400126": {
-        "qty": 11,
+        "qty": 10,
         "product_title": "305/S-M4P/08",
         "sku": "CARRERA-305/S-M4P/08"
       },
@@ -31526,7 +31526,7 @@
         "sku": "CARRERA CARDUC 006/S 0OIT/AO"
       },
       "gid://shopify/ProductVariant/48336088760574": {
-        "qty": 17,
+        "qty": 16,
         "product_title": "CARDUC-011/S-003/UC",
         "sku": "CARRERA-CARDUC-011/S-003/UC"
       },
@@ -34226,7 +34226,7 @@
         "sku": "KS-KENNEDI/F-PJP-49"
       },
       "gid://shopify/ProductVariant/48094137811198": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "JERI-INA-52",
         "sku": "KS-JERI-INA-52"
       },
@@ -34316,7 +34316,7 @@
         "sku": "KS-KARLYN-PJP-53"
       },
       "gid://shopify/ProductVariant/48011617992958": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "BELEN-807-55",
         "sku": "KS-BELEN-807-55"
       },
@@ -34366,7 +34366,7 @@
         "sku": "KS-GOLDA/G/S-W4A/3X"
       },
       "gid://shopify/ProductVariant/47749754978558": {
-        "qty": 15,
+        "qty": 14,
         "product_title": "ELLERY/F/S-PJP/9O",
         "sku": "KS-ELLERY/F/S-PJP/9O"
       },
@@ -35641,7 +35641,7 @@
         "sku": "PRADA-PR-B11S-16K731"
       },
       "gid://shopify/ProductVariant/44587877499134": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "SL553-003",
         "sku": "SAINT LAURENT SL553 003"
       },
