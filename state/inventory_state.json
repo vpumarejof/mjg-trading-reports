@@ -29627,13 +29627,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-06-21T16:57:23.912526+00:00",
+    "updated_at": "2026-06-21T21:59:23.315112+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 2455,
+        "total_qty": 2454,
         "sku_count": 248,
         "product_count": 248
       },
@@ -29665,7 +29665,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1717,
+        "total_qty": 1716,
         "sku_count": 97,
         "product_count": 97
       },
@@ -29721,9 +29721,9 @@
         "title": "FENDI",
         "handle": "fendi",
         "legacy_id": "391774306558",
-        "total_qty": 41,
-        "sku_count": 18,
-        "product_count": 18
+        "total_qty": 40,
+        "sku_count": 17,
+        "product_count": 17
       },
       "gid://shopify/Collection/391774634238": {
         "title": "KATE SPADE",
@@ -29769,7 +29769,7 @@
         "title": "PRADA",
         "handle": "prada",
         "legacy_id": "391775289598",
-        "total_qty": 180,
+        "total_qty": 178,
         "sku_count": 47,
         "product_count": 47
       },
@@ -29833,7 +29833,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 2239,
+        "total_qty": 2237,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30001,7 +30001,7 @@
         "title": "Gucci",
         "handle": "gucci-1",
         "legacy_id": "407282450686",
-        "total_qty": 707,
+        "total_qty": 705,
         "sku_count": 170,
         "product_count": 170
       },
@@ -30009,9 +30009,9 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 1492,
-        "sku_count": 225,
-        "product_count": 225
+        "total_qty": 1489,
+        "sku_count": 224,
+        "product_count": 224
       },
       "gid://shopify/Collection/408131010814": {
         "title": "VOGUE",
@@ -30081,7 +30081,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 1922,
+        "total_qty": 1942,
         "sku_count": 248,
         "product_count": 248
       },
@@ -30089,7 +30089,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2844,
+        "total_qty": 2842,
         "sku_count": 207,
         "product_count": 207
       },
@@ -30105,7 +30105,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2345,
+        "total_qty": 2343,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30169,7 +30169,7 @@
         "title": "GUCCI",
         "handle": "gucci",
         "legacy_id": "421341364478",
-        "total_qty": 409,
+        "total_qty": 408,
         "sku_count": 198,
         "product_count": 198
       },
@@ -30281,7 +30281,7 @@
         "title": "VALENTINO",
         "handle": "valentino",
         "legacy_id": "462679113982",
-        "total_qty": 186,
+        "total_qty": 185,
         "sku_count": 29,
         "product_count": 29
       },
@@ -30449,7 +30449,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 1109,
+        "total_qty": 1119,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30545,9 +30545,9 @@
         "title": "FACE A FACE",
         "handle": "face-a-face",
         "legacy_id": "475759968510",
-        "total_qty": 69,
-        "sku_count": 17,
-        "product_count": 17
+        "total_qty": 67,
+        "sku_count": 16,
+        "product_count": 16
       },
       "gid://shopify/Collection/475760034046": {
         "title": "JAGUAR",
@@ -30991,7 +30991,7 @@
         "sku": "CARRERA-8059/S-03U5/T4"
       },
       "gid://shopify/ProductVariant/46685864624382": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "8059/S-0RTC/UZ",
         "sku": "CARRERA-8059/S-0RTC/UZ"
       },
@@ -34010,11 +34010,6 @@
         "product_title": "FE40151I 5553F",
         "sku": "FENDI-FE40151I-53F"
       },
-      "gid://shopify/ProductVariant/48336359817470": {
-        "qty": 1,
-        "product_title": "FE40151I 5545F",
-        "sku": "FENDI-FE40151I-45F"
-      },
       "gid://shopify/ProductVariant/48336359588094": {
         "qty": 2,
         "product_title": "FE40151I 5501B",
@@ -35476,12 +35471,12 @@
         "sku": "PRADA-PS-03ZS-1BO05U"
       },
       "gid://shopify/ProductVariant/48392229748990": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "PS-03ZS-15P20A",
         "sku": "PRADA-PS-03ZS-15P20A"
       },
       "gid://shopify/ProductVariant/48392229716222": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "PS-03XS-DG008F",
         "sku": "PRADA-PS-03XS-DG008F"
       },
@@ -41991,7 +41986,7 @@
         "sku": "GUCCI-GG1461S-003_R"
       },
       "gid://shopify/ProductVariant/47807386976510": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "GG1462O-003-56",
         "sku": "GUCCI-GG1462O-003-56"
       },
@@ -42286,7 +42281,7 @@
         "sku": "GUCCI-GG1666O-007-53_R"
       },
       "gid://shopify/ProductVariant/48288333529342": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "GG1668S-002",
         "sku": "GUCCI-GG1668S-002"
       },
@@ -43925,11 +43920,6 @@
         "product_title": "IMPERFECT-1-198L",
         "sku": "FF-IMPERFECT-1-198L"
       },
-      "gid://shopify/ProductVariant/48035788423422": {
-        "qty": 1,
-        "product_title": "IMPERFECT-2-193L",
-        "sku": "FF-IMPERFECT-2-193L"
-      },
       "gid://shopify/ProductVariant/48035788456190": {
         "qty": 2,
         "product_title": "IMPERFECT-2-195L",
@@ -44074,6 +44064,16 @@
         "qty": 25,
         "product_title": "LO686S-604",
         "sku": "LONGCHAMP-LO686S-604"
+      },
+      "gid://shopify/ProductVariant/48175301460222": {
+        "qty": 12,
+        "product_title": "LO687S-001",
+        "sku": "LONGCHAMP-LO687S-001"
+      },
+      "gid://shopify/ProductVariant/48175301525758": {
+        "qty": 10,
+        "product_title": "LO687S-214",
+        "sku": "LONGCHAMP-LO687S-214"
       },
       "gid://shopify/ProductVariant/47448056430846": {
         "qty": 2,
@@ -44471,7 +44471,7 @@
         "sku": "VALENTINO-V-GOLD-II-VLS-161B-53"
       },
       "gid://shopify/ProductVariant/47769384354046": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "V-GOLD-II-VLS-161C-53",
         "sku": "VALENTINO-V-GOLD-II-VLS-161C-53"
       },
@@ -51001,7 +51001,7 @@
         "sku": "FF-NINNA-2-1124"
       },
       "gid://shopify/ProductVariant/48035789799678": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "SOTSAS-2-8032",
         "sku": "FF-SOTSAS-2-8032"
       },
@@ -51129,16 +51129,6 @@
         "qty": 2,
         "product_title": "LO2728-001-53",
         "sku": "LONGCHAMP-LO2728-001-53"
-      },
-      "gid://shopify/ProductVariant/48175301525758": {
-        "qty": 10,
-        "product_title": "LO687S-214",
-        "sku": "LONGCHAMP-LO687S-214"
-      },
-      "gid://shopify/ProductVariant/48175301460222": {
-        "qty": 12,
-        "product_title": "LO687S-001",
-        "sku": "LONGCHAMP-LO687S-001"
       },
       "gid://shopify/ProductVariant/48094646862078": {
         "qty": 5,
