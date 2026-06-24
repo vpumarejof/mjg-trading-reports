@@ -82,6 +82,7 @@ class ShopifyClient:
               name
               createdAt
               totalPriceSet { shopMoney { amount currencyCode } }
+              customer { numberOfOrders }
               lineItems(first: 100) {
                 nodes {
                   quantity
@@ -98,7 +99,11 @@ class ShopifyClient:
           }
         }
         """
-        filter_q = f"created_at:>={start_date.strftime('%Y-%m-%dT%H:%M:%SZ')} created_at:<{end_date.strftime('%Y-%m-%dT%H:%M:%SZ')} status:any financial_status:paid"
+        filter_q = (
+            f"created_at:>={start_date.strftime('%Y-%m-%dT%H:%M:%SZ')} "
+            f"created_at:<{end_date.strftime('%Y-%m-%dT%H:%M:%SZ')} "
+            f"status:any financial_status:paid"
+        )
         orders = []
         cursor = None
         while True:
@@ -109,6 +114,43 @@ class ShopifyClient:
                 break
             cursor = page["pageInfo"]["endCursor"]
         return orders
+
+    def get_abandoned_checkouts_in_range(self, start_date, end_date):
+        query = """
+        query GetAbandoned($cursor: String, $query: String) {
+          abandonedCheckouts(first: 250, after: $cursor, query: $query) {
+            pageInfo { hasNextPage endCursor }
+            nodes {
+              createdAt
+              completedAt
+              totalLineItemsPriceSet { shopMoney { amount } }
+              lineItems(first: 50) {
+                nodes {
+                  title
+                  quantity
+                  variant {
+                    product { legacyResourceId title vendor }
+                  }
+                }
+              }
+            }
+          }
+        }
+        """
+        filter_q = (
+            f"created_at:>={start_date.strftime('%Y-%m-%dT%H:%M:%SZ')} "
+            f"created_at:<{end_date.strftime('%Y-%m-%dT%H:%M:%SZ')}"
+        )
+        checkouts = []
+        cursor = None
+        while True:
+            data = self.graphql(query, {"cursor": cursor, "query": filter_q})
+            page = data["abandonedCheckouts"]
+            checkouts.extend(page["nodes"])
+            if not page["pageInfo"]["hasNextPage"]:
+                break
+            cursor = page["pageInfo"]["endCursor"]
+        return [c for c in checkouts if not c["completedAt"]]
 
     def get_all_products(self):
         query = """
@@ -123,6 +165,7 @@ class ShopifyClient:
               vendor
               createdAt
               featuredImage { url }
+              priceRangeV2 { minVariantPrice { amount } }
               variants(first: 100) {
                 nodes {
                   id

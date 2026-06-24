@@ -200,7 +200,205 @@ def fmt_money(v):
     return f"${v:,.2f}"
 
 
-def build_email(products, orders_tw, orders_lw, now_est):
+def customer_breakdown(orders_tw):
+    new_c = sum(1 for o in orders_tw if o.get("customer") and int(o["customer"]["numberOfOrders"]) == 1)
+    returning = sum(1 for o in orders_tw if o.get("customer") and int(o["customer"]["numberOfOrders"]) > 1)
+    guest = sum(1 for o in orders_tw if not o.get("customer"))
+    total = len(orders_tw) or 1
+    return {"new": new_c, "returning": returning, "guest": guest,
+            "new_pct": round(new_c / total * 100), "returning_pct": round(returning / total * 100)}
+
+
+def abandoned_summary(abandoned):
+    total_value = sum(float(c["totalLineItemsPriceSet"]["shopMoney"]["amount"]) for c in abandoned)
+    # Count product frequency in abandoned carts
+    products_in_carts = {}
+    for c in abandoned:
+        for item in c["lineItems"]["nodes"]:
+            if not item.get("variant") or not item["variant"].get("product"):
+                continue
+            pid = item["variant"]["product"]["legacyResourceId"]
+            title = item["variant"]["product"]["title"]
+            vendor = normalize_vendor(item["variant"]["product"].get("vendor", ""))
+            products_in_carts.setdefault(pid, {"title": title, "vendor": vendor, "count": 0, "qty": 0})
+            products_in_carts[pid]["count"] += 1
+            products_in_carts[pid]["qty"] += item["quantity"]
+    top = sorted(products_in_carts.values(), key=lambda x: -x["count"])[:5]
+    return {"count": len(abandoned), "value": total_value, "top_products": top}
+
+
+def dead_stock_brands(products, orders_tw, orders_lw):
+    # Products sold in either week
+    sold_pids = set()
+    for o in orders_tw + orders_lw:
+        for item in o["lineItems"]["nodes"]:
+            if item.get("product"):
+                sold_pids.add(item["product"]["legacyResourceId"])
+
+    # Group unsold active products by brand
+    brand_dead = {}
+    for p in products:
+        if p["status"] != "ACTIVE":
+            continue
+        if p["legacyResourceId"] in sold_pids:
+            continue
+        vendor = normalize_vendor(p["vendor"])
+        if vendor in VENDOR_EXCLUDE or not vendor:
+            continue
+        stock = sum(max(0, v["inventoryQuantity"] or 0) for v in p["variants"]["nodes"])
+        if stock == 0:
+            continue
+        price = float(p["priceRangeV2"]["minVariantPrice"]["amount"]) if p.get("priceRangeV2") else 0
+        retail_value = stock * price
+        brand_dead.setdefault(vendor, {"stock": 0, "value": 0.0})
+        brand_dead[vendor]["stock"] += stock
+        brand_dead[vendor]["value"] += retail_value
+
+    result = [{"brand": k, **v} for k, v in brand_dead.items() if v["stock"] > 0]
+    return sorted(result, key=lambda x: -x["value"])[:10]
+
+
+def build_improvement_section(products, orders_tw, orders_lw, abandoned, brands):
+    cust = customer_breakdown(orders_tw)
+    ab = abandoned_summary(abandoned)
+    dead = dead_stock_brands(products, orders_tw, orders_lw)
+
+    # Auto-generate recommendations
+    recs = []
+    if ab["count"] > 0:
+        recs.append(f"<strong>{ab['count']} abandoned checkouts</strong> left {fmt_money(ab['value'])} on the table — activate Shopify's abandoned checkout email to recover it.")
+    if cust["new_pct"] < 10 and len(orders_tw) > 5:
+        recs.append(f"Only <strong>{cust['new_pct']}% new customers</strong> this week — consider paid acquisition, referrals, or influencer outreach to grow your base.")
+    elif cust["returning_pct"] >= 80:
+        recs.append(f"<strong>{cust['returning_pct']}% returning customers</strong> — strong loyalty. Leverage this with a VIP or early-access program.")
+    reorder_now = [b for b in brands if b["status"] == "REORDER NOW"]
+    for b in reorder_now[:3]:
+        recs.append(f"<strong>{b['title']}</strong> has only {b['days_of_stock']} days of stock left — place a reorder before the weekend.")
+    growing = [b for b in brands if b["u_lw"] > 0 and b["u_tw"] > b["u_lw"] * 1.5]
+    for b in growing[:2]:
+        recs.append(f"<strong>{b['title']}</strong> demand is accelerating ({b['trend']}) — ensure stock keeps pace.")
+    if dead:
+        total_dead_value = sum(d["value"] for d in dead)
+        recs.append(f"<strong>{fmt_money(total_dead_value)}</strong> in retail value is sitting idle (no sales in 2 weeks) — consider a flash sale or bundle offer.")
+
+    html = '<h2>How to Improve</h2>'
+
+    # --- Abandoned Checkout Recovery ---
+    html += f"""
+<div style="border:1px solid #e5e7eb;border-radius:8px;padding:18px 20px;margin-bottom:16px">
+  <div style="display:flex;align-items:flex-start;gap:14px;margin-bottom:12px">
+    <div style="font-size:22px;line-height:1">🛒</div>
+    <div>
+      <div style="font-weight:700;font-size:14px;color:#0f172a">Abandoned Checkout Recovery</div>
+      <div style="font-size:13px;color:#6b7280;margin-top:2px">
+        {ab['count']} incomplete checkouts this week &nbsp;·&nbsp;
+        <span style="font-weight:600;color:#b91c1c">{fmt_money(ab['value'])} revenue at risk</span>
+      </div>
+    </div>
+  </div>"""
+
+    if ab["top_products"]:
+        html += """<table style="margin-top:0">
+<tr>
+  <th>#</th><th>Product</th><th>Brand</th><th style="text-align:right">Times Abandoned</th>
+</tr>"""
+        for i, p in enumerate(ab["top_products"], 1):
+            html += f"""<tr>
+  <td style="color:#9ca3af">{i}</td>
+  <td style="font-size:13px">{p['title']}</td>
+  <td style="font-size:12px;color:#6b7280">{p['vendor']}</td>
+  <td style="text-align:right;font-weight:600">{p['count']}</td>
+</tr>"""
+        html += "</table>"
+
+    html += f"""<p style="font-size:12px;color:#6b7280;margin:10px 0 0">
+    → Enable abandoned checkout emails in
+    <a href="https://business-mjgtrading.myshopify.com/admin/settings/notifications">Shopify Notifications</a>
+    to recover this automatically.
+  </p>
+</div>"""
+
+    # --- Customer Health ---
+    new_bar = cust["new_pct"]
+    ret_bar = cust["returning_pct"]
+    new_color = "#b91c1c" if new_bar < 10 else "#166534"
+    acq_note = (
+        "Low new customer rate — consider acquisition campaigns (paid ads, referrals, influencers)."
+        if new_bar < 10 else
+        "Healthy mix of new and returning customers."
+    )
+    html += f"""
+<div style="border:1px solid #e5e7eb;border-radius:8px;padding:18px 20px;margin-bottom:16px">
+  <div style="display:flex;align-items:flex-start;gap:14px;margin-bottom:14px">
+    <div style="font-size:22px;line-height:1">👥</div>
+    <div>
+      <div style="font-weight:700;font-size:14px;color:#0f172a">Customer Health</div>
+      <div style="font-size:13px;color:#6b7280;margin-top:2px">Based on {len(orders_tw)} orders this week</div>
+    </div>
+  </div>
+  <div style="display:flex;gap:20px;margin-bottom:12px">
+    <div style="flex:1;text-align:center;background:#f8fafc;border-radius:6px;padding:12px">
+      <div style="font-size:22px;font-weight:700;color:{new_color}">{cust['new_pct']}%</div>
+      <div style="font-size:11px;color:#6b7280;text-transform:uppercase;letter-spacing:.04em">New Customers</div>
+      <div style="font-size:11px;color:#9ca3af">{cust['new']} orders</div>
+    </div>
+    <div style="flex:1;text-align:center;background:#f8fafc;border-radius:6px;padding:12px">
+      <div style="font-size:22px;font-weight:700;color:#166534">{cust['returning_pct']}%</div>
+      <div style="font-size:11px;color:#6b7280;text-transform:uppercase;letter-spacing:.04em">Returning</div>
+      <div style="font-size:11px;color:#9ca3af">{cust['returning']} orders</div>
+    </div>
+    <div style="flex:1;text-align:center;background:#f8fafc;border-radius:6px;padding:12px">
+      <div style="font-size:22px;font-weight:700;color:#374151">{cust['guest']}</div>
+      <div style="font-size:11px;color:#6b7280;text-transform:uppercase;letter-spacing:.04em">Guest Orders</div>
+      <div style="font-size:11px;color:#9ca3af">no account</div>
+    </div>
+  </div>
+  <p style="font-size:12px;color:#6b7280;margin:0">→ {acq_note}</p>
+</div>"""
+
+    # --- Dead Stock ---
+    if dead:
+        total_dead_value = sum(d["value"] for d in dead)
+        html += f"""
+<div style="border:1px solid #e5e7eb;border-radius:8px;padding:18px 20px;margin-bottom:16px">
+  <div style="display:flex;align-items:flex-start;gap:14px;margin-bottom:12px">
+    <div style="font-size:22px;line-height:1">📦</div>
+    <div>
+      <div style="font-weight:700;font-size:14px;color:#0f172a">Idle Inventory — No Sales in 2 Weeks</div>
+      <div style="font-size:13px;color:#6b7280;margin-top:2px">
+        <span style="font-weight:600;color:#92400e">{fmt_money(total_dead_value)}</span> in retail value sitting idle
+      </div>
+    </div>
+  </div>
+  <table style="margin-top:0">
+  <tr><th>Brand</th><th style="text-align:right">Units</th><th style="text-align:right">Retail Value</th></tr>"""
+        for d in dead:
+            html += f"""<tr>
+  <td style="font-weight:600">{d['brand']}</td>
+  <td style="text-align:right">{d['stock']:,}</td>
+  <td style="text-align:right">{fmt_money(d['value'])}</td>
+</tr>"""
+        html += """</table>
+  <p style="font-size:12px;color:#6b7280;margin:10px 0 0">→ Consider a limited-time discount, bundle, or marketing push to move this inventory.</p>
+</div>"""
+
+    # --- Recommendations ---
+    if recs:
+        html += """
+<div style="border:1px solid #e5e7eb;border-radius:8px;padding:18px 20px;margin-bottom:16px">
+  <div style="display:flex;align-items:flex-start;gap:14px;margin-bottom:12px">
+    <div style="font-size:22px;line-height:1">💡</div>
+    <div style="font-weight:700;font-size:14px;color:#0f172a">Key Actions This Week</div>
+  </div>
+  <ul style="margin:0;padding-left:18px;font-size:13px;color:#374151;line-height:1.9">"""
+        for r in recs:
+            html += f"<li>{r}</li>"
+        html += "</ul></div>"
+
+    return html
+
+
+def build_email(products, orders_tw, orders_lw, abandoned, now_est):
     logo_b64 = load_logo_b64()
     logo_tag = (
         f'<img src="data:image/jpeg;base64,{logo_b64}" alt="MJG Trading" '
@@ -209,7 +407,7 @@ def build_email(products, orders_tw, orders_lw, now_est):
     )
 
     week_end = now_est.strftime("%B %d, %Y")
-    week_start = (now_est - timedelta(days=6)).strftime("%B %d")
+    week_start_label = (now_est - timedelta(days=6)).strftime("%B %d")
     brands = build_brand_data(products, orders_tw, orders_lw)
     top_products = build_top_products(products, orders_tw)
     summary = executive_summary(orders_tw, orders_lw)
@@ -255,7 +453,7 @@ def build_email(products, orders_tw, orders_lw, now_est):
   <div>{logo_tag}</div>
   <div class="header-right">
     <strong>Weekly Brand Intelligence Report</strong>
-    {week_start} – {week_end}
+    {week_start_label} – {week_end}
   </div>
 </div>
 
@@ -400,6 +598,8 @@ def build_email(products, orders_tw, orders_lw, now_est):
     if not any([dead_brands, sold_out_with_demand, growing]):
         html += '<p style="color:#9ca3af;font-style:italic;font-size:13px">No significant flags this week.</p>'
 
+    html += build_improvement_section(products, orders_tw, orders_lw, abandoned, brands)
+
     html += f"""
 </div>
 <div class="footer">
@@ -438,7 +638,11 @@ def main():
     orders_lw = client.get_orders_in_range(prev_week_start, week_start)
     print(f"  {len(orders_lw)} orders last week")
 
-    html = build_email(products, orders_tw, orders_lw, now_est)
+    print("Fetching abandoned checkouts...")
+    abandoned = client.get_abandoned_checkouts_in_range(week_start, week_end)
+    print(f"  {len(abandoned)} incomplete abandoned checkouts")
+
+    html = build_email(products, orders_tw, orders_lw, abandoned, now_est)
 
     week_str = now_est.strftime("Week of %B %d, %Y")
     subject = f"MJG Trading — Weekly Brand Report · {week_str}"
