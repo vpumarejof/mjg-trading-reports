@@ -173,7 +173,7 @@ def build_email(collections, orders_tw, orders_lw, now_est):
     logo_b64 = load_logo_b64()
     logo_tag = (
         f'<img src="data:image/jpeg;base64,{logo_b64}" alt="MJG Trading" '
-        f'style="height:56px;display:block">'
+        f'style="width:80px;height:80px;object-fit:contain;display:block">'
         if logo_b64 else '<span style="font-size:20px;font-weight:700;color:#fff">MJG Trading</span>'
     )
 
@@ -193,9 +193,9 @@ def build_email(collections, orders_tw, orders_lw, now_est):
 <style>
   body{{font-family:'Segoe UI',Arial,sans-serif;color:#1f2937;max-width:860px;margin:0 auto;padding:0;background:#f3f4f6}}
   .wrapper{{background:#fff;max-width:860px;margin:0 auto}}
-  .header{{background:#0f172a;padding:28px 32px;display:flex;align-items:center;justify-content:space-between}}
-  .header-right{{text-align:right;color:#94a3b8;font-size:13px;line-height:1.6}}
-  .header-right strong{{color:#e2e8f0;font-size:15px;display:block}}
+  .header{{background:#ffffff;border-bottom:1px solid #e5e7eb;padding:24px 32px;display:flex;align-items:center;justify-content:space-between}}
+  .header-right{{text-align:right;color:#6b7280;font-size:13px;line-height:1.6}}
+  .header-right strong{{color:#0f172a;font-size:15px;display:block}}
   .body{{padding:28px 32px}}
   h2{{font-size:14px;font-weight:700;color:#0f172a;text-transform:uppercase;letter-spacing:.06em;margin:28px 0 10px;border-bottom:1px solid #e5e7eb;padding-bottom:6px}}
   .kpi-row{{display:flex;gap:12px;margin-bottom:4px}}
