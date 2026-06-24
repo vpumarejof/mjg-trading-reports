@@ -48,11 +48,11 @@ def load_logo_b64():
     return None
 
 
-def thumb(url, size=44):
+def thumb(url, width=120):
     if not url:
         return None
     sep = "&" if "?" in url else "?"
-    return f"{url}{sep}width={size}&height={size}&crop=center"
+    return f"{url}{sep}width={width}"
 
 
 def build_brand_data(products, orders_tw, orders_lw):
@@ -244,8 +244,8 @@ def build_email(products, orders_tw, orders_lw, now_est):
   .footer{{background:#f8fafc;border-top:1px solid #e5e7eb;padding:16px 32px;font-size:11px;color:#9ca3af;text-align:center}}
   .alert-box{{background:#fef2f2;border-left:3px solid #dc2626;padding:12px 16px;margin:16px 0;border-radius:0 4px 4px 0;font-size:13px}}
   .alert-box strong{{color:#991b1b}}
-  .prod-img{{width:40px;height:40px;object-fit:cover;border-radius:4px;border:1px solid #e5e7eb;display:block}}
-  .no-img{{width:40px;height:40px;border-radius:4px;border:1px solid #e5e7eb;background:#f1f5f9;display:block}}
+  .prod-img{{width:120px;height:auto;border-radius:4px;border:1px solid #e5e7eb;display:block}}
+  .no-img{{width:120px;height:70px;border-radius:4px;border:1px solid #e5e7eb;background:#f1f5f9;display:block}}
 </style>
 </head>
 <body>

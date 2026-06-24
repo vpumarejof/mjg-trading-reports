@@ -2,7 +2,7 @@ name: Weekly Brand Intelligence Report
 
 on:
   schedule:
-    - cron: "0 13 * * 5"   # Every Friday 8 AM EST (UTC-5) — change to "0 12 * * 5" for EDT
+    - cron: "0 12 * * 5"   # Every Friday 8 AM EDT (UTC-4, New York summer time)
   workflow_dispatch:         # Run manually from GitHub for testing
 
 jobs:
