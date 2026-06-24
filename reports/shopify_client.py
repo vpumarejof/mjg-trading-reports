@@ -120,7 +120,9 @@ class ShopifyClient:
               legacyResourceId
               title
               status
+              vendor
               createdAt
+              featuredImage { url }
               variants(first: 100) {
                 nodes {
                   id
