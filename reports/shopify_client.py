@@ -72,6 +72,44 @@ class ShopifyClient:
             cursor = page["pageInfo"]["endCursor"]
         return collections
 
+    def get_orders_in_range(self, start_date, end_date):
+        query = """
+        query GetOrders($cursor: String, $query: String) {
+          orders(first: 250, after: $cursor, query: $query, sortKey: CREATED_AT) {
+            pageInfo { hasNextPage endCursor }
+            nodes {
+              id
+              name
+              createdAt
+              totalPriceSet { shopMoney { amount currencyCode } }
+              lineItems(first: 100) {
+                nodes {
+                  quantity
+                  originalUnitPriceSet { shopMoney { amount } }
+                  product {
+                    id
+                    legacyResourceId
+                    title
+                  }
+                  variant { id sku }
+                }
+              }
+            }
+          }
+        }
+        """
+        filter_q = f"created_at:>={start_date.strftime('%Y-%m-%dT%H:%M:%SZ')} created_at:<{end_date.strftime('%Y-%m-%dT%H:%M:%SZ')} status:any financial_status:paid"
+        orders = []
+        cursor = None
+        while True:
+            data = self.graphql(query, {"cursor": cursor, "query": filter_q})
+            page = data["orders"]
+            orders.extend(page["nodes"])
+            if not page["pageInfo"]["hasNextPage"]:
+                break
+            cursor = page["pageInfo"]["endCursor"]
+        return orders
+
     def get_all_products(self):
         query = """
         query GetProducts($cursor: String) {

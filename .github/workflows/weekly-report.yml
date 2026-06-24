@@ -1,0 +1,29 @@
+name: Weekly Brand Intelligence Report
+
+on:
+  schedule:
+    - cron: "0 13 * * 5"   # Every Friday 8 AM EST (UTC-5) — change to "0 12 * * 5" for EDT
+  workflow_dispatch:         # Run manually from GitHub for testing
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run weekly brand report
+        env:
+          SHOPIFY_ACCESS_TOKEN: ${{ secrets.SHOPIFY_ACCESS_TOKEN }}
+          SHOPIFY_STORE: ${{ secrets.SHOPIFY_STORE }}
+          OUTLOOK_EMAIL: ${{ secrets.OUTLOOK_EMAIL }}
+          SENDGRID_API_KEY: ${{ secrets.SENDGRID_API_KEY }}
+          REPORT_EMAIL: ${{ secrets.REPORT_EMAIL }}
+        run: python reports/weekly_report.py
