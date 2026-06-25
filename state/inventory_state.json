@@ -29711,13 +29711,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-06-24T22:03:27.134759+00:00",
+    "updated_at": "2026-06-25T10:21:05.257475+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 2671,
+        "total_qty": 2667,
         "sku_count": 247,
         "product_count": 247
       },
@@ -29725,7 +29725,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 15894,
+        "total_qty": 15892,
         "sku_count": 250,
         "product_count": 250
       },
@@ -29741,7 +29741,7 @@
         "title": "BURBERRY",
         "handle": "burberry",
         "legacy_id": "391771324670",
-        "total_qty": 52,
+        "total_qty": 51,
         "sku_count": 5,
         "product_count": 5
       },
@@ -29749,7 +29749,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1576,
+        "total_qty": 1574,
         "sku_count": 90,
         "product_count": 90
       },
@@ -29813,7 +29813,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 750,
+        "total_qty": 749,
         "sku_count": 131,
         "product_count": 131
       },
@@ -29853,7 +29853,7 @@
         "title": "PRADA",
         "handle": "prada",
         "legacy_id": "391775289598",
-        "total_qty": 132,
+        "total_qty": 131,
         "sku_count": 43,
         "product_count": 43
       },
@@ -29885,7 +29885,7 @@
         "title": "VERSACE",
         "handle": "versace",
         "legacy_id": "391776010494",
-        "total_qty": 75,
+        "total_qty": 74,
         "sku_count": 9,
         "product_count": 9
       },
@@ -29893,7 +29893,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 15503,
+        "total_qty": 15499,
         "sku_count": 250,
         "product_count": 250
       },
@@ -29917,7 +29917,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 3382,
+        "total_qty": 3380,
         "sku_count": 250,
         "product_count": 250
       },
@@ -29925,7 +29925,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 165,
+        "total_qty": 163,
         "sku_count": 182,
         "product_count": 182
       },
@@ -30085,17 +30085,17 @@
         "title": "Gucci",
         "handle": "gucci-1",
         "legacy_id": "407282450686",
-        "total_qty": 658,
-        "sku_count": 143,
-        "product_count": 143
+        "total_qty": 656,
+        "sku_count": 142,
+        "product_count": 142
       },
       "gid://shopify/Collection/407946952958": {
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 2572,
-        "sku_count": 180,
-        "product_count": 180
+        "total_qty": 2568,
+        "sku_count": 179,
+        "product_count": 179
       },
       "gid://shopify/Collection/408131010814": {
         "title": "VOGUE",
@@ -30133,7 +30133,7 @@
         "title": "PIERRE CARDIN",
         "handle": "pierre-cardin",
         "legacy_id": "408975540478",
-        "total_qty": 96,
+        "total_qty": 95,
         "sku_count": 24,
         "product_count": 24
       },
@@ -30157,7 +30157,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 6231,
+        "total_qty": 6230,
         "sku_count": 249,
         "product_count": 249
       },
@@ -30165,7 +30165,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 2558,
+        "total_qty": 2556,
         "sku_count": 248,
         "product_count": 248
       },
@@ -30173,7 +30173,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2583,
+        "total_qty": 2581,
         "sku_count": 193,
         "product_count": 193
       },
@@ -30189,7 +30189,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2294,
+        "total_qty": 2291,
         "sku_count": 249,
         "product_count": 249
       },
@@ -30197,7 +30197,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 13950,
+        "total_qty": 13946,
         "sku_count": 226,
         "product_count": 226
       },
@@ -30205,7 +30205,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 6231,
+        "total_qty": 6230,
         "sku_count": 249,
         "product_count": 249
       },
@@ -30253,7 +30253,7 @@
         "title": "GUCCI",
         "handle": "gucci",
         "legacy_id": "421341364478",
-        "total_qty": 385,
+        "total_qty": 383,
         "sku_count": 198,
         "product_count": 198
       },
@@ -30277,7 +30277,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 25875,
+        "total_qty": 25874,
         "sku_count": 39,
         "product_count": 39
       },
@@ -30405,7 +30405,7 @@
         "title": "OPTIKA",
         "handle": "optika",
         "legacy_id": "464259285246",
-        "total_qty": 1775,
+        "total_qty": 1774,
         "sku_count": 19,
         "product_count": 19
       },
@@ -30453,7 +30453,7 @@
         "title": "OGA-MOREL",
         "handle": "oga-morel",
         "legacy_id": "466217992446",
-        "total_qty": 236,
+        "total_qty": 235,
         "sku_count": 15,
         "product_count": 15
       },
@@ -30461,9 +30461,9 @@
         "title": "FLEXON",
         "handle": "flexon",
         "legacy_id": "466401853694",
-        "total_qty": 60,
-        "sku_count": 17,
-        "product_count": 17
+        "total_qty": 58,
+        "sku_count": 16,
+        "product_count": 16
       },
       "gid://shopify/Collection/466916311294": {
         "title": "PHILIPP PLEIN",
@@ -30485,9 +30485,9 @@
         "title": "NOMAD-MOREL",
         "handle": "nomad-morel",
         "legacy_id": "466916409598",
-        "total_qty": 857,
-        "sku_count": 50,
-        "product_count": 50
+        "total_qty": 856,
+        "sku_count": 49,
+        "product_count": 49
       },
       "gid://shopify/Collection/466916442366": {
         "title": "ORIGINALE-MOREL",
@@ -30533,7 +30533,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 1712,
+        "total_qty": 1738,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30685,7 +30685,7 @@
         "title": "BUGATTI",
         "handle": "bugatti",
         "legacy_id": "480545439998",
-        "total_qty": 187,
+        "total_qty": 186,
         "sku_count": 26,
         "product_count": 26
       },
@@ -30808,7 +30808,7 @@
         "sku": "BUGATTI-07-GRY/BK"
       },
       "gid://shopify/ProductVariant/47931327316222": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "08-GM/WG",
         "sku": "BUGATTI-08-GM/WG"
       },
@@ -30838,7 +30838,7 @@
         "sku": "VERSACE-0VE4450-314/87"
       },
       "gid://shopify/ProductVariant/46343989395710": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "0VE4455U-53448753",
         "sku": "VERSACE-0VE4455U-53448753"
       },
@@ -31148,7 +31148,7 @@
         "sku": "FF-ASHOKA-1-6200"
       },
       "gid://shopify/ProductVariant/48121213550846": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "AUBRIELLA/G/S-1ED/9O",
         "sku": "KS-AUBRIELLA/G/S-1ED/9O"
       },
@@ -31478,7 +31478,7 @@
         "sku": "CARRERA CARDUC 003/S 008A/T4"
       },
       "gid://shopify/ProductVariant/45606140641534": {
-        "qty": 151,
+        "qty": 150,
         "product_title": "CARDUC-003-S-00A4-UZ",
         "sku": "CARRERA-CARDUC-003/S-00A4/UZ"
       },
@@ -32003,7 +32003,7 @@
         "sku": "BURBERRY-0BE2406U-4063-50"
       },
       "gid://shopify/ProductVariant/47095944675582": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "0BE2412D-3024-52",
         "sku": "BURBERRY-0BE2412D-3024-52"
       },
@@ -32158,7 +32158,7 @@
         "sku": "OGA-MOREL-10154O-BM03-50"
       },
       "gid://shopify/ProductVariant/47558961004798": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "10154O-NG01-50",
         "sku": "OGA-MOREL-10154O-NG01-50"
       },
@@ -33788,7 +33788,7 @@
         "sku": "CARRERA-292-0086-53"
       },
       "gid://shopify/ProductVariant/45606163284222": {
-        "qty": 37,
+        "qty": 36,
         "product_title": "FLAGLAB-13-0PJP-9O",
         "sku": "CARRERA FLAGLAB 13 0PJP/9O"
       },
@@ -35478,7 +35478,7 @@
         "sku": "PRADA-PS-03ZS-15P20A"
       },
       "gid://shopify/ProductVariant/48392229716222": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "PS-03XS-DG008F",
         "sku": "PRADA-PS-03XS-DG008F"
       },
@@ -38562,11 +38562,6 @@
         "product_title": "J4009-412-51",
         "sku": "FLEXON-J4009-412-51"
       },
-      "gid://shopify/ProductVariant/48406859776254": {
-        "qty": 2,
-        "product_title": "J4009-033-51",
-        "sku": "FLEXON-J4009-033-51"
-      },
       "gid://shopify/ProductVariant/48406859612414": {
         "qty": 2,
         "product_title": "H6085-413-52",
@@ -38818,7 +38813,7 @@
         "sku": "PC-6879-R80-57"
       },
       "gid://shopify/ProductVariant/48349469999358": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "6849-R81-56",
         "sku": "PC-6849-R81-56"
       },
@@ -41767,11 +41762,6 @@
         "product_title": "GG1177O-005-57",
         "sku": "GUCCI-GG1177O-005-57"
       },
-      "gid://shopify/ProductVariant/47807386648830": {
-        "qty": 1,
-        "product_title": "GG1293OA-002-54",
-        "sku": "GUCCI-GG1293OA-002-54"
-      },
       "gid://shopify/ProductVariant/47845508743422": {
         "qty": 1,
         "product_title": "GG1314S 001",
@@ -41833,7 +41823,7 @@
         "sku": "GUCCI-GG1428O-005-55_R"
       },
       "gid://shopify/ProductVariant/48288332579070": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "GG1428O-009-55",
         "sku": "GUCCI-GG1428O-009-55"
       },
@@ -44043,7 +44033,7 @@
         "sku": "QUAY-QW-000311-BLK/SMKGRN"
       },
       "gid://shopify/ProductVariant/47432867971326": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "KIM-D",
         "sku": "AW-KIM-D"
       },
@@ -45742,6 +45732,11 @@
         "product_title": "GG1287S-002",
         "sku": "GUCCI GG1287S 002"
       },
+      "gid://shopify/ProductVariant/47807386648830": {
+        "qty": 0,
+        "product_title": "GG1293OA-002-54",
+        "sku": "GUCCI-GG1293OA-002-54"
+      },
       "gid://shopify/ProductVariant/44587855282430": {
         "qty": 0,
         "product_title": "GG1294S-001",
@@ -46108,7 +46103,7 @@
         "sku": "PP-VPP016M-0700-54"
       },
       "gid://shopify/ProductVariant/46059134714110": {
-        "qty": 9748,
+        "qty": 9747,
         "product_title": "DropShip",
         "sku": "DropShip"
       },
@@ -48488,7 +48483,7 @@
         "sku": "OPTIKA-OM-115-BRN-53"
       },
       "gid://shopify/ProductVariant/46673583931646": {
-        "qty": 84,
+        "qty": 83,
         "product_title": "OM-107-BRN-54",
         "sku": "OPTIKA-OM-107-BRN-54"
       },
@@ -49596,11 +49591,6 @@
         "qty": 3,
         "product_title": "3048N-VB071-54",
         "sku": "NOMAD-MOREL-3048N-VB071-54"
-      },
-      "gid://shopify/ProductVariant/47558959399166": {
-        "qty": 1,
-        "product_title": "3048N-PP070-54",
-        "sku": "NOMAD-MOREL-3048N-PP070-54"
       },
       "gid://shopify/ProductVariant/47558959366398": {
         "qty": 80,
