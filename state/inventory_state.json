@@ -29711,13 +29711,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-06-26T17:18:35.542576+00:00",
+    "updated_at": "2026-06-26T21:50:59.078007+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 2795,
+        "total_qty": 2813,
         "sku_count": 246,
         "product_count": 246
       },
@@ -29749,7 +29749,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1572,
+        "total_qty": 1567,
         "sku_count": 91,
         "product_count": 91
       },
@@ -29805,7 +29805,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 759,
+        "total_qty": 758,
         "sku_count": 133,
         "product_count": 133
       },
@@ -29821,7 +29821,7 @@
         "title": "MARC JACOBS",
         "handle": "marc-jacobs",
         "legacy_id": "391774732542",
-        "total_qty": 423,
+        "total_qty": 422,
         "sku_count": 80,
         "product_count": 80
       },
@@ -29861,7 +29861,7 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 891,
+        "total_qty": 888,
         "sku_count": 100,
         "product_count": 100
       },
@@ -29965,7 +29965,7 @@
         "title": "MOSCHINO",
         "handle": "moschino",
         "legacy_id": "395943837950",
-        "total_qty": 277,
+        "total_qty": 276,
         "sku_count": 31,
         "product_count": 31
       },
@@ -29997,9 +29997,9 @@
         "title": "BALENCIAGA",
         "handle": "balenciaga",
         "legacy_id": "395973296382",
-        "total_qty": 294,
-        "sku_count": 131,
-        "product_count": 131
+        "total_qty": 293,
+        "sku_count": 130,
+        "product_count": 130
       },
       "gid://shopify/Collection/397030424830": {
         "title": "CHOPARD",
@@ -30077,7 +30077,7 @@
         "title": "Gucci",
         "handle": "gucci-1",
         "legacy_id": "407282450686",
-        "total_qty": 643,
+        "total_qty": 642,
         "sku_count": 137,
         "product_count": 137
       },
@@ -30157,7 +30157,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 2635,
+        "total_qty": 2637,
         "sku_count": 248,
         "product_count": 248
       },
@@ -30181,7 +30181,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2336,
+        "total_qty": 2330,
         "sku_count": 249,
         "product_count": 249
       },
@@ -30269,7 +30269,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 25870,
+        "total_qty": 25869,
         "sku_count": 39,
         "product_count": 39
       },
@@ -30309,7 +30309,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 176,
+        "total_qty": 175,
         "sku_count": 194,
         "product_count": 194
       },
@@ -30525,7 +30525,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 2493,
+        "total_qty": 2492,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30725,17 +30725,17 @@
         "title": "TIFFANY & CO",
         "handle": "tiffany-co",
         "legacy_id": "483397370110",
-        "total_qty": 22,
-        "sku_count": 8,
-        "product_count": 8
+        "total_qty": 55,
+        "sku_count": 14,
+        "product_count": 14
       },
       "gid://shopify/Collection/484454269182": {
         "title": "Relabeled",
         "handle": "relabeled",
         "legacy_id": "484454269182",
-        "total_qty": 321,
-        "sku_count": 183,
-        "product_count": 183
+        "total_qty": 320,
+        "sku_count": 182,
+        "product_count": 182
       },
       "gid://shopify/Collection/485871059198": {
         "title": "ANNA-KARIN KARLSSON",
@@ -31008,7 +31008,7 @@
         "sku": "CARRERA-8059/S-03U5/T4"
       },
       "gid://shopify/ProductVariant/46685864624382": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "8059/S-0RTC/UZ",
         "sku": "CARRERA-8059/S-0RTC/UZ"
       },
@@ -31058,7 +31058,7 @@
         "sku": "KS-AGLAIA/S-807/9O"
       },
       "gid://shopify/ProductVariant/47749754880254": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "AGLAIA/S-C9A/3X",
         "sku": "KS-AGLAIA/S-C9A/3X"
       },
@@ -31161,11 +31161,6 @@
         "qty": 1,
         "product_title": "BB0229S-004-RELABELED",
         "sku": "BALENCIAGA-BB0229S-004_R"
-      },
-      "gid://shopify/ProductVariant/48301162725630": {
-        "qty": 1,
-        "product_title": "BB0258S-002-RELABELED",
-        "sku": "BALENCIAGA-BB0258S-002_R"
       },
       "gid://shopify/ProductVariant/48301162758398": {
         "qty": 1,
@@ -31468,7 +31463,7 @@
         "sku": "CARRERA CARDUC 003/S 008A/T4"
       },
       "gid://shopify/ProductVariant/45606140641534": {
-        "qty": 151,
+        "qty": 147,
         "product_title": "CARDUC-003-S-00A4-UZ",
         "sku": "CARRERA-CARDUC-003/S-00A4/UZ"
       },
@@ -31976,6 +31971,11 @@
         "qty": 19,
         "product_title": "DIVERGE-EV0325-007",
         "sku": "NIKE-DIVERGE-EV0325-007"
+      },
+      "gid://shopify/ProductVariant/48094430593278": {
+        "qty": 25,
+        "product_title": "DODGER1-GLD",
+        "sku": "EJ-DODGER1-GLD"
       },
       "gid://shopify/ProductVariant/47095920427262": {
         "qty": 17,
@@ -34693,7 +34693,7 @@
         "sku": "MJ-MJ-1097-LHF-53"
       },
       "gid://shopify/ProductVariant/48011979325694": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "MJ-1096-PJP-54",
         "sku": "MJ-MJ-1096-PJP-54"
       },
@@ -35623,7 +35623,7 @@
         "sku": "SF-SF958S-214"
       },
       "gid://shopify/ProductVariant/45308950282494": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "SF1012S-214",
         "sku": "SF1012S-214"
       },
@@ -36083,7 +36083,7 @@
         "sku": "SF-SF955S-214"
       },
       "gid://shopify/ProductVariant/48112739221758": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "SF957S-001",
         "sku": "SF-SF957S-001"
       },
@@ -36108,7 +36108,7 @@
         "sku": "SALVATOREFERRAGAMOSF960S214"
       },
       "gid://shopify/ProductVariant/48094649647358": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "SF964S-210",
         "sku": "SF-SF964S-210"
       },
@@ -40208,7 +40208,7 @@
         "sku": "MOSCHINO-MOS157/S-0807/SQ"
       },
       "gid://shopify/ProductVariant/48174871707902": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "MOS123/S-3H2/JP",
         "sku": "MOSCHINO-MOS123/S-3H2/JP"
       },
@@ -42013,7 +42013,7 @@
         "sku": "GUCCI-GG1570S-004_R"
       },
       "gid://shopify/ProductVariant/47807390286078": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "GG1571S-002",
         "sku": "GUCCI-GG1571S-002"
       },
@@ -43571,11 +43571,6 @@
         "qty": 9,
         "product_title": "AK5112-771-53",
         "sku": "AK-AK5112-771-53"
-      },
-      "gid://shopify/ProductVariant/48094430593278": {
-        "qty": 25,
-        "product_title": "DODGER1-GLD",
-        "sku": "EJ-DODGER1-GLD"
       },
       "gid://shopify/ProductVariant/47761274667262": {
         "qty": 2,
@@ -46018,7 +46013,7 @@
         "sku": "PP-VPP016M-0700-54"
       },
       "gid://shopify/ProductVariant/46059134714110": {
-        "qty": 9744,
+        "qty": 9743,
         "product_title": "DropShip",
         "sku": "DropShip"
       },
@@ -47041,6 +47036,11 @@
         "qty": 8,
         "product_title": "B713-DEM-50",
         "sku": "TB-B713-DEM-50"
+      },
+      "gid://shopify/ProductVariant/48301162725630": {
+        "qty": 0,
+        "product_title": "BB0258S-002-RELABELED",
+        "sku": "BALENCIAGA-BB0258S-002_R"
       },
       "gid://shopify/ProductVariant/48301163675902": {
         "qty": 0,
@@ -51136,6 +51136,36 @@
         "qty": 21,
         "product_title": "VIP3-SHYGL",
         "sku": "EJ-VIP3-SHYGL"
+      },
+      "gid://shopify/ProductVariant/48223291736318": {
+        "qty": 7,
+        "product_title": "TF4105HB-81343B",
+        "sku": "TF-TF4105HB-81343B"
+      },
+      "gid://shopify/ProductVariant/48223291638014": {
+        "qty": 6,
+        "product_title": "TF3088-610516",
+        "sku": "TF-TF3088-610516"
+      },
+      "gid://shopify/ProductVariant/48223291834622": {
+        "qty": 3,
+        "product_title": "TF4231U-8055S4",
+        "sku": "TF-TF4231U-8055S4"
+      },
+      "gid://shopify/ProductVariant/48223291670782": {
+        "qty": 6,
+        "product_title": "TF4047B-80553C",
+        "sku": "TF-TF4047B-80553C"
+      },
+      "gid://shopify/ProductVariant/48223291900158": {
+        "qty": 5,
+        "product_title": "TF4253-80013C",
+        "sku": "TF-TF4253-80013C"
+      },
+      "gid://shopify/ProductVariant/48223291932926": {
+        "qty": 6,
+        "product_title": "TF4253-80559S",
+        "sku": "TF-TF4253-80559S"
       },
       "gid://shopify/ProductVariant/48223291769086": {
         "qty": 3,
