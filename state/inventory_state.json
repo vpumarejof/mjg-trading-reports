@@ -29711,13 +29711,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-06-27T12:16:25.697889+00:00",
+    "updated_at": "2026-06-27T16:41:00.395405+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 2812,
+        "total_qty": 2829,
         "sku_count": 246,
         "product_count": 246
       },
@@ -29805,7 +29805,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 756,
+        "total_qty": 755,
         "sku_count": 133,
         "product_count": 133
       },
@@ -30013,9 +30013,9 @@
         "title": "DAVID BECKHAM",
         "handle": "david-beckham",
         "legacy_id": "397089702142",
-        "total_qty": 319,
-        "sku_count": 43,
-        "product_count": 43
+        "total_qty": 316,
+        "sku_count": 42,
+        "product_count": 42
       },
       "gid://shopify/Collection/400594534654": {
         "title": "CAZAL",
@@ -30085,9 +30085,9 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 2324,
-        "sku_count": 126,
-        "product_count": 126
+        "total_qty": 2095,
+        "sku_count": 110,
+        "product_count": 110
       },
       "gid://shopify/Collection/408131010814": {
         "title": "VOGUE",
@@ -30157,7 +30157,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 2637,
+        "total_qty": 2636,
         "sku_count": 248,
         "product_count": 248
       },
@@ -30181,7 +30181,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2330,
+        "total_qty": 2329,
         "sku_count": 249,
         "product_count": 249
       },
@@ -30253,7 +30253,7 @@
         "title": "KARL LAGERFELD",
         "handle": "karl-lagerfeld",
         "legacy_id": "422907576574",
-        "total_qty": 470,
+        "total_qty": 468,
         "sku_count": 41,
         "product_count": 41
       },
@@ -30269,7 +30269,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 25867,
+        "total_qty": 25866,
         "sku_count": 39,
         "product_count": 39
       },
@@ -31143,7 +31143,7 @@
         "sku": "FF-ASHOKA-1-6200"
       },
       "gid://shopify/ProductVariant/48121213550846": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "AUBRIELLA/G/S-1ED/9O",
         "sku": "KS-AUBRIELLA/G/S-1ED/9O"
       },
@@ -31922,11 +31922,6 @@
         "product_title": "DAPHNE-SUN-COL-D",
         "sku": "AW-DAPHNE-D"
       },
-      "gid://shopify/ProductVariant/47243685789950": {
-        "qty": 3,
-        "product_title": "DB-7000/S-02M2/IR",
-        "sku": "DB-DB-7000/S-02M2/IR"
-      },
       "gid://shopify/ProductVariant/47694028570878": {
         "qty": 16,
         "product_title": "DB-7000/S-0807/T4",
@@ -31976,6 +31971,11 @@
         "qty": 25,
         "product_title": "DODGER1-GLD",
         "sku": "EJ-DODGER1-GLD"
+      },
+      "gid://shopify/ProductVariant/48094430822654": {
+        "qty": 21,
+        "product_title": "DODGER2-BLK",
+        "sku": "EJ-DODGER2-BLK"
       },
       "gid://shopify/ProductVariant/47095920427262": {
         "qty": 17,
@@ -43842,11 +43842,6 @@
         "product_title": "MIS-0171/S-1ED/JP",
         "sku": "MISSONI-MIS-0171/S-1ED/JP"
       },
-      "gid://shopify/ProductVariant/48094430822654": {
-        "qty": 21,
-        "product_title": "DODGER2-BLK",
-        "sku": "EJ-DODGER2-BLK"
-      },
       "gid://shopify/ProductVariant/48094431019262": {
         "qty": 24,
         "product_title": "DODGER3-SLV",
@@ -45888,7 +45883,7 @@
         "sku": "KL-KL6138-002-53"
       },
       "gid://shopify/ProductVariant/46674957172990": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "KL6152-610-52",
         "sku": "KL-KL6152-610-52"
       },
@@ -45948,7 +45943,7 @@
         "sku": "KL-KL6151-516-53"
       },
       "gid://shopify/ProductVariant/47609149980926": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "KL6131-014-53",
         "sku": "KL-KL6131-014-53"
       },
@@ -46013,7 +46008,7 @@
         "sku": "PP-VPP016M-0700-54"
       },
       "gid://shopify/ProductVariant/46059134714110": {
-        "qty": 9741,
+        "qty": 9740,
         "product_title": "DropShip",
         "sku": "DropShip"
       },
