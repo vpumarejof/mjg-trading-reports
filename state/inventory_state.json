@@ -29711,7 +29711,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-06-27T08:10:21.464529+00:00",
+    "updated_at": "2026-06-27T12:16:25.697889+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
@@ -40197,6 +40197,11 @@
         "product_title": "MOS161/S-35J/2S",
         "sku": "MOSCHINO-MOS161/S-35J/2S"
       },
+      "gid://shopify/ProductVariant/48174871707902": {
+        "qty": 6,
+        "product_title": "MOS123/S-3H2/JP",
+        "sku": "MOSCHINO-MOS123/S-3H2/JP"
+      },
       "gid://shopify/ProductVariant/47010185969918": {
         "qty": 14,
         "product_title": "MOS-606-0807-53",
@@ -40206,11 +40211,6 @@
         "qty": 12,
         "product_title": "MOS157/S-0807/SQ",
         "sku": "MOSCHINO-MOS157/S-0807/SQ"
-      },
-      "gid://shopify/ProductVariant/48174871707902": {
-        "qty": 6,
-        "product_title": "MOS123/S-3H2/JP",
-        "sku": "MOSCHINO-MOS123/S-3H2/JP"
       },
       "gid://shopify/ProductVariant/48174871478526": {
         "qty": 21,
@@ -42927,6 +42927,11 @@
         "product_title": "6877-0J5G-52",
         "sku": "PC-6877-0J5G-52"
       },
+      "gid://shopify/ProductVariant/46616849809662": {
+        "qty": 3,
+        "product_title": "6869-0R80-56",
+        "sku": "PC-6869-0R80-56"
+      },
       "gid://shopify/ProductVariant/46529204584702": {
         "qty": 4,
         "product_title": "6162-05MI-55",
@@ -42936,11 +42941,6 @@
         "qty": 5,
         "product_title": "6240-0086-57",
         "sku": "PC-6240-0086-57"
-      },
-      "gid://shopify/ProductVariant/46616849809662": {
-        "qty": 3,
-        "product_title": "6869-0R80-56",
-        "sku": "PC-6869-0R80-56"
       },
       "gid://shopify/ProductVariant/47010188296446": {
         "qty": 2,
