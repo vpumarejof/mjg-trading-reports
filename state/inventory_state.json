@@ -29711,13 +29711,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-06-26T21:50:59.078007+00:00",
+    "updated_at": "2026-06-27T08:10:21.464529+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 2813,
+        "total_qty": 2812,
         "sku_count": 246,
         "product_count": 246
       },
@@ -29749,7 +29749,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1567,
+        "total_qty": 1566,
         "sku_count": 91,
         "product_count": 91
       },
@@ -29805,7 +29805,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 758,
+        "total_qty": 756,
         "sku_count": 133,
         "product_count": 133
       },
@@ -29909,7 +29909,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 3371,
+        "total_qty": 3370,
         "sku_count": 250,
         "product_count": 250
       },
@@ -29997,7 +29997,7 @@
         "title": "BALENCIAGA",
         "handle": "balenciaga",
         "legacy_id": "395973296382",
-        "total_qty": 293,
+        "total_qty": 292,
         "sku_count": 130,
         "product_count": 130
       },
@@ -30085,7 +30085,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 2325,
+        "total_qty": 2324,
         "sku_count": 126,
         "product_count": 126
       },
@@ -30165,7 +30165,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2573,
+        "total_qty": 2571,
         "sku_count": 193,
         "product_count": 193
       },
@@ -30269,7 +30269,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 25869,
+        "total_qty": 25867,
         "sku_count": 39,
         "product_count": 39
       },
@@ -30389,7 +30389,7 @@
         "title": "CALVIN KLEIN JEANS",
         "handle": "calvin-klein-jeans",
         "legacy_id": "464057172222",
-        "total_qty": 534,
+        "total_qty": 533,
         "sku_count": 62,
         "product_count": 62
       },
@@ -30509,7 +30509,7 @@
         "title": "ANDY WOLF",
         "handle": "andy-wolf-1",
         "legacy_id": "469566619902",
-        "total_qty": 987,
+        "total_qty": 986,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30525,7 +30525,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 2492,
+        "total_qty": 2491,
         "sku_count": 250,
         "product_count": 250
       },
@@ -31758,7 +31758,7 @@
         "sku": "AKK-COCO-STORIES-WINTER"
       },
       "gid://shopify/ProductVariant/47655188300030": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "COLEMAN-SUN-COL-A",
         "sku": "AW-COLEMAN-A"
       },
@@ -33793,7 +33793,7 @@
         "sku": "CARRERA FLAGLAB 13 0PJP/9O"
       },
       "gid://shopify/ProductVariant/45606141657342": {
-        "qty": 83,
+        "qty": 82,
         "product_title": "FLAGLAB-13-0VK6-9O",
         "sku": "CARRERA-FLAGLAB-13-0VK6/9O"
       },
@@ -34118,7 +34118,7 @@
         "sku": "KS-ELINA/G/S-807/9O"
       },
       "gid://shopify/ProductVariant/48121213583614": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "BRIEANA-09Q-52",
         "sku": "KS-BRIEANA-09Q-52"
       },
@@ -34288,7 +34288,7 @@
         "sku": "KS-ELLERY/F/S-PJP/9O"
       },
       "gid://shopify/ProductVariant/47577491603710": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "WANDA-900-55",
         "sku": "KS-WANDA-900-55"
       },
@@ -38578,7 +38578,7 @@
         "sku": "CKJ-CKJ25612-N-210-54"
       },
       "gid://shopify/ProductVariant/48361936355582": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "CKJ24634-N-001-56",
         "sku": "CKJ-CKJ24634-N-001-56"
       },
@@ -41098,7 +41098,7 @@
         "sku": "BALENCIAGA-BB0334O-002-54"
       },
       "gid://shopify/ProductVariant/47807380390142": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "BB0332O-001-54",
         "sku": "BALENCIAGA-BB0332O-001-54"
       },
@@ -46013,7 +46013,7 @@
         "sku": "PP-VPP016M-0700-54"
       },
       "gid://shopify/ProductVariant/46059134714110": {
-        "qty": 9743,
+        "qty": 9741,
         "product_title": "DropShip",
         "sku": "DropShip"
       },
