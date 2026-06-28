@@ -29711,7 +29711,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-06-28T19:58:42.256438+00:00",
+    "updated_at": "2026-06-28T23:48:07.271266+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
@@ -29749,7 +29749,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1561,
+        "total_qty": 1560,
         "sku_count": 91,
         "product_count": 91
       },
@@ -33558,7 +33558,7 @@
         "sku": "CARRERA-4418-TBO-51"
       },
       "gid://shopify/ProductVariant/48121211814142": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "335-AOZ-50",
         "sku": "CARRERA-335-AOZ-50"
       },
