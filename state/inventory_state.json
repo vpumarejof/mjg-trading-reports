@@ -29711,13 +29711,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-06-28T15:07:12.080661+00:00",
+    "updated_at": "2026-06-28T19:58:42.256438+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 2826,
+        "total_qty": 2824,
         "sku_count": 246,
         "product_count": 246
       },
@@ -29749,7 +29749,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1563,
+        "total_qty": 1561,
         "sku_count": 91,
         "product_count": 91
       },
@@ -29845,7 +29845,7 @@
         "title": "PRADA",
         "handle": "prada",
         "legacy_id": "391775289598",
-        "total_qty": 127,
+        "total_qty": 126,
         "sku_count": 44,
         "product_count": 44
       },
@@ -29861,7 +29861,7 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 887,
+        "total_qty": 886,
         "sku_count": 100,
         "product_count": 100
       },
@@ -29909,7 +29909,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 3368,
+        "total_qty": 3365,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30077,7 +30077,7 @@
         "title": "Gucci",
         "handle": "gucci-1",
         "legacy_id": "407282450686",
-        "total_qty": 641,
+        "total_qty": 640,
         "sku_count": 137,
         "product_count": 137
       },
@@ -30085,7 +30085,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 2093,
+        "total_qty": 2092,
         "sku_count": 110,
         "product_count": 110
       },
@@ -30181,7 +30181,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2326,
+        "total_qty": 2323,
         "sku_count": 249,
         "product_count": 249
       },
@@ -30245,7 +30245,7 @@
         "title": "GUCCI",
         "handle": "gucci",
         "legacy_id": "421341364478",
-        "total_qty": 375,
+        "total_qty": 374,
         "sku_count": 198,
         "product_count": 198
       },
@@ -30269,7 +30269,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 25865,
+        "total_qty": 25864,
         "sku_count": 39,
         "product_count": 39
       },
@@ -30525,7 +30525,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 2489,
+        "total_qty": 2488,
         "sku_count": 250,
         "product_count": 250
       },
@@ -31503,7 +31503,7 @@
         "sku": "CARRERA-CARDUC-044/S-R6S/XT"
       },
       "gid://shopify/ProductVariant/48336089153790": {
-        "qty": 23,
+        "qty": 21,
         "product_title": "CARDUC-051/S-268/Z0",
         "sku": "CARRERA-CARDUC-051/S-268/Z0"
       },
@@ -35358,7 +35358,7 @@
         "sku": "PRADA-PS-07YS-DG006F"
       },
       "gid://shopify/ProductVariant/48392230043902": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "PS-05ZS-15X09U",
         "sku": "PRADA-PS-05ZS-15X09U"
       },
@@ -35998,7 +35998,7 @@
         "sku": "SF-SF2991-600-51"
       },
       "gid://shopify/ProductVariant/47730455773438": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "SF2992-320-53",
         "sku": "SF-SF2992-320-53"
       },
@@ -41838,7 +41838,7 @@
         "sku": "GUCCI-GG1460S-008"
       },
       "gid://shopify/ProductVariant/47807386976510": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "GG1462O-003-56",
         "sku": "GUCCI-GG1462O-003-56"
       },
@@ -45998,7 +45998,7 @@
         "sku": "PP-VPP016M-0700-54"
       },
       "gid://shopify/ProductVariant/46059134714110": {
-        "qty": 9739,
+        "qty": 9738,
         "product_title": "DropShip",
         "sku": "DropShip"
       },
