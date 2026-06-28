@@ -29711,7 +29711,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-06-28T00:16:33.319236+00:00",
+    "updated_at": "2026-06-28T10:16:41.599115+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
@@ -29837,7 +29837,7 @@
         "title": "NIKE",
         "handle": "nike",
         "legacy_id": "391775125758",
-        "total_qty": 309,
+        "total_qty": 308,
         "sku_count": 32,
         "product_count": 32
       },
@@ -29845,7 +29845,7 @@
         "title": "PRADA",
         "handle": "prada",
         "legacy_id": "391775289598",
-        "total_qty": 128,
+        "total_qty": 127,
         "sku_count": 44,
         "product_count": 44
       },
@@ -30085,7 +30085,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 2094,
+        "total_qty": 2093,
         "sku_count": 110,
         "product_count": 110
       },
@@ -30149,7 +30149,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 6218,
+        "total_qty": 6217,
         "sku_count": 249,
         "product_count": 249
       },
@@ -30181,7 +30181,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2327,
+        "total_qty": 2326,
         "sku_count": 249,
         "product_count": 249
       },
@@ -30197,7 +30197,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 6218,
+        "total_qty": 6217,
         "sku_count": 249,
         "product_count": 249
       },
@@ -35278,7 +35278,7 @@
         "sku": "NIKE-8402-240-50"
       },
       "gid://shopify/ProductVariant/47730453446910": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "7283-240-52",
         "sku": "NIKE-7283-240-52"
       },
@@ -35318,7 +35318,7 @@
         "sku": "NIKE553571045"
       },
       "gid://shopify/ProductVariant/48392232272126": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "PS-A52S-DG005U",
         "sku": "PRADA-PS-A52S-DG005U"
       },
@@ -39032,6 +39032,11 @@
         "product_title": "GG1460S-008-RELABELED",
         "sku": "GUCCI-GG1460S-008_R"
       },
+      "gid://shopify/ProductVariant/48301168230654": {
+        "qty": 2,
+        "product_title": "GG1460S-004-RELABELED",
+        "sku": "GUCCI-GG1460S-004_R"
+      },
       "gid://shopify/ProductVariant/43458420670718": {
         "qty": 0,
         "product_title": "0001-S-0EM5-9O",
@@ -41821,11 +41826,6 @@
         "qty": 1,
         "product_title": "GG1460S-004",
         "sku": "GUCCI-GG1460S-004"
-      },
-      "gid://shopify/ProductVariant/48301168230654": {
-        "qty": 2,
-        "product_title": "GG1460S-004-RELABELED",
-        "sku": "GUCCI-GG1460S-004_R"
       },
       "gid://shopify/ProductVariant/47807389106430": {
         "qty": 16,
