@@ -29711,13 +29711,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-06-27T20:40:19.284936+00:00",
+    "updated_at": "2026-06-28T00:16:33.319236+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 2828,
+        "total_qty": 2826,
         "sku_count": 246,
         "product_count": 246
       },
@@ -29749,7 +29749,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1565,
+        "total_qty": 1563,
         "sku_count": 91,
         "product_count": 91
       },
@@ -29909,7 +29909,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 3370,
+        "total_qty": 3368,
         "sku_count": 250,
         "product_count": 250
       },
@@ -29957,7 +29957,7 @@
         "title": "COLUMBIA",
         "handle": "columbia",
         "legacy_id": "395943805182",
-        "total_qty": 252,
+        "total_qty": 251,
         "sku_count": 47,
         "product_count": 47
       },
@@ -29965,7 +29965,7 @@
         "title": "MOSCHINO",
         "handle": "moschino",
         "legacy_id": "395943837950",
-        "total_qty": 275,
+        "total_qty": 274,
         "sku_count": 31,
         "product_count": 31
       },
@@ -30181,7 +30181,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2328,
+        "total_qty": 2327,
         "sku_count": 249,
         "product_count": 249
       },
@@ -30213,7 +30213,7 @@
         "title": "ELASTA",
         "handle": "elasta",
         "legacy_id": "411442249982",
-        "total_qty": 115,
+        "total_qty": 114,
         "sku_count": 33,
         "product_count": 33
       },
@@ -30237,7 +30237,7 @@
         "title": "Male Sunglasses",
         "handle": "male-sunglasses",
         "legacy_id": "416213041406",
-        "total_qty": 15,
+        "total_qty": 14,
         "sku_count": 1,
         "product_count": 1
       },
@@ -30437,7 +30437,7 @@
         "title": "LIGHTEC-MOREL",
         "handle": "lightec-morel",
         "legacy_id": "466217926910",
-        "total_qty": 2387,
+        "total_qty": 2386,
         "sku_count": 103,
         "product_count": 103
       },
@@ -30933,7 +30933,7 @@
         "sku": "CARRERA-329/S-WR7/9O"
       },
       "gid://shopify/ProductVariant/48336088563966": {
-        "qty": 15,
+        "qty": 14,
         "product_title": "340/S-FT3/9K",
         "sku": "CARRERA-340/S-FT3/9K"
       },
@@ -31473,7 +31473,7 @@
         "sku": "CARRERA CARDUC 006/S 0OIT/AO"
       },
       "gid://shopify/ProductVariant/48336088760574": {
-        "qty": 15,
+        "qty": 14,
         "product_title": "CARDUC-011/S-003/UC",
         "sku": "CARRERA-CARDUC-011/S-003/UC"
       },
@@ -40123,7 +40123,7 @@
         "sku": "COLUMBIA-C572SP-N-020"
       },
       "gid://shopify/ProductVariant/48094646763774": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "TIMBER POINTE-242",
         "sku": "COLUMBIA-C572SP-N-242"
       },
@@ -40208,7 +40208,7 @@
         "sku": "MOSCHINO-MOS157/S-0807/SQ"
       },
       "gid://shopify/ProductVariant/48174871478526": {
-        "qty": 21,
+        "qty": 20,
         "product_title": "MOS180/S-C9A/9O",
         "sku": "MOSCHINO-MOS180/S-C9A/9O"
       },
@@ -45118,7 +45118,7 @@
         "sku": "ELASTA-E-7249-003-54"
       },
       "gid://shopify/ProductVariant/48121229279486": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "E-7057-R69-54",
         "sku": "ELASTA-E-7057-R69-54"
       },
@@ -48973,7 +48973,7 @@
         "sku": "LIGHTEC-MOREL-30174L-NP01-50"
       },
       "gid://shopify/ProductVariant/47558957859070": {
-        "qty": 43,
+        "qty": 42,
         "product_title": "30179L-GG05-51",
         "sku": "LIGHTEC-MOREL-30179L-GG05-51"
       },
