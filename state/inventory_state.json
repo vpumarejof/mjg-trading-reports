@@ -29978,13 +29978,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-02T20:45:25.841998+00:00",
+    "updated_at": "2026-07-03T08:37:45.378649+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 3123,
+        "total_qty": 3122,
         "sku_count": 247,
         "product_count": 247
       },
@@ -30080,7 +30080,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 793,
+        "total_qty": 787,
         "sku_count": 137,
         "product_count": 137
       },
@@ -30120,9 +30120,9 @@
         "title": "PRADA",
         "handle": "prada",
         "legacy_id": "391775289598",
-        "total_qty": 90,
-        "sku_count": 29,
-        "product_count": 29
+        "total_qty": 89,
+        "sku_count": 28,
+        "product_count": 28
       },
       "gid://shopify/Collection/391775584510": {
         "title": "SAINT LAURENT",
@@ -30136,7 +30136,7 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 858,
+        "total_qty": 857,
         "sku_count": 98,
         "product_count": 98
       },
@@ -30232,7 +30232,7 @@
         "title": "COLUMBIA",
         "handle": "columbia",
         "legacy_id": "395943805182",
-        "total_qty": 241,
+        "total_qty": 240,
         "sku_count": 43,
         "product_count": 43
       },
@@ -30360,9 +30360,9 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 1982,
-        "sku_count": 91,
-        "product_count": 91
+        "total_qty": 1981,
+        "sku_count": 90,
+        "product_count": 90
       },
       "gid://shopify/Collection/408131010814": {
         "title": "VOGUE",
@@ -30432,7 +30432,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 2732,
+        "total_qty": 2731,
         "sku_count": 248,
         "product_count": 248
       },
@@ -30448,7 +30448,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 9628,
+        "total_qty": 9627,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30456,9 +30456,9 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2374,
-        "sku_count": 243,
-        "product_count": 243
+        "total_qty": 2373,
+        "sku_count": 242,
+        "product_count": 242
       },
       "gid://shopify/Collection/410150142206": {
         "title": "Men's Eyeglasses",
@@ -30672,7 +30672,7 @@
         "title": "OPTIKA",
         "handle": "optika",
         "legacy_id": "464259285246",
-        "total_qty": 1766,
+        "total_qty": 1765,
         "sku_count": 19,
         "product_count": 19
       },
@@ -30744,7 +30744,7 @@
         "title": "1880-MOREL",
         "handle": "1880-morel",
         "legacy_id": "466916376830",
-        "total_qty": 114,
+        "total_qty": 113,
         "sku_count": 11,
         "product_count": 11
       },
@@ -30976,7 +30976,7 @@
         "title": "MODO",
         "handle": "modo",
         "legacy_id": "481959280894",
-        "total_qty": 416,
+        "total_qty": 415,
         "sku_count": 32,
         "product_count": 32
       },
@@ -32253,7 +32253,7 @@
         "sku": "AW-DREAD-F"
       },
       "gid://shopify/ProductVariant/48094645354750": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "EASTERN CAPE-001",
         "sku": "COLUMBIA-C521S-001"
       },
@@ -34273,7 +34273,7 @@
         "sku": "KS-SERAPHINA/G/S-086/HA"
       },
       "gid://shopify/ProductVariant/48121214861566": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "MILANI/F-086-49",
         "sku": "KS-MILANI/F-086-49"
       },
@@ -34313,7 +34313,7 @@
         "sku": "KS-JAVANA/G/S-B3V/QR"
       },
       "gid://shopify/ProductVariant/48121214370046": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "JABRIA-L93-53",
         "sku": "KS-JABRIA-L93-53"
       },
@@ -34513,7 +34513,7 @@
         "sku": "KS-ADELLE-086-51"
       },
       "gid://shopify/ProductVariant/48011617763582": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "EMALIE/F-PJP-52",
         "sku": "KS-EMALIE/F-PJP-52"
       },
@@ -34743,7 +34743,7 @@
         "sku": "KS-ALESSANDRIA-0KB7-51"
       },
       "gid://shopify/ProductVariant/46065122476286": {
-        "qty": 4,
+        "qty": 1,
         "product_title": "CALLEY-0HT8-52",
         "sku": "KS-CALLEY-0HT8-52"
       },
@@ -35577,11 +35577,6 @@
         "product_title": "PS-02YS-1BO06F",
         "sku": "PRADA-PS-02YS-1BO06F"
       },
-      "gid://shopify/ProductVariant/48392229093630": {
-        "qty": 1,
-        "product_title": "PR-A19S-1BO40G",
-        "sku": "PRADA-PR-A19S-1BO40G"
-      },
       "gid://shopify/ProductVariant/48392226537726": {
         "qty": 1,
         "product_title": "PR-09ZV-08Q1O1-51",
@@ -35923,7 +35918,7 @@
         "sku": "SF-SF2948-612-54"
       },
       "gid://shopify/ProductVariant/48094649385214": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "SF2950-N-219-54",
         "sku": "SF-SF2950-N-219-54"
       },
@@ -44773,7 +44768,7 @@
         "sku": "MODO-4604-SMK00-50"
       },
       "gid://shopify/ProductVariant/48061854712062": {
-        "qty": 15,
+        "qty": 14,
         "product_title": "4612-GOLD0-54",
         "sku": "MODO-4612-GOLD0-54"
       },
@@ -48523,7 +48518,7 @@
         "sku": "OPTIKA-OM-119-GOLD-51"
       },
       "gid://shopify/ProductVariant/46673585111294": {
-        "qty": 13,
+        "qty": 12,
         "product_title": "OP-103-BROWN-52",
         "sku": "OPTIKA-OP-103-BROWN-52"
       },
@@ -49493,7 +49488,7 @@
         "sku": "FLEXON-E1139-244-54"
       },
       "gid://shopify/ProductVariant/47021046694142": {
-        "qty": 18,
+        "qty": 17,
         "product_title": "60123M-BG03-48",
         "sku": "1880-MOREL-60123M-BG03-48"
       },
