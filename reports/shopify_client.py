@@ -81,12 +81,17 @@ class ShopifyClient:
               id
               name
               createdAt
+              cancelledAt
+              displayFinancialStatus
               totalPriceSet { shopMoney { amount currencyCode } }
+              currentTotalPriceSet { shopMoney { amount currencyCode } }
               customer { numberOfOrders }
               lineItems(first: 100) {
                 nodes {
                   quantity
+                  currentQuantity
                   originalUnitPriceSet { shopMoney { amount } }
+                  discountedUnitPriceSet { shopMoney { amount } }
                   product {
                     id
                     legacyResourceId
@@ -99,10 +104,14 @@ class ShopifyClient:
           }
         }
         """
+        # No financial_status filter: Shopify's own sales reports count orders
+        # regardless of payment status (pending/authorized net-terms orders included),
+        # they just exclude cancelled orders — which we filter client-side below,
+        # since cancelling doesn't guarantee a financial_status change.
         filter_q = (
             f"created_at:>={start_date.strftime('%Y-%m-%dT%H:%M:%SZ')} "
             f"created_at:<{end_date.strftime('%Y-%m-%dT%H:%M:%SZ')} "
-            f"status:any financial_status:paid"
+            f"status:any"
         )
         orders = []
         cursor = None
@@ -113,7 +122,7 @@ class ShopifyClient:
             if not page["pageInfo"]["hasNextPage"]:
                 break
             cursor = page["pageInfo"]["endCursor"]
-        return orders
+        return [o for o in orders if not o["cancelledAt"]]
 
     def get_abandoned_checkouts_in_range(self, start_date, end_date):
         query = """

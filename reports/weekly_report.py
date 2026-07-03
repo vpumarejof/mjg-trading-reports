@@ -8,12 +8,13 @@ import base64
 import sys
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 sys.path.insert(0, str(Path(__file__).parent))
 from shopify_client import ShopifyClient
 from email_utils import send_email
 
-EST = timezone(timedelta(hours=-5))
+NY_TZ = ZoneInfo("America/New_York")
 LOGO_PATH = Path(__file__).parent.parent / "assets" / "logo.jpg"
 
 # Vendors that are internal categories, not brands
@@ -63,8 +64,8 @@ def build_brand_data(products, orders_tw, orders_lw):
                 if not item.get("product"):
                     continue
                 pid = item["product"]["legacyResourceId"]
-                qty = item["quantity"]
-                price = float(item["originalUnitPriceSet"]["shopMoney"]["amount"]) * qty
+                qty = item["currentQuantity"]
+                price = float(item["discountedUnitPriceSet"]["shopMoney"]["amount"]) * qty
                 units[pid] = units.get(pid, 0) + qty
                 revenue[pid] = revenue.get(pid, 0.0) + price
         return units, revenue
@@ -161,9 +162,9 @@ def build_top_products(products, orders_tw):
                     "units": 0,
                     "revenue": 0.0,
                 }
-            products_sold[pid]["units"] += item["quantity"]
+            products_sold[pid]["units"] += item["currentQuantity"]
             products_sold[pid]["revenue"] += (
-                float(item["originalUnitPriceSet"]["shopMoney"]["amount"]) * item["quantity"]
+                float(item["discountedUnitPriceSet"]["shopMoney"]["amount"]) * item["currentQuantity"]
             )
 
     return sorted(products_sold.values(), key=lambda x: x["units"], reverse=True)[:10]
@@ -171,7 +172,7 @@ def build_top_products(products, orders_tw):
 
 def executive_summary(orders_tw, orders_lw):
     def agg(orders):
-        rev = sum(float(o["totalPriceSet"]["shopMoney"]["amount"]) for o in orders)
+        rev = sum(float(o["currentTotalPriceSet"]["shopMoney"]["amount"]) for o in orders)
         cnt = len(orders)
         return rev, cnt, rev / cnt if cnt else 0
 
@@ -398,7 +399,7 @@ def build_improvement_section(products, orders_tw, orders_lw, abandoned, brands)
     return html
 
 
-def build_email(products, orders_tw, orders_lw, abandoned, now_est):
+def build_email(products, orders_tw, orders_lw, abandoned, period_start, period_end):
     logo_b64 = load_logo_b64()
     logo_tag = (
         f'<img src="data:image/jpeg;base64,{logo_b64}" alt="MJG Trading" '
@@ -406,8 +407,9 @@ def build_email(products, orders_tw, orders_lw, abandoned, now_est):
         if logo_b64 else '<span style="font-size:20px;font-weight:700;color:#0f172a">MJG Trading</span>'
     )
 
-    week_end = now_est.strftime("%B %d, %Y")
-    week_start_label = (now_est - timedelta(days=6)).strftime("%B %d")
+    # period_end is the exclusive local-midnight boundary, so the last included day is period_end - 1 day
+    week_end = (period_end - timedelta(days=1)).strftime("%B %d, %Y")
+    week_start_label = period_start.strftime("%B %d")
     brands = build_brand_data(products, orders_tw, orders_lw)
     top_products = build_top_products(products, orders_tw)
     summary = executive_summary(orders_tw, orders_lw)
@@ -617,12 +619,14 @@ def build_email(products, orders_tw, orders_lw, abandoned, now_est):
 def main():
     print("Starting MJG Trading weekly brand report...")
 
-    now_utc = datetime.now(timezone.utc)
-    now_est = now_utc.astimezone(EST)
+    now_local = datetime.now(timezone.utc).astimezone(NY_TZ)
+    today_local_midnight = now_local.replace(hour=0, minute=0, second=0, microsecond=0)
 
-    week_end = now_utc
-    week_start = now_utc - timedelta(days=7)
-    prev_week_start = now_utc - timedelta(days=14)
+    # Full calendar weeks in the shop's own timezone (America/New_York), ending
+    # at today's local midnight — matches how Shopify buckets "last 7 days".
+    week_end = today_local_midnight
+    week_start = week_end - timedelta(days=7)
+    prev_week_start = week_end - timedelta(days=14)
 
     client = ShopifyClient()
 
@@ -642,9 +646,9 @@ def main():
     abandoned = client.get_abandoned_checkouts_in_range(week_start, week_end)
     print(f"  {len(abandoned)} incomplete abandoned checkouts")
 
-    html = build_email(products, orders_tw, orders_lw, abandoned, now_est)
+    html = build_email(products, orders_tw, orders_lw, abandoned, week_start, week_end)
 
-    week_str = now_est.strftime("Week of %B %d, %Y")
+    week_str = (week_end - timedelta(days=1)).strftime("Week of %B %d, %Y")
     subject = f"MJG Trading — Weekly Brand Report · {week_str}"
     send_email(subject, html)
     print("Done.")

@@ -9,12 +9,13 @@ import sys
 import calendar
 from datetime import datetime, timezone, timedelta, date
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 sys.path.insert(0, str(Path(__file__).parent))
 from shopify_client import ShopifyClient
 from email_utils import send_email
 
-EDT = timezone(timedelta(hours=-4))
+NY_TZ = ZoneInfo("America/New_York")
 LOGO_PATH = Path(__file__).parent.parent / "assets" / "logo.jpg"
 
 VENDOR_EXCLUDE = {"OPEN BOX", "DROPSHIP", "SIGNATURE", "PRIMARY"}
@@ -37,7 +38,7 @@ STATUS_STYLE = {
 # ── Helpers ───────────────────────────────────────────────────────────────────
 
 def is_first_business_day():
-    today = date.today()
+    today = datetime.now(timezone.utc).astimezone(NY_TZ).date()
     if today.weekday() >= 5:
         return False
     d = date(today.year, today.month, 1)
@@ -49,11 +50,13 @@ def is_first_business_day():
 
 
 def month_range(year, month):
-    start = datetime(year, month, 1, tzinfo=timezone.utc)
+    # Calendar month boundaries in the shop's own timezone, not UTC — otherwise
+    # the last few hours of a month (NY time) land in the wrong month's report.
+    start = datetime(year, month, 1, tzinfo=NY_TZ)
     if month == 12:
-        end = datetime(year + 1, 1, 1, tzinfo=timezone.utc)
+        end = datetime(year + 1, 1, 1, tzinfo=NY_TZ)
     else:
-        end = datetime(year, month + 1, 1, tzinfo=timezone.utc)
+        end = datetime(year, month + 1, 1, tzinfo=NY_TZ)
     return start, end
 
 
@@ -102,8 +105,8 @@ def tally_orders(orders):
             if not item.get("product"):
                 continue
             pid = item["product"]["legacyResourceId"]
-            qty = item["quantity"]
-            price = float(item["originalUnitPriceSet"]["shopMoney"]["amount"]) * qty
+            qty = item["currentQuantity"]
+            price = float(item["discountedUnitPriceSet"]["shopMoney"]["amount"]) * qty
             units[pid] = units.get(pid, 0) + qty
             revenue[pid] = revenue.get(pid, 0.0) + price
     return units, revenue
@@ -111,10 +114,10 @@ def tally_orders(orders):
 
 def executive_summary(orders_lm, orders_pm):
     def agg(orders):
-        rev = sum(float(o["totalPriceSet"]["shopMoney"]["amount"]) for o in orders)
+        rev = sum(float(o["currentTotalPriceSet"]["shopMoney"]["amount"]) for o in orders)
         cnt = len(orders)
         units = sum(
-            item["quantity"]
+            item["currentQuantity"]
             for o in orders
             for item in o["lineItems"]["nodes"]
         )
@@ -137,7 +140,9 @@ def executive_summary(orders_lm, orders_pm):
 def week_by_week(orders_lm, orders_pm, lm_year, lm_month, pm_year, pm_month):
     """Split each month into 5 week buckets (days 1-7, 8-14, 15-21, 22-28, 29+)."""
     def bucket(order, year, month):
-        dt = datetime.fromisoformat(order["createdAt"].replace("Z", "+00:00"))
+        # Convert to shop-local time before reading the day-of-month, otherwise
+        # orders near midnight get bucketed against the wrong day/week.
+        dt = datetime.fromisoformat(order["createdAt"].replace("Z", "+00:00")).astimezone(NY_TZ)
         day = dt.day
         if day <= 7:   return 0
         if day <= 14:  return 1
@@ -149,7 +154,7 @@ def week_by_week(orders_lm, orders_pm, lm_year, lm_month, pm_year, pm_month):
         buckets = [{"rev": 0.0, "cnt": 0} for _ in range(5)]
         for o in orders:
             b = bucket(o, year, month)
-            buckets[b]["rev"] += float(o["totalPriceSet"]["shopMoney"]["amount"])
+            buckets[b]["rev"] += float(o["currentTotalPriceSet"]["shopMoney"]["amount"])
             buckets[b]["cnt"] += 1
         return buckets
 
@@ -253,8 +258,8 @@ def build_top_products(products, orders_lm):
                 continue
             if pid not in sold:
                 sold[pid] = {**product_meta[pid], "legacy_id": pid, "units": 0, "revenue": 0.0}
-            sold[pid]["units"] += item["quantity"]
-            sold[pid]["revenue"] += float(item["originalUnitPriceSet"]["shopMoney"]["amount"]) * item["quantity"]
+            sold[pid]["units"] += item["currentQuantity"]
+            sold[pid]["revenue"] += float(item["discountedUnitPriceSet"]["shopMoney"]["amount"]) * item["currentQuantity"]
 
     return sorted(sold.values(), key=lambda x: -x["units"])[:20]
 
@@ -659,7 +664,7 @@ def main():
         return
 
     now_utc = datetime.now(timezone.utc)
-    today   = now_utc.astimezone(EDT).date()
+    today   = now_utc.astimezone(NY_TZ).date()
 
     lm_year  = today.year if today.month > 1 else today.year - 1
     lm_month = today.month - 1 if today.month > 1 else 12
