@@ -5,6 +5,7 @@ Runs on the first business day of each month at 8 AM EDT via GitHub Actions.
 """
 
 import base64
+import os
 import sys
 import calendar
 from datetime import datetime, timezone, timedelta, date
@@ -659,7 +660,8 @@ def build_email(products, orders_lm, orders_pm, abandoned, lm_year, lm_month, da
 # ── Main ──────────────────────────────────────────────────────────────────────
 
 def main():
-    if not is_first_business_day():
+    force_run = os.environ.get("FORCE_RUN", "").lower() == "true"
+    if not force_run and not is_first_business_day():
         print("Not the first business day of the month — skipping.")
         return
 

@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "0 12 1-7 * 1-5"   # 8 AM EDT, days 1–7 of the month, Mon–Fri only
   workflow_dispatch:              # Run manually from GitHub for testing
+    inputs:
+      force_run:
+        description: "Run even if today isn't the first business day of the month"
+        type: boolean
+        default: false
 
 jobs:
   report:
@@ -26,4 +31,5 @@ jobs:
           OUTLOOK_EMAIL: ${{ secrets.OUTLOOK_EMAIL }}
           SENDGRID_API_KEY: ${{ secrets.SENDGRID_API_KEY }}
           REPORT_EMAIL: ${{ secrets.REPORT_EMAIL }}
+          FORCE_RUN: ${{ inputs.force_run }}
         run: python reports/monthly_report.py
