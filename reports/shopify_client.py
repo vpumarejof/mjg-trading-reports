@@ -1,6 +1,7 @@
 import os
 import time
 import requests
+from datetime import timezone
 
 
 class ShopifyClient:
@@ -108,9 +109,19 @@ class ShopifyClient:
         # regardless of payment status (pending/authorized net-terms orders included),
         # they just exclude cancelled orders — which we filter client-side below,
         # since cancelling doesn't guarantee a financial_status change.
+        #
+        # Two things matter here or the date boundary silently breaks:
+        # 1. Values must be quoted — the colons in "HH:MM:SS" collide with
+        #    Shopify's own field:value search syntax and corrupt unquoted filters
+        #    (the upper bound gets ignored entirely, matching orders far outside the range).
+        # 2. Values must be converted to true UTC before formatting — strftime
+        #    prints an aware datetime's own local wall-clock time regardless of
+        #    tzinfo, so a naive "+Z" suffix on a non-UTC datetime mislabels it.
+        start_utc = start_date.astimezone(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
+        end_utc = end_date.astimezone(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
         filter_q = (
-            f"created_at:>={start_date.strftime('%Y-%m-%dT%H:%M:%SZ')} "
-            f"created_at:<{end_date.strftime('%Y-%m-%dT%H:%M:%SZ')} "
+            f'created_at:>="{start_utc}" '
+            f'created_at:<"{end_utc}" '
             f"status:any"
         )
         orders = []
@@ -146,9 +157,11 @@ class ShopifyClient:
           }
         }
         """
+        start_utc = start_date.astimezone(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
+        end_utc = end_date.astimezone(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
         filter_q = (
-            f"created_at:>={start_date.strftime('%Y-%m-%dT%H:%M:%SZ')} "
-            f"created_at:<{end_date.strftime('%Y-%m-%dT%H:%M:%SZ')}"
+            f'created_at:>="{start_utc}" '
+            f'created_at:<"{end_utc}"'
         )
         checkouts = []
         cursor = None
