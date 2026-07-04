@@ -29978,7 +29978,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-04T09:28:58.718519+00:00",
+    "updated_at": "2026-07-04T14:47:22.579476+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
@@ -40329,6 +40329,11 @@
         "product_title": "MOS-616/F-0086-54",
         "sku": "MOSCHINO-MOS-616/F-0086-54"
       },
+      "gid://shopify/ProductVariant/48174871642366": {
+        "qty": 7,
+        "product_title": "MOS168/S-C9K/HA",
+        "sku": "MOSCHINO-MOS168/S-C9K/HA"
+      },
       "gid://shopify/ProductVariant/46646965502206": {
         "qty": 5,
         "product_title": "MOS-163/S-035J/U1",
@@ -40344,15 +40349,15 @@
         "product_title": "MOS145/S-0B3V/IR",
         "sku": "MOSCHINO-MOS145/S-0B3V/IR"
       },
-      "gid://shopify/ProductVariant/48174871642366": {
-        "qty": 7,
-        "product_title": "MOS168/S-C9K/HA",
-        "sku": "MOSCHINO-MOS168/S-C9K/HA"
-      },
       "gid://shopify/ProductVariant/48121216041214": {
         "qty": 6,
         "product_title": "MOS166/S-2W8/IR",
         "sku": "MOSCHINO-MOS166/S-2W8/IR"
+      },
+      "gid://shopify/ProductVariant/48011981357310": {
+        "qty": 1,
+        "product_title": "MOS162/S-09Q/HA",
+        "sku": "MOSCHINO-MOS162/S-09Q/HA"
       },
       "gid://shopify/ProductVariant/47577495240958": {
         "qty": 5,
@@ -40363,11 +40368,6 @@
         "qty": 5,
         "product_title": "MOS615/G-PEF-56",
         "sku": "MOSCHINO-MOS615/G-PEF-56"
-      },
-      "gid://shopify/ProductVariant/48011981357310": {
-        "qty": 1,
-        "product_title": "MOS162/S-09Q/HA",
-        "sku": "MOSCHINO-MOS162/S-09Q/HA"
       },
       "gid://shopify/ProductVariant/47010186395902": {
         "qty": 15,
@@ -42904,6 +42904,11 @@
         "product_title": "6877-0J5G-52",
         "sku": "PC-6877-0J5G-52"
       },
+      "gid://shopify/ProductVariant/47010187935998": {
+        "qty": 4,
+        "product_title": "6240-0086-57",
+        "sku": "PC-6240-0086-57"
+      },
       "gid://shopify/ProductVariant/46616849809662": {
         "qty": 3,
         "product_title": "6869-0R80-56",
@@ -42913,11 +42918,6 @@
         "qty": 4,
         "product_title": "6162-05MI-55",
         "sku": "PC-6162-05MI-55"
-      },
-      "gid://shopify/ProductVariant/47010187935998": {
-        "qty": 4,
-        "product_title": "6240-0086-57",
-        "sku": "PC-6240-0086-57"
       },
       "gid://shopify/ProductVariant/47010188296446": {
         "qty": 2,
@@ -45914,6 +45914,11 @@
         "product_title": "KL6134-060-52",
         "sku": "KL-KL6134-060-52"
       },
+      "gid://shopify/ProductVariant/47609149751550": {
+        "qty": 5,
+        "product_title": "KL351-400-50",
+        "sku": "KL-KL351-400-50"
+      },
       "gid://shopify/ProductVariant/46674956943614": {
         "qty": 17,
         "product_title": "KL6138-200-53",
@@ -45938,11 +45943,6 @@
         "qty": 5,
         "product_title": "KL6151-242-53",
         "sku": "KL-KL6151-242-53"
-      },
-      "gid://shopify/ProductVariant/47609149751550": {
-        "qty": 5,
-        "product_title": "KL351-400-50",
-        "sku": "KL-KL351-400-50"
       },
       "gid://shopify/ProductVariant/46674956452094": {
         "qty": 10,
@@ -50839,6 +50839,11 @@
         "product_title": "LO2728-001-53",
         "sku": "LONGCHAMP-LO2728-001-53"
       },
+      "gid://shopify/ProductVariant/48094646862078": {
+        "qty": 2,
+        "product_title": "LO2716-001-54",
+        "sku": "LONGCHAMP-LO2716-001-54"
+      },
       "gid://shopify/ProductVariant/48094647910654": {
         "qty": 4,
         "product_title": "LO2766-690-53",
@@ -50859,15 +50864,20 @@
         "product_title": "LO2728-242-53",
         "sku": "LONGCHAMP-LO2728-242-53"
       },
-      "gid://shopify/ProductVariant/48094646862078": {
-        "qty": 2,
-        "product_title": "LO2716-001-54",
-        "sku": "LONGCHAMP-LO2716-001-54"
+      "gid://shopify/ProductVariant/48094647681278": {
+        "qty": 3,
+        "product_title": "LO2752-011-49",
+        "sku": "LONGCHAMP-LO2752-011-49"
       },
       "gid://shopify/ProductVariant/48094646927614": {
         "qty": 4,
         "product_title": "LO2727-037-55",
         "sku": "LONGCHAMP-LO2727-037-55"
+      },
+      "gid://shopify/ProductVariant/48094646894846": {
+        "qty": 4,
+        "product_title": "LO2718-001-54",
+        "sku": "LONGCHAMP-LO2718-001-54"
       },
       "gid://shopify/ProductVariant/47609153159422": {
         "qty": 8,
@@ -50884,20 +50894,10 @@
         "product_title": "LO2766-001-53",
         "sku": "LONGCHAMP-LO2766-001-53"
       },
-      "gid://shopify/ProductVariant/48094647681278": {
-        "qty": 3,
-        "product_title": "LO2752-011-49",
-        "sku": "LONGCHAMP-LO2752-011-49"
-      },
       "gid://shopify/ProductVariant/48094646960382": {
         "qty": 5,
         "product_title": "LO2727-238-55",
         "sku": "LONGCHAMP-LO2727-238-55"
-      },
-      "gid://shopify/ProductVariant/48094646894846": {
-        "qty": 4,
-        "product_title": "LO2718-001-54",
-        "sku": "LONGCHAMP-LO2718-001-54"
       },
       "gid://shopify/ProductVariant/47633327685886": {
         "qty": 1,
@@ -51074,15 +51074,15 @@
         "product_title": "4602-DNAVY-54",
         "sku": "MODO-4602-DNAVY-54"
       },
-      "gid://shopify/ProductVariant/48094433018110": {
-        "qty": 13,
-        "product_title": "SUPERSTAR3-NVYGR",
-        "sku": "EJ-SUPERSTAR3-NVYGR"
-      },
       "gid://shopify/ProductVariant/48094432985342": {
         "qty": 13,
         "product_title": "SUPERSTAR2-RTORT",
         "sku": "EJ-SUPERSTAR2-RTORT"
+      },
+      "gid://shopify/ProductVariant/48094433018110": {
+        "qty": 13,
+        "product_title": "SUPERSTAR3-NVYGR",
+        "sku": "EJ-SUPERSTAR3-NVYGR"
       },
       "gid://shopify/ProductVariant/48094433673470": {
         "qty": 24,
