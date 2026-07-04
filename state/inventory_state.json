@@ -29978,13 +29978,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-03T20:21:18.768132+00:00",
+    "updated_at": "2026-07-04T00:16:40.061415+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 3113,
+        "total_qty": 3112,
         "sku_count": 247,
         "product_count": 247
       },
@@ -30112,9 +30112,9 @@
         "title": "NIKE",
         "handle": "nike",
         "legacy_id": "391775125758",
-        "total_qty": 303,
-        "sku_count": 31,
-        "product_count": 31
+        "total_qty": 302,
+        "sku_count": 30,
+        "product_count": 30
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -30184,7 +30184,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 3394,
+        "total_qty": 3393,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30432,7 +30432,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 3151,
+        "total_qty": 3150,
         "sku_count": 248,
         "product_count": 248
       },
@@ -30456,9 +30456,9 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2366,
-        "sku_count": 242,
-        "product_count": 242
+        "total_qty": 2365,
+        "sku_count": 241,
+        "product_count": 241
       },
       "gid://shopify/Collection/410150142206": {
         "title": "Men's Eyeglasses",
@@ -30800,7 +30800,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 2407,
+        "total_qty": 2406,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30984,7 +30984,7 @@
         "title": "CELINE",
         "handle": "celine",
         "legacy_id": "483191193854",
-        "total_qty": 22,
+        "total_qty": 21,
         "sku_count": 8,
         "product_count": 8
       },
@@ -30992,7 +30992,7 @@
         "title": "TIFFANY & CO",
         "handle": "tiffany-co",
         "legacy_id": "483397370110",
-        "total_qty": 110,
+        "total_qty": 109,
         "sku_count": 30,
         "product_count": 30
       },
@@ -31905,7 +31905,7 @@
         "sku": "CELINE-CL40310U-01A"
       },
       "gid://shopify/ProductVariant/48336358080766": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "CL40319F 5201Y",
         "sku": "CELINE-CL40319F-01Y"
       },
@@ -35363,11 +35363,6 @@
         "qty": 4,
         "product_title": "LUCENT FLASH EV24050",
         "sku": "NIKE-LUCENT-FLASH-EV24050-891"
-      },
-      "gid://shopify/ProductVariant/46811460370686": {
-        "qty": 1,
-        "product_title": "LUCENT FLASH EV24050",
-        "sku": "NIKE-LUCENT-FLASH-EV24050-010"
       },
       "gid://shopify/ProductVariant/46811440742654": {
         "qty": 1,
@@ -51135,7 +51130,7 @@
         "sku": "TF-TF4231U-8055S4"
       },
       "gid://shopify/ProductVariant/48223291932926": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "TF4253-80559S",
         "sku": "TF-TF4253-80559S"
       },
