@@ -29978,7 +29978,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-05T20:06:43.306040+00:00",
+    "updated_at": "2026-07-05T21:18:01.769442+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
@@ -30016,9 +30016,9 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1537,
-        "sku_count": 85,
-        "product_count": 85
+        "total_qty": 1535,
+        "sku_count": 84,
+        "product_count": 84
       },
       "gid://shopify/Collection/391773880574": {
         "title": "COACH",
@@ -30256,7 +30256,7 @@
         "title": "CAROLINA HERRERA",
         "handle": "carolina-herrera",
         "legacy_id": "395943936254",
-        "total_qty": 170,
+        "total_qty": 169,
         "sku_count": 18,
         "product_count": 18
       },
@@ -30424,7 +30424,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 6222,
+        "total_qty": 6221,
         "sku_count": 249,
         "product_count": 249
       },
@@ -30432,7 +30432,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 3127,
+        "total_qty": 3129,
         "sku_count": 248,
         "product_count": 248
       },
@@ -30472,7 +30472,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 6222,
+        "total_qty": 6221,
         "sku_count": 249,
         "product_count": 249
       },
@@ -30640,9 +30640,9 @@
         "title": "OPEN BOX",
         "handle": "shelf-pulls",
         "legacy_id": "463407481086",
-        "total_qty": 104,
-        "sku_count": 46,
-        "product_count": 46
+        "total_qty": 103,
+        "sku_count": 45,
+        "product_count": 45
       },
       "gid://shopify/Collection/463674867966": {
         "title": "Open Box",
@@ -33830,7 +33830,7 @@
         "sku": "CARRERA-335-AOZ-50"
       },
       "gid://shopify/ProductVariant/48121211715838": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "3039-I46-54",
         "sku": "CARRERA-3039-I46-54"
       },
@@ -33868,11 +33868,6 @@
         "qty": 1,
         "product_title": "309-PJP-57",
         "sku": "CARRERA-309-PJP-57"
-      },
-      "gid://shopify/ProductVariant/48094136795390": {
-        "qty": 1,
-        "product_title": "2010T-V81-51",
-        "sku": "CARRERA-2010T-V81-51"
       },
       "gid://shopify/ProductVariant/48094136697086": {
         "qty": 2,
@@ -40600,7 +40595,7 @@
         "sku": "CH-HER-0210-O63-52"
       },
       "gid://shopify/ProductVariant/47845513789694": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "HER-0210-WR7-52",
         "sku": "CH-HER-0210-WR7-52"
       },
@@ -43559,11 +43554,6 @@
         "product_title": "JENNA-J-SUN-COL-D",
         "sku": "AW-JENNA-J.-D"
       },
-      "gid://shopify/ProductVariant/48504823546110": {
-        "qty": 1,
-        "product_title": "KL6086S-001_D",
-        "sku": "KL-KL6086S-001_D"
-      },
       "gid://shopify/ProductVariant/47180586254590": {
         "qty": 15,
         "product_title": "KL6145S-020",
@@ -43758,6 +43748,11 @@
         "qty": 7,
         "product_title": "REVERENCE-SUN-COL-B",
         "sku": "AW-REVERENCE-B"
+      },
+      "gid://shopify/ProductVariant/47655190692094": {
+        "qty": 3,
+        "product_title": "RISING-HIGH-SUN-COL-C",
+        "sku": "AW-RISING-HIGH-C"
       },
       "gid://shopify/ProductVariant/47432867348734": {
         "qty": 6,
