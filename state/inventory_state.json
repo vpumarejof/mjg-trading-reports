@@ -29978,7 +29978,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-05T16:38:28.312271+00:00",
+    "updated_at": "2026-07-05T17:43:27.696318+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
@@ -30120,7 +30120,7 @@
         "title": "PRADA",
         "handle": "prada",
         "legacy_id": "391775289598",
-        "total_qty": 82,
+        "total_qty": 81,
         "sku_count": 24,
         "product_count": 24
       },
@@ -30184,7 +30184,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 3334,
+        "total_qty": 3335,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30456,7 +30456,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2352,
+        "total_qty": 2351,
         "sku_count": 236,
         "product_count": 236
       },
@@ -30880,7 +30880,7 @@
         "title": "JOE",
         "handle": "joe",
         "legacy_id": "474673381630",
-        "total_qty": 26,
+        "total_qty": 24,
         "sku_count": 5,
         "product_count": 5
       },
@@ -35505,7 +35505,7 @@
         "sku": "PRADA-PS-07YS-DG010A"
       },
       "gid://shopify/ProductVariant/48392230109438": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "PS-07YS-DG006F",
         "sku": "PRADA-PS-07YS-DG006F"
       },
@@ -50630,12 +50630,12 @@
         "sku": "JOE-JOE4110-036-53"
       },
       "gid://shopify/ProductVariant/47504336421118": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "JOE4049-033-51",
         "sku": "JOE-JOE4049-033-51"
       },
       "gid://shopify/ProductVariant/47504333144318": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "JOE4082-047-56",
         "sku": "JOE-JOE4082-047-56"
       },
