@@ -29978,13 +29978,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-06T01:22:06.521303+00:00",
+    "updated_at": "2026-07-06T05:48:10.651252+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 3089,
+        "total_qty": 3088,
         "sku_count": 247,
         "product_count": 247
       },
@@ -30080,7 +30080,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 765,
+        "total_qty": 762,
         "sku_count": 136,
         "product_count": 136
       },
@@ -30152,7 +30152,7 @@
         "title": "VERSACE",
         "handle": "versace",
         "legacy_id": "391776010494",
-        "total_qty": 70,
+        "total_qty": 69,
         "sku_count": 8,
         "product_count": 8
       },
@@ -30160,7 +30160,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 15478,
+        "total_qty": 15477,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30184,7 +30184,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 3333,
+        "total_qty": 3332,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30208,7 +30208,7 @@
         "title": "LACOSTE",
         "handle": "lacoste",
         "legacy_id": "393068577022",
-        "total_qty": 224,
+        "total_qty": 223,
         "sku_count": 28,
         "product_count": 28
       },
@@ -30240,7 +30240,7 @@
         "title": "MOSCHINO",
         "handle": "moschino",
         "legacy_id": "395943837950",
-        "total_qty": 247,
+        "total_qty": 246,
         "sku_count": 29,
         "product_count": 29
       },
@@ -30432,7 +30432,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 3128,
+        "total_qty": 3124,
         "sku_count": 248,
         "product_count": 248
       },
@@ -30456,7 +30456,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2351,
+        "total_qty": 2350,
         "sku_count": 236,
         "product_count": 236
       },
@@ -30464,7 +30464,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 14348,
+        "total_qty": 14347,
         "sku_count": 226,
         "product_count": 226
       },
@@ -30800,7 +30800,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 2401,
+        "total_qty": 2400,
         "sku_count": 250,
         "product_count": 250
       },
@@ -31095,7 +31095,7 @@
         "sku": "VERSACE-0VE4450-314/87"
       },
       "gid://shopify/ProductVariant/47095928914174": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "0VE4464-54578755",
         "sku": "VERSACE-0VE4464-54578755"
       },
@@ -34550,7 +34550,7 @@
         "sku": "KS-TAMMY/S-Z9K/HA"
       },
       "gid://shopify/ProductVariant/47432864628990": {
-        "qty": 4,
+        "qty": 1,
         "product_title": "MARLAH/S-086/HA",
         "sku": "KS-MARLAH/S-086/HA"
       },
@@ -38990,7 +38990,7 @@
         "sku": "MOSCHINO-MOS171/S-4WC/9O"
       },
       "gid://shopify/ProductVariant/48336089841918": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "MOS170/S-4WC/9O",
         "sku": "MOSCHINO-MOS170/S-4WC/9O"
       },
@@ -39920,7 +39920,7 @@
         "sku": "LACOSTE-L2966-275-50"
       },
       "gid://shopify/ProductVariant/47180588810494": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "L2972-601-54",
         "sku": "LACOSTE-L2972-601-54"
       },
