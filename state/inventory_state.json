@@ -29978,13 +29978,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-06T05:48:10.651252+00:00",
+    "updated_at": "2026-07-06T09:58:28.009711+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 3088,
+        "total_qty": 3087,
         "sku_count": 247,
         "product_count": 247
       },
@@ -30232,7 +30232,7 @@
         "title": "COLUMBIA",
         "handle": "columbia",
         "legacy_id": "395943805182",
-        "total_qty": 237,
+        "total_qty": 236,
         "sku_count": 43,
         "product_count": 43
       },
@@ -30296,7 +30296,7 @@
         "title": "CAZAL",
         "handle": "cazal",
         "legacy_id": "400594534654",
-        "total_qty": 104,
+        "total_qty": 103,
         "sku_count": 13,
         "product_count": 13
       },
@@ -30424,7 +30424,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 6221,
+        "total_qty": 6220,
         "sku_count": 249,
         "product_count": 249
       },
@@ -30456,7 +30456,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2350,
+        "total_qty": 2349,
         "sku_count": 236,
         "product_count": 236
       },
@@ -30472,7 +30472,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 6221,
+        "total_qty": 6220,
         "sku_count": 249,
         "product_count": 249
       },
@@ -30544,7 +30544,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 25846,
+        "total_qty": 25845,
         "sku_count": 39,
         "product_count": 39
       },
@@ -31610,7 +31610,7 @@
         "sku": "COLUMBIA-C569S-316"
       },
       "gid://shopify/ProductVariant/48094646272254": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "C571S-004",
         "sku": "COLUMBIA-C571S-004"
       },
@@ -41260,7 +41260,7 @@
         "sku": "CAZAL-4294-C003-53"
       },
       "gid://shopify/ProductVariant/45858112274686": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "4298-C002-55",
         "sku": "CAZAL-4298-C002-55"
       },
@@ -45920,7 +45920,7 @@
         "sku": "PP-VPP016M-0700-54"
       },
       "gid://shopify/ProductVariant/46059134714110": {
-        "qty": 9724,
+        "qty": 9723,
         "product_title": "DropShip",
         "sku": "DropShip"
       },
