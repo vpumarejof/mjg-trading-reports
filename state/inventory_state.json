@@ -29978,7 +29978,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-07T18:17:53.786800+00:00",
+    "updated_at": "2026-07-07T20:21:44.053310+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
@@ -29992,7 +29992,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 15887,
+        "total_qty": 15894,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30072,7 +30072,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 758,
+        "total_qty": 757,
         "sku_count": 136,
         "product_count": 136
       },
@@ -30152,7 +30152,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 15472,
+        "total_qty": 15444,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30424,7 +30424,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 3133,
+        "total_qty": 3131,
         "sku_count": 248,
         "product_count": 248
       },
@@ -30440,7 +30440,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 9625,
+        "total_qty": 9633,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30456,7 +30456,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 14343,
+        "total_qty": 14196,
         "sku_count": 226,
         "product_count": 226
       },
@@ -30560,7 +30560,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 8910,
+        "total_qty": 8920,
         "sku_count": 223,
         "product_count": 223
       },
@@ -30600,7 +30600,7 @@
         "title": "PRIMARY",
         "handle": "primary",
         "legacy_id": "460628721918",
-        "total_qty": 37589,
+        "total_qty": 37342,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30608,9 +30608,9 @@
         "title": "Primary Titanium",
         "handle": "primary-titanium",
         "legacy_id": "461664780542",
-        "total_qty": 980,
-        "sku_count": 10,
-        "product_count": 10
+        "total_qty": 983,
+        "sku_count": 12,
+        "product_count": 12
       },
       "gid://shopify/Collection/462599520510": {
         "title": "Plastic Metal",
@@ -30648,7 +30648,7 @@
         "title": "Tariff Busters",
         "handle": "tariff-busters",
         "legacy_id": "463834087678",
-        "total_qty": 38942,
+        "total_qty": 38866,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30704,7 +30704,7 @@
         "title": "LIGHTEC-MOREL",
         "handle": "lightec-morel",
         "legacy_id": "466217926910",
-        "total_qty": 2382,
+        "total_qty": 2379,
         "sku_count": 103,
         "product_count": 103
       },
@@ -30904,7 +30904,7 @@
         "title": "LONGCHAMP",
         "handle": "longchamp",
         "legacy_id": "476032958718",
-        "total_qty": 230,
+        "total_qty": 229,
         "sku_count": 39,
         "product_count": 39
       },
@@ -32486,6 +32486,11 @@
         "product_title": "1041-TORTOISE-54",
         "sku": "Primary-1041-Tortoise-54"
       },
+      "gid://shopify/ProductVariant/46371975463166": {
+        "qty": 10,
+        "product_title": "1042-BROWN-53",
+        "sku": "Primary-1042-Brown-53"
+      },
       "gid://shopify/ProductVariant/46371975561470": {
         "qty": 107,
         "product_title": "1045-BLUE-46",
@@ -33486,11 +33491,6 @@
         "product_title": "20074K-PD08-50",
         "sku": "KOALI-MOREL-20074K-PD08-50"
       },
-      "gid://shopify/ProductVariant/47558954516734": {
-        "qty": 3,
-        "product_title": "20077K-MV05-50",
-        "sku": "KOALI-MOREL-20077K-MV05-50"
-      },
       "gid://shopify/ProductVariant/46243449274622": {
         "qty": 2,
         "product_title": "3425-19-1.50",
@@ -34467,7 +34467,7 @@
         "sku": "KS-HAILEY/G/S-0DOH/9O"
       },
       "gid://shopify/ProductVariant/47796734361854": {
-        "qty": 11,
+        "qty": 10,
         "product_title": "GOLDA/G/S-807/WJ",
         "sku": "KS-GOLDA/G/S-807/WJ"
       },
@@ -42851,6 +42851,11 @@
         "product_title": "DAREDEVIL07KD4U",
         "sku": "SMITHDAREDEVIL07KD4U"
       },
+      "gid://shopify/ProductVariant/47558954516734": {
+        "qty": 3,
+        "product_title": "20077K-MV05-50",
+        "sku": "KOALI-MOREL-20077K-MV05-50"
+      },
       "gid://shopify/ProductVariant/47558954549502": {
         "qty": 31,
         "product_title": "20078K-NP07-54",
@@ -43602,7 +43607,7 @@
         "sku": "LONGCHAMP-LO727S-239"
       },
       "gid://shopify/ProductVariant/48175301591294": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "LO729S-525",
         "sku": "LONGCHAMP-LO729S-525"
       },
@@ -46136,11 +46141,6 @@
         "product_title": "104-0K2L-55",
         "sku": "DENIM-104-0K2L-55"
       },
-      "gid://shopify/ProductVariant/46371975463166": {
-        "qty": 0,
-        "product_title": "1042-BROWN-53",
-        "sku": "Primary-1042-Brown-53"
-      },
       "gid://shopify/ProductVariant/47173787287806": {
         "qty": 0,
         "product_title": "1045/S-0003/WJ",
@@ -47476,6 +47476,11 @@
         "product_title": "PN503GRN-52",
         "sku": "Primary-PN503GRN-52"
       },
+      "gid://shopify/ProductVariant/46372086448382": {
+        "qty": 1,
+        "product_title": "PN505-BLUE-53",
+        "sku": "Primary-Pn505-Blue-53"
+      },
       "gid://shopify/ProductVariant/46372086612222": {
         "qty": 25,
         "product_title": "PN505-GRAY-53",
@@ -47551,30 +47556,20 @@
         "product_title": "PN514-BLUE-56",
         "sku": "Primary-Pn514-Blue-56"
       },
+      "gid://shopify/ProductVariant/46372092707070": {
+        "qty": 1,
+        "product_title": "PN516-TORTOISE-54",
+        "sku": "Primary-Pn516-Tortoise-54"
+      },
+      "gid://shopify/ProductVariant/46371952197886": {
+        "qty": 2,
+        "product_title": "PT102-BROWN-54",
+        "sku": "PRIMARY-Pt102-Brown-54"
+      },
       "gid://shopify/ProductVariant/46371959177470": {
         "qty": 41,
         "product_title": "PT104-MATTEBROWN-53",
         "sku": "PRIMARY-Pt104-MatteBrown-53"
-      },
-      "gid://shopify/ProductVariant/46371959243006": {
-        "qty": 4,
-        "product_title": "PT106-BLACK-52",
-        "sku": "PRIMARY-Pt106-Black-52"
-      },
-      "gid://shopify/ProductVariant/46371959308542": {
-        "qty": 15,
-        "product_title": "PT106-GUNMETAL-52",
-        "sku": "PRIMARY-Pt106-Gunmetal-52"
-      },
-      "gid://shopify/ProductVariant/46371963011326": {
-        "qty": 166,
-        "product_title": "PT109-GUNMETAL-52",
-        "sku": "PRIMARY-Pt109-Gunmetal-52"
-      },
-      "gid://shopify/ProductVariant/46371963044094": {
-        "qty": 76,
-        "product_title": "PT109-NAVY-52",
-        "sku": "PRIMARY-Pt109-Navy-52"
       },
       "gid://shopify/ProductVariant/46371966222590": {
         "qty": 30,
@@ -47586,6 +47581,16 @@
         "product_title": "PT110-SATINBRONZE-50",
         "sku": "PRIMARY-Pt110-SatinBronze-50"
       },
+      "gid://shopify/ProductVariant/46371962454270": {
+        "qty": 1,
+        "product_title": "PT107-BROWN-56",
+        "sku": "PRIMARY-Pt107-Brown-56"
+      },
+      "gid://shopify/ProductVariant/46371963044094": {
+        "qty": 76,
+        "product_title": "PT109-NAVY-52",
+        "sku": "PRIMARY-Pt109-Navy-52"
+      },
       "gid://shopify/ProductVariant/46371965894910": {
         "qty": 138,
         "product_title": "PT110-BLACK-50",
@@ -47596,10 +47601,25 @@
         "product_title": "PT110-ROSEGOLD-50",
         "sku": "PRIMARY-Pt110-RoseGold-50"
       },
+      "gid://shopify/ProductVariant/46371963011326": {
+        "qty": 166,
+        "product_title": "PT109-GUNMETAL-52",
+        "sku": "PRIMARY-Pt109-Gunmetal-52"
+      },
+      "gid://shopify/ProductVariant/46371959243006": {
+        "qty": 4,
+        "product_title": "PT106-BLACK-52",
+        "sku": "PRIMARY-Pt106-Black-52"
+      },
       "gid://shopify/ProductVariant/46371965960446": {
         "qty": 164,
         "product_title": "PT110-GUNMETAL-50",
         "sku": "PRIMARY-Pt110-Gunmetal-50"
+      },
+      "gid://shopify/ProductVariant/46371959308542": {
+        "qty": 15,
+        "product_title": "PT106-GUNMETAL-52",
+        "sku": "PRIMARY-Pt106-Gunmetal-52"
       },
       "gid://shopify/ProductVariant/47783446380798": {
         "qty": 0,
@@ -48231,11 +48251,6 @@
         "product_title": "Pn107Brn-52",
         "sku": "Signature-Pn107Brn-52"
       },
-      "gid://shopify/ProductVariant/46684979724542": {
-        "qty": 86,
-        "product_title": "Pn110-Pink-53",
-        "sku": "Signature-Pn110-Pink-53"
-      },
       "gid://shopify/ProductVariant/46670757134590": {
         "qty": 9,
         "product_title": "CKJ20515-240-52",
@@ -48506,6 +48521,11 @@
         "product_title": "S7002-GreyStripe-54",
         "sku": "Signature-S7002-GreyStripe-54"
       },
+      "gid://shopify/ProductVariant/46684979724542": {
+        "qty": 86,
+        "product_title": "Pn110-Pink-53",
+        "sku": "Signature-Pn110-Pink-53"
+      },
       "gid://shopify/ProductVariant/46684990603518": {
         "qty": 25,
         "product_title": "S7023-BrownFade-51",
@@ -48767,7 +48787,7 @@
         "sku": "LIGHTEC-MOREL-30044L-NG01-50"
       },
       "gid://shopify/ProductVariant/47558956318974": {
-        "qty": 118,
+        "qty": 115,
         "product_title": "30044L-RD02-50",
         "sku": "LIGHTEC-MOREL-30044L-RD02-50"
       },
