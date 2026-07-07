@@ -29978,13 +29978,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-07T20:21:44.053310+00:00",
+    "updated_at": "2026-07-07T21:50:07.623545+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 3077,
+        "total_qty": 3072,
         "sku_count": 247,
         "product_count": 247
       },
@@ -30128,7 +30128,7 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 831,
+        "total_qty": 828,
         "sku_count": 97,
         "product_count": 97
       },
@@ -30176,7 +30176,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 3306,
+        "total_qty": 3298,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30216,7 +30216,7 @@
         "title": "FOSSIL",
         "handle": "fossil",
         "legacy_id": "395943772414",
-        "total_qty": 19,
+        "total_qty": 18,
         "sku_count": 2,
         "product_count": 2
       },
@@ -30224,9 +30224,9 @@
         "title": "COLUMBIA",
         "handle": "columbia",
         "legacy_id": "395943805182",
-        "total_qty": 235,
-        "sku_count": 43,
-        "product_count": 43
+        "total_qty": 228,
+        "sku_count": 42,
+        "product_count": 42
       },
       "gid://shopify/Collection/395943837950": {
         "title": "MOSCHINO",
@@ -30424,7 +30424,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 3131,
+        "total_qty": 3129,
         "sku_count": 248,
         "product_count": 248
       },
@@ -30432,7 +30432,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2451,
+        "total_qty": 2446,
         "sku_count": 187,
         "product_count": 187
       },
@@ -30448,9 +30448,9 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2320,
-        "sku_count": 232,
-        "product_count": 232
+        "total_qty": 2303,
+        "sku_count": 230,
+        "product_count": 230
       },
       "gid://shopify/Collection/410150142206": {
         "title": "Men's Eyeglasses",
@@ -30632,9 +30632,9 @@
         "title": "OPEN BOX",
         "handle": "shelf-pulls",
         "legacy_id": "463407481086",
-        "total_qty": 102,
-        "sku_count": 45,
-        "product_count": 45
+        "total_qty": 101,
+        "sku_count": 44,
+        "product_count": 44
       },
       "gid://shopify/Collection/463674867966": {
         "title": "Open Box",
@@ -30656,7 +30656,7 @@
         "title": "CALVIN KLEIN JEANS",
         "handle": "calvin-klein-jeans",
         "legacy_id": "464057172222",
-        "total_qty": 523,
+        "total_qty": 521,
         "sku_count": 62,
         "product_count": 62
       },
@@ -30840,7 +30840,7 @@
         "title": "ROXY",
         "handle": "roxy",
         "legacy_id": "474031227134",
-        "total_qty": 73,
+        "total_qty": 72,
         "sku_count": 11,
         "product_count": 11
       },
@@ -30848,7 +30848,7 @@
         "title": "QUIKSILVER",
         "handle": "quiksilver",
         "legacy_id": "474031259902",
-        "total_qty": 227,
+        "total_qty": 221,
         "sku_count": 31,
         "product_count": 31
       },
@@ -30968,7 +30968,7 @@
         "title": "ELTON JOHN",
         "handle": "elton-john",
         "legacy_id": "482187051262",
-        "total_qty": 878,
+        "total_qty": 871,
         "sku_count": 52,
         "product_count": 52
       },
@@ -31477,7 +31477,7 @@
         "sku": "AW-BLISS-K"
       },
       "gid://shopify/ProductVariant/48305153704190": {
-        "qty": 22,
+        "qty": 21,
         "product_title": "BOHEMIAN-LUNGO",
         "sku": "EJ-BOHEMIAN-LUNGO"
       },
@@ -31527,7 +31527,7 @@
         "sku": "KS-BRYNNE/G/S-GF5/9O"
       },
       "gid://shopify/ProductVariant/48094646075646": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "BURR-009",
         "sku": "COLUMBIA-C559SP-009"
       },
@@ -31537,12 +31537,12 @@
         "sku": "CARRERA-C-SPORT-02/S-4CW/IR"
       },
       "gid://shopify/ProductVariant/47730442469630": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "C103SM-003",
         "sku": "COLUMBIA-C103SM-003"
       },
       "gid://shopify/ProductVariant/47730442666238": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "C103SM-204",
         "sku": "COLUMBIA-C103SM-204"
       },
@@ -31566,13 +31566,8 @@
         "product_title": "C556SP-001",
         "sku": "COLUMBIA-C556SP-001"
       },
-      "gid://shopify/ProductVariant/47730443616510": {
-        "qty": 1,
-        "product_title": "C556SP-413",
-        "sku": "COLUMBIA-C556SP-413"
-      },
       "gid://shopify/ProductVariant/47730443649278": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "C565SP-004",
         "sku": "COLUMBIA-C565SP-004"
       },
@@ -31772,12 +31767,12 @@
         "sku": "CKJ-CKJ25209S-718"
       },
       "gid://shopify/ProductVariant/48361936683262": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "CKJ25209S-770",
         "sku": "CKJ-CKJ25209S-770"
       },
       "gid://shopify/ProductVariant/48361936716030": {
-        "qty": 16,
+        "qty": 15,
         "product_title": "CKJ25603S-N-002",
         "sku": "CKJ-CKJ25603S-N-002"
       },
@@ -32240,6 +32235,11 @@
         "qty": 2,
         "product_title": "EXTRUSION-2-1515",
         "sku": "PD-EXTRUSION-2-1515"
+      },
+      "gid://shopify/ProductVariant/47761274700030": {
+        "qty": 3,
+        "product_title": "EXTRUSION-2-5522",
+        "sku": "PD-EXTRUSION-2-5522"
       },
       "gid://shopify/ProductVariant/47095920427262": {
         "qty": 16,
@@ -35652,12 +35652,12 @@
         "sku": "SF-SF1081SCP-001"
       },
       "gid://shopify/ProductVariant/47111134478590": {
-        "qty": 15,
+        "qty": 14,
         "product_title": "SF1106S-600",
         "sku": "SF-SF1106S-600"
       },
       "gid://shopify/ProductVariant/48094648762622": {
-        "qty": 11,
+        "qty": 10,
         "product_title": "SF1111SCP-242",
         "sku": "SF-SF1111SCP-242"
       },
@@ -36052,7 +36052,7 @@
         "sku": "SF-SF957S-001"
       },
       "gid://shopify/ProductVariant/42809985302782": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "SF957S-214",
         "sku": "SALVATOREFERRAGAMOSF957S214"
       },
@@ -38897,7 +38897,7 @@
         "sku": "LEVIS-LV-1022-086-52"
       },
       "gid://shopify/ProductVariant/48349469081854": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "FOS-3152/G/S-0OX/70",
         "sku": "FOSSIL-FOS-3152/G/S-0OX/70"
       },
@@ -39007,22 +39007,22 @@
         "sku": "EJ-TRIO-HRMNY"
       },
       "gid://shopify/ProductVariant/48305154523390": {
-        "qty": 18,
+        "qty": 17,
         "product_title": "SPEAKEASY2-BLKBL",
         "sku": "EJ-SPEAKEASY2-BLKBL"
       },
       "gid://shopify/ProductVariant/48305154457854": {
-        "qty": 18,
+        "qty": 17,
         "product_title": "SPEAKEASY1-BURDY",
         "sku": "EJ-SPEAKEASY1-BURDY"
       },
       "gid://shopify/ProductVariant/48305154425086": {
-        "qty": 23,
+        "qty": 22,
         "product_title": "SONATA-VYBLK",
         "sku": "EJ-SONATA-VYBLK"
       },
       "gid://shopify/ProductVariant/48305154392318": {
-        "qty": 20,
+        "qty": 19,
         "product_title": "LEMANS2-MTBLK",
         "sku": "EJ-LEMANS2-MTBLK"
       },
@@ -40122,7 +40122,7 @@
         "sku": "COLUMBIA-C533SP-009"
       },
       "gid://shopify/ProductVariant/48094645911806": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "MOUNTAINSHYRE-240",
         "sku": "COLUMBIA-C533SP-240"
       },
@@ -40137,7 +40137,7 @@
         "sku": "COLUMBIA-C113SP-770"
       },
       "gid://shopify/ProductVariant/48094645944574": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "PEAK RACER-003",
         "sku": "COLUMBIA-C536SP-003"
       },
@@ -43436,11 +43436,6 @@
         "product_title": "B245-BRN-52",
         "sku": "TB-B245-BRN-52"
       },
-      "gid://shopify/ProductVariant/47761274700030": {
-        "qty": 3,
-        "product_title": "EXTRUSION-2-5522",
-        "sku": "PD-EXTRUSION-2-5522"
-      },
       "gid://shopify/ProductVariant/47761274732798": {
         "qty": 3,
         "product_title": "EXTRUSION-2-6525",
@@ -43697,7 +43692,7 @@
         "sku": "ROXY-RX7001-PUR"
       },
       "gid://shopify/ProductVariant/47455922782462": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "RX7001-TO",
         "sku": "ROXY-RX7001-TO"
       },
@@ -43732,7 +43727,7 @@
         "sku": "EJ-HERCULES5-GLD"
       },
       "gid://shopify/ProductVariant/48094431740158": {
-        "qty": 33,
+        "qty": 32,
         "product_title": "HERCULES6-SLV",
         "sku": "EJ-HERCULES6-SLV"
       },
@@ -43947,7 +43942,7 @@
         "sku": "EJ-ROCKER1-CHOBN"
       },
       "gid://shopify/ProductVariant/48094432952574": {
-        "qty": 20,
+        "qty": 19,
         "product_title": "SHADE2-LBKGD",
         "sku": "EJ-SHADE2-LBKGD"
       },
@@ -44732,7 +44727,7 @@
         "sku": "PD-PROFLEX-4-9331"
       },
       "gid://shopify/ProductVariant/47455921537278": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "QS3001-MBRN",
         "sku": "QUIKSILVER-QS3001-MBRN"
       },
@@ -44752,17 +44747,17 @@
         "sku": "QUIKSILVER-QS3004-BLU"
       },
       "gid://shopify/ProductVariant/47455921996030": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "QS3014-SIL",
         "sku": "QUIKSILVER-QS3014-SIL"
       },
       "gid://shopify/ProductVariant/47455922028798": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "QS4001-BLK/BLU",
         "sku": "QUIKSILVER-QS4001-BLK/BLU"
       },
       "gid://shopify/ProductVariant/47455922159870": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "QS4002-BLK/OLV",
         "sku": "QUIKSILVER-QS4002-BLK/OLV"
       },
@@ -44777,19 +44772,14 @@
         "sku": "QUIKSILVER-QS4006-CRYBLU"
       },
       "gid://shopify/ProductVariant/47455922356478": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "QS4006-MGRY",
         "sku": "QUIKSILVER-QS4006-MGRY"
       },
       "gid://shopify/ProductVariant/47455922422014": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "QS4015-MCLR",
         "sku": "QUIKSILVER-QS4015-MCLR"
-      },
-      "gid://shopify/ProductVariant/48504816828670": {
-        "qty": 1,
-        "product_title": "ROLI-S-C_D",
-        "sku": "AW-ROLI-S-C_D"
       },
       "gid://shopify/ProductVariant/47655190790398": {
         "qty": 3,
