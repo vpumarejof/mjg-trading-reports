@@ -29978,13 +29978,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-08T22:41:55.268709+00:00",
+    "updated_at": "2026-07-08T23:44:03.961436+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 3160,
+        "total_qty": 3181,
         "sku_count": 247,
         "product_count": 247
       },
@@ -29992,7 +29992,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 15756,
+        "total_qty": 15777,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30008,9 +30008,9 @@
         "title": "BURBERRY",
         "handle": "burberry",
         "legacy_id": "391771324670",
-        "total_qty": 48,
-        "sku_count": 5,
-        "product_count": 5
+        "total_qty": 47,
+        "sku_count": 4,
+        "product_count": 4
       },
       "gid://shopify/Collection/391773749502": {
         "title": "CARRERA",
@@ -30184,7 +30184,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 201,
+        "total_qty": 198,
         "sku_count": 182,
         "product_count": 182
       },
@@ -30232,7 +30232,7 @@
         "title": "MOSCHINO",
         "handle": "moschino",
         "legacy_id": "395943837950",
-        "total_qty": 242,
+        "total_qty": 241,
         "sku_count": 27,
         "product_count": 27
       },
@@ -30248,9 +30248,9 @@
         "title": "CAROLINA HERRERA",
         "handle": "carolina-herrera",
         "legacy_id": "395943936254",
-        "total_qty": 168,
-        "sku_count": 18,
-        "product_count": 18
+        "total_qty": 161,
+        "sku_count": 16,
+        "product_count": 16
       },
       "gid://shopify/Collection/395955470590": {
         "title": "ALEXANDER MCQUEEN",
@@ -30344,7 +30344,7 @@
         "title": "Gucci",
         "handle": "gucci-1",
         "legacy_id": "407282450686",
-        "total_qty": 609,
+        "total_qty": 607,
         "sku_count": 125,
         "product_count": 125
       },
@@ -30392,7 +30392,7 @@
         "title": "PIERRE CARDIN",
         "handle": "pierre-cardin",
         "legacy_id": "408975540478",
-        "total_qty": 90,
+        "total_qty": 89,
         "sku_count": 24,
         "product_count": 24
       },
@@ -30432,9 +30432,9 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2629,
-        "sku_count": 192,
-        "product_count": 192
+        "total_qty": 2628,
+        "sku_count": 191,
+        "product_count": 191
       },
       "gid://shopify/Collection/410150043902": {
         "title": "Unisex Eyeglasses",
@@ -30448,7 +30448,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2343,
+        "total_qty": 2338,
         "sku_count": 238,
         "product_count": 238
       },
@@ -30456,7 +30456,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 12399,
+        "total_qty": 12810,
         "sku_count": 226,
         "product_count": 226
       },
@@ -30512,7 +30512,7 @@
         "title": "GUCCI",
         "handle": "gucci",
         "legacy_id": "421341364478",
-        "total_qty": 363,
+        "total_qty": 362,
         "sku_count": 198,
         "product_count": 198
       },
@@ -30528,9 +30528,9 @@
         "title": "PHILIPP PLEIN",
         "handle": "philipp-plein",
         "legacy_id": "425460105470",
-        "total_qty": 7,
-        "sku_count": 4,
-        "product_count": 4
+        "total_qty": 5,
+        "sku_count": 2,
+        "product_count": 2
       },
       "gid://shopify/Collection/425967354110": {
         "title": "Over 300",
@@ -30560,7 +30560,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 8875,
+        "total_qty": 8874,
         "sku_count": 223,
         "product_count": 223
       },
@@ -30616,7 +30616,7 @@
         "title": "Plastic Metal",
         "handle": "plastic-metal",
         "legacy_id": "462599520510",
-        "total_qty": 1785,
+        "total_qty": 1784,
         "sku_count": 99,
         "product_count": 99
       },
@@ -30704,7 +30704,7 @@
         "title": "LIGHTEC-MOREL",
         "handle": "lightec-morel",
         "legacy_id": "466217926910",
-        "total_qty": 2379,
+        "total_qty": 2377,
         "sku_count": 103,
         "product_count": 103
       },
@@ -30728,9 +30728,9 @@
         "title": "PHILIPP PLEIN",
         "handle": "philipp-plein-1",
         "legacy_id": "466916311294",
-        "total_qty": 7,
-        "sku_count": 4,
-        "product_count": 4
+        "total_qty": 5,
+        "sku_count": 2,
+        "product_count": 2
       },
       "gid://shopify/Collection/466916376830": {
         "title": "1880-MOREL",
@@ -30768,7 +30768,7 @@
         "title": "COCO SONG",
         "handle": "coco-song",
         "legacy_id": "467688259838",
-        "total_qty": 281,
+        "total_qty": 279,
         "sku_count": 68,
         "product_count": 68
       },
@@ -30792,7 +30792,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 2420,
+        "total_qty": 2418,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30848,7 +30848,7 @@
         "title": "QUIKSILVER",
         "handle": "quiksilver",
         "legacy_id": "474031259902",
-        "total_qty": 221,
+        "total_qty": 217,
         "sku_count": 31,
         "product_count": 31
       },
@@ -30944,9 +30944,9 @@
         "title": "BUGATTI",
         "handle": "bugatti",
         "legacy_id": "480545439998",
-        "total_qty": 227,
-        "sku_count": 42,
-        "product_count": 42
+        "total_qty": 224,
+        "sku_count": 41,
+        "product_count": 41
       },
       "gid://shopify/Collection/480914440446": {
         "title": "valentino-M",
@@ -31096,13 +31096,8 @@
         "product_title": "07-GRY/BK",
         "sku": "BUGATTI-07-GRY/BK"
       },
-      "gid://shopify/ProductVariant/48130605908222": {
-        "qty": 1,
-        "product_title": "07-MBK/RG",
-        "sku": "BUGATTI-07-MBK/RG"
-      },
       "gid://shopify/ProductVariant/47931327316222": {
-        "qty": 15,
+        "qty": 14,
         "product_title": "08-GM/WG",
         "sku": "BUGATTI-08-GM/WG"
       },
@@ -31142,7 +31137,7 @@
         "sku": "VOGUE-0VO5294S-27647C55"
       },
       "gid://shopify/ProductVariant/47998569218302": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "10-BK/WG",
         "sku": "BUGATTI-10-BK/WG"
       },
@@ -32241,6 +32236,11 @@
         "product_title": "DR-RUNE-003",
         "sku": "DRAGONDRRUNE003"
       },
+      "gid://shopify/ProductVariant/42500364370174": {
+        "qty": 24,
+        "product_title": "DR-RUNE-246",
+        "sku": "DRAGONDRRUNE246"
+      },
       "gid://shopify/ProductVariant/47998569513214": {
         "qty": 3,
         "product_title": "01BRX-RG",
@@ -32265,11 +32265,6 @@
         "qty": 18,
         "product_title": "0BE2382D-3852-49",
         "sku": "BURBERRY-0BE2382D-3852-49"
-      },
-      "gid://shopify/ProductVariant/47095920656638": {
-        "qty": 1,
-        "product_title": "0BE2387-4098-55",
-        "sku": "BURBERRY-0BE2387-4098-55"
       },
       "gid://shopify/ProductVariant/47095922229502": {
         "qty": 10,
@@ -33491,6 +33486,11 @@
         "product_title": "20073K-TM04-49",
         "sku": "KOALI-MOREL-20073K-TM04-49"
       },
+      "gid://shopify/ProductVariant/47558954418430": {
+        "qty": 22,
+        "product_title": "20073K-VD05-49",
+        "sku": "KOALI-MOREL-20073K-VD05-49"
+      },
       "gid://shopify/ProductVariant/46243449274622": {
         "qty": 2,
         "product_title": "3425-19-1.50",
@@ -34060,11 +34060,6 @@
         "qty": 6,
         "product_title": "CV1022Y-046-48",
         "sku": "CONVERSE-CV1022Y-046-48"
-      },
-      "gid://shopify/ProductVariant/42500364370174": {
-        "qty": 24,
-        "product_title": "DR-RUNE-246",
-        "sku": "DRAGONDRRUNE246"
       },
       "gid://shopify/ProductVariant/42500295983358": {
         "qty": 1,
@@ -39216,6 +39211,11 @@
         "product_title": "06-MBK_D",
         "sku": "BUGATTI-06-MBK_D"
       },
+      "gid://shopify/ProductVariant/48130605908222": {
+        "qty": 0,
+        "product_title": "07-MBK/RG",
+        "sku": "BUGATTI-07-MBK/RG"
+      },
       "gid://shopify/ProductVariant/44647926202622": {
         "qty": 0,
         "product_title": "0AX4036F-81437357",
@@ -39285,6 +39285,11 @@
         "qty": 0,
         "product_title": "0BE2307300252",
         "sku": "BURBERRY0BE2307300252"
+      },
+      "gid://shopify/ProductVariant/47095920656638": {
+        "qty": 0,
+        "product_title": "0BE2387-4098-55",
+        "sku": "BURBERRY-0BE2387-4098-55"
       },
       "gid://shopify/ProductVariant/47095921213694": {
         "qty": 0,
@@ -40182,7 +40187,7 @@
         "sku": "MOSCHINO-MOS-163/S-035J/U1"
       },
       "gid://shopify/ProductVariant/48121216041214": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "MOS166/S-2W8/IR",
         "sku": "MOSCHINO-MOS166/S-2W8/IR"
       },
@@ -40396,13 +40401,8 @@
         "product_title": "DK1024 001-51",
         "sku": "DKNY DK1024 001 - 51"
       },
-      "gid://shopify/ProductVariant/47010175254782": {
-        "qty": 1,
-        "product_title": "CH-0055-0KDX-54",
-        "sku": "CH-CH-0055-0KDX-54"
-      },
       "gid://shopify/ProductVariant/47010176041214": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "CH-0064-0RTC-55",
         "sku": "CH-CH-0064-0RTC-55"
       },
@@ -40412,7 +40412,7 @@
         "sku": "CH-CH-0065-0KDX-52"
       },
       "gid://shopify/ProductVariant/47605988917502": {
-        "qty": 19,
+        "qty": 18,
         "product_title": "CH0057-0C1H-53",
         "sku": "CH-CH-0057-0C1H-53"
       },
@@ -40431,11 +40431,6 @@
         "product_title": "HER-0132/G/S-0LHF/HA",
         "sku": "CH-HER-0132/G/S-0LHF/HA"
       },
-      "gid://shopify/ProductVariant/47010177646846": {
-        "qty": 1,
-        "product_title": "HER-0165-0HKZ-53",
-        "sku": "CH-HER-0165-0HKZ-53"
-      },
       "gid://shopify/ProductVariant/47845513199870": {
         "qty": 7,
         "product_title": "HER-0166-WR7-51",
@@ -40447,7 +40442,7 @@
         "sku": "CH-HER-0166-XLT-51"
       },
       "gid://shopify/ProductVariant/47845513494782": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "HER-0167-XLT-53",
         "sku": "CH-HER-0167-XLT-53"
       },
@@ -40477,12 +40472,12 @@
         "sku": "CH-HER-0210-WR7-52"
       },
       "gid://shopify/ProductVariant/47845513822462": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "HER-0213-O63-54",
         "sku": "CH-HER-0213-O63-54"
       },
       "gid://shopify/ProductVariant/47845513855230": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "HER-0213-WR7-54",
         "sku": "CH-HER-0213-WR7-54"
       },
@@ -41727,7 +41722,7 @@
         "sku": "GUCCI-GG1517S-003"
       },
       "gid://shopify/ProductVariant/47807387009278": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "GG1518O-002-51",
         "sku": "GUCCI-GG1518O-002-51"
       },
@@ -41977,7 +41972,7 @@
         "sku": "GUCCI-GG1737O-004-54_R"
       },
       "gid://shopify/ProductVariant/48288333037822": {
-        "qty": 22,
+        "qty": 21,
         "product_title": "GG1738O-002-52",
         "sku": "GUCCI-GG1738O-002-52"
       },
@@ -42767,7 +42762,7 @@
         "sku": "PC-6781-0FXA-54"
       },
       "gid://shopify/ProductVariant/46529204748542": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "6777-0HS1-54",
         "sku": "PC-6777-0HS1-54"
       },
@@ -42790,11 +42785,6 @@
         "qty": 0,
         "product_title": "DAREDEVIL07KD4U",
         "sku": "SMITHDAREDEVIL07KD4U"
-      },
-      "gid://shopify/ProductVariant/47558954418430": {
-        "qty": 22,
-        "product_title": "20073K-VD05-49",
-        "sku": "KOALI-MOREL-20073K-VD05-49"
       },
       "gid://shopify/ProductVariant/47558954451198": {
         "qty": 52,
@@ -44742,12 +44732,12 @@
         "sku": "QUIKSILVER-QS3002-MBLK"
       },
       "gid://shopify/ProductVariant/47455921602814": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "QS3004-BLK",
         "sku": "QUIKSILVER-QS3004-BLK"
       },
       "gid://shopify/ProductVariant/47455921635582": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "QS3004-BLU",
         "sku": "QUIKSILVER-QS3004-BLU"
       },
@@ -45850,16 +45840,6 @@
         "qty": 2,
         "product_title": "VPP016M-06A7-54",
         "sku": "PP-VPP016M-06A7-54"
-      },
-      "gid://shopify/ProductVariant/47401590685950": {
-        "qty": 1,
-        "product_title": "VPP016M-0700-54",
-        "sku": "PP-VPP016M-0700-54"
-      },
-      "gid://shopify/ProductVariant/47401590718718": {
-        "qty": 1,
-        "product_title": "VPP018M-0700-54",
-        "sku": "PP-VPP018M-0700-54"
       },
       "gid://shopify/ProductVariant/46059134714110": {
         "qty": 9711,
@@ -47632,7 +47612,7 @@
         "sku": "CS-CALIFORNIA-DREAM-CV232.01-09"
       },
       "gid://shopify/ProductVariant/47272815624446": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "CALIFORNIA-DREAM-CV232.02-09",
         "sku": "CS-CALIFORNIA-DREAM-CV232.02-09"
       },
@@ -48752,7 +48732,7 @@
         "sku": "LIGHTEC-MOREL-30004L-NT40-47"
       },
       "gid://shopify/ProductVariant/47558955860222": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "30008L-RT40-47",
         "sku": "LIGHTEC-MOREL-30008L-RT40-47"
       },
@@ -48887,7 +48867,7 @@
         "sku": "LIGHTEC-MOREL-30077L-ND22-45"
       },
       "gid://shopify/ProductVariant/47558957269246": {
-        "qty": 11,
+        "qty": 10,
         "product_title": "30077L-RG23-45",
         "sku": "LIGHTEC-MOREL-30077L-RG23-45"
       },
@@ -49667,7 +49647,7 @@
         "sku": "CS-YORK-BLUES-CV243.03-09"
       },
       "gid://shopify/ProductVariant/47272817131774": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "YORK-BLUES-CV243.01-09",
         "sku": "CS-YORK-BLUES-CV243.01-09"
       },
@@ -50417,7 +50397,7 @@
         "sku": "QUIKSILVER-QS2005-MTORT-54"
       },
       "gid://shopify/ProductVariant/47484456173822": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "QS2003 TORTOISE 55/18-145",
         "sku": "QUIKSILVER-QS2003-TORT-55"
       },
@@ -50462,7 +50442,7 @@
         "sku": "QUIKSILVER-QS1052-GUN-57"
       },
       "gid://shopify/ProductVariant/47455924322558": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "QS1016-MGUN-55",
         "sku": "QUIKSILVER-QS1016-MGUN-55"
       },
