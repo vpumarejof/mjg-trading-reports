@@ -29978,13 +29978,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-08T01:52:56.735881+00:00",
+    "updated_at": "2026-07-08T05:13:55.380827+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 3067,
+        "total_qty": 3058,
         "sku_count": 247,
         "product_count": 247
       },
@@ -30072,7 +30072,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 754,
+        "total_qty": 753,
         "sku_count": 136,
         "product_count": 136
       },
@@ -30088,9 +30088,9 @@
         "title": "MARC JACOBS",
         "handle": "marc-jacobs",
         "legacy_id": "391774732542",
-        "total_qty": 414,
-        "sku_count": 73,
-        "product_count": 73
+        "total_qty": 409,
+        "sku_count": 72,
+        "product_count": 72
       },
       "gid://shopify/Collection/391775027454": {
         "title": "MONTBLANC",
@@ -30176,7 +30176,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 3292,
+        "total_qty": 3271,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30352,9 +30352,9 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 347,
-        "sku_count": 43,
-        "product_count": 43
+        "total_qty": 344,
+        "sku_count": 42,
+        "product_count": 42
       },
       "gid://shopify/Collection/408131010814": {
         "title": "VOGUE",
@@ -30408,7 +30408,7 @@
         "title": "Goliath",
         "handle": "goliath",
         "legacy_id": "409354371326",
-        "total_qty": 59,
+        "total_qty": 57,
         "sku_count": 3,
         "product_count": 3
       },
@@ -30424,7 +30424,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 3123,
+        "total_qty": 3117,
         "sku_count": 248,
         "product_count": 248
       },
@@ -30432,7 +30432,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2444,
+        "total_qty": 2427,
         "sku_count": 187,
         "product_count": 187
       },
@@ -30448,7 +30448,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2302,
+        "total_qty": 2300,
         "sku_count": 230,
         "product_count": 230
       },
@@ -30536,7 +30536,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 25835,
+        "total_qty": 25834,
         "sku_count": 39,
         "product_count": 39
       },
@@ -30600,7 +30600,7 @@
         "title": "PRIMARY",
         "handle": "primary",
         "legacy_id": "460628721918",
-        "total_qty": 37342,
+        "total_qty": 37333,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30672,7 +30672,7 @@
         "title": "SIGNATURE",
         "handle": "signature",
         "legacy_id": "464260399358",
-        "total_qty": 9792,
+        "total_qty": 9791,
         "sku_count": 96,
         "product_count": 96
       },
@@ -30808,7 +30808,7 @@
         "title": "QUAY",
         "handle": "quay",
         "legacy_id": "472482939134",
-        "total_qty": 148,
+        "total_qty": 138,
         "sku_count": 26,
         "product_count": 26
       },
@@ -30968,9 +30968,9 @@
         "title": "ELTON JOHN",
         "handle": "elton-john",
         "legacy_id": "482187051262",
-        "total_qty": 871,
-        "sku_count": 52,
-        "product_count": 52
+        "total_qty": 841,
+        "sku_count": 51,
+        "product_count": 51
       },
       "gid://shopify/Collection/483191193854": {
         "title": "CELINE",
@@ -31481,13 +31481,8 @@
         "product_title": "BOHEMIAN-LUNGO",
         "sku": "EJ-BOHEMIAN-LUNGO"
       },
-      "gid://shopify/ProductVariant/48094428758270": {
-        "qty": 1,
-        "product_title": "BOMBSHELL1-GLDTR",
-        "sku": "EJ-BOMBSHELL1-GLDTR"
-      },
       "gid://shopify/ProductVariant/48094429577470": {
-        "qty": 15,
+        "qty": 12,
         "product_title": "BOMBSHELL4-VYBLK",
         "sku": "EJ-BOMBSHELL4-VYBLK"
       },
@@ -31607,7 +31602,7 @@
         "sku": "KS-CAPRI/G/S-0B3V/DG"
       },
       "gid://shopify/ProductVariant/48094429806846": {
-        "qty": 6,
+        "qty": 4,
         "product_title": "CAPTAINFA2-BTBLK",
         "sku": "EJ-CAPTAINFA2-BTBLK"
       },
@@ -31882,7 +31877,7 @@
         "sku": "CELINE-CL40329U-52A"
       },
       "gid://shopify/ProductVariant/48305153802494": {
-        "qty": 13,
+        "qty": 12,
         "product_title": "CLOUD9-1-RSEGL",
         "sku": "EJ-CLOUD9-1-RSEGL"
       },
@@ -32107,12 +32102,12 @@
         "sku": "AW-DINAH-E"
       },
       "gid://shopify/ProductVariant/48305153900798": {
-        "qty": 20,
+        "qty": 18,
         "product_title": "DIVA1-GLSKY",
         "sku": "EJ-DIVA1-GLSKY"
       },
       "gid://shopify/ProductVariant/48094430527742": {
-        "qty": 10,
+        "qty": 7,
         "product_title": "DIVA2-ICEGL",
         "sku": "EJ-DIVA2-ICEGL"
       },
@@ -32240,6 +32235,11 @@
         "qty": 3,
         "product_title": "EXTRUSION-2-5522",
         "sku": "PD-EXTRUSION-2-5522"
+      },
+      "gid://shopify/ProductVariant/47761274732798": {
+        "qty": 3,
+        "product_title": "EXTRUSION-2-6525",
+        "sku": "PD-EXTRUSION-2-6525"
       },
       "gid://shopify/ProductVariant/47095920427262": {
         "qty": 16,
@@ -34562,7 +34562,7 @@
         "sku": "KS-TAYA-0086-52"
       },
       "gid://shopify/ProductVariant/47177368404222": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "CAROLAN-0807-50",
         "sku": "KS-CAROLAN-0807-50"
       },
@@ -34741,11 +34741,6 @@
         "product_title": "L-573/S-003/9O",
         "sku": "LC-L-573/S-003/9O"
       },
-      "gid://shopify/ProductVariant/48493130285310": {
-        "qty": 3,
-        "product_title": "MJ-1120/S-35J/HA",
-        "sku": "MJ-MJ-1120/S-35J/HA"
-      },
       "gid://shopify/ProductVariant/48493130121470": {
         "qty": 5,
         "product_title": "MJ-1117/S-I34/HA",
@@ -34787,7 +34782,7 @@
         "sku": "MJ-MARC-773/S-YB7/T4"
       },
       "gid://shopify/ProductVariant/48336089284862": {
-        "qty": 5,
+        "qty": 3,
         "product_title": "MARC-673/S-KB7/HA",
         "sku": "MJ-MARC-673/S-KB7/HA"
       },
@@ -38947,12 +38942,12 @@
         "sku": "MISSONI-MIS-0165/S-P65/NQ"
       },
       "gid://shopify/ProductVariant/48314440057086": {
-        "qty": 10,
+        "qty": 5,
         "product_title": "VIVIENNE-35583",
         "sku": "QUAY-QC-000098-GLD/BRN"
       },
       "gid://shopify/ProductVariant/48314440024318": {
-        "qty": 17,
+        "qty": 12,
         "product_title": "VIVIENNE-1515",
         "sku": "QUAY-QC-000098-BLK/SMK"
       },
@@ -38997,7 +38992,7 @@
         "sku": "KL-KL360S-N-040"
       },
       "gid://shopify/ProductVariant/48305154687230": {
-        "qty": 13,
+        "qty": 11,
         "product_title": "ROCKER2-BLKBL",
         "sku": "EJ-ROCKER-2-BLKBL"
       },
@@ -39032,7 +39027,7 @@
         "sku": "EJ-LEMANS1-SHYGD"
       },
       "gid://shopify/ProductVariant/48305154326782": {
-        "qty": 19,
+        "qty": 18,
         "product_title": "JIVE2-BRNTR",
         "sku": "EJ-JIVE2-BRNTR"
       },
@@ -39052,12 +39047,12 @@
         "sku": "EJ-GOLIATH4-MTBGE"
       },
       "gid://shopify/ProductVariant/48305154097406": {
-        "qty": 17,
+        "qty": 16,
         "product_title": "GOLIATH3-ICEBL",
         "sku": "EJ-GOLIATH3-ICEBL"
       },
       "gid://shopify/ProductVariant/48305154031870": {
-        "qty": 22,
+        "qty": 21,
         "product_title": "GOLIATH1-MTRE",
         "sku": "EJ-GOLIATH1-MTRED"
       },
@@ -39075,6 +39070,11 @@
         "qty": 2,
         "product_title": "GG1460S-008-RELABELED",
         "sku": "GUCCI-GG1460S-008_R"
+      },
+      "gid://shopify/ProductVariant/48301168230654": {
+        "qty": 2,
+        "product_title": "GG1460S-004-RELABELED",
+        "sku": "GUCCI-GG1460S-004_R"
       },
       "gid://shopify/ProductVariant/43458420670718": {
         "qty": 0,
@@ -41746,11 +41746,6 @@
         "product_title": "GG1460S-004",
         "sku": "GUCCI-GG1460S-004"
       },
-      "gid://shopify/ProductVariant/48301168230654": {
-        "qty": 2,
-        "product_title": "GG1460S-004-RELABELED",
-        "sku": "GUCCI-GG1460S-004_R"
-      },
       "gid://shopify/ProductVariant/47807389106430": {
         "qty": 15,
         "product_title": "GG1460S-007",
@@ -43431,11 +43426,6 @@
         "product_title": "B245-BRN-52",
         "sku": "TB-B245-BRN-52"
       },
-      "gid://shopify/ProductVariant/47761274732798": {
-        "qty": 3,
-        "product_title": "EXTRUSION-2-6525",
-        "sku": "PD-EXTRUSION-2-6525"
-      },
       "gid://shopify/ProductVariant/47655188824318": {
         "qty": 2,
         "product_title": "FELICITY-SUN-COL-B",
@@ -43617,7 +43607,7 @@
         "sku": "LONGCHAMP-LO763S-001"
       },
       "gid://shopify/ProductVariant/48094432297214": {
-        "qty": 15,
+        "qty": 13,
         "product_title": "MADMAN-RKBAR",
         "sku": "EJ-MADMAN-RKBAR"
       },
@@ -43700,6 +43690,16 @@
         "qty": 4,
         "product_title": "RX7005-BLU",
         "sku": "ROXY-RX7005-BLU"
+      },
+      "gid://shopify/ProductVariant/47455923536126": {
+        "qty": 9,
+        "product_title": "RX7005-GTO",
+        "sku": "ROXY-RX7005-GTO"
+      },
+      "gid://shopify/ProductVariant/47455923601662": {
+        "qty": 2,
+        "product_title": "RX7008-SAGE",
+        "sku": "ROXY-RX7008-SAGE"
       },
       "gid://shopify/ProductVariant/47432867545342": {
         "qty": 5,
@@ -43802,7 +43802,7 @@
         "sku": "PD-MALACHITE-9535"
       },
       "gid://shopify/ProductVariant/48094432329982": {
-        "qty": 15,
+        "qty": 14,
         "product_title": "MALIBU-SGDBK",
         "sku": "EJ-MALIBU-SGDBK"
       },
@@ -43887,12 +43887,12 @@
         "sku": "Prs04-Black/Red-53-SUN"
       },
       "gid://shopify/ProductVariant/46622544691454": {
-        "qty": 73,
+        "qty": 71,
         "product_title": "PRS05-BLACK-58-SUN",
         "sku": "Prs05-Black-58-SUN"
       },
       "gid://shopify/ProductVariant/46622544822526": {
-        "qty": 21,
+        "qty": 20,
         "product_title": "PRS06-BROWN-56-SUN",
         "sku": "Prs06-Brown-56-SUN"
       },
@@ -43907,7 +43907,7 @@
         "sku": "Prs08-Tortoise/Crystal-52-SUN"
       },
       "gid://shopify/ProductVariant/46622544953598": {
-        "qty": 31,
+        "qty": 29,
         "product_title": "PRS09-BLACK/HORN-54-SUN",
         "sku": "Prs09-Black/Horn-54-SUN"
       },
@@ -43917,17 +43917,17 @@
         "sku": "Prs09-Brown/Horn-54-SUN"
       },
       "gid://shopify/ProductVariant/46622545248510": {
-        "qty": 21,
+        "qty": 20,
         "product_title": "PRS09-MATTETORTOISE-54-SUN",
         "sku": "Prs09-MatteTortoise-54-SUN"
       },
       "gid://shopify/ProductVariant/46622545379582": {
-        "qty": 34,
+        "qty": 32,
         "product_title": "PRS10-BLACK-55-SUN",
         "sku": "Prs10-Black-55-SUN"
       },
       "gid://shopify/ProductVariant/46622545412350": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "PRS10-TORTOISE-55-SUN",
         "sku": "Prs10-Tortoise-55-SUN"
       },
@@ -43942,7 +43942,7 @@
         "sku": "EJ-ROCKER1-CHOBN"
       },
       "gid://shopify/ProductVariant/48094432952574": {
-        "qty": 19,
+        "qty": 17,
         "product_title": "SHADE2-LBKGD",
         "sku": "EJ-SHADE2-LBKGD"
       },
@@ -45857,7 +45857,7 @@
         "sku": "PP-VPP018M-0700-54"
       },
       "gid://shopify/ProductVariant/46059134714110": {
-        "qty": 9713,
+        "qty": 9712,
         "product_title": "DropShip",
         "sku": "DropShip"
       },
@@ -48567,7 +48567,7 @@
         "sku": "Signature-S7020-BrownStripe-52"
       },
       "gid://shopify/ProductVariant/46684987949310": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "S7016-Navy-51",
         "sku": "Signature-S7016-Navy-51"
       },
@@ -50386,16 +50386,6 @@
         "product_title": "RX7014-TO",
         "sku": "ROXY-RX7014-TO"
       },
-      "gid://shopify/ProductVariant/47455923601662": {
-        "qty": 2,
-        "product_title": "RX7008-SAGE",
-        "sku": "ROXY-RX7008-SAGE"
-      },
-      "gid://shopify/ProductVariant/47455923536126": {
-        "qty": 9,
-        "product_title": "RX7005-GTO",
-        "sku": "ROXY-RX7005-GTO"
-      },
       "gid://shopify/ProductVariant/47455923929342": {
         "qty": 10,
         "product_title": "RX7014-GRN",
@@ -50932,7 +50922,7 @@
         "sku": "MODO-4602-DNAVY-54"
       },
       "gid://shopify/ProductVariant/48094432985342": {
-        "qty": 11,
+        "qty": 9,
         "product_title": "SUPERSTAR2-RTORT",
         "sku": "EJ-SUPERSTAR2-RTORT"
       },
@@ -50942,7 +50932,7 @@
         "sku": "EJ-WALK-OF-FAME-SILBL"
       },
       "gid://shopify/ProductVariant/48094433313022": {
-        "qty": 15,
+        "qty": 12,
         "product_title": "TECHIE2-TRTSY",
         "sku": "EJ-TECHIE2-TRTSY"
       },
@@ -50952,12 +50942,12 @@
         "sku": "EJ-TECHIE1-TERTNY"
       },
       "gid://shopify/ProductVariant/48094433018110": {
-        "qty": 13,
+        "qty": 12,
         "product_title": "SUPERSTAR3-NVYGR",
         "sku": "EJ-SUPERSTAR3-NVYGR"
       },
       "gid://shopify/ProductVariant/48094433444094": {
-        "qty": 16,
+        "qty": 14,
         "product_title": "VIP-VIBLK",
         "sku": "EJ-VIP-VIBLK"
       },
