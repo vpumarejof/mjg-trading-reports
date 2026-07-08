@@ -29978,13 +29978,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-08T11:47:23.446677+00:00",
+    "updated_at": "2026-07-08T13:43:50.326261+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 3058,
+        "total_qty": 3192,
         "sku_count": 247,
         "product_count": 247
       },
@@ -30072,7 +30072,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 753,
+        "total_qty": 752,
         "sku_count": 136,
         "product_count": 136
       },
@@ -30176,7 +30176,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 3271,
+        "total_qty": 3573,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30424,7 +30424,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 3117,
+        "total_qty": 3315,
         "sku_count": 248,
         "product_count": 248
       },
@@ -30432,9 +30432,9 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2427,
-        "sku_count": 187,
-        "product_count": 187
+        "total_qty": 2652,
+        "sku_count": 194,
+        "product_count": 194
       },
       "gid://shopify/Collection/410150043902": {
         "title": "Unisex Eyeglasses",
@@ -30632,9 +30632,9 @@
         "title": "OPEN BOX",
         "handle": "shelf-pulls",
         "legacy_id": "463407481086",
-        "total_qty": 101,
-        "sku_count": 44,
-        "product_count": 44
+        "total_qty": 100,
+        "sku_count": 43,
+        "product_count": 43
       },
       "gid://shopify/Collection/463674867966": {
         "title": "Open Box",
@@ -30808,9 +30808,9 @@
         "title": "QUAY",
         "handle": "quay",
         "legacy_id": "472482939134",
-        "total_qty": 138,
-        "sku_count": 26,
-        "product_count": 26
+        "total_qty": 747,
+        "sku_count": 47,
+        "product_count": 47
       },
       "gid://shopify/Collection/472992383230": {
         "title": "PORSCHE DESIGN",
@@ -31366,6 +31366,11 @@
         "product_title": "ARLO-SUN-COL-D",
         "sku": "AW-ARIO-D"
       },
+      "gid://shopify/ProductVariant/48314438779134": {
+        "qty": 25,
+        "product_title": "ART SCHOOL-59307",
+        "sku": "QUAY-QU-000745-MTBLK/SMK"
+      },
       "gid://shopify/ProductVariant/48121213550846": {
         "qty": 2,
         "product_title": "AUBRIELLA/G/S-1ED/9O",
@@ -31526,6 +31531,16 @@
         "product_title": "BURR-009",
         "sku": "COLUMBIA-C559SP-009"
       },
+      "gid://shopify/ProductVariant/48145121345790": {
+        "qty": 25,
+        "product_title": "BUSY BUSY-77722",
+        "sku": "QUAY-NO-NS-2326-BLK/SMK"
+      },
+      "gid://shopify/ProductVariant/48145121411326": {
+        "qty": 25,
+        "product_title": "BUSY BUSY-77745",
+        "sku": "QUAY-NO-NS-2326-DOE/BRN"
+      },
       "gid://shopify/ProductVariant/48336088006910": {
         "qty": 11,
         "product_title": "C-SPORT-02/S-4CW/IR",
@@ -31660,6 +31675,11 @@
         "qty": 18,
         "product_title": "CARDUC-051/S-268/Z0",
         "sku": "CARRERA-CARDUC-051/S-268/Z0"
+      },
+      "gid://shopify/ProductVariant/47893665644798": {
+        "qty": 25,
+        "product_title": "CHIT CHAT-77734",
+        "sku": "QUAY-NO-NS-2330-PBTRT/BRN"
       },
       "gid://shopify/ProductVariant/46755375284478": {
         "qty": 1,
@@ -31916,6 +31936,11 @@
         "product_title": "COMFORT-D",
         "sku": "AW-COMFORT-D"
       },
+      "gid://shopify/ProductVariant/48314438910206": {
+        "qty": 25,
+        "product_title": "CONTOURED-81802",
+        "sku": "QUAY-NO-NS-2925-TRT/BRN"
+      },
       "gid://shopify/ProductVariant/47448055087358": {
         "qty": 1,
         "product_title": "CT0296S-004",
@@ -32066,6 +32091,16 @@
         "product_title": "DAPHNE-SUN-COL-D",
         "sku": "AW-DAPHNE-D"
       },
+      "gid://shopify/ProductVariant/47893665808638": {
+        "qty": 25,
+        "product_title": "DATE NIGHT-75482",
+        "sku": "QUAY-NO-NS-2112-BLK/SMK"
+      },
+      "gid://shopify/ProductVariant/47893665841406": {
+        "qty": 10,
+        "product_title": "DATE NIGHT-75519",
+        "sku": "QUAY-NO-NS-2112-NUETRT/BRN"
+      },
       "gid://shopify/ProductVariant/48493128417534": {
         "qty": 6,
         "product_title": "DB-1141/S-EX4/IR",
@@ -32205,41 +32240,6 @@
         "qty": 8,
         "product_title": "ELODIE-B",
         "sku": "AW-ELODIE-B"
-      },
-      "gid://shopify/ProductVariant/47432867315966": {
-        "qty": 2,
-        "product_title": "ELODIE-C",
-        "sku": "AW-ELODIE-C"
-      },
-      "gid://shopify/ProductVariant/47432867348734": {
-        "qty": 6,
-        "product_title": "ELODIE-D",
-        "sku": "AW-ELODIE-D"
-      },
-      "gid://shopify/ProductVariant/46811440742654": {
-        "qty": 1,
-        "product_title": "ESSENTIAL HORIZON EV1118",
-        "sku": "NIKE-ESSENTIAL-HORIZON-EV1118-044"
-      },
-      "gid://shopify/ProductVariant/46811440775422": {
-        "qty": 9,
-        "product_title": "ESSENTIAL HORIZON EV1118",
-        "sku": "NIKE-ESSENTIAL-HORIZON-EV1118-910"
-      },
-      "gid://shopify/ProductVariant/47761274667262": {
-        "qty": 2,
-        "product_title": "EXTRUSION-2-1515",
-        "sku": "PD-EXTRUSION-2-1515"
-      },
-      "gid://shopify/ProductVariant/47761274700030": {
-        "qty": 3,
-        "product_title": "EXTRUSION-2-5522",
-        "sku": "PD-EXTRUSION-2-5522"
-      },
-      "gid://shopify/ProductVariant/47761274732798": {
-        "qty": 3,
-        "product_title": "EXTRUSION-2-6525",
-        "sku": "PD-EXTRUSION-2-6525"
       },
       "gid://shopify/ProductVariant/47095920427262": {
         "qty": 16,
@@ -34607,7 +34607,7 @@
         "sku": "KS-FLAVIA-0KB7-51"
       },
       "gid://shopify/ProductVariant/47010181841150": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "ZELDA-0IWB-50",
         "sku": "KS-ZELDA-0IWB-50"
       },
@@ -35306,6 +35306,11 @@
         "product_title": "LUCENT FLASH EV24050",
         "sku": "NIKE-LUCENT-FLASH-EV24050-891"
       },
+      "gid://shopify/ProductVariant/46811440742654": {
+        "qty": 1,
+        "product_title": "ESSENTIAL HORIZON EV1118",
+        "sku": "NIKE-ESSENTIAL-HORIZON-EV1118-044"
+      },
       "gid://shopify/ProductVariant/46811480424702": {
         "qty": 5,
         "product_title": "SESSION CT8129",
@@ -35340,6 +35345,11 @@
         "qty": 4,
         "product_title": "PURSUIT FLAIR IB3683X",
         "sku": "NIKE-PURSUIT-FLAIR-IB3683X-600"
+      },
+      "gid://shopify/ProductVariant/46811440775422": {
+        "qty": 9,
+        "product_title": "ESSENTIAL HORIZON EV1118",
+        "sku": "NIKE-ESSENTIAL-HORIZON-EV1118-910"
       },
       "gid://shopify/ProductVariant/47730469208318": {
         "qty": 1,
@@ -38942,19 +38952,44 @@
         "sku": "MISSONI-MIS-0165/S-P65/NQ"
       },
       "gid://shopify/ProductVariant/48314440057086": {
-        "qty": 5,
+        "qty": 30,
         "product_title": "VIVIENNE-35583",
         "sku": "QUAY-QC-000098-GLD/BRN"
       },
       "gid://shopify/ProductVariant/48314440024318": {
-        "qty": 12,
+        "qty": 37,
         "product_title": "VIVIENNE-1515",
         "sku": "QUAY-QC-000098-BLK/SMK"
       },
+      "gid://shopify/ProductVariant/48314439926014": {
+        "qty": 25,
+        "product_title": "TOTAL VIBE-55796",
+        "sku": "QUAY-QW-001060-BLK/SMKGRN"
+      },
+      "gid://shopify/ProductVariant/48314439827710": {
+        "qty": 25,
+        "product_title": "TOTAL VIBE-68777",
+        "sku": "QUAY-NO-NS-1581-BRN/BRN"
+      },
       "gid://shopify/ProductVariant/48314439729406": {
-        "qty": 14,
+        "qty": 39,
         "product_title": "LOOP ME IN-47790",
         "sku": "QUAY-QW-000869-GLD/BRNFD"
+      },
+      "gid://shopify/ProductVariant/48314439696638": {
+        "qty": 25,
+        "product_title": "IT\u2019S MY WAY-2272",
+        "sku": "QUAY-QW-000144-BLK/SMK"
+      },
+      "gid://shopify/ProductVariant/48314439663870": {
+        "qty": 24,
+        "product_title": "ICY-59297",
+        "sku": "QUAY-QU-000602-MTBLK/SMKGRN"
+      },
+      "gid://shopify/ProductVariant/48314439598334": {
+        "qty": 25,
+        "product_title": "ICY-75883",
+        "sku": "QUAY-NO-NS-2186-ESPR/BRN"
       },
       "gid://shopify/ProductVariant/48314439467262": {
         "qty": 5,
@@ -38966,10 +39001,20 @@
         "product_title": "HINDSIGHT-55667",
         "sku": "QUAY-QW-000311-BLK/BLKPNK"
       },
+      "gid://shopify/ProductVariant/48314439401726": {
+        "qty": 25,
+        "product_title": "HINDSIGHT-53886",
+        "sku": "QUAY-QW-000311-BLK/SMKGRN"
+      },
       "gid://shopify/ProductVariant/48314439336190": {
-        "qty": 5,
+        "qty": 30,
         "product_title": "HINDSIGHT-81788",
         "sku": "QUAY-NO-NS-2924-TRT/SMTP"
+      },
+      "gid://shopify/ProductVariant/48314439303422": {
+        "qty": 25,
+        "product_title": "HINDSIGHT-13436",
+        "sku": "QUAY-QW-000311-BLK/SMK"
       },
       "gid://shopify/ProductVariant/48307063161086": {
         "qty": 45,
@@ -39055,26 +39100,6 @@
         "qty": 21,
         "product_title": "GOLIATH1-MTRE",
         "sku": "EJ-GOLIATH1-MTRED"
-      },
-      "gid://shopify/ProductVariant/48301170426110": {
-        "qty": 2,
-        "product_title": "GG1630S-001-RELABELED",
-        "sku": "GUCCI-GG1630S-001_R"
-      },
-      "gid://shopify/ProductVariant/48301169967358": {
-        "qty": 3,
-        "product_title": "GG1570S-003-RELABELED",
-        "sku": "GUCCI-GG1570S-003_R"
-      },
-      "gid://shopify/ProductVariant/48301168296190": {
-        "qty": 2,
-        "product_title": "GG1460S-008-RELABELED",
-        "sku": "GUCCI-GG1460S-008_R"
-      },
-      "gid://shopify/ProductVariant/48301168230654": {
-        "qty": 2,
-        "product_title": "GG1460S-004-RELABELED",
-        "sku": "GUCCI-GG1460S-004_R"
       },
       "gid://shopify/ProductVariant/43458420670718": {
         "qty": 0,
@@ -41746,6 +41771,11 @@
         "product_title": "GG1460S-004",
         "sku": "GUCCI-GG1460S-004"
       },
+      "gid://shopify/ProductVariant/48301168230654": {
+        "qty": 2,
+        "product_title": "GG1460S-004-RELABELED",
+        "sku": "GUCCI-GG1460S-004_R"
+      },
       "gid://shopify/ProductVariant/47807389106430": {
         "qty": 15,
         "product_title": "GG1460S-007",
@@ -41755,6 +41785,11 @@
         "qty": 17,
         "product_title": "GG1460S-008",
         "sku": "GUCCI-GG1460S-008"
+      },
+      "gid://shopify/ProductVariant/48301168296190": {
+        "qty": 2,
+        "product_title": "GG1460S-008-RELABELED",
+        "sku": "GUCCI-GG1460S-008_R"
       },
       "gid://shopify/ProductVariant/47807386976510": {
         "qty": 1,
@@ -41886,6 +41921,11 @@
         "product_title": "GG1570S-003",
         "sku": "GUCCI-GG1570S-003"
       },
+      "gid://shopify/ProductVariant/48301169967358": {
+        "qty": 3,
+        "product_title": "GG1570S-003-RELABELED",
+        "sku": "GUCCI-GG1570S-003_R"
+      },
       "gid://shopify/ProductVariant/47807390187774": {
         "qty": 4,
         "product_title": "GG1570S-004",
@@ -41920,6 +41960,11 @@
         "qty": 4,
         "product_title": "GG1630S-001",
         "sku": "GUCCI-GG1630S-001"
+      },
+      "gid://shopify/ProductVariant/48301170426110": {
+        "qty": 2,
+        "product_title": "GG1630S-001-RELABELED",
+        "sku": "GUCCI-GG1630S-001_R"
       },
       "gid://shopify/ProductVariant/48288333496574": {
         "qty": 4,
@@ -43426,6 +43471,21 @@
         "product_title": "B245-BRN-52",
         "sku": "TB-B245-BRN-52"
       },
+      "gid://shopify/ProductVariant/47761274667262": {
+        "qty": 2,
+        "product_title": "EXTRUSION-2-1515",
+        "sku": "PD-EXTRUSION-2-1515"
+      },
+      "gid://shopify/ProductVariant/47761274700030": {
+        "qty": 3,
+        "product_title": "EXTRUSION-2-5522",
+        "sku": "PD-EXTRUSION-2-5522"
+      },
+      "gid://shopify/ProductVariant/47761274732798": {
+        "qty": 3,
+        "product_title": "EXTRUSION-2-6525",
+        "sku": "PD-EXTRUSION-2-6525"
+      },
       "gid://shopify/ProductVariant/47655188824318": {
         "qty": 2,
         "product_title": "FELICITY-SUN-COL-B",
@@ -43636,6 +43696,21 @@
         "product_title": "MIS-0171/S-1ED/JP",
         "sku": "MISSONI-MIS-0171/S-1ED/JP"
       },
+      "gid://shopify/ProductVariant/48145123999998": {
+        "qty": 25,
+        "product_title": "NO APOLOGIES-75680",
+        "sku": "QUAY-NO-NS-2150-BLK/SMK"
+      },
+      "gid://shopify/ProductVariant/48145124098302": {
+        "qty": 25,
+        "product_title": "NO APOLOGIES-77091",
+        "sku": "QUAY-NO-NS-2557-TRTYLW/BRN"
+      },
+      "gid://shopify/ProductVariant/48145124163838": {
+        "qty": 25,
+        "product_title": "NOT MY FAULT-79946",
+        "sku": "QUAY-NO-NS-2710-DTRT/BRN"
+      },
       "gid://shopify/ProductVariant/47655189938430": {
         "qty": 3,
         "product_title": "ONE-HEART-SUN-COL-B",
@@ -43646,60 +43721,15 @@
         "product_title": "ONE-HEART-SUN-COL-E",
         "sku": "AW-ONE-HEART-E"
       },
-      "gid://shopify/ProductVariant/47655190495486": {
-        "qty": 1,
-        "product_title": "POWER-SUN-COL-D",
-        "sku": "AW-POWER-D"
-      },
-      "gid://shopify/ProductVariant/47456037601534": {
-        "qty": 3,
-        "product_title": "QS4017-TPE",
-        "sku": "QUIKSILVER-QS4017-TPE"
-      },
-      "gid://shopify/ProductVariant/47655190659326": {
-        "qty": 7,
-        "product_title": "REVERENCE-SUN-COL-B",
-        "sku": "AW-REVERENCE-B"
-      },
-      "gid://shopify/ProductVariant/47655190692094": {
-        "qty": 3,
-        "product_title": "RISING-HIGH-SUN-COL-C",
-        "sku": "AW-RISING-HIGH-C"
-      },
-      "gid://shopify/ProductVariant/47455922651390": {
-        "qty": 8,
-        "product_title": "RX7001-BLU",
-        "sku": "ROXY-RX7001-BLU"
-      },
-      "gid://shopify/ProductVariant/47455922749694": {
-        "qty": 8,
-        "product_title": "RX7001-PUR",
-        "sku": "ROXY-RX7001-PUR"
-      },
-      "gid://shopify/ProductVariant/47455922782462": {
-        "qty": 3,
-        "product_title": "RX7001-TO",
-        "sku": "ROXY-RX7001-TO"
-      },
-      "gid://shopify/ProductVariant/47455922946302": {
-        "qty": 9,
-        "product_title": "RX7004-VER",
-        "sku": "ROXY-RX7004-VER"
-      },
-      "gid://shopify/ProductVariant/47455923503358": {
-        "qty": 4,
-        "product_title": "RX7005-BLU",
-        "sku": "ROXY-RX7005-BLU"
-      },
-      "gid://shopify/ProductVariant/47455923536126": {
-        "qty": 9,
-        "product_title": "RX7005-GTO",
-        "sku": "ROXY-RX7005-GTO"
-      },
-      "gid://shopify/ProductVariant/47455923601662": {
+      "gid://shopify/ProductVariant/47432867315966": {
         "qty": 2,
-        "product_title": "RX7008-SAGE",
-        "sku": "ROXY-RX7008-SAGE"
+        "product_title": "ELODIE-C",
+        "sku": "AW-ELODIE-C"
+      },
+      "gid://shopify/ProductVariant/47432867348734": {
+        "qty": 6,
+        "product_title": "ELODIE-D",
+        "sku": "AW-ELODIE-D"
       },
       "gid://shopify/ProductVariant/47432867545342": {
         "qty": 5,
@@ -43730,6 +43760,16 @@
         "qty": 32,
         "product_title": "HERCULES6-SLV",
         "sku": "EJ-HERCULES6-SLV"
+      },
+      "gid://shopify/ProductVariant/48145122590974": {
+        "qty": 25,
+        "product_title": "HIGH KEY EXTRA LARGE-79939",
+        "sku": "QUAY-NO-NS-2575-BLK/BPLPK"
+      },
+      "gid://shopify/ProductVariant/48145123082494": {
+        "qty": 25,
+        "product_title": "HIGH KEY TWIST-79960",
+        "sku": "QUAY-NO-NS-2696-DTRT/GRN"
       },
       "gid://shopify/ProductVariant/47432867971326": {
         "qty": 1,
@@ -43990,6 +44030,16 @@
         "qty": 3,
         "product_title": "STILTENN-D",
         "sku": "AW-STILTENN-D"
+      },
+      "gid://shopify/ProductVariant/48145124983038": {
+        "qty": 25,
+        "product_title": "TEXT ME-78600",
+        "sku": "QUAY-NO-NS-2441-GLD/SEP"
+      },
+      "gid://shopify/ProductVariant/48145125048574": {
+        "qty": 25,
+        "product_title": "TEXT ME-78633",
+        "sku": "QUAY-NO-NS-2441-GNMTL/SMK"
       },
       "gid://shopify/ProductVariant/47761275977982": {
         "qty": 9,
@@ -48141,11 +48191,6 @@
         "product_title": "HER-0227-O63-53_D",
         "sku": "CH-HER-0227-O63-53_D"
       },
-      "gid://shopify/ProductVariant/48504819712254": {
-        "qty": 1,
-        "product_title": "HER-0306-000-56_D",
-        "sku": "CH-HER-0306-000-56_D"
-      },
       "gid://shopify/ProductVariant/48504835440894": {
         "qty": 1,
         "product_title": "HEXA-3-N-9345-53_D",
@@ -50386,6 +50431,41 @@
         "product_title": "RX7014-TO",
         "sku": "ROXY-RX7014-TO"
       },
+      "gid://shopify/ProductVariant/47455923601662": {
+        "qty": 2,
+        "product_title": "RX7008-SAGE",
+        "sku": "ROXY-RX7008-SAGE"
+      },
+      "gid://shopify/ProductVariant/47455922782462": {
+        "qty": 3,
+        "product_title": "RX7001-TO",
+        "sku": "ROXY-RX7001-TO"
+      },
+      "gid://shopify/ProductVariant/47455923503358": {
+        "qty": 4,
+        "product_title": "RX7005-BLU",
+        "sku": "ROXY-RX7005-BLU"
+      },
+      "gid://shopify/ProductVariant/47455922749694": {
+        "qty": 8,
+        "product_title": "RX7001-PUR",
+        "sku": "ROXY-RX7001-PUR"
+      },
+      "gid://shopify/ProductVariant/47455922651390": {
+        "qty": 8,
+        "product_title": "RX7001-BLU",
+        "sku": "ROXY-RX7001-BLU"
+      },
+      "gid://shopify/ProductVariant/47455923536126": {
+        "qty": 9,
+        "product_title": "RX7005-GTO",
+        "sku": "ROXY-RX7005-GTO"
+      },
+      "gid://shopify/ProductVariant/47455922946302": {
+        "qty": 9,
+        "product_title": "RX7004-VER",
+        "sku": "ROXY-RX7004-VER"
+      },
       "gid://shopify/ProductVariant/47455923929342": {
         "qty": 10,
         "product_title": "RX7014-GRN",
@@ -50400,6 +50480,11 @@
         "qty": 11,
         "product_title": "RX7014-BLK",
         "sku": "ROXY-RX7014-BLK"
+      },
+      "gid://shopify/ProductVariant/47456037601534": {
+        "qty": 3,
+        "product_title": "QS4017-TPE",
+        "sku": "QUIKSILVER-QS4017-TPE"
       },
       "gid://shopify/ProductVariant/47484458270974": {
         "qty": 7,
