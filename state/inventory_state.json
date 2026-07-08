@@ -29978,7 +29978,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-08T09:58:59.848951+00:00",
+    "updated_at": "2026-07-08T11:47:23.446677+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
@@ -29992,7 +29992,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 15894,
+        "total_qty": 15834,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30152,7 +30152,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 15444,
+        "total_qty": 15384,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30376,7 +30376,7 @@
         "title": "Kid's Eyeglasses",
         "handle": "kids-eyeglasses",
         "legacy_id": "408131305726",
-        "total_qty": 22312,
+        "total_qty": 22297,
         "sku_count": 93,
         "product_count": 93
       },
@@ -30416,7 +30416,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 6225,
+        "total_qty": 6215,
         "sku_count": 249,
         "product_count": 249
       },
@@ -30440,7 +30440,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 9633,
+        "total_qty": 9588,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30456,7 +30456,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 14196,
+        "total_qty": 14136,
         "sku_count": 226,
         "product_count": 226
       },
@@ -30464,7 +30464,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 6225,
+        "total_qty": 6215,
         "sku_count": 249,
         "product_count": 249
       },
@@ -30560,7 +30560,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 8920,
+        "total_qty": 8875,
         "sku_count": 223,
         "product_count": 223
       },
@@ -30568,7 +30568,7 @@
         "title": "Kids",
         "handle": "kids",
         "legacy_id": "454431080702",
-        "total_qty": 22307,
+        "total_qty": 22291,
         "sku_count": 118,
         "product_count": 118
       },
@@ -30600,7 +30600,7 @@
         "title": "PRIMARY",
         "handle": "primary",
         "legacy_id": "460628721918",
-        "total_qty": 37333,
+        "total_qty": 37251,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30616,7 +30616,7 @@
         "title": "Plastic Metal",
         "handle": "plastic-metal",
         "legacy_id": "462599520510",
-        "total_qty": 1809,
+        "total_qty": 1789,
         "sku_count": 99,
         "product_count": 99
       },
@@ -30648,7 +30648,7 @@
         "title": "Tariff Busters",
         "handle": "tariff-busters",
         "legacy_id": "463834087678",
-        "total_qty": 38866,
+        "total_qty": 38871,
         "sku_count": 250,
         "product_count": 250
       },
@@ -32367,7 +32367,7 @@
         "sku": "Primary-1005-Gunmetal-52"
       },
       "gid://shopify/ProductVariant/46371971039486": {
-        "qty": 93,
+        "qty": 88,
         "product_title": "1007-HONEYTORTOISE-54",
         "sku": "Primary-1007-HoneyTortoise-54"
       },
@@ -32482,7 +32482,7 @@
         "sku": "Primary-1041-Black/RedTortoise-54"
       },
       "gid://shopify/ProductVariant/46371975430398": {
-        "qty": 40,
+        "qty": 30,
         "product_title": "1041-TORTOISE-54",
         "sku": "Primary-1041-Tortoise-54"
       },
@@ -32562,7 +32562,7 @@
         "sku": "Primary-1058-Gunmetal-55"
       },
       "gid://shopify/ProductVariant/46371979067646": {
-        "qty": 136,
+        "qty": 131,
         "product_title": "1058-NAVY-55",
         "sku": "Primary-1058-Navy-55"
       },
@@ -32592,7 +32592,7 @@
         "sku": "Primary-1061-IndigoTortoise-53"
       },
       "gid://shopify/ProductVariant/46371982082302": {
-        "qty": 43,
+        "qty": 38,
         "product_title": "1061-TORTOISE-53",
         "sku": "Primary-1061-Tortoise-53"
       },
@@ -32697,7 +32697,7 @@
         "sku": "Primary-1073-Black-50"
       },
       "gid://shopify/ProductVariant/46371998695678": {
-        "qty": 53,
+        "qty": 48,
         "product_title": "1073-BROWN/BLUE-50",
         "sku": "Primary-1073-Brown/Blue-50"
       },
@@ -32707,12 +32707,12 @@
         "sku": "DB-1073-KB7-54"
       },
       "gid://shopify/ProductVariant/46371998793982": {
-        "qty": 97,
+        "qty": 92,
         "product_title": "1073-SNOWTORT-50",
         "sku": "Primary-1073-SnowTort-50"
       },
       "gid://shopify/ProductVariant/46371999318270": {
-        "qty": 47,
+        "qty": 42,
         "product_title": "1073-TORTMINT-50",
         "sku": "Primary-1073-TortMint-50"
       },
@@ -32722,7 +32722,7 @@
         "sku": "Primary-1074-Green-51"
       },
       "gid://shopify/ProductVariant/46372001841406": {
-        "qty": 124,
+        "qty": 119,
         "product_title": "1080-BLACK-52",
         "sku": "Primary-1080-Black-52"
       },
@@ -32732,7 +32732,7 @@
         "sku": "Primary-1080-Brown-52"
       },
       "gid://shopify/ProductVariant/46372001972478": {
-        "qty": 25,
+        "qty": 20,
         "product_title": "1080-GUNMETAL-52",
         "sku": "Primary-1080-Gunmetal-52"
       },
@@ -32892,7 +32892,7 @@
         "sku": "Primary-1117BRN-51"
       },
       "gid://shopify/ProductVariant/46372017864958": {
-        "qty": 101,
+        "qty": 96,
         "product_title": "1117GUN-51",
         "sku": "Primary-1117GUN-51"
       },
@@ -33007,7 +33007,7 @@
         "sku": "DB-1123-WR7-50"
       },
       "gid://shopify/ProductVariant/46372024385790": {
-        "qty": 11,
+        "qty": 6,
         "product_title": "1123BLK-53",
         "sku": "Primary-1123BLK-53"
       },
@@ -40241,6 +40241,11 @@
         "product_title": "MOS-616/F-0086-54",
         "sku": "MOSCHINO-MOS-616/F-0086-54"
       },
+      "gid://shopify/ProductVariant/46646965502206": {
+        "qty": 4,
+        "product_title": "MOS-163/S-035J/U1",
+        "sku": "MOSCHINO-MOS-163/S-035J/U1"
+      },
       "gid://shopify/ProductVariant/48121216041214": {
         "qty": 5,
         "product_title": "MOS166/S-2W8/IR",
@@ -40250,11 +40255,6 @@
         "qty": 4,
         "product_title": "MOS630-FWM-50",
         "sku": "MOSCHINO-MOS630-FWM-50"
-      },
-      "gid://shopify/ProductVariant/46646965502206": {
-        "qty": 4,
-        "product_title": "MOS-163/S-035J/U1",
-        "sku": "MOSCHINO-MOS-163/S-035J/U1"
       },
       "gid://shopify/ProductVariant/46632106262782": {
         "qty": 30,
@@ -42257,7 +42257,7 @@
         "sku": "Primary-Pk108-Gray-48"
       },
       "gid://shopify/ProductVariant/46617260032254": {
-        "qty": 31,
+        "qty": 26,
         "product_title": "PK105-BLACK/RED-45",
         "sku": "Primary-Pk105-Black/Red-45"
       },
@@ -42352,7 +42352,7 @@
         "sku": "Primary-Pk109-MatteGunmetal-48"
       },
       "gid://shopify/ProductVariant/46617260130558": {
-        "qty": 24,
+        "qty": 19,
         "product_title": "PK106-BLACK/GREY-45",
         "sku": "Primary-Pk106-Black/Grey-45"
       },
@@ -42367,7 +42367,7 @@
         "sku": "Primary-Pk104-MatteBlack-41"
       },
       "gid://shopify/ProductVariant/46617258950910": {
-        "qty": 93,
+        "qty": 88,
         "product_title": "PK103-MATT-BLK/PUR--45",
         "sku": "Primary-PK103-MATT-BLK/PUR--45"
       },
@@ -46512,7 +46512,7 @@
         "sku": "Primary-PK103-BLK/PINK--45"
       },
       "gid://shopify/ProductVariant/46617259016446": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "PK103-MATTE-BLK/BLU--45",
         "sku": "Primary-PK103-MATTE-BLK/BLU--45"
       },
@@ -47302,7 +47302,7 @@
         "sku": "Primary-M109-Blue-52"
       },
       "gid://shopify/ProductVariant/46372043587838": {
-        "qty": 94,
+        "qty": 89,
         "product_title": "M109-TORTOISE/BROWN-52",
         "sku": "Primary-M109-Tortoise/Brown-52"
       },
@@ -47497,7 +47497,7 @@
         "sku": "Primary-PN507RED-53"
       },
       "gid://shopify/ProductVariant/46372086710526": {
-        "qty": 27,
+        "qty": 22,
         "product_title": "PN508-TORTOISE-55",
         "sku": "Primary-Pn508-Tortoise-55"
       },
@@ -47561,6 +47561,11 @@
         "product_title": "PT104-MATTEBROWN-53",
         "sku": "PRIMARY-Pt104-MatteBrown-53"
       },
+      "gid://shopify/ProductVariant/46371959243006": {
+        "qty": 4,
+        "product_title": "PT106-BLACK-52",
+        "sku": "PRIMARY-Pt106-Black-52"
+      },
       "gid://shopify/ProductVariant/46371966222590": {
         "qty": 30,
         "product_title": "PT111-GOLD-53",
@@ -47595,11 +47600,6 @@
         "qty": 166,
         "product_title": "PT109-GUNMETAL-52",
         "sku": "PRIMARY-Pt109-Gunmetal-52"
-      },
-      "gid://shopify/ProductVariant/46371959243006": {
-        "qty": 4,
-        "product_title": "PT106-BLACK-52",
-        "sku": "PRIMARY-Pt106-Black-52"
       },
       "gid://shopify/ProductVariant/46371965960446": {
         "qty": 164,
@@ -48241,6 +48241,11 @@
         "product_title": "Pn107Brn-52",
         "sku": "Signature-Pn107Brn-52"
       },
+      "gid://shopify/ProductVariant/46684979724542": {
+        "qty": 86,
+        "product_title": "Pn110-Pink-53",
+        "sku": "Signature-Pn110-Pink-53"
+      },
       "gid://shopify/ProductVariant/46670757134590": {
         "qty": 9,
         "product_title": "CKJ20515-240-52",
@@ -48511,15 +48516,15 @@
         "product_title": "S7002-GreyStripe-54",
         "sku": "Signature-S7002-GreyStripe-54"
       },
-      "gid://shopify/ProductVariant/46684979724542": {
-        "qty": 86,
-        "product_title": "Pn110-Pink-53",
-        "sku": "Signature-Pn110-Pink-53"
-      },
       "gid://shopify/ProductVariant/46684990603518": {
         "qty": 25,
         "product_title": "S7023-BrownFade-51",
         "sku": "Signature-S7023-BrownFade-51"
+      },
+      "gid://shopify/ProductVariant/46684987949310": {
+        "qty": 6,
+        "product_title": "S7016-Navy-51",
+        "sku": "Signature-S7016-Navy-51"
       },
       "gid://shopify/ProductVariant/46684986343678": {
         "qty": 129,
@@ -48565,11 +48570,6 @@
         "qty": 22,
         "product_title": "S7020-BrownStripe-52",
         "sku": "Signature-S7020-BrownStripe-52"
-      },
-      "gid://shopify/ProductVariant/46684987949310": {
-        "qty": 6,
-        "product_title": "S7016-Navy-51",
-        "sku": "Signature-S7016-Navy-51"
       },
       "gid://shopify/ProductVariant/46684987064574": {
         "qty": 13,
@@ -49376,6 +49376,11 @@
         "product_title": "40037N-RR03-50",
         "sku": "NOMAD-MOREL-40037N-RR03-50"
       },
+      "gid://shopify/ProductVariant/47558959104254": {
+        "qty": 10,
+        "product_title": "2888N-MM040-50",
+        "sku": "NOMAD-MOREL-2888N-MM040-50"
+      },
       "gid://shopify/ProductVariant/47558958907646": {
         "qty": 3,
         "product_title": "2549N-MB063-51",
@@ -49440,11 +49445,6 @@
         "qty": 2,
         "product_title": "2888N-PG042-50",
         "sku": "NOMAD-MOREL-2888N-PG042-50"
-      },
-      "gid://shopify/ProductVariant/47558959104254": {
-        "qty": 10,
-        "product_title": "2888N-MM040-50",
-        "sku": "NOMAD-MOREL-2888N-MM040-50"
       },
       "gid://shopify/ProductVariant/47558959071486": {
         "qty": 3,
@@ -50926,30 +50926,30 @@
         "product_title": "SUPERSTAR2-RTORT",
         "sku": "EJ-SUPERSTAR2-RTORT"
       },
-      "gid://shopify/ProductVariant/48094433673470": {
-        "qty": 21,
-        "product_title": "WALK-OF-FAME-SILBL",
-        "sku": "EJ-WALK-OF-FAME-SILBL"
-      },
       "gid://shopify/ProductVariant/48094433313022": {
         "qty": 12,
         "product_title": "TECHIE2-TRTSY",
         "sku": "EJ-TECHIE2-TRTSY"
-      },
-      "gid://shopify/ProductVariant/48094433181950": {
-        "qty": 17,
-        "product_title": "TECHIE1-TERTNY",
-        "sku": "EJ-TECHIE1-TERTNY"
       },
       "gid://shopify/ProductVariant/48094433018110": {
         "qty": 12,
         "product_title": "SUPERSTAR3-NVYGR",
         "sku": "EJ-SUPERSTAR3-NVYGR"
       },
+      "gid://shopify/ProductVariant/48094433673470": {
+        "qty": 21,
+        "product_title": "WALK-OF-FAME-SILBL",
+        "sku": "EJ-WALK-OF-FAME-SILBL"
+      },
       "gid://shopify/ProductVariant/48094433444094": {
         "qty": 14,
         "product_title": "VIP-VIBLK",
         "sku": "EJ-VIP-VIBLK"
+      },
+      "gid://shopify/ProductVariant/48094433181950": {
+        "qty": 17,
+        "product_title": "TECHIE1-TERTNY",
+        "sku": "EJ-TECHIE1-TERTNY"
       },
       "gid://shopify/ProductVariant/48094433476862": {
         "qty": 18,
