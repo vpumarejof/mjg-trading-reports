@@ -29978,7 +29978,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-09T01:16:25.252005+00:00",
+    "updated_at": "2026-07-09T05:29:59.392773+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
@@ -30176,7 +30176,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 3538,
+        "total_qty": 3537,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30656,7 +30656,7 @@
         "title": "CALVIN KLEIN JEANS",
         "handle": "calvin-klein-jeans",
         "legacy_id": "464057172222",
-        "total_qty": 519,
+        "total_qty": 518,
         "sku_count": 62,
         "product_count": 62
       },
@@ -38657,7 +38657,7 @@
         "sku": "CKJ-CKJ24618-050-53"
       },
       "gid://shopify/ProductVariant/48361935634686": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "CKJ24615-011-53",
         "sku": "CKJ-CKJ24615-011-53"
       },
