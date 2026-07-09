@@ -30044,7 +30044,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-09T22:16:53.160784+00:00",
+    "updated_at": "2026-07-09T23:43:32.499700+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
@@ -30058,7 +30058,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 15828,
+        "total_qty": 15826,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30186,7 +30186,7 @@
         "title": "SAINT LAURENT",
         "handle": "saint-laurent",
         "legacy_id": "391775584510",
-        "total_qty": 15,
+        "total_qty": 13,
         "sku_count": 9,
         "product_count": 9
       },
@@ -30210,7 +30210,7 @@
         "title": "VERSACE",
         "handle": "versace",
         "legacy_id": "391776010494",
-        "total_qty": 81,
+        "total_qty": 79,
         "sku_count": 9,
         "product_count": 9
       },
@@ -30218,7 +30218,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 15396,
+        "total_qty": 15394,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30330,7 +30330,7 @@
         "title": "BALENCIAGA",
         "handle": "balenciaga",
         "legacy_id": "395973296382",
-        "total_qty": 261,
+        "total_qty": 260,
         "sku_count": 113,
         "product_count": 113
       },
@@ -30410,9 +30410,9 @@
         "title": "Gucci",
         "handle": "gucci-1",
         "legacy_id": "407282450686",
-        "total_qty": 603,
-        "sku_count": 124,
-        "product_count": 124
+        "total_qty": 601,
+        "sku_count": 123,
+        "product_count": 123
       },
       "gid://shopify/Collection/407946952958": {
         "title": "New Arrivals",
@@ -30482,7 +30482,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 6211,
+        "total_qty": 6209,
         "sku_count": 249,
         "product_count": 249
       },
@@ -30498,7 +30498,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2915,
+        "total_qty": 2914,
         "sku_count": 210,
         "product_count": 210
       },
@@ -30522,7 +30522,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 12284,
+        "total_qty": 12282,
         "sku_count": 226,
         "product_count": 226
       },
@@ -30530,7 +30530,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 6211,
+        "total_qty": 6209,
         "sku_count": 249,
         "product_count": 249
       },
@@ -30578,7 +30578,7 @@
         "title": "GUCCI",
         "handle": "gucci",
         "legacy_id": "421341364478",
-        "total_qty": 361,
+        "total_qty": 360,
         "sku_count": 198,
         "product_count": 198
       },
@@ -30682,7 +30682,7 @@
         "title": "Plastic Metal",
         "handle": "plastic-metal",
         "legacy_id": "462599520510",
-        "total_qty": 1782,
+        "total_qty": 1781,
         "sku_count": 99,
         "product_count": 99
       },
@@ -30858,7 +30858,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 2207,
+        "total_qty": 2205,
         "sku_count": 250,
         "product_count": 250
       },
@@ -31058,9 +31058,9 @@
         "title": "Relabeled",
         "handle": "relabeled",
         "legacy_id": "484454269182",
-        "total_qty": 277,
-        "sku_count": 150,
-        "product_count": 150
+        "total_qty": 274,
+        "sku_count": 149,
+        "product_count": 149
       },
       "gid://shopify/Collection/485871059198": {
         "title": "ANNA-KARIN KARLSSON",
@@ -32403,12 +32403,12 @@
         "sku": "PRADA0PR60XV5541O153"
       },
       "gid://shopify/ProductVariant/47095925113086": {
-        "qty": 14,
+        "qty": 13,
         "product_title": "0VE3297D-388-55",
         "sku": "VERSACE-0VE3297D-388-55"
       },
       "gid://shopify/ProductVariant/47095925604606": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "0VE3349U-GB1-53",
         "sku": "VERSACE-0VE3349U-GB1-53"
       },
@@ -35613,7 +35613,7 @@
         "sku": "PRADA-PR-10YV-1AB1O1-54"
       },
       "gid://shopify/ProductVariant/44587877499134": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "SL553-003",
         "sku": "SAINT LAURENT SL553 003"
       },
@@ -35623,7 +35623,7 @@
         "sku": "SAINTLAURENTSL29700753"
       },
       "gid://shopify/ProductVariant/42500341301502": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "SL26800350",
         "sku": "SL26800350"
       },
@@ -40673,7 +40673,7 @@
         "sku": "BALENCIAGA-BB0341O-007-58_R"
       },
       "gid://shopify/ProductVariant/48301159743742": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "BB0341O-006-58-RELABELED",
         "sku": "BALENCIAGA-BB0341O-006-58_R"
       },
@@ -41777,11 +41777,6 @@
         "product_title": "GG1450O-002-53",
         "sku": "GUCCI-GG1450O-002-53"
       },
-      "gid://shopify/ProductVariant/48301161382142": {
-        "qty": 1,
-        "product_title": "GG1450O-002-53-RELABELED",
-        "sku": "GUCCI-GG1450O-002-53_R"
-      },
       "gid://shopify/ProductVariant/47807389073662": {
         "qty": 1,
         "product_title": "GG1460S-004",
@@ -41988,7 +41983,7 @@
         "sku": "GUCCI-GG1645S-003_R"
       },
       "gid://shopify/ProductVariant/48301161644286": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "GG1666O-007-53-RELABELED",
         "sku": "GUCCI-GG1666O-007-53_R"
       },
@@ -45801,6 +45796,11 @@
         "qty": 0,
         "product_title": "GG1448O-003-56-RELABELED",
         "sku": "GUCCI-GG1448O-003-56_R"
+      },
+      "gid://shopify/ProductVariant/48301161382142": {
+        "qty": 0,
+        "product_title": "GG1450O-002-53-RELABELED",
+        "sku": "GUCCI-GG1450O-002-53_R"
       },
       "gid://shopify/ProductVariant/48301168263422": {
         "qty": 0,
