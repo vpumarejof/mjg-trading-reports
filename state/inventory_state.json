@@ -30044,13 +30044,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-09T17:04:52.957638+00:00",
+    "updated_at": "2026-07-09T18:59:19.855101+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 3040,
+        "total_qty": 3009,
         "sku_count": 247,
         "product_count": 247
       },
@@ -30138,9 +30138,9 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 720,
-        "sku_count": 132,
-        "product_count": 132
+        "total_qty": 721,
+        "sku_count": 133,
+        "product_count": 133
       },
       "gid://shopify/Collection/391774667006": {
         "title": "LIZ CLAIBORNE",
@@ -30170,7 +30170,7 @@
         "title": "NIKE",
         "handle": "nike",
         "legacy_id": "391775125758",
-        "total_qty": 299,
+        "total_qty": 296,
         "sku_count": 30,
         "product_count": 30
       },
@@ -30210,15 +30210,15 @@
         "title": "VERSACE",
         "handle": "versace",
         "legacy_id": "391776010494",
-        "total_qty": 68,
-        "sku_count": 7,
-        "product_count": 7
+        "total_qty": 81,
+        "sku_count": 9,
+        "product_count": 9
       },
       "gid://shopify/Collection/391850787070": {
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 15402,
+        "total_qty": 15404,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30242,7 +30242,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 3913,
+        "total_qty": 3912,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30266,7 +30266,7 @@
         "title": "LACOSTE",
         "handle": "lacoste",
         "legacy_id": "393068577022",
-        "total_qty": 220,
+        "total_qty": 217,
         "sku_count": 28,
         "product_count": 28
       },
@@ -30490,7 +30490,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 3429,
+        "total_qty": 3421,
         "sku_count": 248,
         "product_count": 248
       },
@@ -30498,9 +30498,9 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2884,
-        "sku_count": 201,
-        "product_count": 201
+        "total_qty": 2888,
+        "sku_count": 202,
+        "product_count": 202
       },
       "gid://shopify/Collection/410150043902": {
         "title": "Unisex Eyeglasses",
@@ -30514,7 +30514,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2356,
+        "total_qty": 2353,
         "sku_count": 237,
         "product_count": 237
       },
@@ -30522,7 +30522,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 12809,
+        "total_qty": 12401,
         "sku_count": 226,
         "product_count": 226
       },
@@ -30586,7 +30586,7 @@
         "title": "KARL LAGERFELD",
         "handle": "karl-lagerfeld",
         "legacy_id": "422907576574",
-        "total_qty": 438,
+        "total_qty": 437,
         "sku_count": 39,
         "product_count": 39
       },
@@ -30858,7 +30858,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 2413,
+        "total_qty": 2416,
         "sku_count": 250,
         "product_count": 250
       },
@@ -31181,6 +31181,11 @@
         "qty": 1,
         "product_title": "0BB5041-60377157",
         "sku": "BROOKS BROTHERS 0BB5041 60377157"
+      },
+      "gid://shopify/ProductVariant/46343985758462": {
+        "qty": 7,
+        "product_title": "0VE2251-14718763",
+        "sku": "VERSACE-0VE2251-14718763"
       },
       "gid://shopify/ProductVariant/47095926948094": {
         "qty": 17,
@@ -32301,11 +32306,6 @@
         "qty": 24,
         "product_title": "DR-DUSK-LL-002",
         "sku": "DRAGONDRDUSKLL002"
-      },
-      "gid://shopify/ProductVariant/42500385014014": {
-        "qty": 38,
-        "product_title": "DR-DUSK-LL-020",
-        "sku": "DRAGONDRDUSKLL020"
       },
       "gid://shopify/ProductVariant/47998569513214": {
         "qty": 3,
@@ -34137,6 +34137,11 @@
         "product_title": "DR-DUSK-LL-259",
         "sku": "DRAGONDRDUSKLL259"
       },
+      "gid://shopify/ProductVariant/42500385014014": {
+        "qty": 38,
+        "product_title": "DR-DUSK-LL-020",
+        "sku": "DRAGONDRDUSKLL020"
+      },
       "gid://shopify/ProductVariant/42500366139646": {
         "qty": 119,
         "product_title": "DR-RUNE-001",
@@ -34276,6 +34281,11 @@
         "qty": 5,
         "product_title": "BRYLIE-QGX-50",
         "sku": "KS-BRYLIE-QGX-50"
+      },
+      "gid://shopify/ProductVariant/48349469114622": {
+        "qty": 1,
+        "product_title": "KARRIE/S-09Q/QT",
+        "sku": "KS-KARRIE/S-09Q/QT"
       },
       "gid://shopify/ProductVariant/48121214927102": {
         "qty": 11,
@@ -35423,7 +35433,7 @@
         "sku": "NIKE-7163-601-55"
       },
       "gid://shopify/ProductVariant/46811477016830": {
-        "qty": 13,
+        "qty": 10,
         "product_title": "PURSUIT FLAIR IB3683X",
         "sku": "NIKE-PURSUIT-FLAIR-IB3683X-010"
       },
@@ -36316,6 +36326,11 @@
         "qty": 1,
         "product_title": "TJ-0041-S-0VK6-K1",
         "sku": "TOMMY HILFIGER TJ 0041/S 0VK6/K1"
+      },
+      "gid://shopify/ProductVariant/47358980129022": {
+        "qty": 6,
+        "product_title": "VE2248-100287",
+        "sku": "VERSACE-VE2248-100287"
       },
       "gid://shopify/ProductVariant/42862335787262": {
         "qty": 0,
@@ -39118,7 +39133,7 @@
         "sku": "KL-KL6186S-242"
       },
       "gid://shopify/ProductVariant/48307063128318": {
-        "qty": 36,
+        "qty": 35,
         "product_title": "KL6180S-N-232",
         "sku": "KL-KL6180S-N-232"
       },
@@ -39978,7 +39993,7 @@
         "sku": "LACOSTE-L6057S-601"
       },
       "gid://shopify/ProductVariant/47609133695230": {
-        "qty": 16,
+        "qty": 13,
         "product_title": "L6058S-615",
         "sku": "LACOSTE-L6058S-615"
       },
@@ -43746,11 +43761,6 @@
         "qty": 8,
         "product_title": "RX7001-BLU",
         "sku": "ROXY-RX7001-BLU"
-      },
-      "gid://shopify/ProductVariant/47455922749694": {
-        "qty": 8,
-        "product_title": "RX7001-PUR",
-        "sku": "ROXY-RX7001-PUR"
       },
       "gid://shopify/ProductVariant/47432866136318": {
         "qty": 1,
@@ -50466,6 +50476,11 @@
         "qty": 4,
         "product_title": "RX7005-BLU",
         "sku": "ROXY-RX7005-BLU"
+      },
+      "gid://shopify/ProductVariant/47455922749694": {
+        "qty": 8,
+        "product_title": "RX7001-PUR",
+        "sku": "ROXY-RX7001-PUR"
       },
       "gid://shopify/ProductVariant/47455923536126": {
         "qty": 9,
