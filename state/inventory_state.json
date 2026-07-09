@@ -29978,7 +29978,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-08T23:44:03.961436+00:00",
+    "updated_at": "2026-07-09T01:16:25.252005+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
@@ -30072,7 +30072,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 730,
+        "total_qty": 729,
         "sku_count": 134,
         "product_count": 134
       },
@@ -30176,7 +30176,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 3539,
+        "total_qty": 3538,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30248,7 +30248,7 @@
         "title": "CAROLINA HERRERA",
         "handle": "carolina-herrera",
         "legacy_id": "395943936254",
-        "total_qty": 161,
+        "total_qty": 160,
         "sku_count": 16,
         "product_count": 16
       },
@@ -30352,7 +30352,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 305,
+        "total_qty": 304,
         "sku_count": 39,
         "product_count": 39
       },
@@ -34167,7 +34167,7 @@
         "sku": "FENDI-FE4172US-16J"
       },
       "gid://shopify/ProductVariant/48493129531646": {
-        "qty": 15,
+        "qty": 14,
         "product_title": "VARESE/O/S-010/9O",
         "sku": "KS-VARESE/O/S-010/9O"
       },
@@ -40467,7 +40467,7 @@
         "sku": "CH-HER-0210-O63-52"
       },
       "gid://shopify/ProductVariant/47845513789694": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "HER-0210-WR7-52",
         "sku": "CH-HER-0210-WR7-52"
       },
