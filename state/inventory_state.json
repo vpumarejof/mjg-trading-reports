@@ -29978,7 +29978,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-09T05:29:59.392773+00:00",
+    "updated_at": "2026-07-09T08:56:41.693764+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
@@ -30632,9 +30632,9 @@
         "title": "OPEN BOX",
         "handle": "shelf-pulls",
         "legacy_id": "463407481086",
-        "total_qty": 99,
-        "sku_count": 43,
-        "product_count": 43
+        "total_qty": 97,
+        "sku_count": 41,
+        "product_count": 41
       },
       "gid://shopify/Collection/463674867966": {
         "title": "Open Box",
@@ -48126,11 +48126,6 @@
         "product_title": "HER-0227-O63-53_D",
         "sku": "CH-HER-0227-O63-53_D"
       },
-      "gid://shopify/ProductVariant/48504835440894": {
-        "qty": 1,
-        "product_title": "HEXA-3-N-9345-53_D",
-        "sku": "PD-HEXA-3-N-9345-53_D"
-      },
       "gid://shopify/ProductVariant/47698873417982": {
         "qty": 1,
         "product_title": "IKCHF70-0579-56_D",
@@ -48155,11 +48150,6 @@
         "qty": 1,
         "product_title": "KIMBERLEE-3DV-52_D",
         "sku": "KS-KIMBERLEE-3DV-52_D"
-      },
-      "gid://shopify/ProductVariant/48504825348350": {
-        "qty": 1,
-        "product_title": "LO2608-N-424-51",
-        "sku": "LONGCHAMP-LO2608-N-424-51_D"
       },
       "gid://shopify/ProductVariant/47807610650878": {
         "qty": 7,
