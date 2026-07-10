@@ -30044,7 +30044,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-10T08:48:02.909226+00:00",
+    "updated_at": "2026-07-10T11:43:47.274105+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
@@ -30178,7 +30178,7 @@
         "title": "PRADA",
         "handle": "prada",
         "legacy_id": "391775289598",
-        "total_qty": 73,
+        "total_qty": 72,
         "sku_count": 21,
         "product_count": 21
       },
@@ -30242,7 +30242,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 3797,
+        "total_qty": 3796,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30514,7 +30514,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2356,
+        "total_qty": 2355,
         "sku_count": 241,
         "product_count": 241
       },
@@ -35422,6 +35422,11 @@
         "product_title": "ESSENTIAL HORIZON EV1118",
         "sku": "NIKE-ESSENTIAL-HORIZON-EV1118-910"
       },
+      "gid://shopify/ProductVariant/46811477016830": {
+        "qty": 10,
+        "product_title": "PURSUIT FLAIR IB3683X",
+        "sku": "NIKE-PURSUIT-FLAIR-IB3683X-010"
+      },
       "gid://shopify/ProductVariant/47730469208318": {
         "qty": 1,
         "product_title": "8402-605-50",
@@ -35436,11 +35441,6 @@
         "qty": 1,
         "product_title": "7163-601-55",
         "sku": "NIKE-7163-601-55"
-      },
-      "gid://shopify/ProductVariant/46811477016830": {
-        "qty": 10,
-        "product_title": "PURSUIT FLAIR IB3683X",
-        "sku": "NIKE-PURSUIT-FLAIR-IB3683X-010"
       },
       "gid://shopify/ProductVariant/46811473707262": {
         "qty": 13,
@@ -35513,7 +35513,7 @@
         "sku": "NIKE553571045"
       },
       "gid://shopify/ProductVariant/48392232108286": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "PS-54YS-5AV09U",
         "sku": "PRADA-PS-54YS-5AV09U"
       },
@@ -48652,6 +48652,11 @@
         "product_title": "S7004BLUE-49",
         "sku": "Signature-S7004BLUE-49"
       },
+      "gid://shopify/ProductVariant/46684984082686": {
+        "qty": 159,
+        "product_title": "S7004-PUR/BLK-49",
+        "sku": "Signature-S7004-PUR/BLK-49"
+      },
       "gid://shopify/ProductVariant/46684983263486": {
         "qty": 16,
         "product_title": "S7002-RedStripe-54",
@@ -48676,11 +48681,6 @@
         "qty": 129,
         "product_title": "S7009-MatteBlue-51",
         "sku": "Signature-S7009-MatteBlue-51"
-      },
-      "gid://shopify/ProductVariant/46684984082686": {
-        "qty": 159,
-        "product_title": "S7004-PUR/BLK-49",
-        "sku": "Signature-S7004-PUR/BLK-49"
       },
       "gid://shopify/ProductVariant/46684984049918": {
         "qty": 16,
@@ -50792,6 +50792,11 @@
         "product_title": "JG33624-6500-53",
         "sku": "JAGUAR-JG33624-6500-53"
       },
+      "gid://shopify/ProductVariant/47589022630142": {
+        "qty": 5,
+        "product_title": "JG33622-1000-51",
+        "sku": "JAGUAR-JG33622-1000-51"
+      },
       "gid://shopify/ProductVariant/47589022695678": {
         "qty": 6,
         "product_title": "JG33623-6500-51",
@@ -50801,11 +50806,6 @@
         "qty": 6,
         "product_title": "JG33623-6100-51",
         "sku": "JAGUAR-JG33623-6100-51"
-      },
-      "gid://shopify/ProductVariant/47589022630142": {
-        "qty": 5,
-        "product_title": "JG33622-1000-51",
-        "sku": "JAGUAR-JG33622-1000-51"
       },
       "gid://shopify/ProductVariant/47589022269694": {
         "qty": 2,
