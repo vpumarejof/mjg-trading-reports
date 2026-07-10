@@ -30044,13 +30044,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-09T23:43:32.499700+00:00",
+    "updated_at": "2026-07-10T01:16:00.813694+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 2841,
+        "total_qty": 2840,
         "sku_count": 248,
         "product_count": 248
       },
@@ -30058,7 +30058,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 15826,
+        "total_qty": 15833,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30082,7 +30082,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1487,
+        "total_qty": 1486,
         "sku_count": 81,
         "product_count": 81
       },
@@ -30154,7 +30154,7 @@
         "title": "MARC JACOBS",
         "handle": "marc-jacobs",
         "legacy_id": "391774732542",
-        "total_qty": 387,
+        "total_qty": 386,
         "sku_count": 70,
         "product_count": 70
       },
@@ -30242,7 +30242,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 3784,
+        "total_qty": 3798,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30490,7 +30490,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 3426,
+        "total_qty": 3425,
         "sku_count": 248,
         "product_count": 248
       },
@@ -30506,7 +30506,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 9585,
+        "total_qty": 9586,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30514,7 +30514,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2357,
+        "total_qty": 2356,
         "sku_count": 241,
         "product_count": 241
       },
@@ -30626,7 +30626,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 8874,
+        "total_qty": 8873,
         "sku_count": 223,
         "product_count": 223
       },
@@ -30850,9 +30850,9 @@
         "title": "DENIM",
         "handle": "denim",
         "legacy_id": "470247014654",
-        "total_qty": 34,
-        "sku_count": 12,
-        "product_count": 12
+        "total_qty": 33,
+        "sku_count": 11,
+        "product_count": 11
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
@@ -31728,7 +31728,7 @@
         "sku": "QUAY-NO-NS-2326-DOE/BRN"
       },
       "gid://shopify/ProductVariant/48336088006910": {
-        "qty": 11,
+        "qty": 10,
         "product_title": "C-SPORT-02/S-4CW/IR",
         "sku": "CARRERA-C-SPORT-02/S-4CW/IR"
       },
@@ -33282,11 +33282,6 @@
         "product_title": "1450-6621-54",
         "sku": "PD-1450-6621-54"
       },
-      "gid://shopify/ProductVariant/47180869173502": {
-        "qty": 1,
-        "product_title": "147-0X93-55",
-        "sku": "DENIM-147-0X93-55"
-      },
       "gid://shopify/ProductVariant/48504828330238": {
         "qty": 1,
         "product_title": "1470-3021-51_D",
@@ -33561,6 +33556,11 @@
         "qty": 52,
         "product_title": "20074K-MP09-50",
         "sku": "KOALI-MOREL-20074K-MP09-50"
+      },
+      "gid://shopify/ProductVariant/47558954483966": {
+        "qty": 8,
+        "product_title": "20074K-PD08-50",
+        "sku": "KOALI-MOREL-20074K-PD08-50"
       },
       "gid://shopify/ProductVariant/46243449274622": {
         "qty": 2,
@@ -34858,7 +34858,7 @@
         "sku": "MJ-MARC-673/S-KB7/HA"
       },
       "gid://shopify/ProductVariant/48336089219326": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "MARC-654/S-Y11/3X",
         "sku": "MJ-MARC-654/S-Y11/3X"
       },
@@ -39177,6 +39177,11 @@
         "product_title": "SPEAKEASY2-BLKBL",
         "sku": "EJ-SPEAKEASY2-BLKBL"
       },
+      "gid://shopify/ProductVariant/48305154457854": {
+        "qty": 17,
+        "product_title": "SPEAKEASY1-BURDY",
+        "sku": "EJ-SPEAKEASY1-BURDY"
+      },
       "gid://shopify/ProductVariant/43458420670718": {
         "qty": 0,
         "product_title": "0001-S-0EM5-9O",
@@ -42912,11 +42917,6 @@
         "product_title": "GOLIATH1-MTRE",
         "sku": "EJ-GOLIATH1-MTRED"
       },
-      "gid://shopify/ProductVariant/47558954483966": {
-        "qty": 8,
-        "product_title": "20074K-PD08-50",
-        "sku": "KOALI-MOREL-20074K-PD08-50"
-      },
       "gid://shopify/ProductVariant/47558954516734": {
         "qty": 3,
         "product_title": "20077K-MV05-50",
@@ -46456,6 +46456,11 @@
         "qty": 0,
         "product_title": "147-0X93-53",
         "sku": "DENIM-147-0X93-53"
+      },
+      "gid://shopify/ProductVariant/47180869173502": {
+        "qty": 0,
+        "product_title": "147-0X93-55",
+        "sku": "DENIM-147-0X93-55"
       },
       "gid://shopify/ProductVariant/47180869206270": {
         "qty": 0,
@@ -51106,11 +51111,6 @@
         "qty": 18,
         "product_title": "VIP3-SHYGL",
         "sku": "EJ-VIP3-SHYGL"
-      },
-      "gid://shopify/ProductVariant/48305154457854": {
-        "qty": 17,
-        "product_title": "SPEAKEASY1-BURDY",
-        "sku": "EJ-SPEAKEASY1-BURDY"
       },
       "gid://shopify/ProductVariant/48223291736318": {
         "qty": 3,
