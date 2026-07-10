@@ -30332,13 +30332,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-10T22:52:48.557315+00:00",
+    "updated_at": "2026-07-10T23:51:21.664895+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 2801,
+        "total_qty": 2802,
         "sku_count": 248,
         "product_count": 248
       },
@@ -30346,7 +30346,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 15258,
+        "total_qty": 15257,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30362,7 +30362,7 @@
         "title": "BURBERRY",
         "handle": "burberry",
         "legacy_id": "391771324670",
-        "total_qty": 46,
+        "total_qty": 45,
         "sku_count": 4,
         "product_count": 4
       },
@@ -30506,7 +30506,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 10121,
+        "total_qty": 10165,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30530,7 +30530,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 3271,
+        "total_qty": 3269,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30538,7 +30538,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 200,
+        "total_qty": 198,
         "sku_count": 182,
         "product_count": 182
       },
@@ -30662,14 +30662,6 @@
         "sku_count": 1,
         "product_count": 1
       },
-      "gid://shopify/Collection/401108533502": {
-        "title": "BROOKS BROTHERS",
-        "handle": "brooks-brothers",
-        "legacy_id": "401108533502",
-        "total_qty": 1,
-        "sku_count": 1,
-        "product_count": 1
-      },
       "gid://shopify/Collection/402638668030": {
         "title": "CHESTERFIELD",
         "handle": "chesterfield",
@@ -30698,7 +30690,7 @@
         "title": "Gucci",
         "handle": "gucci-1",
         "legacy_id": "407282450686",
-        "total_qty": 600,
+        "total_qty": 599,
         "sku_count": 123,
         "product_count": 123
       },
@@ -30770,7 +30762,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 6153,
+        "total_qty": 6152,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30802,7 +30794,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2380,
+        "total_qty": 2384,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30810,7 +30802,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 4424,
+        "total_qty": 4601,
         "sku_count": 227,
         "product_count": 227
       },
@@ -30818,7 +30810,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 6153,
+        "total_qty": 6152,
         "sku_count": 250,
         "product_count": 250
       },
@@ -31010,7 +31002,7 @@
         "title": "CALVIN KLEIN JEANS",
         "handle": "calvin-klein-jeans",
         "legacy_id": "464057172222",
-        "total_qty": 514,
+        "total_qty": 513,
         "sku_count": 62,
         "product_count": 62
       },
@@ -31146,7 +31138,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 1484,
+        "total_qty": 1483,
         "sku_count": 250,
         "product_count": 250
       },
@@ -31314,9 +31306,9 @@
         "title": "MODO",
         "handle": "modo",
         "legacy_id": "481959280894",
-        "total_qty": 409,
-        "sku_count": 32,
-        "product_count": 32
+        "total_qty": 407,
+        "sku_count": 31,
+        "product_count": 31
       },
       "gid://shopify/Collection/482187051262": {
         "title": "ELTON JOHN",
@@ -31484,11 +31476,6 @@
         "qty": 9,
         "product_title": "08-MGM/RG",
         "sku": "BUGATTI-08-MGM/RG"
-      },
-      "gid://shopify/ProductVariant/43367973388542": {
-        "qty": 1,
-        "product_title": "0BB5041-60377157",
-        "sku": "BROOKS BROTHERS 0BB5041 60377157"
       },
       "gid://shopify/ProductVariant/48567757996286": {
         "qty": 2,
@@ -32600,6 +32587,11 @@
         "product_title": "COLEMAN-SUN-COL-A",
         "sku": "AW-COLEMAN-A"
       },
+      "gid://shopify/ProductVariant/48560872521982": {
+        "qty": 2,
+        "product_title": "COME THRU-79954",
+        "sku": "QUAY-NO-NS-2579-DLA/DBHY"
+      },
       "gid://shopify/ProductVariant/47998569513214": {
         "qty": 3,
         "product_title": "01BRX-RG",
@@ -32631,7 +32623,7 @@
         "sku": "BURBERRY-0BE2406U-4063-50"
       },
       "gid://shopify/ProductVariant/47095944675582": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "0BE2412D-3024-52",
         "sku": "BURBERRY-0BE2412D-3024-52"
       },
@@ -38915,11 +38907,6 @@
         "product_title": "DND-79935",
         "sku": "QUAY-NO-NS-2708-GLD/CP"
       },
-      "gid://shopify/ProductVariant/48560872521982": {
-        "qty": 2,
-        "product_title": "COME THRU-79954",
-        "sku": "QUAY-NO-NS-2579-DLA/DBHY"
-      },
       "gid://shopify/ProductVariant/48504836194558": {
         "qty": 2,
         "product_title": "SF2973-302-50_D",
@@ -39216,7 +39203,7 @@
         "sku": "CKJ-CKJ24627-400-51"
       },
       "gid://shopify/ProductVariant/48361935765758": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "CKJ24618-400-53",
         "sku": "CKJ-CKJ24618-400-53"
       },
@@ -39256,7 +39243,7 @@
         "sku": "MODO-4629-LBLU0-54"
       },
       "gid://shopify/ProductVariant/48354208809214": {
-        "qty": 15,
+        "qty": 14,
         "product_title": "4628-DNAVY-52",
         "sku": "MODO-4628-DNAVY-52"
       },
@@ -39499,6 +39486,11 @@
         "qty": 0,
         "product_title": "0BB4056-151087-58",
         "sku": "BROOKS BROTHERS 0BB4056 15108758"
+      },
+      "gid://shopify/ProductVariant/43367973388542": {
+        "qty": 0,
+        "product_title": "0BB5041-60377157",
+        "sku": "BROOKS BROTHERS 0BB5041 60377157"
       },
       "gid://shopify/ProductVariant/43367973716222": {
         "qty": 0,
@@ -42121,7 +42113,7 @@
         "sku": "GUCCI-GG1540O-006-55_R"
       },
       "gid://shopify/ProductVariant/47807387435262": {
-        "qty": 11,
+        "qty": 10,
         "product_title": "GG1540O-008-55",
         "sku": "GUCCI-GG1540O-008-55"
       },
@@ -45104,11 +45096,6 @@
         "qty": 14,
         "product_title": "4604-SIL00-50",
         "sku": "MODO-4604-SIL00-50"
-      },
-      "gid://shopify/ProductVariant/48061854679294": {
-        "qty": 1,
-        "product_title": "4604-SMK00-50",
-        "sku": "MODO-4604-SMK00-50"
       },
       "gid://shopify/ProductVariant/48061854712062": {
         "qty": 13,
