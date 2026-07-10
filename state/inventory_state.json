@@ -30044,13 +30044,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-10T01:16:00.813694+00:00",
+    "updated_at": "2026-07-10T05:28:35.677653+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 2840,
+        "total_qty": 2839,
         "sku_count": 248,
         "product_count": 248
       },
@@ -30138,7 +30138,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 718,
+        "total_qty": 717,
         "sku_count": 133,
         "product_count": 133
       },
@@ -30210,7 +30210,7 @@
         "title": "VERSACE",
         "handle": "versace",
         "legacy_id": "391776010494",
-        "total_qty": 79,
+        "total_qty": 78,
         "sku_count": 9,
         "product_count": 9
       },
@@ -30218,7 +30218,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 15394,
+        "total_qty": 15393,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30242,7 +30242,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 3798,
+        "total_qty": 3797,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30490,7 +30490,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 3425,
+        "total_qty": 3424,
         "sku_count": 248,
         "product_count": 248
       },
@@ -30498,7 +30498,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2914,
+        "total_qty": 2913,
         "sku_count": 210,
         "product_count": 210
       },
@@ -30522,7 +30522,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 12282,
+        "total_qty": 12281,
         "sku_count": 226,
         "product_count": 226
       },
@@ -30858,7 +30858,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 2205,
+        "total_qty": 2204,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30874,7 +30874,7 @@
         "title": "QUAY",
         "handle": "quay",
         "legacy_id": "472482939134",
-        "total_qty": 1263,
+        "total_qty": 1262,
         "sku_count": 69,
         "product_count": 69
       },
@@ -31203,7 +31203,7 @@
         "sku": "BROOKS BROTHERS 0BB5041 60377157"
       },
       "gid://shopify/ProductVariant/46343985758462": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "0VE2251-14718763",
         "sku": "VERSACE-0VE2251-14718763"
       },
@@ -34423,7 +34423,7 @@
         "sku": "KS-KENNEDI/F-PJP-49"
       },
       "gid://shopify/ProductVariant/48094137811198": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "JERI-INA-52",
         "sku": "KS-JERI-INA-52"
       },
@@ -39113,7 +39113,7 @@
         "sku": "QUAY-QU-000602-MTBLK/SMKGRN"
       },
       "gid://shopify/ProductVariant/48314439598334": {
-        "qty": 25,
+        "qty": 24,
         "product_title": "ICY-75883",
         "sku": "QUAY-NO-NS-2186-ESPR/BRN"
       },
