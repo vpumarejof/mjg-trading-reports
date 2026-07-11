@@ -30332,13 +30332,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-11T22:29:28.348230+00:00",
+    "updated_at": "2026-07-11T23:28:15.042939+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 2799,
+        "total_qty": 2798,
         "sku_count": 248,
         "product_count": 248
       },
@@ -30506,7 +30506,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 10164,
+        "total_qty": 10163,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30538,7 +30538,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 198,
+        "total_qty": 197,
         "sku_count": 182,
         "product_count": 182
       },
@@ -30594,9 +30594,9 @@
         "title": "DKNY",
         "handle": "dkny",
         "legacy_id": "395943870718",
-        "total_qty": 68,
-        "sku_count": 28,
-        "product_count": 28
+        "total_qty": 66,
+        "sku_count": 26,
+        "product_count": 26
       },
       "gid://shopify/Collection/395943936254": {
         "title": "CAROLINA HERRERA",
@@ -30794,7 +30794,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2390,
+        "total_qty": 2389,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30802,7 +30802,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 4600,
+        "total_qty": 4599,
         "sku_count": 227,
         "product_count": 227
       },
@@ -31138,7 +31138,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 1482,
+        "total_qty": 1481,
         "sku_count": 250,
         "product_count": 250
       },
@@ -31250,7 +31250,7 @@
         "title": "LONGCHAMP",
         "handle": "longchamp",
         "legacy_id": "476032958718",
-        "total_qty": 172,
+        "total_qty": 171,
         "sku_count": 31,
         "product_count": 31
       },
@@ -31290,7 +31290,7 @@
         "title": "BUGATTI",
         "handle": "bugatti",
         "legacy_id": "480545439998",
-        "total_qty": 255,
+        "total_qty": 254,
         "sku_count": 53,
         "product_count": 53
       },
@@ -31468,7 +31468,7 @@
         "sku": "BUGATTI-08-GM/WG"
       },
       "gid://shopify/ProductVariant/47931243069694": {
-        "qty": 15,
+        "qty": 14,
         "product_title": "08-MBK/WG",
         "sku": "BUGATTI-08-MBK/WG"
       },
@@ -40636,16 +40636,6 @@
         "qty": 2,
         "product_title": "DK5045-014-54",
         "sku": "DKNY-DK5045-014-54"
-      },
-      "gid://shopify/ProductVariant/47730445353214": {
-        "qty": 1,
-        "product_title": "DK1034-272-51",
-        "sku": "DKNY-DK1034-272-51"
-      },
-      "gid://shopify/ProductVariant/47730445320446": {
-        "qty": 1,
-        "product_title": "DK1034-001-51",
-        "sku": "DKNY-DK1034-001-51"
       },
       "gid://shopify/ProductVariant/47730445156606": {
         "qty": 4,
@@ -51463,7 +51453,7 @@
         "sku": "LONGCHAMP-LO2766-205-53"
       },
       "gid://shopify/ProductVariant/48094647681278": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "LO2752-011-49",
         "sku": "LONGCHAMP-LO2752-011-49"
       },
