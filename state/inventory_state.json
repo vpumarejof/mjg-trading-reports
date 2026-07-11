@@ -30332,7 +30332,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-11T10:13:48.089560+00:00",
+    "updated_at": "2026-07-11T11:19:09.846383+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
@@ -50032,6 +50032,11 @@
         "product_title": "2888N-MM040-50",
         "sku": "NOMAD-MOREL-2888N-MM040-50"
       },
+      "gid://shopify/ProductVariant/47558958940414": {
+        "qty": 37,
+        "product_title": "2751N-PP054-51",
+        "sku": "NOMAD-MOREL-2751N-PP054-51"
+      },
       "gid://shopify/ProductVariant/47558958907646": {
         "qty": 3,
         "product_title": "2549N-MB063-51",
@@ -50111,11 +50116,6 @@
         "qty": 10,
         "product_title": "2759N-MM081-53",
         "sku": "NOMAD-MOREL-2759N-MM081-53"
-      },
-      "gid://shopify/ProductVariant/47558958940414": {
-        "qty": 37,
-        "product_title": "2751N-PP054-51",
-        "sku": "NOMAD-MOREL-2751N-PP054-51"
       },
       "gid://shopify/ProductVariant/47558958874878": {
         "qty": 5,
