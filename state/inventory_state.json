@@ -30332,13 +30332,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-11T20:39:18.159949+00:00",
+    "updated_at": "2026-07-11T21:31:52.019070+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 2802,
+        "total_qty": 2799,
         "sku_count": 248,
         "product_count": 248
       },
@@ -30426,7 +30426,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 707,
+        "total_qty": 706,
         "sku_count": 133,
         "product_count": 133
       },
@@ -30466,9 +30466,9 @@
         "title": "PRADA",
         "handle": "prada",
         "legacy_id": "391775289598",
-        "total_qty": 72,
-        "sku_count": 21,
-        "product_count": 21
+        "total_qty": 71,
+        "sku_count": 20,
+        "product_count": 20
       },
       "gid://shopify/Collection/391775584510": {
         "title": "SAINT LAURENT",
@@ -30498,7 +30498,7 @@
         "title": "VERSACE",
         "handle": "versace",
         "legacy_id": "391776010494",
-        "total_qty": 395,
+        "total_qty": 394,
         "sku_count": 93,
         "product_count": 93
       },
@@ -30506,7 +30506,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 10165,
+        "total_qty": 10164,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30770,7 +30770,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 2783,
+        "total_qty": 2777,
         "sku_count": 248,
         "product_count": 248
       },
@@ -30778,7 +30778,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2920,
+        "total_qty": 2919,
         "sku_count": 213,
         "product_count": 213
       },
@@ -30794,7 +30794,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2384,
+        "total_qty": 2390,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30802,7 +30802,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 4601,
+        "total_qty": 4600,
         "sku_count": 227,
         "product_count": 227
       },
@@ -31114,7 +31114,7 @@
         "title": "COCO SONG",
         "handle": "coco-song",
         "legacy_id": "467688259838",
-        "total_qty": 275,
+        "total_qty": 273,
         "sku_count": 67,
         "product_count": 67
       },
@@ -31138,7 +31138,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 1483,
+        "total_qty": 1482,
         "sku_count": 250,
         "product_count": 250
       },
@@ -31154,7 +31154,7 @@
         "title": "QUAY",
         "handle": "quay",
         "legacy_id": "472482939134",
-        "total_qty": 1261,
+        "total_qty": 1260,
         "sku_count": 69,
         "product_count": 69
       },
@@ -31314,7 +31314,7 @@
         "title": "ELTON JOHN",
         "handle": "elton-john",
         "legacy_id": "482187051262",
-        "total_qty": 819,
+        "total_qty": 815,
         "sku_count": 50,
         "product_count": 50
       },
@@ -31330,7 +31330,7 @@
         "title": "TIFFANY & CO",
         "handle": "tiffany-co",
         "legacy_id": "483397370110",
-        "total_qty": 65,
+        "total_qty": 64,
         "sku_count": 21,
         "product_count": 21
       },
@@ -31493,7 +31493,7 @@
         "sku": "VERSACE-0VE2251-1001/263"
       },
       "gid://shopify/ProductVariant/46343985758462": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "0VE2251-14718763",
         "sku": "VERSACE-0VE2251-14718763"
       },
@@ -31923,7 +31923,7 @@
         "sku": "DB-99/VISOR/SE-SZJ/KE"
       },
       "gid://shopify/ProductVariant/48094428528894": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "A-LIST-1-CHBLH",
         "sku": "EJ-A-LIST-1-CHBLH"
       },
@@ -32553,7 +32553,7 @@
         "sku": "CELINE-CL40329U-52A"
       },
       "gid://shopify/ProductVariant/48305153802494": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "CLOUD9-1-RSEGL",
         "sku": "EJ-CLOUD9-1-RSEGL"
       },
@@ -34953,7 +34953,7 @@
         "sku": "KS-EMMALEE-009Q-49"
       },
       "gid://shopify/ProductVariant/47056116089086": {
-        "qty": 13,
+        "qty": 12,
         "product_title": "JOSEY/G/S-0SZJ/G/HA",
         "sku": "KS-JOSEY/G/S-0SZJ/HA"
       },
@@ -35831,11 +35831,6 @@
         "qty": 2,
         "product_title": "PS-07YS-DG010A",
         "sku": "PRADA-PS-07YS-DG010A"
-      },
-      "gid://shopify/ProductVariant/48392230109438": {
-        "qty": 1,
-        "product_title": "PS-07YS-DG006F",
-        "sku": "PRADA-PS-07YS-DG006F"
       },
       "gid://shopify/ProductVariant/48392229880062": {
         "qty": 4,
@@ -43838,12 +43833,12 @@
         "sku": "AW-DINAH-E"
       },
       "gid://shopify/ProductVariant/48305153900798": {
-        "qty": 18,
+        "qty": 17,
         "product_title": "DIVA1-GLSKY",
         "sku": "EJ-DIVA1-GLSKY"
       },
       "gid://shopify/ProductVariant/48094430527742": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "DIVA2-ICEGL",
         "sku": "EJ-DIVA2-ICEGL"
       },
@@ -43893,7 +43888,7 @@
         "sku": "EJ-GOLIATH2-MTCRY"
       },
       "gid://shopify/ProductVariant/48314439434494": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "HINDSIGHT-55667",
         "sku": "QUAY-QW-000311-BLK/BLKPNK"
       },
@@ -50188,7 +50183,7 @@
         "sku": "CS-SHANTY-TOWN-CV248.03-09"
       },
       "gid://shopify/ProductVariant/47272815067390": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "SURFING-DOLPHIN-CV228.02-09",
         "sku": "CS-SURFING-DOLPHIN-CV228.02-09"
       },
@@ -50283,7 +50278,7 @@
         "sku": "CS-YORK-BLUES-CV243.01-09"
       },
       "gid://shopify/ProductVariant/47272811528446": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "LAST-AFTERNOON-CV203.02-09",
         "sku": "CS-LAST-AFTERNOON-CV203.02-09"
       },
@@ -51748,7 +51743,7 @@
         "sku": "TF-TF2247-8001-54"
       },
       "gid://shopify/ProductVariant/48223291375870": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "TF2226-8353-52",
         "sku": "TF-TF2226-8353-52"
       },
