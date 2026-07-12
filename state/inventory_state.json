@@ -30332,13 +30332,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-12T22:29:35.708837+00:00",
+    "updated_at": "2026-07-12T23:27:43.270768+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 2794,
+        "total_qty": 2792,
         "sku_count": 248,
         "product_count": 248
       },
@@ -30346,7 +30346,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 15257,
+        "total_qty": 15259,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30426,7 +30426,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 704,
+        "total_qty": 703,
         "sku_count": 133,
         "product_count": 133
       },
@@ -30498,7 +30498,7 @@
         "title": "VERSACE",
         "handle": "versace",
         "legacy_id": "391776010494",
-        "total_qty": 392,
+        "total_qty": 391,
         "sku_count": 93,
         "product_count": 93
       },
@@ -30506,7 +30506,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 10161,
+        "total_qty": 10227,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30530,7 +30530,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 3267,
+        "total_qty": 3265,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30554,7 +30554,7 @@
         "title": "LACOSTE",
         "handle": "lacoste",
         "legacy_id": "393068577022",
-        "total_qty": 212,
+        "total_qty": 211,
         "sku_count": 27,
         "product_count": 27
       },
@@ -30634,9 +30634,9 @@
         "title": "DAVID BECKHAM",
         "handle": "david-beckham",
         "legacy_id": "397089702142",
-        "total_qty": 313,
-        "sku_count": 42,
-        "product_count": 42
+        "total_qty": 312,
+        "sku_count": 41,
+        "product_count": 41
       },
       "gid://shopify/Collection/400594534654": {
         "title": "CAZAL",
@@ -30698,7 +30698,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 1160,
+        "total_qty": 1159,
         "sku_count": 157,
         "product_count": 157
       },
@@ -30770,7 +30770,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 2806,
+        "total_qty": 2804,
         "sku_count": 248,
         "product_count": 248
       },
@@ -30802,7 +30802,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 4597,
+        "total_qty": 4595,
         "sku_count": 227,
         "product_count": 227
       },
@@ -31002,7 +31002,7 @@
         "title": "CALVIN KLEIN JEANS",
         "handle": "calvin-klein-jeans",
         "legacy_id": "464057172222",
-        "total_qty": 513,
+        "total_qty": 512,
         "sku_count": 62,
         "product_count": 62
       },
@@ -31122,7 +31122,7 @@
         "title": "ANDY WOLF",
         "handle": "andy-wolf-1",
         "legacy_id": "469566619902",
-        "total_qty": 973,
+        "total_qty": 972,
         "sku_count": 250,
         "product_count": 250
       },
@@ -31138,7 +31138,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 1499,
+        "total_qty": 1498,
         "sku_count": 250,
         "product_count": 250
       },
@@ -31543,7 +31543,7 @@
         "sku": "VERSACE-0VE2284-10006G63"
       },
       "gid://shopify/ProductVariant/48567758848254": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "0VE4361-53978753",
         "sku": "VERSACE-0VE4361-53978753"
       },
@@ -32033,7 +32033,7 @@
         "sku": "QUAY-QU-000745-MTBLK/SMK"
       },
       "gid://shopify/ProductVariant/48121213550846": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "AUBRIELLA/G/S-1ED/9O",
         "sku": "KS-AUBRIELLA/G/S-1ED/9O"
       },
@@ -33032,11 +33032,6 @@
         "product_title": "1020-2W8-56",
         "sku": "DB-1020-2W8-56"
       },
-      "gid://shopify/ProductVariant/48121212502270": {
-        "qty": 1,
-        "product_title": "1020-7C5-56",
-        "sku": "DB-1020-7C5-56"
-      },
       "gid://shopify/ProductVariant/48121212567806": {
         "qty": 1,
         "product_title": "1022-807-56",
@@ -33841,6 +33836,11 @@
         "qty": 6,
         "product_title": "1779-900-53",
         "sku": "TH-TH-1779-900-53"
+      },
+      "gid://shopify/ProductVariant/47783448969470": {
+        "qty": 3,
+        "product_title": "1815-PJP-49",
+        "sku": "TH-TH-1815-PJP-49"
       },
       "gid://shopify/ProductVariant/46243449274622": {
         "qty": 2,
@@ -36421,11 +36421,6 @@
         "qty": 6,
         "product_title": "SF964S-210",
         "sku": "SF-SF964S-210"
-      },
-      "gid://shopify/ProductVariant/47783448969470": {
-        "qty": 3,
-        "product_title": "1815-PJP-49",
-        "sku": "TH-TH-1815-PJP-49"
       },
       "gid://shopify/ProductVariant/47783449002238": {
         "qty": 1,
@@ -39113,7 +39108,7 @@
         "sku": "CKJ-CKJ25629-001-56"
       },
       "gid://shopify/ProductVariant/48361937207550": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "CKJ25614-400-53",
         "sku": "CKJ-CKJ25614-400-53"
       },
@@ -39968,7 +39963,7 @@
         "sku": "LACOSTE-L2279-N-201-55"
       },
       "gid://shopify/ProductVariant/47730451513598": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "L2300-033-54",
         "sku": "LACOSTE-L2300-033-54"
       },
@@ -45467,6 +45462,11 @@
         "product_title": "1020-1ED-56",
         "sku": "DB-1020-1ED-56"
       },
+      "gid://shopify/ProductVariant/48121212502270": {
+        "qty": 0,
+        "product_title": "1020-7C5-56",
+        "sku": "DB-1020-7C5-56"
+      },
       "gid://shopify/ProductVariant/48121212535038": {
         "qty": 0,
         "product_title": "1020-KB7-56",
@@ -50443,7 +50443,7 @@
         "sku": "AW-4499-D-54"
       },
       "gid://shopify/ProductVariant/47655175684350": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "4505-E-57",
         "sku": "AW-4505-E-57"
       },
