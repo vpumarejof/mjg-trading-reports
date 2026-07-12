@@ -30332,7 +30332,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-12T14:26:43.780177+00:00",
+    "updated_at": "2026-07-12T15:32:31.743256+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
@@ -30770,7 +30770,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 2776,
+        "total_qty": 2807,
         "sku_count": 248,
         "product_count": 248
       },
@@ -30970,7 +30970,7 @@
         "title": "VALENTINO",
         "handle": "valentino",
         "legacy_id": "462679113982",
-        "total_qty": 151,
+        "total_qty": 150,
         "sku_count": 25,
         "product_count": 25
       },
@@ -31138,7 +31138,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 1481,
+        "total_qty": 1501,
         "sku_count": 250,
         "product_count": 250
       },
@@ -31314,7 +31314,7 @@
         "title": "ELTON JOHN",
         "handle": "elton-john",
         "legacy_id": "482187051262",
-        "total_qty": 812,
+        "total_qty": 811,
         "sku_count": 50,
         "product_count": 50
       },
@@ -32532,11 +32532,6 @@
         "product_title": "CL40310U 5401A",
         "sku": "CELINE-CL40310U-01A"
       },
-      "gid://shopify/ProductVariant/48336358080766": {
-        "qty": 1,
-        "product_title": "CL40319F 5201Y",
-        "sku": "CELINE-CL40319F-01Y"
-      },
       "gid://shopify/ProductVariant/48336358113534": {
         "qty": 1,
         "product_title": "CL40321I 5301B",
@@ -32591,6 +32586,11 @@
         "qty": 2,
         "product_title": "COME THRU-79954",
         "sku": "QUAY-NO-NS-2579-DLA/DBHY"
+      },
+      "gid://shopify/ProductVariant/47432886223102": {
+        "qty": 1,
+        "product_title": "COMFORT-D",
+        "sku": "AW-COMFORT-D"
       },
       "gid://shopify/ProductVariant/47998569513214": {
         "qty": 3,
@@ -43823,7 +43823,7 @@
         "sku": "EJ-DIVA1-GLSKY"
       },
       "gid://shopify/ProductVariant/48094430527742": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "DIVA2-ICEGL",
         "sku": "EJ-DIVA2-ICEGL"
       },
@@ -44051,11 +44051,6 @@
         "qty": 1,
         "product_title": "MIS-0171/S-1ED/JP",
         "sku": "MISSONI-MIS-0171/S-1ED/JP"
-      },
-      "gid://shopify/ProductVariant/47432886223102": {
-        "qty": 1,
-        "product_title": "COMFORT-D",
-        "sku": "AW-COMFORT-D"
       },
       "gid://shopify/ProductVariant/48314438910206": {
         "qty": 25,
@@ -48533,7 +48528,7 @@
         "sku": "VALENTINO-V-SOUL-VLS-127A-53"
       },
       "gid://shopify/ProductVariant/46622348771582": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "V-SOUL-VLS-127B-53",
         "sku": "VALENTINO-V-SOUL-VLS-127B-53"
       },
