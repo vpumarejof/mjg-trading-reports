@@ -30332,7 +30332,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-12T04:36:05.474660+00:00",
+    "updated_at": "2026-07-12T07:14:16.498151+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
@@ -30554,9 +30554,9 @@
         "title": "LACOSTE",
         "handle": "lacoste",
         "legacy_id": "393068577022",
-        "total_qty": 214,
-        "sku_count": 28,
-        "product_count": 28
+        "total_qty": 212,
+        "sku_count": 27,
+        "product_count": 27
       },
       "gid://shopify/Collection/393476997374": {
         "title": "CALVIN KLEIN",
@@ -31090,9 +31090,9 @@
         "title": "NOMAD-MOREL",
         "handle": "nomad-morel",
         "legacy_id": "466916409598",
-        "total_qty": 852,
-        "sku_count": 48,
-        "product_count": 48
+        "total_qty": 851,
+        "sku_count": 47,
+        "product_count": 47
       },
       "gid://shopify/Collection/466916442366": {
         "title": "ORIGINALE-MOREL",
@@ -31314,7 +31314,7 @@
         "title": "ELTON JOHN",
         "handle": "elton-john",
         "legacy_id": "482187051262",
-        "total_qty": 813,
+        "total_qty": 812,
         "sku_count": 50,
         "product_count": 50
       },
@@ -40041,11 +40041,6 @@
         "qty": 3,
         "product_title": "L2966-275-50",
         "sku": "LACOSTE-L2966-275-50"
-      },
-      "gid://shopify/ProductVariant/47180588810494": {
-        "qty": 2,
-        "product_title": "L2972-601-54",
-        "sku": "LACOSTE-L2972-601-54"
       },
       "gid://shopify/ProductVariant/47077729435902": {
         "qty": 7,
@@ -50042,11 +50037,6 @@
         "product_title": "40037N-PN04-50",
         "sku": "NOMAD-MOREL-40037N-PN04-50"
       },
-      "gid://shopify/ProductVariant/47558959530238": {
-        "qty": 1,
-        "product_title": "40014N-RG04-55",
-        "sku": "NOMAD-MOREL-40014N-RG04-55"
-      },
       "gid://shopify/ProductVariant/47558959431934": {
         "qty": 3,
         "product_title": "3048N-VB071-54",
@@ -51658,7 +51648,7 @@
         "sku": "MODO-4602-DNAVY-54"
       },
       "gid://shopify/ProductVariant/48094432985342": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "SUPERSTAR2-RTORT",
         "sku": "EJ-SUPERSTAR2-RTORT"
       },
