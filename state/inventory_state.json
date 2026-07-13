@@ -30332,7 +30332,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-13T22:35:39.352475+00:00",
+    "updated_at": "2026-07-13T23:33:29.962278+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
@@ -30570,7 +30570,7 @@
         "title": "FOSSIL",
         "handle": "fossil",
         "legacy_id": "395943772414",
-        "total_qty": 18,
+        "total_qty": 17,
         "sku_count": 2,
         "product_count": 2
       },
@@ -30618,7 +30618,7 @@
         "title": "BALENCIAGA",
         "handle": "balenciaga",
         "legacy_id": "395973296382",
-        "total_qty": 260,
+        "total_qty": 259,
         "sku_count": 113,
         "product_count": 113
       },
@@ -30770,7 +30770,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 3244,
+        "total_qty": 3243,
         "sku_count": 248,
         "product_count": 248
       },
@@ -31138,7 +31138,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 1488,
+        "total_qty": 1487,
         "sku_count": 250,
         "product_count": 250
       },
@@ -40258,7 +40258,7 @@
         "sku": "FOSSIL-FOS-3152/G/S-0OX/70"
       },
       "gid://shopify/ProductVariant/48349469016318": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "FOS-3151/G/S-807/HA",
         "sku": "FOSSIL-FOS-3151/G/S-807/HA"
       },
@@ -41213,7 +41213,7 @@
         "sku": "BALENCIAGA-BB0342O-005-55"
       },
       "gid://shopify/ProductVariant/47807380553982": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "BB0341O-002-56",
         "sku": "BALENCIAGA-BB0341O-002-56"
       },
