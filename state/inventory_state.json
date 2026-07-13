@@ -30332,13 +30332,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-13T01:03:06.507972+00:00",
+    "updated_at": "2026-07-13T04:43:54.300707+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 2792,
+        "total_qty": 2791,
         "sku_count": 248,
         "product_count": 248
       },
@@ -30346,7 +30346,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 15259,
+        "total_qty": 15258,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30466,9 +30466,9 @@
         "title": "PRADA",
         "handle": "prada",
         "legacy_id": "391775289598",
-        "total_qty": 71,
-        "sku_count": 20,
-        "product_count": 20
+        "total_qty": 69,
+        "sku_count": 19,
+        "product_count": 19
       },
       "gid://shopify/Collection/391775584510": {
         "title": "SAINT LAURENT",
@@ -30498,7 +30498,7 @@
         "title": "VERSACE",
         "handle": "versace",
         "legacy_id": "391776010494",
-        "total_qty": 391,
+        "total_qty": 389,
         "sku_count": 93,
         "product_count": 93
       },
@@ -30506,7 +30506,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 10227,
+        "total_qty": 10225,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30530,7 +30530,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 3265,
+        "total_qty": 3262,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30690,7 +30690,7 @@
         "title": "Gucci",
         "handle": "gucci-1",
         "legacy_id": "407282450686",
-        "total_qty": 599,
+        "total_qty": 598,
         "sku_count": 123,
         "product_count": 123
       },
@@ -30698,7 +30698,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 1159,
+        "total_qty": 1157,
         "sku_count": 157,
         "product_count": 157
       },
@@ -30794,7 +30794,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2389,
+        "total_qty": 2393,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30802,7 +30802,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 4595,
+        "total_qty": 4593,
         "sku_count": 227,
         "product_count": 227
       },
@@ -30858,7 +30858,7 @@
         "title": "GUCCI",
         "handle": "gucci",
         "legacy_id": "421341364478",
-        "total_qty": 359,
+        "total_qty": 358,
         "sku_count": 198,
         "product_count": 198
       },
@@ -31122,7 +31122,7 @@
         "title": "ANDY WOLF",
         "handle": "andy-wolf-1",
         "legacy_id": "469566619902",
-        "total_qty": 972,
+        "total_qty": 971,
         "sku_count": 250,
         "product_count": 250
       },
@@ -31138,7 +31138,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 1498,
+        "total_qty": 1496,
         "sku_count": 250,
         "product_count": 250
       },
@@ -31573,7 +31573,7 @@
         "sku": "VERSACE-0VE4430U-52948753"
       },
       "gid://shopify/ProductVariant/48567759077630": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "0VE4430U-GB1/8753",
         "sku": "VERSACE-0VE4430U-GB1/8753"
       },
@@ -32708,7 +32708,7 @@
         "sku": "VERSACE-0VE1301-1412-57"
       },
       "gid://shopify/ProductVariant/48567756062974": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "0VE1302-1002-59",
         "sku": "VERSACE-0VE1302-1002-59"
       },
@@ -35818,14 +35818,9 @@
         "sku": "PRADA-PS-54YS-5AV09U"
       },
       "gid://shopify/ProductVariant/48392231911678": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "PS-54YS-1BO06U",
         "sku": "PRADA-PS-54YS-1BO06U"
-      },
-      "gid://shopify/ProductVariant/48392230338814": {
-        "qty": 1,
-        "product_title": "PS-54WS-DG005U",
-        "sku": "PRADA-PS-54WS-DG005U"
       },
       "gid://shopify/ProductVariant/48392230207742": {
         "qty": 2,
@@ -41883,7 +41878,7 @@
         "sku": "GUCCI-GG1428O-005-55_R"
       },
       "gid://shopify/ProductVariant/48288332579070": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "GG1428O-009-55",
         "sku": "GUCCI-GG1428O-009-55"
       },
@@ -50658,7 +50653,7 @@
         "sku": "AW-CONGLETON-B-58"
       },
       "gid://shopify/ProductVariant/47655184335102": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "CONGLETON-D-58",
         "sku": "AW-CONGLETON-D-58"
       },
