@@ -30332,13 +30332,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-13T04:43:54.300707+00:00",
+    "updated_at": "2026-07-13T07:54:25.656984+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 2791,
+        "total_qty": 2790,
         "sku_count": 248,
         "product_count": 248
       },
@@ -30482,7 +30482,7 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 811,
+        "total_qty": 810,
         "sku_count": 94,
         "product_count": 94
       },
@@ -30498,7 +30498,7 @@
         "title": "VERSACE",
         "handle": "versace",
         "legacy_id": "391776010494",
-        "total_qty": 389,
+        "total_qty": 388,
         "sku_count": 93,
         "product_count": 93
       },
@@ -30506,7 +30506,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 10225,
+        "total_qty": 10224,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30530,7 +30530,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 3262,
+        "total_qty": 3261,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30698,7 +30698,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 1157,
+        "total_qty": 1156,
         "sku_count": 157,
         "product_count": 157
       },
@@ -30778,7 +30778,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2917,
+        "total_qty": 2916,
         "sku_count": 213,
         "product_count": 213
       },
@@ -30794,7 +30794,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2393,
+        "total_qty": 2392,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30802,7 +30802,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 4593,
+        "total_qty": 4592,
         "sku_count": 227,
         "product_count": 227
       },
@@ -31138,7 +31138,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 1496,
+        "total_qty": 1495,
         "sku_count": 250,
         "product_count": 250
       },
@@ -31154,7 +31154,7 @@
         "title": "QUAY",
         "handle": "quay",
         "legacy_id": "472482939134",
-        "total_qty": 1260,
+        "total_qty": 1259,
         "sku_count": 69,
         "product_count": 69
       },
@@ -31628,7 +31628,7 @@
         "sku": "VERSACE-0VE4464-54588752"
       },
       "gid://shopify/ProductVariant/48567759798526": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "0VE4464-GB1/8752",
         "sku": "VERSACE-0VE4464-GB1/8752"
       },
@@ -36343,7 +36343,7 @@
         "sku": "SF-SF3011-004-53"
       },
       "gid://shopify/ProductVariant/48094649483518": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "SF3015-216-53",
         "sku": "SF-SF3015-216-53"
       },
@@ -44148,7 +44148,7 @@
         "sku": "QUAY-QW-000311-BLK/SMK"
       },
       "gid://shopify/ProductVariant/48314439401726": {
-        "qty": 25,
+        "qty": 24,
         "product_title": "HINDSIGHT-53886",
         "sku": "QUAY-QW-000311-BLK/SMKGRN"
       },
