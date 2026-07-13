@@ -30332,7 +30332,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-13T20:34:32.674720+00:00",
+    "updated_at": "2026-07-13T21:33:31.189848+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
@@ -30474,9 +30474,9 @@
         "title": "SAINT LAURENT",
         "handle": "saint-laurent",
         "legacy_id": "391775584510",
-        "total_qty": 13,
-        "sku_count": 9,
-        "product_count": 9
+        "total_qty": 12,
+        "sku_count": 8,
+        "product_count": 8
       },
       "gid://shopify/Collection/391775715582": {
         "title": "SALVATORE FERRAGAMO",
@@ -30530,7 +30530,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 3132,
+        "total_qty": 3131,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30770,7 +30770,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 3245,
+        "total_qty": 3244,
         "sku_count": 248,
         "product_count": 248
       },
@@ -30778,15 +30778,15 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2845,
-        "sku_count": 212,
-        "product_count": 212
+        "total_qty": 2844,
+        "sku_count": 211,
+        "product_count": 211
       },
       "gid://shopify/Collection/410150043902": {
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 9519,
+        "total_qty": 9518,
         "sku_count": 250,
         "product_count": 250
       },
@@ -31066,7 +31066,7 @@
         "title": "FLEXON",
         "handle": "flexon",
         "legacy_id": "466401853694",
-        "total_qty": 37,
+        "total_qty": 36,
         "sku_count": 9,
         "product_count": 9
       },
@@ -31154,7 +31154,7 @@
         "title": "QUAY",
         "handle": "quay",
         "legacy_id": "472482939134",
-        "total_qty": 1163,
+        "total_qty": 1162,
         "sku_count": 68,
         "product_count": 68
       },
@@ -31226,7 +31226,7 @@
         "title": "JOSEPH ABBOUD",
         "handle": "joseph-abboud",
         "legacy_id": "474673447166",
-        "total_qty": 32,
+        "total_qty": 31,
         "sku_count": 5,
         "product_count": 5
       },
@@ -31306,7 +31306,7 @@
         "title": "MODO",
         "handle": "modo",
         "legacy_id": "481959280894",
-        "total_qty": 407,
+        "total_qty": 406,
         "sku_count": 31,
         "product_count": 31
       },
@@ -35897,11 +35897,6 @@
         "product_title": "PR-10YV-1AB1O1-54",
         "sku": "PRADA-PR-10YV-1AB1O1-54"
       },
-      "gid://shopify/ProductVariant/44587877499134": {
-        "qty": 1,
-        "product_title": "SL553-003",
-        "sku": "SAINT LAURENT SL553 003"
-      },
       "gid://shopify/ProductVariant/42500341661950": {
         "qty": 3,
         "product_title": "SL29700753",
@@ -39248,7 +39243,7 @@
         "sku": "MODO-4609D-RLAV0-52"
       },
       "gid://shopify/ProductVariant/48354208252158": {
-        "qty": 15,
+        "qty": 14,
         "product_title": "4604-RGOLD-50",
         "sku": "MODO-4604-RGOLD-50"
       },
@@ -43838,7 +43833,7 @@
         "sku": "EJ-GOLIATH2-MTCRY"
       },
       "gid://shopify/ProductVariant/48314439434494": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "HINDSIGHT-55667",
         "sku": "QUAY-QW-000311-BLK/BLKPNK"
       },
@@ -49833,7 +49828,7 @@
         "sku": "FLEXON-E1138-002-56"
       },
       "gid://shopify/ProductVariant/47730449907966": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "EP8021-210-54",
         "sku": "FLEXON-EP8021-210-54"
       },
@@ -51208,7 +51203,7 @@
         "sku": "JA-JA4088-033-54"
       },
       "gid://shopify/ProductVariant/47504333373694": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "JA4103-001-56",
         "sku": "JA-JA4103-001-56"
       },
