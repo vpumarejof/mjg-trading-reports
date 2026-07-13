@@ -30332,7 +30332,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-13T13:12:21.393990+00:00",
+    "updated_at": "2026-07-13T15:51:30.185316+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
@@ -30346,7 +30346,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 15255,
+        "total_qty": 15224,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30482,9 +30482,9 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 810,
-        "sku_count": 94,
-        "product_count": 94
+        "total_qty": 809,
+        "sku_count": 93,
+        "product_count": 93
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -30506,7 +30506,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 11629,
+        "total_qty": 11616,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30786,7 +30786,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 9550,
+        "total_qty": 9519,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30882,7 +30882,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 25817,
+        "total_qty": 25811,
         "sku_count": 39,
         "product_count": 39
       },
@@ -30906,7 +30906,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 8845,
+        "total_qty": 8814,
         "sku_count": 223,
         "product_count": 223
       },
@@ -30994,7 +30994,7 @@
         "title": "Tariff Busters",
         "handle": "tariff-busters",
         "legacy_id": "463834087678",
-        "total_qty": 38841,
+        "total_qty": 38802,
         "sku_count": 250,
         "product_count": 250
       },
@@ -31018,7 +31018,7 @@
         "title": "SIGNATURE",
         "handle": "signature",
         "legacy_id": "464260399358",
-        "total_qty": 9754,
+        "total_qty": 9703,
         "sku_count": 96,
         "product_count": 96
       },
@@ -33388,7 +33388,7 @@
         "sku": "Signature-1111-Silver-56"
       },
       "gid://shopify/ProductVariant/46684970156286": {
-        "qty": 5,
+        "qty": 3,
         "product_title": "1112-Black-54",
         "sku": "Signature-1112-Black-54"
       },
@@ -33398,7 +33398,7 @@
         "sku": "Signature-1112-Gold-54"
       },
       "gid://shopify/ProductVariant/46684970352894": {
-        "qty": 248,
+        "qty": 246,
         "product_title": "1112-Gunmetal-54",
         "sku": "Signature-1112-Gunmetal-54"
       },
@@ -33413,12 +33413,12 @@
         "sku": "Primary-1112GUN-54"
       },
       "gid://shopify/ProductVariant/46684970778878": {
-        "qty": 53,
+        "qty": 52,
         "product_title": "1115-Black-54",
         "sku": "Signature-1115-Black-54"
       },
       "gid://shopify/ProductVariant/46684970877182": {
-        "qty": 89,
+        "qty": 88,
         "product_title": "1115-Brown-54",
         "sku": "Signature-1115-Brown-54"
       },
@@ -33438,7 +33438,7 @@
         "sku": "Primary-1115SILV-54"
       },
       "gid://shopify/ProductVariant/46684971434238": {
-        "qty": 61,
+        "qty": 60,
         "product_title": "1116-Black-53",
         "sku": "Signature-1116-Black-53"
       },
@@ -33453,12 +33453,12 @@
         "sku": "Primary-1116BRN-53"
       },
       "gid://shopify/ProductVariant/46684971794686": {
-        "qty": 46,
+        "qty": 45,
         "product_title": "1117-Black-51",
         "sku": "Signature-1117-Black-51"
       },
       "gid://shopify/ProductVariant/46684972187902": {
-        "qty": 68,
+        "qty": 67,
         "product_title": "1117-Brown-51",
         "sku": "Signature-1117-Brown-51"
       },
@@ -33473,12 +33473,12 @@
         "sku": "Primary-1117GUN-51"
       },
       "gid://shopify/ProductVariant/46684972253438": {
-        "qty": 472,
+        "qty": 471,
         "product_title": "1118-Brown-52",
         "sku": "Signature-1118-Brown-52"
       },
       "gid://shopify/ProductVariant/46684972286206": {
-        "qty": 436,
+        "qty": 435,
         "product_title": "1118-Gunmetal-52",
         "sku": "Signature-1118-Gunmetal-52"
       },
@@ -33493,12 +33493,12 @@
         "sku": "Primary-1118NAVY-52"
       },
       "gid://shopify/ProductVariant/46684972482814": {
-        "qty": 29,
+        "qty": 28,
         "product_title": "1119-Brown-52",
         "sku": "Signature-1119-Brown-52"
       },
       "gid://shopify/ProductVariant/46684972646654": {
-        "qty": 17,
+        "qty": 16,
         "product_title": "1119-Gunmetal-52",
         "sku": "Signature-1119-Gunmetal-52"
       },
@@ -33518,12 +33518,12 @@
         "sku": "Primary-1119SILV-52"
       },
       "gid://shopify/ProductVariant/46684973007102": {
-        "qty": 5,
+        "qty": 3,
         "product_title": "1121-Black-57",
         "sku": "Signature-1121-Black-57"
       },
       "gid://shopify/ProductVariant/46684973105406": {
-        "qty": 87,
+        "qty": 85,
         "product_title": "1121-Brown-57",
         "sku": "Signature-1121-Brown-57"
       },
@@ -33533,7 +33533,7 @@
         "sku": "Signature-1121-Gold-57"
       },
       "gid://shopify/ProductVariant/46684973334782": {
-        "qty": 74,
+        "qty": 72,
         "product_title": "1121-Gunmetal-57",
         "sku": "Signature-1121-Gunmetal-57"
       },
@@ -33558,7 +33558,7 @@
         "sku": "Primary-1121GUN-57"
       },
       "gid://shopify/ProductVariant/46684973367550": {
-        "qty": 46,
+        "qty": 44,
         "product_title": "1122-Gunmetal-54",
         "sku": "Signature-1122-Gunmetal-54"
       },
@@ -33588,17 +33588,17 @@
         "sku": "Primary-1123BLK-53"
       },
       "gid://shopify/ProductVariant/46684973826302": {
-        "qty": 413,
+        "qty": 412,
         "product_title": "1124-Black-57",
         "sku": "Signature-1124-Black-57"
       },
       "gid://shopify/ProductVariant/46684973924606": {
-        "qty": 273,
+        "qty": 272,
         "product_title": "1124-Brown-57",
         "sku": "Signature-1124-Brown-57"
       },
       "gid://shopify/ProductVariant/46684974121214": {
-        "qty": 98,
+        "qty": 97,
         "product_title": "1124-Gunmetal-57",
         "sku": "Signature-1124-Gunmetal-57"
       },
@@ -33608,22 +33608,22 @@
         "sku": "Signature-1125-Brown-60"
       },
       "gid://shopify/ProductVariant/46684974252286": {
-        "qty": 321,
+        "qty": 319,
         "product_title": "1126-Brown-57",
         "sku": "Signature-1126-Brown-57"
       },
       "gid://shopify/ProductVariant/46684974448894": {
-        "qty": 25,
+        "qty": 24,
         "product_title": "1127-Black-57",
         "sku": "Signature-1127-Black-57"
       },
       "gid://shopify/ProductVariant/46684974481662": {
-        "qty": 65,
+        "qty": 64,
         "product_title": "1127-Brown-57",
         "sku": "Signature-1127-Brown-57"
       },
       "gid://shopify/ProductVariant/46684974514430": {
-        "qty": 127,
+        "qty": 126,
         "product_title": "1127-Gunmetal-57",
         "sku": "Signature-1127-Gunmetal-57"
       },
@@ -33643,12 +33643,12 @@
         "sku": "Primary-1128-Silver-59"
       },
       "gid://shopify/ProductVariant/46684974678270": {
-        "qty": 65,
+        "qty": 64,
         "product_title": "1129-Brown-54",
         "sku": "Signature-1129-Brown-54"
       },
       "gid://shopify/ProductVariant/46684974743806": {
-        "qty": 94,
+        "qty": 93,
         "product_title": "1129-Gunmetal-54",
         "sku": "Signature-1129-Gunmetal-54"
       },
@@ -36171,11 +36171,6 @@
         "qty": 1,
         "product_title": "SF2957EN-321-54",
         "sku": "SF-SF2957EN-321-54"
-      },
-      "gid://shopify/ProductVariant/46663403503870": {
-        "qty": 1,
-        "product_title": "SF2958-420-52",
-        "sku": "SF-SF2958-420-52"
       },
       "gid://shopify/ProductVariant/46663406846206": {
         "qty": 11,
@@ -46378,7 +46373,7 @@
         "sku": "PP-VPP016M-06A7-54"
       },
       "gid://shopify/ProductVariant/46059134714110": {
-        "qty": 9703,
+        "qty": 9702,
         "product_title": "DropShip",
         "sku": "DropShip"
       },
@@ -48688,32 +48683,32 @@
         "sku": "BB-THE-MICHELLE-807-53_D"
       },
       "gid://shopify/ProductVariant/46684975628542": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "Pn102-Gunmetal-54",
         "sku": "Signature-Pn102-Gunmetal-54"
       },
       "gid://shopify/ProductVariant/46684975956222": {
-        "qty": 28,
+        "qty": 27,
         "product_title": "Pn103-Black-53",
         "sku": "Signature-Pn103-Black-53"
       },
       "gid://shopify/ProductVariant/46684976054526": {
-        "qty": 26,
+        "qty": 25,
         "product_title": "Pn103-Brown-53",
         "sku": "Signature-Pn103-Brown-53"
       },
       "gid://shopify/ProductVariant/46684976185598": {
-        "qty": 19,
+        "qty": 18,
         "product_title": "Pn103-Gunmetal-53",
         "sku": "Signature-Pn103-Gunmetal-53"
       },
       "gid://shopify/ProductVariant/46684977398014": {
-        "qty": 35,
+        "qty": 34,
         "product_title": "Pn104Brn-55",
         "sku": "Signature-Pn104Brn-55"
       },
       "gid://shopify/ProductVariant/46684977758462": {
-        "qty": 13,
+        "qty": 12,
         "product_title": "Pn104Gun-55",
         "sku": "Signature-Pn104Gun-55"
       },
@@ -48723,12 +48718,12 @@
         "sku": "Signature-Pn105-DarkBrown-54"
       },
       "gid://shopify/ProductVariant/46684979134718": {
-        "qty": 130,
+        "qty": 129,
         "product_title": "Pn107-Gunmetal-52",
         "sku": "Signature-Pn107-Gunmetal-52"
       },
       "gid://shopify/ProductVariant/46684979364094": {
-        "qty": 15,
+        "qty": 14,
         "product_title": "Pn107Brn-52",
         "sku": "Signature-Pn107Brn-52"
       },
@@ -48883,12 +48878,12 @@
         "sku": "OPTIKA-OM-118-BRN-51"
       },
       "gid://shopify/ProductVariant/47210713415934": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "S7009-MatteTortoise-51",
         "sku": "Signature-S7009-MatteTortoise-51"
       },
       "gid://shopify/ProductVariant/46684984312062": {
-        "qty": 64,
+        "qty": 63,
         "product_title": "S7006-TortToBlueStripe-51",
         "sku": "Signature-S7006-TortToBlueStripe-51"
       },
@@ -48923,7 +48918,7 @@
         "sku": "Signature-S7014-Grey-49"
       },
       "gid://shopify/ProductVariant/46684984377598": {
-        "qty": 111,
+        "qty": 110,
         "product_title": "S7006-TortToRedStripe-51",
         "sku": "Signature-S7006-TortToRedStripe-51"
       },
@@ -48948,17 +48943,17 @@
         "sku": "Signature-S7018-PinkTort-55"
       },
       "gid://shopify/ProductVariant/46684986310910": {
-        "qty": 57,
+        "qty": 56,
         "product_title": "S7008-MatteTortoise-51",
         "sku": "Signature-S7008-MatteTortoise-51"
       },
       "gid://shopify/ProductVariant/46684985131262": {
-        "qty": 134,
+        "qty": 133,
         "product_title": "S7008-MattePlum-51",
         "sku": "Signature-S7008-MattePlum-51"
       },
       "gid://shopify/ProductVariant/46684985098494": {
-        "qty": 74,
+        "qty": 72,
         "product_title": "S7008-MatteBlack-51",
         "sku": "Signature-S7008-MatteBlack-51"
       },
@@ -49023,7 +49018,7 @@
         "sku": "Signature-S7016-Navy-51"
       },
       "gid://shopify/ProductVariant/46684986343678": {
-        "qty": 129,
+        "qty": 128,
         "product_title": "S7009-MatteBlue-51",
         "sku": "Signature-S7009-MatteBlue-51"
       },
@@ -49033,12 +49028,12 @@
         "sku": "Signature-S7003-TortRed-52"
       },
       "gid://shopify/ProductVariant/46684983886078": {
-        "qty": 46,
+        "qty": 45,
         "product_title": "S7003-TortBrown-52",
         "sku": "Signature-S7003-TortBrown-52"
       },
       "gid://shopify/ProductVariant/46684983820542": {
-        "qty": 149,
+        "qty": 148,
         "product_title": "S7003-TortBlue-52",
         "sku": "Signature-S7003-TortBlue-52"
       },
@@ -49083,12 +49078,12 @@
         "sku": "Signature-Pn111Wine-50"
       },
       "gid://shopify/ProductVariant/46684980576510": {
-        "qty": 77,
+        "qty": 76,
         "product_title": "Pn111Brn-50",
         "sku": "Signature-Pn111Brn-50"
       },
       "gid://shopify/ProductVariant/46684980445438": {
-        "qty": 99,
+        "qty": 98,
         "product_title": "Pn111Blk-50",
         "sku": "Signature-Pn111Blk-50"
       },
