@@ -30332,7 +30332,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-13T23:33:29.962278+00:00",
+    "updated_at": "2026-07-14T01:02:16.093119+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
@@ -30618,7 +30618,7 @@
         "title": "BALENCIAGA",
         "handle": "balenciaga",
         "legacy_id": "395973296382",
-        "total_qty": 259,
+        "total_qty": 258,
         "sku_count": 113,
         "product_count": 113
       },
@@ -31138,7 +31138,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 1487,
+        "total_qty": 1486,
         "sku_count": 250,
         "product_count": 250
       },
@@ -41203,7 +41203,7 @@
         "sku": "BALENCIAGA-BB0342O-010-55"
       },
       "gid://shopify/ProductVariant/47807380619518": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "BB0342O-006-55",
         "sku": "BALENCIAGA-BB0342O-006-55"
       },
