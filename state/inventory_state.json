@@ -30332,13 +30332,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-14T08:53:32.755734+00:00",
+    "updated_at": "2026-07-14T10:30:18.008562+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 2711,
+        "total_qty": 2709,
         "sku_count": 248,
         "product_count": 248
       },
@@ -30426,9 +30426,9 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 700,
-        "sku_count": 133,
-        "product_count": 133
+        "total_qty": 699,
+        "sku_count": 132,
+        "product_count": 132
       },
       "gid://shopify/Collection/391774667006": {
         "title": "LIZ CLAIBORNE",
@@ -30482,7 +30482,7 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 806,
+        "total_qty": 805,
         "sku_count": 92,
         "product_count": 92
       },
@@ -30498,7 +30498,7 @@
         "title": "VERSACE",
         "handle": "versace",
         "legacy_id": "391776010494",
-        "total_qty": 312,
+        "total_qty": 310,
         "sku_count": 81,
         "product_count": 81
       },
@@ -30506,7 +30506,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 11815,
+        "total_qty": 11813,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30530,7 +30530,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 3126,
+        "total_qty": 3124,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30698,7 +30698,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 971,
+        "total_qty": 969,
         "sku_count": 143,
         "product_count": 143
       },
@@ -30770,7 +30770,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 3259,
+        "total_qty": 3282,
         "sku_count": 248,
         "product_count": 248
       },
@@ -30794,7 +30794,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2365,
+        "total_qty": 2364,
         "sku_count": 247,
         "product_count": 247
       },
@@ -30802,7 +30802,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 6311,
+        "total_qty": 6309,
         "sku_count": 226,
         "product_count": 226
       },
@@ -30882,7 +30882,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 25811,
+        "total_qty": 25810,
         "sku_count": 39,
         "product_count": 39
       },
@@ -31138,7 +31138,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 1480,
+        "total_qty": 1478,
         "sku_count": 250,
         "product_count": 250
       },
@@ -31503,7 +31503,7 @@
         "sku": "VERSACE-0VE2284-10006G63"
       },
       "gid://shopify/ProductVariant/48567758848254": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "0VE4361-53978753",
         "sku": "VERSACE-0VE4361-53978753"
       },
@@ -31548,7 +31548,7 @@
         "sku": "VERSACE-0VE4442-54106955"
       },
       "gid://shopify/ProductVariant/48567759175934": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "0VE4446-GB1/8767",
         "sku": "VERSACE-0VE4446-GB1/8767"
       },
@@ -32036,11 +32036,6 @@
         "qty": 16,
         "product_title": "BELAH/S/US-807/9O",
         "sku": "KS-BELAH/S/US-807/9O"
-      },
-      "gid://shopify/ProductVariant/48011977064702": {
-        "qty": 1,
-        "product_title": "BELLAMY-YRQ/GB",
-        "sku": "KS-BELLAMY-YRQ/GB"
       },
       "gid://shopify/ProductVariant/47577490292990": {
         "qty": 3,
@@ -32591,6 +32586,11 @@
         "qty": 2,
         "product_title": "CT0532S-001",
         "sku": "CARTIER-CT0532S-001"
+      },
+      "gid://shopify/ProductVariant/47448055775486": {
+        "qty": 1,
+        "product_title": "CT0532S-002",
+        "sku": "CARTIER-CT0532S-002"
       },
       "gid://shopify/ProductVariant/47998569513214": {
         "qty": 3,
@@ -36243,7 +36243,7 @@
         "sku": "SF-SF2986-259-53"
       },
       "gid://shopify/ProductVariant/47111139950846": {
-        "qty": 25,
+        "qty": 24,
         "product_title": "SF2986-616-53",
         "sku": "SF-SF2986-616-53"
       },
@@ -44022,6 +44022,11 @@
         "product_title": "NO APOLOGIES-77091",
         "sku": "QUAY-NO-NS-2557-TRTYLW/BRN"
       },
+      "gid://shopify/ProductVariant/48145124163838": {
+        "qty": 25,
+        "product_title": "NOT MY FAULT-79946",
+        "sku": "QUAY-NO-NS-2710-DTRT/BRN"
+      },
       "gid://shopify/ProductVariant/47448056430846": {
         "qty": 2,
         "product_title": "CT0544S-001",
@@ -45141,11 +45146,6 @@
         "qty": 5,
         "product_title": "ALINA-R-4711-H-49",
         "sku": "AW-ALINA-R-4711-H-49"
-      },
-      "gid://shopify/ProductVariant/47448055775486": {
-        "qty": 1,
-        "product_title": "CT0532S-002",
-        "sku": "CARTIER-CT0532S-002"
       },
       "gid://shopify/ProductVariant/47448055873790": {
         "qty": 1,
@@ -46338,7 +46338,7 @@
         "sku": "PP-VPP016M-06A7-54"
       },
       "gid://shopify/ProductVariant/46059134714110": {
-        "qty": 9702,
+        "qty": 9701,
         "product_title": "DropShip",
         "sku": "DropShip"
       },
@@ -50791,11 +50791,6 @@
         "qty": 1,
         "product_title": "LOOK IT UP RX-78107",
         "sku": "QUAY-OG-OF-2531-GLD/RX"
-      },
-      "gid://shopify/ProductVariant/48145124163838": {
-        "qty": 25,
-        "product_title": "NOT MY FAULT-79946",
-        "sku": "QUAY-NO-NS-2710-DTRT/BRN"
       },
       "gid://shopify/ProductVariant/48145130094846": {
         "qty": 4,
