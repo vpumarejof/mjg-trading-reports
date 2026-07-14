@@ -30332,7 +30332,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-14T11:56:36.320174+00:00",
+    "updated_at": "2026-07-14T13:22:35.804236+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
@@ -30682,7 +30682,7 @@
         "title": "LEVI'S",
         "handle": "levi",
         "legacy_id": "406703735038",
-        "total_qty": 211,
+        "total_qty": 210,
         "sku_count": 28,
         "product_count": 28
       },
@@ -30778,7 +30778,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2837,
+        "total_qty": 2836,
         "sku_count": 211,
         "product_count": 211
       },
@@ -41593,7 +41593,7 @@
         "sku": "LEVIS-LV-1027/S-05L/9K"
       },
       "gid://shopify/ProductVariant/48121215025406": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "LV-1001/S-KB7/8N",
         "sku": "LEVIS-LV-1001/S-KB7/8N"
       },
