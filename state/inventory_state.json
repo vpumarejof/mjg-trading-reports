@@ -30332,7 +30332,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-14T04:15:30.554764+00:00",
+    "updated_at": "2026-07-14T06:32:34.956553+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
@@ -30346,7 +30346,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 15218,
+        "total_qty": 15217,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30498,7 +30498,7 @@
         "title": "VERSACE",
         "handle": "versace",
         "legacy_id": "391776010494",
-        "total_qty": 316,
+        "total_qty": 315,
         "sku_count": 82,
         "product_count": 82
       },
@@ -30506,7 +30506,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 11731,
+        "total_qty": 11730,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30530,7 +30530,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 3131,
+        "total_qty": 3130,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30698,7 +30698,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 978,
+        "total_qty": 977,
         "sku_count": 145,
         "product_count": 145
       },
@@ -30762,7 +30762,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 6150,
+        "total_qty": 6149,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30802,7 +30802,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 6038,
+        "total_qty": 6037,
         "sku_count": 226,
         "product_count": 226
       },
@@ -30810,7 +30810,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 6150,
+        "total_qty": 6149,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30826,9 +30826,9 @@
         "title": "ELASTA",
         "handle": "elasta",
         "legacy_id": "411442249982",
-        "total_qty": 113,
-        "sku_count": 33,
-        "product_count": 33
+        "total_qty": 112,
+        "sku_count": 32,
+        "product_count": 32
       },
       "gid://shopify/Collection/411443298558": {
         "title": "CARTIER",
@@ -31138,7 +31138,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 1486,
+        "total_qty": 1485,
         "sku_count": 250,
         "product_count": 250
       },
@@ -32848,7 +32848,7 @@
         "sku": "VERSACE-0VE3364U-108-52"
       },
       "gid://shopify/ProductVariant/48567757439230": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "0VE3364U-GB1-52",
         "sku": "VERSACE-0VE3364U-GB1-52"
       },
@@ -45501,11 +45501,6 @@
         "qty": 5,
         "product_title": "E-7251-TUI-55",
         "sku": "ELASTA-E-7251-TUI-55"
-      },
-      "gid://shopify/ProductVariant/47577489998078": {
-        "qty": 1,
-        "product_title": "E-7242-0FLL-51",
-        "sku": "ELASTA-E-7242-0FLL-51"
       },
       "gid://shopify/ProductVariant/47577489965310": {
         "qty": 6,
