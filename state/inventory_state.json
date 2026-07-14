@@ -30332,7 +30332,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-14T19:04:44.481033+00:00",
+    "updated_at": "2026-07-14T20:21:29.688230+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
@@ -30346,7 +30346,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 15209,
+        "total_qty": 15215,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30370,9 +30370,9 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1469,
-        "sku_count": 80,
-        "product_count": 80
+        "total_qty": 1464,
+        "sku_count": 79,
+        "product_count": 79
       },
       "gid://shopify/Collection/391773880574": {
         "title": "COACH",
@@ -30530,7 +30530,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 3106,
+        "total_qty": 3103,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30738,7 +30738,7 @@
         "title": "PIERRE CARDIN",
         "handle": "pierre-cardin",
         "legacy_id": "408975540478",
-        "total_qty": 88,
+        "total_qty": 72,
         "sku_count": 24,
         "product_count": 24
       },
@@ -30762,7 +30762,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 6144,
+        "total_qty": 6142,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30786,7 +30786,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 9517,
+        "total_qty": 9512,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30810,7 +30810,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 6144,
+        "total_qty": 6142,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30906,7 +30906,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 8810,
+        "total_qty": 8809,
         "sku_count": 223,
         "product_count": 223
       },
@@ -30922,7 +30922,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 201,
+        "total_qty": 198,
         "sku_count": 199,
         "product_count": 199
       },
@@ -30978,17 +30978,17 @@
         "title": "OPEN BOX",
         "handle": "shelf-pulls",
         "legacy_id": "463407481086",
-        "total_qty": 97,
-        "sku_count": 41,
-        "product_count": 41
+        "total_qty": 89,
+        "sku_count": 36,
+        "product_count": 36
       },
       "gid://shopify/Collection/463674867966": {
         "title": "Open Box",
         "handle": "open-box",
         "legacy_id": "463674867966",
-        "total_qty": 75,
-        "sku_count": 19,
-        "product_count": 19
+        "total_qty": 70,
+        "sku_count": 17,
+        "product_count": 17
       },
       "gid://shopify/Collection/463834087678": {
         "title": "Tariff Busters",
@@ -31210,7 +31210,7 @@
         "title": "COLE HAAN",
         "handle": "cole-haan",
         "legacy_id": "474673348862",
-        "total_qty": 45,
+        "total_qty": 43,
         "sku_count": 7,
         "product_count": 7
       },
@@ -33777,11 +33777,6 @@
         "product_title": "1450-6621-54",
         "sku": "PD-1450-6621-54"
       },
-      "gid://shopify/ProductVariant/48504828330238": {
-        "qty": 1,
-        "product_title": "1470-3021-51_D",
-        "sku": "PD-1470-3021-51_D"
-      },
       "gid://shopify/ProductVariant/47180869501182": {
         "qty": 4,
         "product_title": "148-01D1-54",
@@ -33841,6 +33836,11 @@
         "qty": 1,
         "product_title": "1816-003-52",
         "sku": "TH-TH-1816-003-52"
+      },
+      "gid://shopify/ProductVariant/47783449133310": {
+        "qty": 7,
+        "product_title": "1830-4C3-56",
+        "sku": "TH-TH-1830-4C3-56"
       },
       "gid://shopify/ProductVariant/46243449274622": {
         "qty": 2,
@@ -34213,12 +34213,12 @@
         "sku": "CARRERA-309-PJP-57"
       },
       "gid://shopify/ProductVariant/48094136697086": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "2009T-V81-49",
         "sku": "CARRERA-2009T-V81-49"
       },
       "gid://shopify/ProductVariant/48011976671486": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "8881-N9P-56",
         "sku": "CARRERA-8881-N9P-56"
       },
@@ -34228,14 +34228,9 @@
         "sku": "CARRERA-254-EX4-56"
       },
       "gid://shopify/ProductVariant/48011976442110": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "254-2W8-56",
         "sku": "CARRERA-254-2W8-56"
-      },
-      "gid://shopify/ProductVariant/47749754618110": {
-        "qty": 1,
-        "product_title": "8897-086-55",
-        "sku": "CARRERA-8897-086-55"
       },
       "gid://shopify/ProductVariant/47749754552574": {
         "qty": 1,
@@ -34243,7 +34238,7 @@
         "sku": "CARRERA-8894-8LZ-55"
       },
       "gid://shopify/ProductVariant/47749754487038": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "8887-R80-57",
         "sku": "CARRERA-8887-R80-57"
       },
@@ -36381,11 +36376,6 @@
         "qty": 6,
         "product_title": "SF964S-210",
         "sku": "SF-SF964S-210"
-      },
-      "gid://shopify/ProductVariant/47783449133310": {
-        "qty": 7,
-        "product_title": "1830-4C3-56",
-        "sku": "TH-TH-1830-4C3-56"
       },
       "gid://shopify/ProductVariant/47783449166078": {
         "qty": 1,
@@ -38858,14 +38848,9 @@
         "sku": "SF-SF2973-302-50_D"
       },
       "gid://shopify/ProductVariant/48504833802494": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "4788-5532-50_D",
         "sku": "PD-4788-5532-50_D"
-      },
-      "gid://shopify/ProductVariant/48504833048830": {
-        "qty": 2,
-        "product_title": "4781-5622-49_D",
-        "sku": "PD-4781-5622-49_D"
       },
       "gid://shopify/ProductVariant/48504822038782": {
         "qty": 2,
@@ -39233,44 +39218,39 @@
         "sku": "MODO-4601-PUR00-54"
       },
       "gid://shopify/ProductVariant/48349470228734": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "8434-05L-53",
         "sku": "PC-8434-05L-53"
       },
       "gid://shopify/ProductVariant/48349470195966": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "8433-KGE-53",
         "sku": "PC-8433-KGE-53"
       },
       "gid://shopify/ProductVariant/48349470163198": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "8428-DF4-45",
         "sku": "PC-8428-DF4-45"
       },
       "gid://shopify/ProductVariant/48349470130430": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "8428-DCM-53",
         "sku": "PC-8428-DCM-53"
       },
       "gid://shopify/ProductVariant/48349470097662": {
-        "qty": 5,
+        "qty": 3,
         "product_title": "8420-PGA-53",
         "sku": "PC-8420-PGA-53"
       },
       "gid://shopify/ProductVariant/48349470064894": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "8394-01VI-55",
         "sku": "PC-8394-01VI-55"
       },
       "gid://shopify/ProductVariant/48349470032126": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "6879-R80-57",
         "sku": "PC-6879-R80-57"
-      },
-      "gid://shopify/ProductVariant/48349469999358": {
-        "qty": 2,
-        "product_title": "6849-R81-56",
-        "sku": "PC-6849-R81-56"
       },
       "gid://shopify/ProductVariant/48349469966590": {
         "qty": 4,
@@ -39311,6 +39291,16 @@
         "qty": 5,
         "product_title": "MIS-0005-S37-54",
         "sku": "MISSONI-MIS-0005-S37-54"
+      },
+      "gid://shopify/ProductVariant/48349469507838": {
+        "qty": 5,
+        "product_title": "LV-5026-HT8-52",
+        "sku": "LEVIS-LV-5026-HT8-52"
+      },
+      "gid://shopify/ProductVariant/48349469475070": {
+        "qty": 5,
+        "product_title": "LV-5026-HKZ-52",
+        "sku": "LEVIS-LV-5026-HKZ-52"
       },
       "gid://shopify/ProductVariant/43458420670718": {
         "qty": 0,
@@ -41602,16 +41592,6 @@
         "product_title": "LV-5019-EX4-54",
         "sku": "LEVIS-LV-5019-EX4-54"
       },
-      "gid://shopify/ProductVariant/48349469507838": {
-        "qty": 5,
-        "product_title": "LV-5026-HT8-52",
-        "sku": "LEVIS-LV-5026-HT8-52"
-      },
-      "gid://shopify/ProductVariant/48349469475070": {
-        "qty": 5,
-        "product_title": "LV-5026-HKZ-52",
-        "sku": "LEVIS-LV-5026-HKZ-52"
-      },
       "gid://shopify/ProductVariant/48349469442302": {
         "qty": 5,
         "product_title": "LV-5021-38I-51",
@@ -42993,17 +42973,17 @@
         "sku": "MOSCHINO-MOS165/S-0PJP/XT"
       },
       "gid://shopify/ProductVariant/46529204519166": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "6144-0807-54",
         "sku": "PC-6144-0807-54"
       },
       "gid://shopify/ProductVariant/46529204617470": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "6168-0GLK-54",
         "sku": "PC-6168-0GLK-54"
       },
       "gid://shopify/ProductVariant/46529204650238": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "6172-0DGN-56",
         "sku": "PC-6172-0DGN-56"
       },
@@ -43018,12 +42998,12 @@
         "sku": "PC-6836-0KJ1-56"
       },
       "gid://shopify/ProductVariant/46539117789438": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "6877-0J5G-52",
         "sku": "PC-6877-0J5G-52"
       },
       "gid://shopify/ProductVariant/47010187935998": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "6240-0086-57",
         "sku": "PC-6240-0086-57"
       },
@@ -43053,12 +43033,17 @@
         "sku": "PC-6881-0J5G-58"
       },
       "gid://shopify/ProductVariant/46529204748542": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "6777-0HS1-54",
         "sku": "PC-6777-0HS1-54"
       },
+      "gid://shopify/ProductVariant/48349469999358": {
+        "qty": 1,
+        "product_title": "6849-R81-56",
+        "sku": "PC-6849-R81-56"
+      },
       "gid://shopify/ProductVariant/46616849711358": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "6781-0FXA-54",
         "sku": "PC-6781-0FXA-54"
       },
@@ -45061,6 +45046,11 @@
         "qty": 5,
         "product_title": "4733-C-50",
         "sku": "AW-4733-C-50"
+      },
+      "gid://shopify/ProductVariant/48504833048830": {
+        "qty": 1,
+        "product_title": "4781-5622-49_D",
+        "sku": "PD-4781-5622-49_D"
       },
       "gid://shopify/ProductVariant/47761274241278": {
         "qty": 3,
@@ -48417,21 +48407,6 @@
         "product_title": "30044L-NG01-50",
         "sku": "LIGHTEC-MOREL-30044L-NG01-50_D"
       },
-      "gid://shopify/ProductVariant/48504830165246": {
-        "qty": 1,
-        "product_title": "4772-6515-51_D",
-        "sku": "PD-4772-6515-51_D"
-      },
-      "gid://shopify/ProductVariant/48504831672574": {
-        "qty": 1,
-        "product_title": "4779-5621-53_D",
-        "sku": "PD-4779-5621-53_D"
-      },
-      "gid://shopify/ProductVariant/48504827642110": {
-        "qty": 1,
-        "product_title": "4779-9521-53_D",
-        "sku": "PD-4779-9521-53_D"
-      },
       "gid://shopify/ProductVariant/48504823480574": {
         "qty": 1,
         "product_title": "APPROXIMATE-OLIVE-54_D",
@@ -48538,7 +48513,7 @@
         "sku": "CHOPARD-IKCHF70-0579-56_D"
       },
       "gid://shopify/ProductVariant/48034285355262": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "JG33617-3100-56_D",
         "sku": "JAGUAR-JG33617-3100-56_D"
       },
@@ -48546,11 +48521,6 @@
         "qty": 9,
         "product_title": "JG33627-6500-55_D",
         "sku": "JAGUAR-JG33627-6500-55_D"
-      },
-      "gid://shopify/ProductVariant/48034285453566": {
-        "qty": 1,
-        "product_title": "JG36832-3100-58_D",
-        "sku": "JAGUAR-JG36832-3100-58_D"
       },
       "gid://shopify/ProductVariant/48504824758526": {
         "qty": 1,
@@ -51038,7 +51008,7 @@
         "sku": "AK-AK5112-771-53"
       },
       "gid://shopify/ProductVariant/47504333078782": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "CH5051-414-53",
         "sku": "CH-CH5051-414-53"
       },
@@ -51058,7 +51028,7 @@
         "sku": "CH-CH4523-001-52"
       },
       "gid://shopify/ProductVariant/47504332882174": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "CH4522-770-53",
         "sku": "CH-CH4522-770-53"
       },
