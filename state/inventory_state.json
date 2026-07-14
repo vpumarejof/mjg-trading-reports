@@ -30332,13 +30332,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-14T06:32:34.956553+00:00",
+    "updated_at": "2026-07-14T08:53:32.755734+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 2715,
+        "total_qty": 2711,
         "sku_count": 248,
         "product_count": 248
       },
@@ -30474,7 +30474,7 @@
         "title": "SAINT LAURENT",
         "handle": "saint-laurent",
         "legacy_id": "391775584510",
-        "total_qty": 12,
+        "total_qty": 11,
         "sku_count": 8,
         "product_count": 8
       },
@@ -30498,15 +30498,15 @@
         "title": "VERSACE",
         "handle": "versace",
         "legacy_id": "391776010494",
-        "total_qty": 315,
-        "sku_count": 82,
-        "product_count": 82
+        "total_qty": 312,
+        "sku_count": 81,
+        "product_count": 81
       },
       "gid://shopify/Collection/391850787070": {
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 11730,
+        "total_qty": 11815,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30530,7 +30530,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 3130,
+        "total_qty": 3126,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30538,7 +30538,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 197,
+        "total_qty": 195,
         "sku_count": 182,
         "product_count": 182
       },
@@ -30690,7 +30690,7 @@
         "title": "Gucci",
         "handle": "gucci-1",
         "legacy_id": "407282450686",
-        "total_qty": 595,
+        "total_qty": 594,
         "sku_count": 123,
         "product_count": 123
       },
@@ -30698,9 +30698,9 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 977,
-        "sku_count": 145,
-        "product_count": 145
+        "total_qty": 971,
+        "sku_count": 143,
+        "product_count": 143
       },
       "gid://shopify/Collection/408131010814": {
         "title": "VOGUE",
@@ -30770,7 +30770,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 3243,
+        "total_qty": 3259,
         "sku_count": 248,
         "product_count": 248
       },
@@ -30778,7 +30778,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2844,
+        "total_qty": 2837,
         "sku_count": 211,
         "product_count": 211
       },
@@ -30794,15 +30794,15 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2368,
-        "sku_count": 248,
-        "product_count": 248
+        "total_qty": 2365,
+        "sku_count": 247,
+        "product_count": 247
       },
       "gid://shopify/Collection/410150142206": {
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 6037,
+        "total_qty": 6311,
         "sku_count": 226,
         "product_count": 226
       },
@@ -30906,7 +30906,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 8814,
+        "total_qty": 8813,
         "sku_count": 223,
         "product_count": 223
       },
@@ -30970,7 +30970,7 @@
         "title": "VALENTINO",
         "handle": "valentino",
         "legacy_id": "462679113982",
-        "total_qty": 150,
+        "total_qty": 142,
         "sku_count": 25,
         "product_count": 25
       },
@@ -31138,7 +31138,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 1485,
+        "total_qty": 1480,
         "sku_count": 250,
         "product_count": 250
       },
@@ -31290,9 +31290,9 @@
         "title": "BUGATTI",
         "handle": "bugatti",
         "legacy_id": "480545439998",
-        "total_qty": 254,
-        "sku_count": 53,
-        "product_count": 53
+        "total_qty": 250,
+        "sku_count": 52,
+        "product_count": 52
       },
       "gid://shopify/Collection/480914440446": {
         "title": "valentino-M",
@@ -31338,7 +31338,7 @@
         "title": "Relabeled",
         "handle": "relabeled",
         "legacy_id": "484454269182",
-        "total_qty": 274,
+        "total_qty": 273,
         "sku_count": 149,
         "product_count": 149
       },
@@ -31356,11 +31356,6 @@
         "qty": 4,
         "product_title": "0004-S-035J-IR",
         "sku": "MMISSONIMMI0004S035JIR"
-      },
-      "gid://shopify/ProductVariant/48561411883262": {
-        "qty": 1,
-        "product_title": "01A-RG",
-        "sku": "BUGATTI-01A-RG"
       },
       "gid://shopify/ProductVariant/48561411948798": {
         "qty": 1,
@@ -31398,7 +31393,7 @@
         "sku": "BUGATTI-03-DT"
       },
       "gid://shopify/ProductVariant/47931242905854": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "03-MBK",
         "sku": "BUGATTI-03-MBK"
       },
@@ -31497,11 +31492,6 @@
         "product_title": "0VE2273-GB1/8752",
         "sku": "VERSACE-0VE2273-GB1/8752"
       },
-      "gid://shopify/ProductVariant/48567758487806": {
-        "qty": 1,
-        "product_title": "0VE2276-10025844",
-        "sku": "VERSACE-0VE2276-10025844"
-      },
       "gid://shopify/ProductVariant/48567758684414": {
         "qty": 2,
         "product_title": "0VE2281-10028764",
@@ -31523,7 +31513,7 @@
         "sku": "VERSACE-0VE4409-51198353"
       },
       "gid://shopify/ProductVariant/48567758913790": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "0VE4424U-GB1/8756",
         "sku": "VERSACE-0VE4424U-GB1/8756"
       },
@@ -31613,7 +31603,7 @@
         "sku": "VERSACE-0VE4468U-GB1/8753"
       },
       "gid://shopify/ProductVariant/48567760027902": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "0VE4470B-GB1/8756",
         "sku": "VERSACE-0VE4470B-GB1/8756"
       },
@@ -31748,12 +31738,12 @@
         "sku": "BUGATTI-47-BGN"
       },
       "gid://shopify/ProductVariant/48561412079870": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "47-BK",
         "sku": "BUGATTI-47-BK"
       },
       "gid://shopify/ProductVariant/48561412243710": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "47-BNE",
         "sku": "BUGATTI-47-BNE"
       },
@@ -32591,6 +32581,16 @@
         "qty": 2,
         "product_title": "CT0495S-004",
         "sku": "CARTIER-CT0495S-004"
+      },
+      "gid://shopify/ProductVariant/47448055644414": {
+        "qty": 1,
+        "product_title": "CT0502S-001",
+        "sku": "CARTIER-CT0502S-001"
+      },
+      "gid://shopify/ProductVariant/47448055709950": {
+        "qty": 2,
+        "product_title": "CT0532S-001",
+        "sku": "CARTIER-CT0532S-001"
       },
       "gid://shopify/ProductVariant/47998569513214": {
         "qty": 3,
@@ -35908,7 +35908,7 @@
         "sku": "SL26800350"
       },
       "gid://shopify/ProductVariant/48301175636222": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "SL-711/K-002-RELABELED",
         "sku": "SL-SL-711/K-002_R"
       },
@@ -39457,6 +39457,11 @@
         "product_title": "0101-S-0PEF-QT",
         "sku": "M MISSONI MMI 0101/S 0PEF/QT"
       },
+      "gid://shopify/ProductVariant/48561411883262": {
+        "qty": 0,
+        "product_title": "01A-RG",
+        "sku": "BUGATTI-01A-RG"
+      },
       "gid://shopify/ProductVariant/46461134274814": {
         "qty": 0,
         "product_title": "02WS 08W08F 57",
@@ -42133,7 +42138,7 @@
         "sku": "GUCCI-GG1570S-003_R"
       },
       "gid://shopify/ProductVariant/47807390187774": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "GG1570S-004",
         "sku": "GUCCI-GG1570S-004"
       },
@@ -43737,11 +43742,6 @@
         "product_title": "60122M-DM12-49",
         "sku": "1880-MOREL-60122M-DM12-49"
       },
-      "gid://shopify/ProductVariant/47448055644414": {
-        "qty": 1,
-        "product_title": "CT0502S-001",
-        "sku": "CARTIER-CT0502S-001"
-      },
       "gid://shopify/ProductVariant/47448056529150": {
         "qty": 2,
         "product_title": "CT0545S-003",
@@ -44488,7 +44488,7 @@
         "sku": "VALENTINO-V-GOLD-II-VLS-161C-53"
       },
       "gid://shopify/ProductVariant/47769384386814": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "V-GOLD-III-VLS-138A-53",
         "sku": "VALENTINO-V-GOLD-III-VLS-138A-53"
       },
@@ -44498,7 +44498,7 @@
         "sku": "VALENTINO-V-GOLD-III-VLS-138B-53"
       },
       "gid://shopify/ProductVariant/47769384419582": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "V-GOLD-III-VLS-138C-53",
         "sku": "VALENTINO-V-GOLD-III-VLS-138C-53"
       },
@@ -44508,12 +44508,12 @@
         "sku": "VALENTINO-V-LURE-VLS-130A-67"
       },
       "gid://shopify/ProductVariant/47462524158206": {
-        "qty": 14,
+        "qty": 13,
         "product_title": "VLS-177A",
         "sku": "VALENTINO-VLS-177A"
       },
       "gid://shopify/ProductVariant/47462524223742": {
-        "qty": 13,
+        "qty": 12,
         "product_title": "VLS-177B",
         "sku": "VALENTINO-VLS-177B"
       },
@@ -45141,11 +45141,6 @@
         "qty": 5,
         "product_title": "ALINA-R-4711-H-49",
         "sku": "AW-ALINA-R-4711-H-49"
-      },
-      "gid://shopify/ProductVariant/47448055709950": {
-        "qty": 2,
-        "product_title": "CT0532S-001",
-        "sku": "CARTIER-CT0532S-001"
       },
       "gid://shopify/ProductVariant/47448055775486": {
         "qty": 1,
@@ -48423,7 +48418,7 @@
         "sku": "ZEISS-ZS22701-462-52"
       },
       "gid://shopify/ProductVariant/47462521700606": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "V - GLASSLINER-VLS-118D-55-CA",
         "sku": "VALENTINO-V - GLASSLINER-VLS-118D-55-CA"
       },
@@ -48433,7 +48428,7 @@
         "sku": "VALENTINO-V - SOUL - II-VLS-128B"
       },
       "gid://shopify/ProductVariant/47769384124670": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "V-GLASSLINER-VLS-118D-55",
         "sku": "VALENTINO-V-GLASSLINER-VLS-118D-55"
       },
@@ -48443,12 +48438,12 @@
         "sku": "VALENTINO-V-GOLDCUT-I-VLS-113B-55"
       },
       "gid://shopify/ProductVariant/47692580258046": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "V-LURE-VLS-130B",
         "sku": "VALENTINO-V-LURE-VLS-130B"
       },
       "gid://shopify/ProductVariant/46622348214526": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "V-SOUL-VLS-127A-53",
         "sku": "VALENTINO-V-SOUL-VLS-127A-53"
       },
