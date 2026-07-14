@@ -30332,7 +30332,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-14T15:06:53.473270+00:00",
+    "updated_at": "2026-07-14T16:37:15.923453+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
@@ -30426,7 +30426,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 699,
+        "total_qty": 696,
         "sku_count": 132,
         "product_count": 132
       },
@@ -30442,7 +30442,7 @@
         "title": "MARC JACOBS",
         "handle": "marc-jacobs",
         "legacy_id": "391774732542",
-        "total_qty": 382,
+        "total_qty": 381,
         "sku_count": 70,
         "product_count": 70
       },
@@ -30530,7 +30530,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 3112,
+        "total_qty": 3111,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30618,9 +30618,9 @@
         "title": "BALENCIAGA",
         "handle": "balenciaga",
         "legacy_id": "395973296382",
-        "total_qty": 258,
-        "sku_count": 113,
-        "product_count": 113
+        "total_qty": 257,
+        "sku_count": 112,
+        "product_count": 112
       },
       "gid://shopify/Collection/397030424830": {
         "title": "CHOPARD",
@@ -30698,9 +30698,9 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 958,
-        "sku_count": 139,
-        "product_count": 139
+        "total_qty": 913,
+        "sku_count": 124,
+        "product_count": 124
       },
       "gid://shopify/Collection/408131010814": {
         "title": "VOGUE",
@@ -30770,7 +30770,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 3277,
+        "total_qty": 3276,
         "sku_count": 248,
         "product_count": 248
       },
@@ -30882,7 +30882,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 25810,
+        "total_qty": 25807,
         "sku_count": 39,
         "product_count": 39
       },
@@ -31330,17 +31330,17 @@
         "title": "TIFFANY & CO",
         "handle": "tiffany-co",
         "legacy_id": "483397370110",
-        "total_qty": 58,
-        "sku_count": 20,
-        "product_count": 20
+        "total_qty": 56,
+        "sku_count": 19,
+        "product_count": 19
       },
       "gid://shopify/Collection/484454269182": {
         "title": "Relabeled",
         "handle": "relabeled",
         "legacy_id": "484454269182",
-        "total_qty": 273,
-        "sku_count": 149,
-        "product_count": 149
+        "total_qty": 272,
+        "sku_count": 148,
+        "product_count": 148
       },
       "gid://shopify/Collection/485871059198": {
         "title": "ANNA-KARIN KARLSSON",
@@ -34568,12 +34568,12 @@
         "sku": "KS-FAY/G/S-086/HA"
       },
       "gid://shopify/ProductVariant/48493128876286": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "EMMALEE-09Q-51",
         "sku": "KS-EMMALEE-09Q-51"
       },
       "gid://shopify/ProductVariant/48493128450302": {
-        "qty": 5,
+        "qty": 3,
         "product_title": "BRYLIE-QGX-50",
         "sku": "KS-BRYLIE-QGX-50"
       },
@@ -35138,7 +35138,7 @@
         "sku": "MJ-MARC-718-2W8-59"
       },
       "gid://shopify/ProductVariant/48493129564414": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "MARC-526/S-807/9O",
         "sku": "MJ-MARC-526/S-807/9O"
       },
@@ -38912,11 +38912,6 @@
         "product_title": "TF2267-8047-52",
         "sku": "TF-TF2267-8047-52"
       },
-      "gid://shopify/ProductVariant/48493051805950": {
-        "qty": 2,
-        "product_title": "TF2257B-8015-52",
-        "sku": "TF-TF2257B-8015-52"
-      },
       "gid://shopify/ProductVariant/48493051773182": {
         "qty": 5,
         "product_title": "TF2256U-8396-54",
@@ -39326,6 +39321,11 @@
         "qty": 4,
         "product_title": "MIS-0006-2NL-53",
         "sku": "MISSONI-MIS-0006-2NL-53"
+      },
+      "gid://shopify/ProductVariant/48349469540606": {
+        "qty": 5,
+        "product_title": "MIS-0005-S37-54",
+        "sku": "MISSONI-MIS-0005-S37-54"
       },
       "gid://shopify/ProductVariant/43458420670718": {
         "qty": 0,
@@ -40776,11 +40776,6 @@
         "qty": 2,
         "product_title": "BB0405O-003-57-RELABELED",
         "sku": "BALENCIAGA-BB0405O-003-57_R"
-      },
-      "gid://shopify/ProductVariant/48301160169726": {
-        "qty": 1,
-        "product_title": "BB0343O-005-56-RELABELED",
-        "sku": "BALENCIAGA-BB0343O-005-56_R"
       },
       "gid://shopify/ProductVariant/48301160136958": {
         "qty": 2,
@@ -42297,21 +42292,6 @@
         "product_title": "GG1738O-002-52-RELABELED",
         "sku": "GUCCI-GG1738O-002-52_R"
       },
-      "gid://shopify/ProductVariant/48493052133630": {
-        "qty": 1,
-        "product_title": "TF4232-83429S",
-        "sku": "TF-TF4232-83429S"
-      },
-      "gid://shopify/ProductVariant/48493052100862": {
-        "qty": 1,
-        "product_title": "TF4232-80553C",
-        "sku": "TF-TF4232-80553C"
-      },
-      "gid://shopify/ProductVariant/48493051642110": {
-        "qty": 1,
-        "product_title": "TF2160B-8134-54",
-        "sku": "TF-TF2160B-8134-54"
-      },
       "gid://shopify/ProductVariant/46182077694206": {
         "qty": 29,
         "product_title": "QT-000747-TORT-CLRRX",
@@ -42771,11 +42751,6 @@
         "qty": 12,
         "product_title": "MIS-0+75:938098-0BUH-55",
         "sku": "MISSONI-MIS-0098-0BUH-55"
-      },
-      "gid://shopify/ProductVariant/48349469540606": {
-        "qty": 5,
-        "product_title": "MIS-0005-S37-54",
-        "sku": "MISSONI-MIS-0005-S37-54"
       },
       "gid://shopify/ProductVariant/47010388967678": {
         "qty": 14,
@@ -45152,6 +45127,11 @@
         "product_title": "ALINA-R-4711-H-49",
         "sku": "AW-ALINA-R-4711-H-49"
       },
+      "gid://shopify/ProductVariant/47448257462526": {
+        "qty": 1,
+        "product_title": "BEASTY-CF4",
+        "sku": "HL-BEASTY-CF4"
+      },
       "gid://shopify/ProductVariant/47448056267006": {
         "qty": 1,
         "product_title": "CT0533S-004",
@@ -46323,7 +46303,7 @@
         "sku": "PP-VPP016M-06A7-54"
       },
       "gid://shopify/ProductVariant/46059134714110": {
-        "qty": 9701,
+        "qty": 9698,
         "product_title": "DropShip",
         "sku": "DropShip"
       },
@@ -50696,11 +50676,6 @@
         "qty": 1,
         "product_title": "CONFORMITY-053M",
         "sku": "HL-CONFORMITY-053M"
-      },
-      "gid://shopify/ProductVariant/47448257462526": {
-        "qty": 1,
-        "product_title": "BEASTY-CF4",
-        "sku": "HL-BEASTY-CF4"
       },
       "gid://shopify/ProductVariant/47353903907070": {
         "qty": 2,
