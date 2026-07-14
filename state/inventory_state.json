@@ -30332,13 +30332,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-14T16:37:15.923453+00:00",
+    "updated_at": "2026-07-14T17:46:15.880473+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 2705,
+        "total_qty": 2704,
         "sku_count": 248,
         "product_count": 248
       },
@@ -30426,9 +30426,9 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 696,
-        "sku_count": 132,
-        "product_count": 132
+        "total_qty": 684,
+        "sku_count": 130,
+        "product_count": 130
       },
       "gid://shopify/Collection/391774667006": {
         "title": "LIZ CLAIBORNE",
@@ -30482,7 +30482,7 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 804,
+        "total_qty": 802,
         "sku_count": 92,
         "product_count": 92
       },
@@ -30530,7 +30530,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 3111,
+        "total_qty": 3110,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30698,9 +30698,9 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 913,
-        "sku_count": 124,
-        "product_count": 124
+        "total_qty": 760,
+        "sku_count": 102,
+        "product_count": 102
       },
       "gid://shopify/Collection/408131010814": {
         "title": "VOGUE",
@@ -30770,7 +30770,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 3276,
+        "total_qty": 3278,
         "sku_count": 248,
         "product_count": 248
       },
@@ -30786,7 +30786,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 9518,
+        "total_qty": 9517,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30826,9 +30826,9 @@
         "title": "ELASTA",
         "handle": "elasta",
         "legacy_id": "411442249982",
-        "total_qty": 112,
-        "sku_count": 32,
-        "product_count": 32
+        "total_qty": 102,
+        "sku_count": 28,
+        "product_count": 28
       },
       "gid://shopify/Collection/411443298558": {
         "title": "CARTIER",
@@ -31306,7 +31306,7 @@
         "title": "MODO",
         "handle": "modo",
         "legacy_id": "481959280894",
-        "total_qty": 406,
+        "total_qty": 405,
         "sku_count": 31,
         "product_count": 31
       },
@@ -31898,7 +31898,7 @@
         "sku": "AW-ALFONS-H"
       },
       "gid://shopify/ProductVariant/47577490096382": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "ALIJAH/G/S/US-807/9O",
         "sku": "KS-ALIJAH/G/S/US-807/9O"
       },
@@ -31951,11 +31951,6 @@
         "qty": 25,
         "product_title": "ART SCHOOL-59307",
         "sku": "QUAY-QU-000745-MTBLK/SMK"
-      },
-      "gid://shopify/ProductVariant/48121213550846": {
-        "qty": 1,
-        "product_title": "AUBRIELLA/G/S-1ED/9O",
-        "sku": "KS-AUBRIELLA/G/S-1ED/9O"
       },
       "gid://shopify/ProductVariant/48560872456446": {
         "qty": 21,
@@ -32591,6 +32586,11 @@
         "qty": 1,
         "product_title": "CT0533S-003",
         "sku": "CARTIER-CT0533S-003"
+      },
+      "gid://shopify/ProductVariant/47448056267006": {
+        "qty": 1,
+        "product_title": "CT0533S-004",
+        "sku": "CARTIER-CT0533S-004"
       },
       "gid://shopify/ProductVariant/47998569513214": {
         "qty": 3,
@@ -34573,7 +34573,7 @@
         "sku": "KS-EMMALEE-09Q-51"
       },
       "gid://shopify/ProductVariant/48493128450302": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "BRYLIE-QGX-50",
         "sku": "KS-BRYLIE-QGX-50"
       },
@@ -34598,7 +34598,7 @@
         "sku": "KS-MILANI/F-086-49"
       },
       "gid://shopify/ProductVariant/48121214730494": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "MARLAH/S-1ED/IB",
         "sku": "KS-MARLAH/S-1ED/IB"
       },
@@ -34623,7 +34623,7 @@
         "sku": "KS-JOSEY/G/S-PJP/9O"
       },
       "gid://shopify/ProductVariant/48121214501118": {
-        "qty": 15,
+        "qty": 14,
         "product_title": "JEZEBEL/G/S-PJP/9O",
         "sku": "KS-JEZEBEL/G/S-PJP/9O"
       },
@@ -34638,14 +34638,9 @@
         "sku": "KS-JABRIA-L93-53"
       },
       "gid://shopify/ProductVariant/48121214337278": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "IVIE-LKS-52",
         "sku": "KS-IVIE-LKS-52"
-      },
-      "gid://shopify/ProductVariant/48121214271742": {
-        "qty": 1,
-        "product_title": "HAZEN-807-51",
-        "sku": "KS-HAZEN-807-51"
       },
       "gid://shopify/ProductVariant/48121214206206": {
         "qty": 2,
@@ -34683,7 +34678,7 @@
         "sku": "KS-EMELYN-LHF-52"
       },
       "gid://shopify/ProductVariant/48121213845758": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "ELINA/G/S-807/9O",
         "sku": "KS-ELINA/G/S-807/9O"
       },
@@ -34778,7 +34773,7 @@
         "sku": "KS-CHANTELLE-086-52"
       },
       "gid://shopify/ProductVariant/48011977392382": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "CAILYE-7J2-53",
         "sku": "KS-CAILYE-7J2-53"
       },
@@ -34793,7 +34788,7 @@
         "sku": "KA-HAISLEY/F-S1V-53"
       },
       "gid://shopify/ProductVariant/48011618353406": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "MARCILEE-KB7-48",
         "sku": "KS-MARCILEE-KB7-48"
       },
@@ -34808,7 +34803,7 @@
         "sku": "KS-BELEN-807-55"
       },
       "gid://shopify/ProductVariant/48011617960190": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "AILA-807-47",
         "sku": "KS-AILA-807-47"
       },
@@ -34883,7 +34878,7 @@
         "sku": "KS-ELIANA/G-086-52"
       },
       "gid://shopify/ProductVariant/47432864825598": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "VONNIE/F/S-807/9O",
         "sku": "KS-VONNIE/F/S-807/9O"
       },
@@ -36153,7 +36148,7 @@
         "sku": "SF-SF2952N-261-53"
       },
       "gid://shopify/ProductVariant/46102652846334": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "SF2955-414-51",
         "sku": "SF-SF2955-414-51"
       },
@@ -36358,7 +36353,7 @@
         "sku": "SF-SF938S-338"
       },
       "gid://shopify/ProductVariant/48112738763006": {
-        "qty": 14,
+        "qty": 13,
         "product_title": "SF955S-001",
         "sku": "SF-SF955S-001"
       },
@@ -45023,7 +45018,7 @@
         "sku": "MODO-4604-SIL00-50"
       },
       "gid://shopify/ProductVariant/48061854712062": {
-        "qty": 13,
+        "qty": 12,
         "product_title": "4612-GOLD0-54",
         "sku": "MODO-4612-GOLD0-54"
       },
@@ -45131,11 +45126,6 @@
         "qty": 1,
         "product_title": "BEASTY-CF4",
         "sku": "HL-BEASTY-CF4"
-      },
-      "gid://shopify/ProductVariant/47448056267006": {
-        "qty": 1,
-        "product_title": "CT0533S-004",
-        "sku": "CARTIER-CT0533S-004"
       },
       "gid://shopify/ProductVariant/47761274798334": {
         "qty": 4,
@@ -45442,11 +45432,6 @@
         "product_title": "E-5796-JSL-53",
         "sku": "ELASTA EL 5796 0JSL - 53"
       },
-      "gid://shopify/ProductVariant/47637488304382": {
-        "qty": 1,
-        "product_title": "E-7227-NCJ-54",
-        "sku": "ELASTA-E-7227-NCJ-54"
-      },
       "gid://shopify/ProductVariant/47637488140542": {
         "qty": 2,
         "product_title": "E-5798-JNW-51",
@@ -45476,21 +45461,6 @@
         "qty": 4,
         "product_title": "E-8008-0003-54",
         "sku": "ELASTA-E-8008-0003-54"
-      },
-      "gid://shopify/ProductVariant/47010388639998": {
-        "qty": 1,
-        "product_title": "E-7241-0003-54",
-        "sku": "ELASTA-E-7241-0003-54"
-      },
-      "gid://shopify/ProductVariant/47010388574462": {
-        "qty": 4,
-        "product_title": "E-3128-0R80-54",
-        "sku": "ELASTA-E-3128-0R80-54"
-      },
-      "gid://shopify/ProductVariant/47010388541694": {
-        "qty": 4,
-        "product_title": "E-3128-0003-54",
-        "sku": "ELASTA-E-3128-0003-54"
       },
       "gid://shopify/ProductVariant/47010179809534": {
         "qty": 5,
