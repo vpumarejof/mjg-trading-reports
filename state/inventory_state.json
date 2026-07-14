@@ -30332,7 +30332,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-14T10:30:18.008562+00:00",
+    "updated_at": "2026-07-14T11:56:36.320174+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
@@ -30482,7 +30482,7 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 805,
+        "total_qty": 804,
         "sku_count": 92,
         "product_count": 92
       },
@@ -36253,7 +36253,7 @@
         "sku": "SF-SF2988-050-54"
       },
       "gid://shopify/ProductVariant/47111140442366": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "SF2988-232-54",
         "sku": "SF-SF2988-232-54"
       },
@@ -49812,15 +49812,15 @@
         "product_title": "E1144-071-54",
         "sku": "FLEXON-E1144-071-54"
       },
-      "gid://shopify/ProductVariant/46670759788798": {
-        "qty": 2,
-        "product_title": "E1138-002-56",
-        "sku": "FLEXON-E1138-002-56"
-      },
       "gid://shopify/ProductVariant/47730449907966": {
         "qty": 1,
         "product_title": "EP8021-210-54",
         "sku": "FLEXON-EP8021-210-54"
+      },
+      "gid://shopify/ProductVariant/46670759788798": {
+        "qty": 2,
+        "product_title": "E1138-002-56",
+        "sku": "FLEXON-E1138-002-56"
       },
       "gid://shopify/ProductVariant/47775409438974": {
         "qty": 2,
@@ -51177,6 +51177,11 @@
         "product_title": "JA4093-036-53",
         "sku": "JA-JA4093-036-53"
       },
+      "gid://shopify/ProductVariant/47504333373694": {
+        "qty": 8,
+        "product_title": "JA4103-001-56",
+        "sku": "JA-JA4103-001-56"
+      },
       "gid://shopify/ProductVariant/47504333275390": {
         "qty": 5,
         "product_title": "JA4082-400-53",
@@ -51186,11 +51191,6 @@
         "qty": 6,
         "product_title": "JA4088-033-54",
         "sku": "JA-JA4088-033-54"
-      },
-      "gid://shopify/ProductVariant/47504333373694": {
-        "qty": 8,
-        "product_title": "JA4103-001-56",
-        "sku": "JA-JA4103-001-56"
       },
       "gid://shopify/ProductVariant/47504336486654": {
         "qty": 9,
@@ -51552,11 +51552,6 @@
         "product_title": "SUPERSTAR3-NVYGR",
         "sku": "EJ-SUPERSTAR3-NVYGR"
       },
-      "gid://shopify/ProductVariant/48094433673470": {
-        "qty": 21,
-        "product_title": "WALK-OF-FAME-SILBL",
-        "sku": "EJ-WALK-OF-FAME-SILBL"
-      },
       "gid://shopify/ProductVariant/48094433444094": {
         "qty": 11,
         "product_title": "VIP-VIBLK",
@@ -51567,15 +51562,20 @@
         "product_title": "TECHIE1-TERTNY",
         "sku": "EJ-TECHIE1-TERTNY"
       },
-      "gid://shopify/ProductVariant/48094433476862": {
-        "qty": 18,
-        "product_title": "VIP3-SHYGL",
-        "sku": "EJ-VIP3-SHYGL"
+      "gid://shopify/ProductVariant/48094433673470": {
+        "qty": 21,
+        "product_title": "WALK-OF-FAME-SILBL",
+        "sku": "EJ-WALK-OF-FAME-SILBL"
       },
       "gid://shopify/ProductVariant/48305154523390": {
         "qty": 9,
         "product_title": "SPEAKEASY2-BLKBL",
         "sku": "EJ-SPEAKEASY2-BLKBL"
+      },
+      "gid://shopify/ProductVariant/48094433476862": {
+        "qty": 18,
+        "product_title": "VIP3-SHYGL",
+        "sku": "EJ-VIP3-SHYGL"
       },
       "gid://shopify/ProductVariant/48305154457854": {
         "qty": 17,
