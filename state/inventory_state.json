@@ -30332,7 +30332,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-15T15:07:05.804936+00:00",
+    "updated_at": "2026-07-15T16:43:25.891334+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
@@ -30346,7 +30346,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 15214,
+        "total_qty": 15199,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30498,15 +30498,15 @@
         "title": "VERSACE",
         "handle": "versace",
         "legacy_id": "391776010494",
-        "total_qty": 283,
-        "sku_count": 76,
-        "product_count": 76
+        "total_qty": 264,
+        "sku_count": 74,
+        "product_count": 74
       },
       "gid://shopify/Collection/391850787070": {
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 12185,
+        "total_qty": 12337,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30530,9 +30530,9 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 3100,
-        "sku_count": 250,
-        "product_count": 250
+        "total_qty": 3073,
+        "sku_count": 247,
+        "product_count": 247
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
@@ -30698,9 +30698,9 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 661,
-        "sku_count": 100,
-        "product_count": 100
+        "total_qty": 644,
+        "sku_count": 99,
+        "product_count": 99
       },
       "gid://shopify/Collection/408131010814": {
         "title": "VOGUE",
@@ -30762,7 +30762,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 6142,
+        "total_qty": 6134,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30802,7 +30802,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 6581,
+        "total_qty": 6654,
         "sku_count": 226,
         "product_count": 226
       },
@@ -30810,7 +30810,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 6142,
+        "total_qty": 6134,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30922,7 +30922,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 196,
+        "total_qty": 195,
         "sku_count": 199,
         "product_count": 199
       },
@@ -31138,9 +31138,9 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 1460,
-        "sku_count": 250,
-        "product_count": 250
+        "total_qty": 1440,
+        "sku_count": 247,
+        "product_count": 247
       },
       "gid://shopify/Collection/472287772926": {
         "title": "HARRY LARY",
@@ -32683,7 +32683,7 @@
         "sku": "PRADA0PR60XV5541O153"
       },
       "gid://shopify/ProductVariant/48567755899134": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "0VE1280-1433-55",
         "sku": "VERSACE-0VE1280-1433-55"
       },
@@ -32713,12 +32713,12 @@
         "sku": "VERSACE-0VE1302-1002-59"
       },
       "gid://shopify/ProductVariant/48567756095742": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "0VE1304-1412-54",
         "sku": "VERSACE-0VE1304-1412-54"
       },
       "gid://shopify/ProductVariant/48567756128510": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "0VE1306-1002-55",
         "sku": "VERSACE-0VE1306-1002-55"
       },
@@ -32738,7 +32738,7 @@
         "sku": "VERSACE-0VE1309-1519-52"
       },
       "gid://shopify/ProductVariant/47095925113086": {
-        "qty": 13,
+        "qty": 12,
         "product_title": "0VE3297D-388-55",
         "sku": "VERSACE-0VE3297D-388-55"
       },
@@ -32768,7 +32768,7 @@
         "sku": "VERSACE-0VE3343F-5429-54"
       },
       "gid://shopify/ProductVariant/48567756783870": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "0VE3344F-GB1-54",
         "sku": "VERSACE-0VE3344F-GB1-54"
       },
@@ -32778,7 +32778,7 @@
         "sku": "VERSACE-0VE3349U-GB1-53"
       },
       "gid://shopify/ProductVariant/48567756849406": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "0VE3353-GB1-54",
         "sku": "VERSACE-0VE3353-GB1-54"
       },
@@ -32788,12 +32788,12 @@
         "sku": "VERSACE-0VE3354-5456-55"
       },
       "gid://shopify/ProductVariant/48567756980478": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "0VE3354-5460-55",
         "sku": "VERSACE-0VE3354-5460-55"
       },
       "gid://shopify/ProductVariant/48567757013246": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "0VE3354F-GB1-55",
         "sku": "VERSACE-0VE3354F-GB1-55"
       },
@@ -32808,24 +32808,19 @@
         "sku": "VERSACE-0VE3355U-GB1-51"
       },
       "gid://shopify/ProductVariant/48567757078782": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "0VE3357-5464-53",
         "sku": "VERSACE-0VE3357-5464-53"
       },
       "gid://shopify/ProductVariant/48567757209854": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "0VE3357-GB1-55",
         "sku": "VERSACE-0VE3357-GB1-55"
       },
       "gid://shopify/ProductVariant/48567757275390": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "0VE3358B-GB1-52",
         "sku": "VERSACE-0VE3358B-GB1-52"
-      },
-      "gid://shopify/ProductVariant/47095926194430": {
-        "qty": 1,
-        "product_title": "0VE3361U-5487-51",
-        "sku": "VERSACE-0VE3361U-5487-51"
       },
       "gid://shopify/ProductVariant/48567757308158": {
         "qty": 3,
@@ -32838,7 +32833,7 @@
         "sku": "VERSACE-0VE3362U-GB1-53"
       },
       "gid://shopify/ProductVariant/48567757373694": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "0VE3363U-5496-50",
         "sku": "VERSACE-0VE3363U-5496-50"
       },
@@ -32863,22 +32858,17 @@
         "sku": "VERSACE-0VE3366-GB1-55"
       },
       "gid://shopify/ProductVariant/48567757537534": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "0VE3367U-148-52",
         "sku": "VERSACE-0VE3367U-148-52"
       },
       "gid://shopify/ProductVariant/48567757570302": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "0VE3367U-5495-52",
         "sku": "VERSACE-0VE3367U-5495-52"
       },
-      "gid://shopify/ProductVariant/48567757635838": {
-        "qty": 1,
-        "product_title": "0VE3368U-108-55",
-        "sku": "VERSACE-0VE3368U-108-55"
-      },
       "gid://shopify/ProductVariant/48567757668606": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "0VE3368U-148-55",
         "sku": "VERSACE-0VE3368U-148-55"
       },
@@ -32913,12 +32903,12 @@
         "sku": "VERSACE-0VE3377U-108-55"
       },
       "gid://shopify/ProductVariant/48567757897982": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "0VE3377U-5450-55",
         "sku": "VERSACE-0VE3377U-5450-55"
       },
       "gid://shopify/ProductVariant/48567757930750": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "0VE3377U-5510-53",
         "sku": "VERSACE-0VE3377U-5510-53"
       },
@@ -33841,6 +33831,16 @@
         "qty": 7,
         "product_title": "1830-4C3-56",
         "sku": "TH-TH-1830-4C3-56"
+      },
+      "gid://shopify/ProductVariant/47783449166078": {
+        "qty": 1,
+        "product_title": "1888-AIO-52",
+        "sku": "TH-TH-1888-AIO-52"
+      },
+      "gid://shopify/ProductVariant/47783449493758": {
+        "qty": 3,
+        "product_title": "1935/F-R80-56",
+        "sku": "TH-TH-1935/F-R80-56"
       },
       "gid://shopify/ProductVariant/46243449274622": {
         "qty": 2,
@@ -36366,16 +36366,6 @@
         "qty": 6,
         "product_title": "SF964S-210",
         "sku": "SF-SF964S-210"
-      },
-      "gid://shopify/ProductVariant/47783449166078": {
-        "qty": 1,
-        "product_title": "1888-AIO-52",
-        "sku": "TH-TH-1888-AIO-52"
-      },
-      "gid://shopify/ProductVariant/47783449493758": {
-        "qty": 3,
-        "product_title": "1935/F-R80-56",
-        "sku": "TH-TH-1935/F-R80-56"
       },
       "gid://shopify/ProductVariant/47783449592062": {
         "qty": 5,
@@ -39292,16 +39282,6 @@
         "product_title": "LV-5021-38I-51",
         "sku": "LEVIS-LV-5021-38I-51"
       },
-      "gid://shopify/ProductVariant/48349469409534": {
-        "qty": 5,
-        "product_title": "LV-1050-KB7-54",
-        "sku": "LEVIS-LV-1050-KB7-54"
-      },
-      "gid://shopify/ProductVariant/48349469343998": {
-        "qty": 5,
-        "product_title": "LV-1031-086-51",
-        "sku": "LEVIS-LV-1031-086-51"
-      },
       "gid://shopify/ProductVariant/43458420670718": {
         "qty": 0,
         "product_title": "0001-S-0EM5-9O",
@@ -41571,6 +41551,16 @@
         "qty": 5,
         "product_title": "LV-5019-EX4-54",
         "sku": "LEVIS-LV-5019-EX4-54"
+      },
+      "gid://shopify/ProductVariant/48349469409534": {
+        "qty": 5,
+        "product_title": "LV-1050-KB7-54",
+        "sku": "LEVIS-LV-1050-KB7-54"
+      },
+      "gid://shopify/ProductVariant/48349469343998": {
+        "qty": 5,
+        "product_title": "LV-1031-086-51",
+        "sku": "LEVIS-LV-1031-086-51"
       },
       "gid://shopify/ProductVariant/48349469311230": {
         "qty": 5,
@@ -45181,6 +45171,11 @@
         "qty": 0,
         "product_title": "0VE3354-5456-53",
         "sku": "VERSACE-0VE3354-5456-53"
+      },
+      "gid://shopify/ProductVariant/48567757635838": {
+        "qty": 0,
+        "product_title": "0VE3368U-108-55",
+        "sku": "VERSACE-0VE3368U-108-55"
       },
       "gid://shopify/ProductVariant/46094560657662": {
         "qty": 0,
