@@ -30332,7 +30332,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-15T11:56:53.573942+00:00",
+    "updated_at": "2026-07-15T13:27:34.834270+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
@@ -30370,7 +30370,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1455,
+        "total_qty": 1454,
         "sku_count": 77,
         "product_count": 77
       },
@@ -30426,7 +30426,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 679,
+        "total_qty": 677,
         "sku_count": 130,
         "product_count": 130
       },
@@ -30442,7 +30442,7 @@
         "title": "MARC JACOBS",
         "handle": "marc-jacobs",
         "legacy_id": "391774732542",
-        "total_qty": 381,
+        "total_qty": 380,
         "sku_count": 70,
         "product_count": 70
       },
@@ -30466,7 +30466,7 @@
         "title": "PRADA",
         "handle": "prada",
         "legacy_id": "391775289598",
-        "total_qty": 69,
+        "total_qty": 68,
         "sku_count": 19,
         "product_count": 19
       },
@@ -30498,7 +30498,7 @@
         "title": "VERSACE",
         "handle": "versace",
         "legacy_id": "391776010494",
-        "total_qty": 285,
+        "total_qty": 284,
         "sku_count": 76,
         "product_count": 76
       },
@@ -30530,7 +30530,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 3095,
+        "total_qty": 3100,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30586,15 +30586,15 @@
         "title": "MOSCHINO",
         "handle": "moschino",
         "legacy_id": "395943837950",
-        "total_qty": 232,
-        "sku_count": 25,
-        "product_count": 25
+        "total_qty": 231,
+        "sku_count": 24,
+        "product_count": 24
       },
       "gid://shopify/Collection/395943870718": {
         "title": "DKNY",
         "handle": "dkny",
         "legacy_id": "395943870718",
-        "total_qty": 66,
+        "total_qty": 65,
         "sku_count": 26,
         "product_count": 26
       },
@@ -30618,9 +30618,9 @@
         "title": "BALENCIAGA",
         "handle": "balenciaga",
         "legacy_id": "395973296382",
-        "total_qty": 257,
-        "sku_count": 112,
-        "product_count": 112
+        "total_qty": 256,
+        "sku_count": 111,
+        "product_count": 111
       },
       "gid://shopify/Collection/397030424830": {
         "title": "CHOPARD",
@@ -30770,7 +30770,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 3263,
+        "total_qty": 3262,
         "sku_count": 248,
         "product_count": 248
       },
@@ -30778,7 +30778,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2804,
+        "total_qty": 2803,
         "sku_count": 208,
         "product_count": 208
       },
@@ -30786,7 +30786,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 9514,
+        "total_qty": 9513,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30794,7 +30794,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2342,
+        "total_qty": 2341,
         "sku_count": 242,
         "product_count": 242
       },
@@ -30882,7 +30882,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 25801,
+        "total_qty": 25800,
         "sku_count": 39,
         "product_count": 39
       },
@@ -31002,7 +31002,7 @@
         "title": "CALVIN KLEIN JEANS",
         "handle": "calvin-klein-jeans",
         "legacy_id": "464057172222",
-        "total_qty": 510,
+        "total_qty": 508,
         "sku_count": 62,
         "product_count": 62
       },
@@ -31114,7 +31114,7 @@
         "title": "COCO SONG",
         "handle": "coco-song",
         "legacy_id": "467688259838",
-        "total_qty": 274,
+        "total_qty": 272,
         "sku_count": 67,
         "product_count": 67
       },
@@ -31122,7 +31122,7 @@
         "title": "ANDY WOLF",
         "handle": "andy-wolf-1",
         "legacy_id": "469566619902",
-        "total_qty": 967,
+        "total_qty": 966,
         "sku_count": 250,
         "product_count": 250
       },
@@ -34363,7 +34363,7 @@
         "sku": "CARRERA-FLAGLAB-13-0VK6/9O"
       },
       "gid://shopify/ProductVariant/45606141591806": {
-        "qty": 79,
+        "qty": 78,
         "product_title": "FLAGLAB-13-0C9A-9O",
         "sku": "CARRERA-FLAGLAB-13-0C9A/9O"
       },
@@ -34628,7 +34628,7 @@
         "sku": "KS-IVIE-LKS-52"
       },
       "gid://shopify/ProductVariant/48121214206206": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "HALLIE/G-JOO-52",
         "sku": "KS-HALLIE/G-JOO-52"
       },
@@ -34658,7 +34658,7 @@
         "sku": "KS-EMMALEE-PJP-49"
       },
       "gid://shopify/ProductVariant/48121213878526": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "EMELYN-LHF-52",
         "sku": "KS-EMELYN-LHF-52"
       },
@@ -35238,7 +35238,7 @@
         "sku": "MJ-MJ-1039-PJP-54"
       },
       "gid://shopify/ProductVariant/48011619467518": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "MARC-797/S-C9A/O2",
         "sku": "MJ-MARC-797/S-C9A/O2"
       },
@@ -35793,7 +35793,7 @@
         "sku": "PRADA-PS-54YS-1BO06U"
       },
       "gid://shopify/ProductVariant/48392230207742": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "PS-07YS-DG010A",
         "sku": "PRADA-PS-07YS-DG010A"
       },
@@ -36643,7 +36643,7 @@
         "sku": "TOMMY HILFIGER TJ 0041/S 0VK6/K1"
       },
       "gid://shopify/ProductVariant/47358980129022": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "VE2248-100287",
         "sku": "VERSACE-VE2248-100287"
       },
@@ -39112,11 +39112,6 @@
         "product_title": "CKJ24627-400-51",
         "sku": "CKJ-CKJ24627-400-51"
       },
-      "gid://shopify/ProductVariant/48361935765758": {
-        "qty": 3,
-        "product_title": "CKJ24618-400-53",
-        "sku": "CKJ-CKJ24618-400-53"
-      },
       "gid://shopify/ProductVariant/48361935732990": {
         "qty": 5,
         "product_title": "CKJ24618-050-53",
@@ -39296,6 +39291,16 @@
         "qty": 5,
         "product_title": "LV-5021-38I-51",
         "sku": "LEVIS-LV-5021-38I-51"
+      },
+      "gid://shopify/ProductVariant/48349469409534": {
+        "qty": 5,
+        "product_title": "LV-1050-KB7-54",
+        "sku": "LEVIS-LV-1050-KB7-54"
+      },
+      "gid://shopify/ProductVariant/48349469343998": {
+        "qty": 5,
+        "product_title": "LV-1031-086-51",
+        "sku": "LEVIS-LV-1031-086-51"
       },
       "gid://shopify/ProductVariant/43458420670718": {
         "qty": 0,
@@ -40442,11 +40447,6 @@
         "product_title": "MOS145/S-0B3V/IR",
         "sku": "MOSCHINO-MOS145/S-0B3V/IR"
       },
-      "gid://shopify/ProductVariant/48349469933822": {
-        "qty": 1,
-        "product_title": "MOS632-MVU-53",
-        "sku": "MOSCHINO-MOS632-MVU-53"
-      },
       "gid://shopify/ProductVariant/48336089874686": {
         "qty": 3,
         "product_title": "MOS171/S-4WC/9O",
@@ -40548,7 +40548,7 @@
         "sku": "DKNY-DK5067-330-53"
       },
       "gid://shopify/ProductVariant/47730447352062": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "DK5067-001-53",
         "sku": "DKNY-DK5067-001-53"
       },
@@ -41207,11 +41207,6 @@
         "product_title": "BB0326O-002-53",
         "sku": "BALENCIAGA-BB0326O-002-53"
       },
-      "gid://shopify/ProductVariant/47807380291838": {
-        "qty": 1,
-        "product_title": "BB0325O-006-54",
-        "sku": "BALENCIAGA-BB0325O-006-54"
-      },
       "gid://shopify/ProductVariant/47807380259070": {
         "qty": 4,
         "product_title": "BB0312O-006-53",
@@ -41576,16 +41571,6 @@
         "qty": 5,
         "product_title": "LV-5019-EX4-54",
         "sku": "LEVIS-LV-5019-EX4-54"
-      },
-      "gid://shopify/ProductVariant/48349469409534": {
-        "qty": 5,
-        "product_title": "LV-1050-KB7-54",
-        "sku": "LEVIS-LV-1050-KB7-54"
-      },
-      "gid://shopify/ProductVariant/48349469343998": {
-        "qty": 5,
-        "product_title": "LV-1031-086-51",
-        "sku": "LEVIS-LV-1031-086-51"
       },
       "gid://shopify/ProductVariant/48349469311230": {
         "qty": 5,
@@ -44883,7 +44868,7 @@
         "sku": "AW-4551-A-45"
       },
       "gid://shopify/ProductVariant/47655179485438": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "4551-C-45",
         "sku": "AW-4551-C-45"
       },
@@ -46218,7 +46203,7 @@
         "sku": "PP-VPP016M-06A7-54"
       },
       "gid://shopify/ProductVariant/46059134714110": {
-        "qty": 9697,
+        "qty": 9696,
         "product_title": "DropShip",
         "sku": "DropShip"
       },
@@ -48607,6 +48592,11 @@
         "product_title": "CKJ24610-309-54",
         "sku": "CKJ-CKJ24610-309-54"
       },
+      "gid://shopify/ProductVariant/48361935765758": {
+        "qty": 1,
+        "product_title": "CKJ24618-400-53",
+        "sku": "CKJ-CKJ24618-400-53"
+      },
       "gid://shopify/ProductVariant/46673585045758": {
         "qty": 5,
         "product_title": "OP-103-BLUE-52",
@@ -50023,7 +50013,7 @@
         "sku": "CS-NOBODY-KNOWS-CV245.02-09"
       },
       "gid://shopify/ProductVariant/47272817328382": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "NELSONS-DREAM-CV244.03-09",
         "sku": "CS-NELSONS-DREAM-CV244.03-09"
       },
@@ -50188,7 +50178,7 @@
         "sku": "CS-BROKEN-WINGS-CV187.04-09"
       },
       "gid://shopify/ProductVariant/47272819032318": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "RUNNING-JEANS-CV253.03-09",
         "sku": "CS-RUNNING-JEANS-CV253.03-09"
       },
