@@ -30332,7 +30332,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-15T20:05:43.723050+00:00",
+    "updated_at": "2026-07-15T21:13:26.403326+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
@@ -30482,9 +30482,9 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 798,
-        "sku_count": 91,
-        "product_count": 91
+        "total_qty": 797,
+        "sku_count": 90,
+        "product_count": 90
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -36066,11 +36066,6 @@
         "qty": 3,
         "product_title": "SF2950-N-219-54",
         "sku": "SF-SF2950-N-219-54"
-      },
-      "gid://shopify/ProductVariant/46102652715262": {
-        "qty": 1,
-        "product_title": "SF2951-219-53",
-        "sku": "SF-SF2951-219-53"
       },
       "gid://shopify/ProductVariant/47730455052542": {
         "qty": 3,
