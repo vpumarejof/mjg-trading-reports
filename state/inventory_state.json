@@ -30332,13 +30332,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-15T00:58:38.967350+00:00",
+    "updated_at": "2026-07-15T03:58:13.374868+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 2702,
+        "total_qty": 2699,
         "sku_count": 248,
         "product_count": 248
       },
@@ -30442,7 +30442,7 @@
         "title": "MARC JACOBS",
         "handle": "marc-jacobs",
         "legacy_id": "391774732542",
-        "total_qty": 382,
+        "total_qty": 381,
         "sku_count": 70,
         "product_count": 70
       },
@@ -30458,7 +30458,7 @@
         "title": "NIKE",
         "handle": "nike",
         "legacy_id": "391775125758",
-        "total_qty": 293,
+        "total_qty": 292,
         "sku_count": 29,
         "product_count": 29
       },
@@ -30498,7 +30498,7 @@
         "title": "VERSACE",
         "handle": "versace",
         "legacy_id": "391776010494",
-        "total_qty": 295,
+        "total_qty": 291,
         "sku_count": 77,
         "product_count": 77
       },
@@ -30506,7 +30506,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 12049,
+        "total_qty": 12046,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30530,7 +30530,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 3102,
+        "total_qty": 3098,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30698,7 +30698,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 669,
+        "total_qty": 665,
         "sku_count": 100,
         "product_count": 100
       },
@@ -30770,7 +30770,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 3282,
+        "total_qty": 3280,
         "sku_count": 248,
         "product_count": 248
       },
@@ -30794,7 +30794,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2360,
+        "total_qty": 2357,
         "sku_count": 244,
         "product_count": 244
       },
@@ -30802,7 +30802,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 6589,
+        "total_qty": 6586,
         "sku_count": 226,
         "product_count": 226
       },
@@ -30882,7 +30882,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 25802,
+        "total_qty": 25801,
         "sku_count": 39,
         "product_count": 39
       },
@@ -30970,7 +30970,7 @@
         "title": "VALENTINO",
         "handle": "valentino",
         "legacy_id": "462679113982",
-        "total_qty": 142,
+        "total_qty": 141,
         "sku_count": 25,
         "product_count": 25
       },
@@ -31138,7 +31138,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 1468,
+        "total_qty": 1465,
         "sku_count": 250,
         "product_count": 250
       },
@@ -31154,7 +31154,7 @@
         "title": "QUAY",
         "handle": "quay",
         "legacy_id": "472482939134",
-        "total_qty": 1162,
+        "total_qty": 1161,
         "sku_count": 68,
         "product_count": 68
       },
@@ -31503,7 +31503,7 @@
         "sku": "VERSACE-0VE2284-10006G63"
       },
       "gid://shopify/ProductVariant/48567758848254": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "0VE4361-53978753",
         "sku": "VERSACE-0VE4361-53978753"
       },
@@ -31528,7 +31528,7 @@
         "sku": "VERSACE-0VE4430U-52948753"
       },
       "gid://shopify/ProductVariant/48567759077630": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "0VE4430U-GB1/8753",
         "sku": "VERSACE-0VE4430U-GB1/8753"
       },
@@ -31543,7 +31543,7 @@
         "sku": "VERSACE-0VE4442-54106955"
       },
       "gid://shopify/ProductVariant/48567759175934": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "0VE4446-GB1/8767",
         "sku": "VERSACE-0VE4446-GB1/8767"
       },
@@ -35278,7 +35278,7 @@
         "sku": "MJ-MARC-707-807-53"
       },
       "gid://shopify/ProductVariant/48011619074302": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "MARC-703-NUC-56",
         "sku": "MJ-MARC-703-NUC-56"
       },
@@ -35653,7 +35653,7 @@
         "sku": "NIKE-LUCENT-FLASH-EV24050-891"
       },
       "gid://shopify/ProductVariant/46811480424702": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "SESSION CT8129",
         "sku": "NIKE-SESSION-CT8129-010"
       },
@@ -36648,7 +36648,7 @@
         "sku": "TOMMY HILFIGER TJ 0041/S 0VK6/K1"
       },
       "gid://shopify/ProductVariant/47358980129022": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "VE2248-100287",
         "sku": "VERSACE-VE2248-100287"
       },
@@ -38793,7 +38793,7 @@
         "sku": "QUAY-QW-000144-MLKTORT/SMK"
       },
       "gid://shopify/ProductVariant/48560873046270": {
-        "qty": 25,
+        "qty": 24,
         "product_title": "IN PURSUIT-79942",
         "sku": "QUAY-NO-NS-2578-BLK/BPLPK"
       },
@@ -46238,7 +46238,7 @@
         "sku": "PP-VPP016M-06A7-54"
       },
       "gid://shopify/ProductVariant/46059134714110": {
-        "qty": 9698,
+        "qty": 9697,
         "product_title": "DropShip",
         "sku": "DropShip"
       },
@@ -48358,7 +48358,7 @@
         "sku": "VALENTINO-V-SOUL-VLS-127B-53"
       },
       "gid://shopify/ProductVariant/47769385042174": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "V-SOUL-VLS-127C-53",
         "sku": "VALENTINO-V-SOUL-VLS-127C-53"
       },
