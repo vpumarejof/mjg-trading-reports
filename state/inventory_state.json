@@ -30332,7 +30332,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-15T17:54:33.427886+00:00",
+    "updated_at": "2026-07-15T18:57:19.938071+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
@@ -30530,9 +30530,9 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 3075,
-        "sku_count": 247,
-        "product_count": 247
+        "total_qty": 3085,
+        "sku_count": 250,
+        "product_count": 250
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
@@ -30978,17 +30978,17 @@
         "title": "OPEN BOX",
         "handle": "shelf-pulls",
         "legacy_id": "463407481086",
-        "total_qty": 86,
-        "sku_count": 34,
-        "product_count": 34
+        "total_qty": 98,
+        "sku_count": 39,
+        "product_count": 39
       },
       "gid://shopify/Collection/463674867966": {
         "title": "Open Box",
         "handle": "open-box",
         "legacy_id": "463674867966",
-        "total_qty": 69,
-        "sku_count": 17,
-        "product_count": 17
+        "total_qty": 79,
+        "sku_count": 20,
+        "product_count": 20
       },
       "gid://shopify/Collection/463834087678": {
         "title": "Tariff Busters",
@@ -31138,9 +31138,9 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 1439,
-        "sku_count": 247,
-        "product_count": 247
+        "total_qty": 1448,
+        "sku_count": 250,
+        "product_count": 250
       },
       "gid://shopify/Collection/472287772926": {
         "title": "HARRY LARY",
@@ -38726,6 +38726,21 @@
         "qty": 0,
         "product_title": "SILHOUETTE1579902055",
         "sku": "SILHOUETTE1579902055"
+      },
+      "gid://shopify/ProductVariant/48590876606718": {
+        "qty": 2,
+        "product_title": "SMITH-HOLT-H16-HLMBLG",
+        "sku": "SMITH-HOLT-H16-HLMBLG"
+      },
+      "gid://shopify/ProductVariant/48590876573950": {
+        "qty": 4,
+        "product_title": "BOLLE-TRACKDOWN-MIPS-31622",
+        "sku": "BOLLE-TRACKDOWN-MIPS-31622"
+      },
+      "gid://shopify/ProductVariant/48590876508414": {
+        "qty": 4,
+        "product_title": "BOLLE-TRACKDOWN-MIPS-32004S",
+        "sku": "BOLLE-TRACKDOWN-MIPS-32004S"
       },
       "gid://shopify/ProductVariant/48560873406718": {
         "qty": 25,
@@ -48352,6 +48367,11 @@
         "product_title": "APPROXIMATE-OLIVE-54_D",
         "sku": "JB-APPROXIMATE-OLIVE-54_D"
       },
+      "gid://shopify/ProductVariant/48590876475646": {
+        "qty": 1,
+        "product_title": "BOLLE-TRACKDOWN-MIPS-31627",
+        "sku": "BOLLE-TRACKDOWN-MIPS-31627"
+      },
       "gid://shopify/ProductVariant/48504817385726": {
         "qty": 1,
         "product_title": "CH-0071-807-54_D",
@@ -48471,6 +48491,11 @@
         "qty": 4,
         "product_title": "QS1014-MGLD-54_D",
         "sku": "QUIKSILVER-QS1014-MGLD-54_D"
+      },
+      "gid://shopify/ProductVariant/48590876639486": {
+        "qty": 1,
+        "product_title": "SMITH-HOLT-H16-HLMBMD",
+        "sku": "SMITH-HOLT-H16-HLMBMD"
       },
       "gid://shopify/ProductVariant/48504817352958": {
         "qty": 1,
