@@ -30332,13 +30332,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-16T03:33:40.454701+00:00",
+    "updated_at": "2026-07-16T06:03:23.350762+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 2666,
+        "total_qty": 2664,
         "sku_count": 248,
         "product_count": 248
       },
@@ -30458,7 +30458,7 @@
         "title": "NIKE",
         "handle": "nike",
         "legacy_id": "391775125758",
-        "total_qty": 289,
+        "total_qty": 288,
         "sku_count": 29,
         "product_count": 29
       },
@@ -30530,7 +30530,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 3072,
+        "total_qty": 3070,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30698,7 +30698,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 632,
+        "total_qty": 628,
         "sku_count": 95,
         "product_count": 95
       },
@@ -30770,7 +30770,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 3280,
+        "total_qty": 3278,
         "sku_count": 248,
         "product_count": 248
       },
@@ -30778,7 +30778,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2802,
+        "total_qty": 2796,
         "sku_count": 208,
         "product_count": 208
       },
@@ -31154,7 +31154,7 @@
         "title": "QUAY",
         "handle": "quay",
         "legacy_id": "472482939134",
-        "total_qty": 1160,
+        "total_qty": 1153,
         "sku_count": 68,
         "product_count": 68
       },
@@ -31330,9 +31330,9 @@
         "title": "TIFFANY & CO",
         "handle": "tiffany-co",
         "legacy_id": "483397370110",
-        "total_qty": 52,
-        "sku_count": 17,
-        "product_count": 17
+        "total_qty": 50,
+        "sku_count": 16,
+        "product_count": 16
       },
       "gid://shopify/Collection/484454269182": {
         "title": "Relabeled",
@@ -31873,7 +31873,7 @@
         "sku": "KS-ALIJAH/G/S/US-807/9O"
       },
       "gid://shopify/ProductVariant/48560872390910": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "ALL IN MEDIUM-77092",
         "sku": "QUAY-NO-NS-2295-DOE/BRNFWN"
       },
@@ -31923,7 +31923,7 @@
         "sku": "QUAY-QU-000745-MTBLK/SMK"
       },
       "gid://shopify/ProductVariant/48560872456446": {
-        "qty": 21,
+        "qty": 20,
         "product_title": "AURA POINTS-79934",
         "sku": "QUAY-NO-NS-2707-DOE/CP"
       },
@@ -35713,7 +35713,7 @@
         "sku": "NIKE-NV04-DZ7376-010"
       },
       "gid://shopify/ProductVariant/46811464859902": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "NV03 DZ7374",
         "sku": "NIKE-NV03-DZ7374-072"
       },
@@ -38758,7 +38758,7 @@
         "sku": "QUAY-NO-NS-2349-GLD/PLMTPE"
       },
       "gid://shopify/ProductVariant/48560872980734": {
-        "qty": 19,
+        "qty": 18,
         "product_title": "ICY-37390",
         "sku": "QUAY-QU-000602-BLK/FADE"
       },
@@ -38768,7 +38768,7 @@
         "sku": "QUAY-QU-000772-GLD/SMKPNK"
       },
       "gid://shopify/ProductVariant/48560872784126": {
-        "qty": 23,
+        "qty": 22,
         "product_title": "HIGH KEY EXTRA LARGE-77711",
         "sku": "QUAY-NO-NS-2486-BLK/PLMTPE"
       },
@@ -38841,11 +38841,6 @@
         "qty": 4,
         "product_title": "TF2234B-8047-54",
         "sku": "TF-TF2234B-8047-54"
-      },
-      "gid://shopify/ProductVariant/48493051674878": {
-        "qty": 2,
-        "product_title": "TF2207-8055-52",
-        "sku": "TF-TF2207-8055-52"
       },
       "gid://shopify/ProductVariant/48493051609342": {
         "qty": 2,
@@ -39276,6 +39271,11 @@
         "qty": 8,
         "product_title": "FOS-3151/G/S-807/HA",
         "sku": "FOSSIL-FOS-3151/G/S-807/HA"
+      },
+      "gid://shopify/ProductVariant/48349468983550": {
+        "qty": 4,
+        "product_title": "E-7247-4IN-51",
+        "sku": "ELASTA-E-7247-4IN-51"
       },
       "gid://shopify/ProductVariant/43458420670718": {
         "qty": 0,
@@ -43688,7 +43688,7 @@
         "sku": "AW-HUMBLE-E"
       },
       "gid://shopify/ProductVariant/48314439663870": {
-        "qty": 24,
+        "qty": 23,
         "product_title": "ICY-59297",
         "sku": "QUAY-QU-000602-MTBLK/SMKGRN"
       },
@@ -43983,7 +43983,7 @@
         "sku": "QUAY-NO-NS-2575-BLK/BPLPK"
       },
       "gid://shopify/ProductVariant/48145123082494": {
-        "qty": 25,
+        "qty": 24,
         "product_title": "HIGH KEY TWIST-79960",
         "sku": "QUAY-NO-NS-2696-DTRT/GRN"
       },
@@ -44003,7 +44003,7 @@
         "sku": "QUAY-NO-NS-2924-TRT/SMTP"
       },
       "gid://shopify/ProductVariant/48314439467262": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "HOLD PLEASE-78396",
         "sku": "QUAY-NO-NS-2593-BLK/SMK"
       },
@@ -45261,11 +45261,6 @@
         "qty": 0,
         "product_title": "CL40282U 5325A",
         "sku": "CELINE-CL40282U-25A"
-      },
-      "gid://shopify/ProductVariant/48349468983550": {
-        "qty": 4,
-        "product_title": "E-7247-4IN-51",
-        "sku": "ELASTA-E-7247-4IN-51"
       },
       "gid://shopify/ProductVariant/48349468950782": {
         "qty": 3,
