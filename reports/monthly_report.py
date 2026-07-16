@@ -391,7 +391,7 @@ def build_email(products, orders_lm, orders_pm, abandoned, lm_year, lm_month, da
 <div class="header">
   <div>{logo_tag}</div>
   <div class="header-right">
-    <strong>Monthly Recap Report</strong>
+    <strong>MONTHLY SALES REPORT - MJG TRADING</strong>
     {lm_name}
   </div>
 </div>
@@ -700,7 +700,7 @@ def main():
 
     html = build_email(products, orders_lm, orders_pm, abandoned, lm_year, lm_month, days_lm)
 
-    subject = f"MJG Trading — Monthly Recap · {lm_name}"
+    subject = f"MONTHLY SALES REPORT - MJG TRADING · {lm_name}"
     send_email(subject, html)
     print("Done.")
 

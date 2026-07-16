@@ -454,7 +454,7 @@ def build_email(products, orders_tw, orders_lw, abandoned, period_start, period_
 <div class="header">
   <div>{logo_tag}</div>
   <div class="header-right">
-    <strong>Weekly Brand Intelligence Report</strong>
+    <strong>WEEKLY SALES REPORT - MJG TRADING</strong>
     {week_start_label} – {week_end}
   </div>
 </div>
@@ -649,7 +649,7 @@ def main():
     html = build_email(products, orders_tw, orders_lw, abandoned, week_start, week_end)
 
     week_str = (week_end - timedelta(days=1)).strftime("Week of %B %d, %Y")
-    subject = f"MJG Trading — Weekly Brand Report · {week_str}"
+    subject = f"WEEKLY SALES REPORT - MJG TRADING · {week_str}"
     send_email(subject, html)
     print("Done.")
 

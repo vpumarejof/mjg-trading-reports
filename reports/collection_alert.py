@@ -11,7 +11,7 @@ from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
-from shopify_client import ShopifyClient
+from shopify_client import ShopifyClient, group_products_by_collection
 from email_utils import send_email
 
 STATE_FILE = Path(__file__).parent.parent / "state" / "inventory_state.json"
@@ -121,7 +121,8 @@ def main():
     prev_variants = state.get("current", {}).get("variants", {})
 
     print("Fetching current collection inventory...")
-    collections = client.get_all_collections_with_products()
+    products = client.get_all_products()
+    collections = group_products_by_collection(products)
 
     current_variants = {}
     current_collections = {}
