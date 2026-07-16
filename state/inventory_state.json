@@ -30332,13 +30332,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-16T00:08:43.557017+00:00",
+    "updated_at": "2026-07-16T03:33:40.454701+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 2667,
+        "total_qty": 2666,
         "sku_count": 248,
         "product_count": 248
       },
@@ -30578,7 +30578,7 @@
         "title": "COLUMBIA",
         "handle": "columbia",
         "legacy_id": "395943805182",
-        "total_qty": 226,
+        "total_qty": 225,
         "sku_count": 42,
         "product_count": 42
       },
@@ -30618,7 +30618,7 @@
         "title": "BALENCIAGA",
         "handle": "balenciaga",
         "legacy_id": "395973296382",
-        "total_qty": 255,
+        "total_qty": 254,
         "sku_count": 111,
         "product_count": 111
       },
@@ -30794,7 +30794,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2318,
+        "total_qty": 2317,
         "sku_count": 238,
         "product_count": 238
       },
@@ -31138,7 +31138,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 1453,
+        "total_qty": 1452,
         "sku_count": 250,
         "product_count": 250
       },
@@ -32088,7 +32088,7 @@
         "sku": "COLUMBIA-C103SM-204"
       },
       "gid://shopify/ProductVariant/48094645256446": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "C117S-002",
         "sku": "COLUMBIA-C117S-002"
       },
@@ -41198,7 +41198,7 @@
         "sku": "BALENCIAGA-BB0242O-006-53"
       },
       "gid://shopify/ProductVariant/47807379800318": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "BB0238O-005-50",
         "sku": "BALENCIAGA-BB0238O-005-50"
       },
