@@ -30323,7 +30323,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-16T20:33:33.948760+00:00",
+    "updated_at": "2026-07-16T21:43:37.890921+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
@@ -30337,7 +30337,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 15208,
+        "total_qty": 15209,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30361,9 +30361,9 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1401,
-        "sku_count": 74,
-        "product_count": 74
+        "total_qty": 1354,
+        "sku_count": 65,
+        "product_count": 65
       },
       "gid://shopify/Collection/391773880574": {
         "title": "COACH",
@@ -30521,7 +30521,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 3010,
+        "total_qty": 3008,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30593,9 +30593,9 @@
         "title": "CAROLINA HERRERA",
         "handle": "carolina-herrera",
         "legacy_id": "395943936254",
-        "total_qty": 154,
-        "sku_count": 16,
-        "product_count": 16
+        "total_qty": 148,
+        "sku_count": 13,
+        "product_count": 13
       },
       "gid://shopify/Collection/395955470590": {
         "title": "ALEXANDER MCQUEEN",
@@ -30753,7 +30753,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 6135,
+        "total_qty": 6120,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30777,7 +30777,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 9514,
+        "total_qty": 9516,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30801,7 +30801,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 6135,
+        "total_qty": 6120,
         "sku_count": 250,
         "product_count": 250
       },
@@ -33700,11 +33700,6 @@
         "product_title": "136-01D1-52",
         "sku": "DENIM-136-01D1-52"
       },
-      "gid://shopify/ProductVariant/48121211519230": {
-        "qty": 1,
-        "product_title": "138/V-003-54",
-        "sku": "CARRERA-138/V-003-54"
-      },
       "gid://shopify/ProductVariant/47783446708478": {
         "qty": 1,
         "product_title": "1385-QFY-50",
@@ -33819,6 +33814,11 @@
         "qty": 5,
         "product_title": "1958-DDB-53",
         "sku": "TH-TH-1958-DDB-53"
+      },
+      "gid://shopify/ProductVariant/47783449657598": {
+        "qty": 2,
+        "product_title": "1961-086-53",
+        "sku": "TH-TH-1961-086-53"
       },
       "gid://shopify/ProductVariant/46243449274622": {
         "qty": 2,
@@ -34076,12 +34076,12 @@
         "sku": "EYEBOBS-3404-74-2.50"
       },
       "gid://shopify/ProductVariant/48493136937214": {
-        "qty": 4,
+        "qty": 1,
         "product_title": "8897-7C5-55",
         "sku": "CARRERA-8897-7C5-55"
       },
       "gid://shopify/ProductVariant/48493136904446": {
-        "qty": 5,
+        "qty": 2,
         "product_title": "3040-KB7-53",
         "sku": "CARRERA-3040-KB7-53"
       },
@@ -34089,11 +34089,6 @@
         "qty": 3,
         "product_title": "8885-XW0-56",
         "sku": "CARRERA-8885-XW0-56"
-      },
-      "gid://shopify/ProductVariant/48493127893246": {
-        "qty": 1,
-        "product_title": "8849-9T9-57",
-        "sku": "CARRERA-8849-9T9-57"
       },
       "gid://shopify/ProductVariant/48349468852478": {
         "qty": 5,
@@ -34106,7 +34101,7 @@
         "sku": "CARRERA-8879-FWM-50"
       },
       "gid://shopify/ProductVariant/48349468623102": {
-        "qty": 6,
+        "qty": 2,
         "product_title": "3039-VVP-54",
         "sku": "CARRERA-3039-VVP-54"
       },
@@ -34131,7 +34126,7 @@
         "sku": "CARRERA-2018T-KB7-51"
       },
       "gid://shopify/ProductVariant/48121211945214": {
-        "qty": 5,
+        "qty": 1,
         "product_title": "8888-R80-58",
         "sku": "CARRERA-8888-R80-58"
       },
@@ -34145,28 +34140,18 @@
         "product_title": "4418-TBO-51",
         "sku": "CARRERA-4418-TBO-51"
       },
-      "gid://shopify/ProductVariant/48121211814142": {
-        "qty": 2,
-        "product_title": "335-AOZ-50",
-        "sku": "CARRERA-335-AOZ-50"
-      },
-      "gid://shopify/ProductVariant/48121211715838": {
-        "qty": 2,
-        "product_title": "3039-I46-54",
-        "sku": "CARRERA-3039-I46-54"
-      },
       "gid://shopify/ProductVariant/48121211683070": {
         "qty": 3,
         "product_title": "3025-690-54",
         "sku": "CARRERA-3025-690-54"
       },
       "gid://shopify/ProductVariant/48121211617534": {
-        "qty": 4,
+        "qty": 1,
         "product_title": "3022-RHL-55",
         "sku": "CARRERA-3022-RHL-55"
       },
       "gid://shopify/ProductVariant/48121211584766": {
-        "qty": 6,
+        "qty": 4,
         "product_title": "3008-807-51",
         "sku": "CARRERA-3008-807-51"
       },
@@ -34195,11 +34180,6 @@
         "product_title": "8881-N9P-56",
         "sku": "CARRERA-8881-N9P-56"
       },
-      "gid://shopify/ProductVariant/47749754552574": {
-        "qty": 1,
-        "product_title": "8894-8LZ-55",
-        "sku": "CARRERA-8894-8LZ-55"
-      },
       "gid://shopify/ProductVariant/47749754487038": {
         "qty": 1,
         "product_title": "8887-R80-57",
@@ -34220,38 +34200,28 @@
         "product_title": "8886-7ZJ-50",
         "sku": "CARRERA-8886-7ZJ-50"
       },
-      "gid://shopify/ProductVariant/47749752553726": {
-        "qty": 2,
-        "product_title": "8880-0PJP-54",
-        "sku": "CARRERA-8880-0PJP-54"
-      },
       "gid://shopify/ProductVariant/47749750358270": {
         "qty": 2,
         "product_title": "322-R80-50",
         "sku": "CARRERA-322-R80-50"
       },
       "gid://shopify/ProductVariant/47749750325502": {
-        "qty": 5,
+        "qty": 2,
         "product_title": "308-PJP-53",
         "sku": "CARRERA-308-PJP-53"
       },
       "gid://shopify/ProductVariant/47749750161662": {
-        "qty": 5,
+        "qty": 3,
         "product_title": "3032-0FS2-54",
         "sku": "CARRERA-3032-0FS2-54"
       },
       "gid://shopify/ProductVariant/47749749473534": {
-        "qty": 4,
+        "qty": 2,
         "product_title": "292-PJP-53",
         "sku": "CARRERA-292-PJP-53"
       },
-      "gid://shopify/ProductVariant/47749749342462": {
-        "qty": 1,
-        "product_title": "264-09Q-55",
-        "sku": "CARRERA-264-09Q-55"
-      },
       "gid://shopify/ProductVariant/47577488883966": {
-        "qty": 4,
+        "qty": 1,
         "product_title": "8892-XW0-55",
         "sku": "CARRERA-8892-XW0-55"
       },
@@ -34260,20 +34230,10 @@
         "product_title": "8892-N9P-55",
         "sku": "CARRERA-8892-N9P-55"
       },
-      "gid://shopify/ProductVariant/47577488818430": {
-        "qty": 4,
-        "product_title": "8892-BLX-55",
-        "sku": "CARRERA-8892-BLX-55"
-      },
       "gid://shopify/ProductVariant/47577488752894": {
         "qty": 1,
         "product_title": "8891-CAG-56",
         "sku": "CARRERA-8891-CAG-56"
-      },
-      "gid://shopify/ProductVariant/47577488589054": {
-        "qty": 1,
-        "product_title": "8884-4NZ-56",
-        "sku": "CARRERA-8884-4NZ-56"
       },
       "gid://shopify/ProductVariant/47577488490750": {
         "qty": 4,
@@ -34301,7 +34261,7 @@
         "sku": "CARRERA-3038-0EX4-55"
       },
       "gid://shopify/ProductVariant/47010178269438": {
-        "qty": 4,
+        "qty": 1,
         "product_title": "3021-0DLN9-52",
         "sku": "CARRERA-3021-0DLN-52"
       },
@@ -36299,11 +36259,6 @@
         "qty": 6,
         "product_title": "SF964S-210",
         "sku": "SF-SF964S-210"
-      },
-      "gid://shopify/ProductVariant/47783449657598": {
-        "qty": 2,
-        "product_title": "1961-086-53",
-        "sku": "TH-TH-1961-086-53"
       },
       "gid://shopify/ProductVariant/47783449690366": {
         "qty": 3,
@@ -39205,6 +39160,11 @@
         "product_title": "LV-1023-807-49",
         "sku": "LEVIS-LV-1023-807-49"
       },
+      "gid://shopify/ProductVariant/48349469212926": {
+        "qty": 5,
+        "product_title": "LV-1022-086-52",
+        "sku": "LEVIS-LV-1022-086-52"
+      },
       "gid://shopify/ProductVariant/43458420670718": {
         "qty": 0,
         "product_title": "0001-S-0EM5-9O",
@@ -40540,13 +40500,8 @@
         "product_title": "DK1025-210-51",
         "sku": "DKNY-DK1025-210-51"
       },
-      "gid://shopify/ProductVariant/47010176041214": {
-        "qty": 1,
-        "product_title": "CH-0064-0RTC-55",
-        "sku": "CH-CH-0064-0RTC-55"
-      },
       "gid://shopify/ProductVariant/46754070495486": {
-        "qty": 38,
+        "qty": 36,
         "product_title": "CH-0065-0KDX-52",
         "sku": "CH-CH-0065-0KDX-52"
       },
@@ -40580,11 +40535,6 @@
         "product_title": "HER-0166-XLT-51",
         "sku": "CH-HER-0166-XLT-51"
       },
-      "gid://shopify/ProductVariant/47845513494782": {
-        "qty": 1,
-        "product_title": "HER-0167-XLT-53",
-        "sku": "CH-HER-0167-XLT-53"
-      },
       "gid://shopify/ProductVariant/47845513527550": {
         "qty": 6,
         "product_title": "HER-0170-C9K-51",
@@ -40605,18 +40555,13 @@
         "product_title": "HER-0210-O63-52",
         "sku": "CH-HER-0210-O63-52"
       },
-      "gid://shopify/ProductVariant/47845513789694": {
-        "qty": 1,
-        "product_title": "HER-0210-WR7-52",
-        "sku": "CH-HER-0210-WR7-52"
-      },
       "gid://shopify/ProductVariant/47845513822462": {
         "qty": 2,
         "product_title": "HER-0213-O63-54",
         "sku": "CH-HER-0213-O63-54"
       },
       "gid://shopify/ProductVariant/47845513855230": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "HER-0213-WR7-54",
         "sku": "CH-HER-0213-WR7-54"
       },
@@ -41479,11 +41424,6 @@
         "qty": 5,
         "product_title": "LV-5019-EX4-54",
         "sku": "LEVIS-LV-5019-EX4-54"
-      },
-      "gid://shopify/ProductVariant/48349469212926": {
-        "qty": 5,
-        "product_title": "LV-1022-086-52",
-        "sku": "LEVIS-LV-1022-086-52"
       },
       "gid://shopify/ProductVariant/48121215222014": {
         "qty": 8,
@@ -44949,6 +44889,11 @@
         "qty": 8,
         "product_title": "CH4522-001-53",
         "sku": "CH-CH4522-001-53"
+      },
+      "gid://shopify/ProductVariant/47504336388350": {
+        "qty": 7,
+        "product_title": "CH4522-033-53",
+        "sku": "CH-CH4522-033-53"
       },
       "gid://shopify/ProductVariant/47448056234238": {
         "qty": 1,
@@ -50914,11 +50859,6 @@
         "qty": 7,
         "product_title": "CH4523-001-52",
         "sku": "CH-CH4523-001-52"
-      },
-      "gid://shopify/ProductVariant/47504336388350": {
-        "qty": 7,
-        "product_title": "CH4522-033-53",
-        "sku": "CH-CH4522-033-53"
       },
       "gid://shopify/ProductVariant/47504333209854": {
         "qty": 2,
