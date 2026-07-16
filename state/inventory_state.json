@@ -30332,13 +30332,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-16T10:34:05.123810+00:00",
+    "updated_at": "2026-07-16T12:07:58.203686+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 2664,
+        "total_qty": 2653,
         "sku_count": 248,
         "product_count": 248
       },
@@ -30530,7 +30530,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 3070,
+        "total_qty": 3036,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30698,9 +30698,9 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 628,
-        "sku_count": 95,
-        "product_count": 95
+        "total_qty": 591,
+        "sku_count": 94,
+        "product_count": 94
       },
       "gid://shopify/Collection/408131010814": {
         "title": "VOGUE",
@@ -30770,7 +30770,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 3277,
+        "total_qty": 3227,
         "sku_count": 248,
         "product_count": 248
       },
@@ -30778,9 +30778,9 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2796,
-        "sku_count": 208,
-        "product_count": 208
+        "total_qty": 2729,
+        "sku_count": 207,
+        "product_count": 207
       },
       "gid://shopify/Collection/410150043902": {
         "title": "Unisex Eyeglasses",
@@ -31154,9 +31154,9 @@
         "title": "QUAY",
         "handle": "quay",
         "legacy_id": "472482939134",
-        "total_qty": 1153,
-        "sku_count": 68,
-        "product_count": 68
+        "total_qty": 1016,
+        "sku_count": 67,
+        "product_count": 67
       },
       "gid://shopify/Collection/472992383230": {
         "title": "PORSCHE DESIGN",
@@ -31872,11 +31872,6 @@
         "product_title": "ALIJAH/G/S/US-807/9O",
         "sku": "KS-ALIJAH/G/S/US-807/9O"
       },
-      "gid://shopify/ProductVariant/48560872390910": {
-        "qty": 7,
-        "product_title": "ALL IN MEDIUM-77092",
-        "sku": "QUAY-NO-NS-2295-DOE/BRNFWN"
-      },
       "gid://shopify/ProductVariant/47796734034174": {
         "qty": 10,
         "product_title": "ALVI/G/S-086/HA",
@@ -31918,7 +31913,7 @@
         "sku": "AW-ARIO-D"
       },
       "gid://shopify/ProductVariant/48314438779134": {
-        "qty": 25,
+        "qty": 15,
         "product_title": "ART SCHOOL-59307",
         "sku": "QUAY-QU-000745-MTBLK/SMK"
       },
@@ -32591,6 +32586,11 @@
         "qty": 5,
         "product_title": "CV567S-243",
         "sku": "CONVERSE-CV567S-243"
+      },
+      "gid://shopify/ProductVariant/47730444959998": {
+        "qty": 6,
+        "product_title": "CV567S-312",
+        "sku": "CONVERSE-CV567S-312"
       },
       "gid://shopify/ProductVariant/47998569513214": {
         "qty": 3,
@@ -34382,11 +34382,6 @@
         "product_title": "CARRERINO67058148",
         "sku": "CARRERACARRERINO67058148"
       },
-      "gid://shopify/ProductVariant/47730444959998": {
-        "qty": 6,
-        "product_title": "CV567S-312",
-        "sku": "CONVERSE-CV567S-312"
-      },
       "gid://shopify/ProductVariant/47730444206334": {
         "qty": 6,
         "product_title": "CV5112-001-52",
@@ -35682,6 +35677,16 @@
         "product_title": "NV03 DZ7374",
         "sku": "NIKE-NV03-DZ7374-010"
       },
+      "gid://shopify/ProductVariant/46811464859902": {
+        "qty": 8,
+        "product_title": "NV03 DZ7374",
+        "sku": "NIKE-NV03-DZ7374-072"
+      },
+      "gid://shopify/ProductVariant/46811450474750": {
+        "qty": 2,
+        "product_title": "HORIZON ASCENT DJ9920",
+        "sku": "NIKE-HORIZON-ASCENT DJ9920-010"
+      },
       "gid://shopify/ProductVariant/47730469208318": {
         "qty": 1,
         "product_title": "8402-605-50",
@@ -35712,20 +35717,10 @@
         "product_title": "NV04 DZ7376",
         "sku": "NIKE-NV04-DZ7376-010"
       },
-      "gid://shopify/ProductVariant/46811464859902": {
-        "qty": 8,
-        "product_title": "NV03 DZ7374",
-        "sku": "NIKE-NV03-DZ7374-072"
-      },
       "gid://shopify/ProductVariant/46811450507518": {
         "qty": 8,
         "product_title": "HORIZON ASCENT DJ9920",
         "sku": "NIKE-HORIZON-ASCENT DJ9920-900"
-      },
-      "gid://shopify/ProductVariant/46811450474750": {
-        "qty": 2,
-        "product_title": "HORIZON ASCENT DJ9920",
-        "sku": "NIKE-HORIZON-ASCENT DJ9920-010"
       },
       "gid://shopify/ProductVariant/46811490550014": {
         "qty": 14,
@@ -38743,7 +38738,7 @@
         "sku": "QUAY-QW-000869-BLK/BLK"
       },
       "gid://shopify/ProductVariant/48560873079038": {
-        "qty": 19,
+        "qty": 9,
         "product_title": "IT\u2019S MY WAY-57495",
         "sku": "QUAY-QW-000144-MLKTORT/SMK"
       },
@@ -38758,7 +38753,7 @@
         "sku": "QUAY-NO-NS-2349-GLD/PLMTPE"
       },
       "gid://shopify/ProductVariant/48560872980734": {
-        "qty": 18,
+        "qty": 8,
         "product_title": "ICY-37390",
         "sku": "QUAY-QU-000602-BLK/FADE"
       },
@@ -38768,7 +38763,7 @@
         "sku": "QUAY-QU-000772-GLD/SMKPNK"
       },
       "gid://shopify/ProductVariant/48560872784126": {
-        "qty": 22,
+        "qty": 12,
         "product_title": "HIGH KEY EXTRA LARGE-77711",
         "sku": "QUAY-NO-NS-2486-BLK/PLMTPE"
       },
@@ -39276,6 +39271,11 @@
         "qty": 4,
         "product_title": "E-7247-4IN-51",
         "sku": "ELASTA-E-7247-4IN-51"
+      },
+      "gid://shopify/ProductVariant/48349468950782": {
+        "qty": 3,
+        "product_title": "E-7244-AB8-54",
+        "sku": "ELASTA-E-7244-AB8-54"
       },
       "gid://shopify/ProductVariant/43458420670718": {
         "qty": 0,
@@ -43688,12 +43688,12 @@
         "sku": "AW-HUMBLE-E"
       },
       "gid://shopify/ProductVariant/48314439663870": {
-        "qty": 23,
+        "qty": 13,
         "product_title": "ICY-59297",
         "sku": "QUAY-QU-000602-MTBLK/SMKGRN"
       },
       "gid://shopify/ProductVariant/48314439598334": {
-        "qty": 24,
+        "qty": 14,
         "product_title": "ICY-75883",
         "sku": "QUAY-NO-NS-2186-ESPR/BRN"
       },
@@ -43978,7 +43978,7 @@
         "sku": "EJ-HERCULES6-SLV"
       },
       "gid://shopify/ProductVariant/48145122590974": {
-        "qty": 25,
+        "qty": 15,
         "product_title": "HIGH KEY EXTRA LARGE-79939",
         "sku": "QUAY-NO-NS-2575-BLK/BPLPK"
       },
@@ -43988,17 +43988,17 @@
         "sku": "QUAY-NO-NS-2696-DTRT/GRN"
       },
       "gid://shopify/ProductVariant/48314439303422": {
-        "qty": 24,
+        "qty": 14,
         "product_title": "HINDSIGHT-13436",
         "sku": "QUAY-QW-000311-BLK/SMK"
       },
       "gid://shopify/ProductVariant/48314439401726": {
-        "qty": 24,
+        "qty": 14,
         "product_title": "HINDSIGHT-53886",
         "sku": "QUAY-QW-000311-BLK/SMKGRN"
       },
       "gid://shopify/ProductVariant/48314439336190": {
-        "qty": 29,
+        "qty": 19,
         "product_title": "HINDSIGHT-81788",
         "sku": "QUAY-NO-NS-2924-TRT/SMTP"
       },
@@ -44093,7 +44093,7 @@
         "sku": "AW-LEONARD-A"
       },
       "gid://shopify/ProductVariant/48314439729406": {
-        "qty": 39,
+        "qty": 29,
         "product_title": "LOOP ME IN-47790",
         "sku": "QUAY-QW-000869-GLD/BRNFD"
       },
@@ -45261,11 +45261,6 @@
         "qty": 0,
         "product_title": "CL40282U 5325A",
         "sku": "CELINE-CL40282U-25A"
-      },
-      "gid://shopify/ProductVariant/48349468950782": {
-        "qty": 3,
-        "product_title": "E-7244-AB8-54",
-        "sku": "ELASTA-E-7244-AB8-54"
       },
       "gid://shopify/ProductVariant/48349468918014": {
         "qty": 4,
@@ -50673,12 +50668,12 @@
         "sku": "QUAY-OG-OF-2520-DAF/RX"
       },
       "gid://shopify/ProductVariant/48314439926014": {
-        "qty": 25,
+        "qty": 15,
         "product_title": "TOTAL VIBE-55796",
         "sku": "QUAY-QW-001060-BLK/SMKGRN"
       },
       "gid://shopify/ProductVariant/48314439827710": {
-        "qty": 25,
+        "qty": 15,
         "product_title": "TOTAL VIBE-68777",
         "sku": "QUAY-NO-NS-1581-BRN/BRN"
       },
