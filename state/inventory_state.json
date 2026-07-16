@@ -30323,7 +30323,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-16T15:52:52.425345+00:00",
+    "updated_at": "2026-07-16T17:05:14.709767+00:00",
     "collections": {
       "gid://shopify/Collection/373525872894": {
         "title": "Sunglasses",
@@ -30337,7 +30337,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 15211,
+        "total_qty": 15210,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30777,7 +30777,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 9516,
+        "total_qty": 9515,
         "sku_count": 250,
         "product_count": 250
       },
@@ -30897,7 +30897,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 8816,
+        "total_qty": 8815,
         "sku_count": 223,
         "product_count": 223
       },
@@ -30985,7 +30985,7 @@
         "title": "Tariff Busters",
         "handle": "tariff-busters",
         "legacy_id": "463834087678",
-        "total_qty": 38807,
+        "total_qty": 38806,
         "sku_count": 250,
         "product_count": 250
       },
@@ -31009,7 +31009,7 @@
         "title": "SIGNATURE",
         "handle": "signature",
         "legacy_id": "464260399358",
-        "total_qty": 9701,
+        "total_qty": 9700,
         "sku_count": 95,
         "product_count": 95
       },
@@ -33586,7 +33586,7 @@
         "sku": "Signature-1127-Brown-57"
       },
       "gid://shopify/ProductVariant/46684974514430": {
-        "qty": 126,
+        "qty": 125,
         "product_title": "1127-Gunmetal-57",
         "sku": "Signature-1127-Gunmetal-57"
       },
