@@ -30323,13 +30323,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-17T14:56:04.711712+00:00",
+    "updated_at": "2026-07-17T16:08:55.232788+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63083,
+        "total_qty": 63082,
         "sku_count": 2180,
         "product_count": 2180
       },
@@ -30345,7 +30345,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82051,
+        "total_qty": 82048,
         "sku_count": 3000,
         "product_count": 3000
       },
@@ -30353,7 +30353,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82051,
+        "total_qty": 82048,
         "sku_count": 10106,
         "product_count": 10106
       },
@@ -30361,7 +30361,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12649,
+        "total_qty": 12648,
         "sku_count": 932,
         "product_count": 932
       },
@@ -30369,7 +30369,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82051,
+        "total_qty": 82048,
         "sku_count": 3813,
         "product_count": 3813
       },
@@ -30377,7 +30377,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12649,
+        "total_qty": 12648,
         "sku_count": 932,
         "product_count": 932
       },
@@ -30385,7 +30385,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22672,
+        "total_qty": 22671,
         "sku_count": 2423,
         "product_count": 2423
       },
@@ -30409,7 +30409,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81608,
+        "total_qty": 81605,
         "sku_count": 2557,
         "product_count": 2557
       },
@@ -30417,7 +30417,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3931,
+        "total_qty": 3929,
         "sku_count": 507,
         "product_count": 507
       },
@@ -30481,7 +30481,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 9266,
+        "total_qty": 9265,
         "sku_count": 813,
         "product_count": 813
       },
@@ -30513,7 +30513,7 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 794,
+        "total_qty": 793,
         "sku_count": 90,
         "product_count": 90
       },
@@ -30545,7 +30545,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2711,
+        "total_qty": 2710,
         "sku_count": 207,
         "product_count": 207
       },
@@ -30681,7 +30681,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 25793,
+        "total_qty": 25792,
         "sku_count": 39,
         "product_count": 39
       },
@@ -30793,7 +30793,7 @@
         "title": "VERSACE",
         "handle": "versace",
         "legacy_id": "391776010494",
-        "total_qty": 298,
+        "total_qty": 297,
         "sku_count": 80,
         "product_count": 80
       },
@@ -31329,7 +31329,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 633,
+        "total_qty": 632,
         "sku_count": 104,
         "product_count": 104
       }
@@ -35181,7 +35181,7 @@
         "sku": "SF-SF2925-420-52"
       },
       "gid://shopify/ProductVariant/47027373932798": {
-        "qty": 14,
+        "qty": 13,
         "product_title": "SF2952-001-53",
         "sku": "SF-SF2952-001-53"
       },
@@ -42456,7 +42456,7 @@
         "sku": "NIKE-ADRENALINE-M-EVG-066"
       },
       "gid://shopify/ProductVariant/46059134714110": {
-        "qty": 9689,
+        "qty": 9688,
         "product_title": "DropShip",
         "sku": "DropShip"
       },
@@ -46201,7 +46201,7 @@
         "sku": "VERSACE-0VE4361-53978753"
       },
       "gid://shopify/ProductVariant/48567758913790": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "0VE4424U-GB1/8756",
         "sku": "VERSACE-0VE4424U-GB1/8756"
       },
