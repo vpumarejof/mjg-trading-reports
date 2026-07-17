@@ -30323,7 +30323,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-17T10:39:23.288333+00:00",
+    "updated_at": "2026-07-17T11:57:10.385511+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
@@ -30345,7 +30345,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82133,
+        "total_qty": 82124,
         "sku_count": 3020,
         "product_count": 3020
       },
@@ -30353,7 +30353,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82133,
+        "total_qty": 82124,
         "sku_count": 10106,
         "product_count": 10106
       },
@@ -30369,7 +30369,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82133,
+        "total_qty": 82124,
         "sku_count": 3824,
         "product_count": 3824
       },
@@ -30409,15 +30409,15 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81685,
-        "sku_count": 2572,
-        "product_count": 2572
+        "total_qty": 81675,
+        "sku_count": 2571,
+        "product_count": 2571
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3944,
+        "total_qty": 3935,
         "sku_count": 507,
         "product_count": 507
       },
@@ -30481,7 +30481,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 9292,
+        "total_qty": 9283,
         "sku_count": 815,
         "product_count": 815
       },
@@ -30521,7 +30521,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 4279,
+        "total_qty": 4270,
         "sku_count": 368,
         "product_count": 368
       },
@@ -30793,7 +30793,7 @@
         "title": "VERSACE",
         "handle": "versace",
         "legacy_id": "391776010494",
-        "total_qty": 299,
+        "total_qty": 298,
         "sku_count": 80,
         "product_count": 80
       },
@@ -31321,7 +31321,7 @@
         "title": "ANNA-KARIN KARLSSON",
         "handle": "anna-karin-karlsson",
         "legacy_id": "485871059198",
-        "total_qty": 1467,
+        "total_qty": 1459,
         "sku_count": 22,
         "product_count": 22
       },
@@ -31329,7 +31329,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 634,
+        "total_qty": 633,
         "sku_count": 104,
         "product_count": 104
       }
@@ -45951,7 +45951,7 @@
         "sku": "AKK-COCO-STORIES-GREY WHITE GOLD"
       },
       "gid://shopify/ProductVariant/48406939304190": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "LUCKY-GOES-TO-VEGAS-BLACK CRYSTAL",
         "sku": "AKK-LUCKY-GOES-TO-VEGAS-BLACK CRYSTAL"
       },
@@ -45961,7 +45961,7 @@
         "sku": "AKK-LUCKY-GOES-TO-VEGAS-CERISE ZEBRA"
       },
       "gid://shopify/ProductVariant/48406939468030": {
-        "qty": 60,
+        "qty": 59,
         "product_title": "LUCKY-GOES-TO-VEGAS-EMERALD CRYSTAL",
         "sku": "AKK-LUCKY-GOES-TO-VEGAS-EMERALD CRYSTAL"
       },
@@ -45976,17 +45976,17 @@
         "sku": "AKK-LUCKY-GOES-TO-VEGAS-LEOPARD"
       },
       "gid://shopify/ProductVariant/48406939664638": {
-        "qty": 54,
+        "qty": 53,
         "product_title": "MOTHER-BEEP-BLACK CRYSTAL",
         "sku": "AKK-MOTHER-BEEP-BLACK CRYSTAL"
       },
       "gid://shopify/ProductVariant/48406939762942": {
-        "qty": 27,
+        "qty": 26,
         "product_title": "MOTHER-BEEP-ICE CRYSTAL BLACK",
         "sku": "AKK-MOTHER-BEEP-ICE CRYSTAL BLACK"
       },
       "gid://shopify/ProductVariant/48406939894014": {
-        "qty": 150,
+        "qty": 149,
         "product_title": "MR-3AM-STORIES-BLACK GOLD",
         "sku": "AKK-MR-3AM-STORIES-BLACK GOLD"
       },
@@ -45996,7 +45996,7 @@
         "sku": "AKK-MR-3AM-STORIES-EMERALD"
       },
       "gid://shopify/ProductVariant/48406940123390": {
-        "qty": 104,
+        "qty": 103,
         "product_title": "MR-3AM-STORIES-FUDGE GOLD",
         "sku": "AKK-MR-3AM-STORIES-FUDGE GOLD"
       },
@@ -46011,7 +46011,7 @@
         "sku": "AKK-SHADY-LUV-2.0-BLACK"
       },
       "gid://shopify/ProductVariant/48406940483838": {
-        "qty": 60,
+        "qty": 59,
         "product_title": "SHADY-LUV-2.0-GOLD 24K",
         "sku": "AKK-SHADY-LUV-2.0-GOLD 24K"
       },
@@ -46031,7 +46031,7 @@
         "sku": "AKK-SHADY-LUV-2.0-WHITE GOLD"
       },
       "gid://shopify/ProductVariant/48406940811518": {
-        "qty": 41,
+        "qty": 40,
         "product_title": "SHADY-LUV-2.0-WHITE GOLD BLUSH MIRROR",
         "sku": "AKK-SHADY-LUV-2.0-WHITE GOLD BLUSH MIRROR"
       },
@@ -46276,7 +46276,7 @@
         "sku": "VERSACE-0VE2276-10025844"
       },
       "gid://shopify/ProductVariant/48567758651646": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "0VE2276-10028744",
         "sku": "VERSACE-0VE2276-10028744"
       },
