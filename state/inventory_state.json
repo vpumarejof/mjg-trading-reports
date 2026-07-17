@@ -30323,7 +30323,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-17T04:22:43.873502+00:00",
+    "updated_at": "2026-07-17T06:34:53.595887+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
@@ -30345,7 +30345,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82151,
+        "total_qty": 82150,
         "sku_count": 3020,
         "product_count": 3020
       },
@@ -30353,7 +30353,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82151,
+        "total_qty": 82150,
         "sku_count": 10106,
         "product_count": 10106
       },
@@ -30369,7 +30369,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82151,
+        "total_qty": 82150,
         "sku_count": 3824,
         "product_count": 3824
       },
@@ -30409,7 +30409,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81704,
+        "total_qty": 81703,
         "sku_count": 2573,
         "product_count": 2573
       },
@@ -30481,7 +30481,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 9304,
+        "total_qty": 9303,
         "sku_count": 815,
         "product_count": 815
       },
@@ -30521,7 +30521,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 4291,
+        "total_qty": 4290,
         "sku_count": 368,
         "product_count": 368
       },
@@ -31217,7 +31217,7 @@
         "title": "WOOW",
         "handle": "woow",
         "legacy_id": "478400839934",
-        "total_qty": 34,
+        "total_qty": 33,
         "sku_count": 11,
         "product_count": 11
       },
@@ -44026,7 +44026,7 @@
         "sku": "WOOW-SUPER-LOOP-1-0322"
       },
       "gid://shopify/ProductVariant/47761816256766": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "SUPER-LUCKY-2-0045",
         "sku": "WOOW-SUPER-LUCKY-2-0045"
       },
