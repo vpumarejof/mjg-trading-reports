@@ -30323,13 +30323,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-17T17:23:16.423278+00:00",
+    "updated_at": "2026-07-17T18:32:11.267687+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63078,
+        "total_qty": 63076,
         "sku_count": 2179,
         "product_count": 2179
       },
@@ -30345,7 +30345,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82041,
+        "total_qty": 82035,
         "sku_count": 2998,
         "product_count": 2998
       },
@@ -30353,7 +30353,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82041,
+        "total_qty": 82035,
         "sku_count": 10106,
         "product_count": 10106
       },
@@ -30361,7 +30361,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12645,
+        "total_qty": 12643,
         "sku_count": 931,
         "product_count": 931
       },
@@ -30369,7 +30369,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82041,
+        "total_qty": 82035,
         "sku_count": 3811,
         "product_count": 3811
       },
@@ -30377,7 +30377,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12645,
+        "total_qty": 12643,
         "sku_count": 931,
         "product_count": 931
       },
@@ -30385,7 +30385,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22670,
+        "total_qty": 22668,
         "sku_count": 2423,
         "product_count": 2423
       },
@@ -30393,7 +30393,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 976,
+        "total_qty": 975,
         "sku_count": 890,
         "product_count": 890
       },
@@ -30409,15 +30409,15 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81600,
-        "sku_count": 2557,
-        "product_count": 2557
+        "total_qty": 81593,
+        "sku_count": 2556,
+        "product_count": 2556
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3928,
+        "total_qty": 3927,
         "sku_count": 506,
         "product_count": 506
       },
@@ -30481,7 +30481,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 9262,
+        "total_qty": 9258,
         "sku_count": 812,
         "product_count": 812
       },
@@ -30497,7 +30497,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2309,
+        "total_qty": 2307,
         "sku_count": 239,
         "product_count": 239
       },
@@ -30537,7 +30537,7 @@
         "title": "LACOSTE",
         "handle": "lacoste",
         "legacy_id": "393068577022",
-        "total_qty": 207,
+        "total_qty": 206,
         "sku_count": 27,
         "product_count": 27
       },
@@ -30545,7 +30545,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2710,
+        "total_qty": 2708,
         "sku_count": 207,
         "product_count": 207
       },
@@ -30585,7 +30585,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1347,
+        "total_qty": 1346,
         "sku_count": 59,
         "product_count": 59
       },
@@ -30833,7 +30833,7 @@
         "title": "LIGHTEC-MOREL",
         "handle": "lightec-morel",
         "legacy_id": "466217926910",
-        "total_qty": 2376,
+        "total_qty": 2374,
         "sku_count": 103,
         "product_count": 103
       },
@@ -30873,7 +30873,7 @@
         "title": "CALVIN KLEIN JEANS",
         "handle": "calvin-klein-jeans",
         "legacy_id": "464057172222",
-        "total_qty": 478,
+        "total_qty": 477,
         "sku_count": 61,
         "product_count": 61
       },
@@ -31073,7 +31073,7 @@
         "title": "ROBERTO CAVALLI",
         "handle": "roberto-cavalli",
         "legacy_id": "472992415998",
-        "total_qty": 34,
+        "total_qty": 33,
         "sku_count": 15,
         "product_count": 15
       },
@@ -33491,7 +33491,7 @@
         "sku": "TH-TH-1886-0UFM-54"
       },
       "gid://shopify/ProductVariant/46658081194238": {
-        "qty": 9,
+        "qty": 7,
         "product_title": "30055L-MN04-51",
         "sku": "MOREL-30055L-MN04-51"
       },
@@ -42641,7 +42641,7 @@
         "sku": "CARRERA-8059/S-03U5/T4"
       },
       "gid://shopify/ProductVariant/46685864624382": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "8059/S-0RTC/UZ",
         "sku": "CARRERA-8059/S-0RTC/UZ"
       },
@@ -43371,7 +43371,7 @@
         "sku": "LACOSTE-L6025S-214"
       },
       "gid://shopify/ProductVariant/47609133302014": {
-        "qty": 17,
+        "qty": 16,
         "product_title": "L6035S-214",
         "sku": "LACOSTE-L6035S-214"
       },
@@ -44266,7 +44266,7 @@
         "sku": "RC-SRC009V-0700"
       },
       "gid://shopify/ProductVariant/47988667613438": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "SRC010M-02BV",
         "sku": "RC-SRC010M-02BV"
       },
@@ -45771,7 +45771,7 @@
         "sku": "CKJ-CKJ25606S-242"
       },
       "gid://shopify/ProductVariant/48361936879870": {
-        "qty": 20,
+        "qty": 19,
         "product_title": "CKJ25606S-400",
         "sku": "CKJ-CKJ25606S-400"
       },
