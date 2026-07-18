@@ -30323,13 +30323,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-18T07:29:32.931067+00:00",
+    "updated_at": "2026-07-18T09:08:56.112794+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63064,
+        "total_qty": 63062,
         "sku_count": 2178,
         "product_count": 2178
       },
@@ -30345,7 +30345,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82001,
+        "total_qty": 81999,
         "sku_count": 2995,
         "product_count": 2995
       },
@@ -30353,7 +30353,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82001,
+        "total_qty": 81999,
         "sku_count": 10106,
         "product_count": 10106
       },
@@ -30369,7 +30369,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82001,
+        "total_qty": 81999,
         "sku_count": 3808,
         "product_count": 3808
       },
@@ -30409,7 +30409,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81559,
+        "total_qty": 81557,
         "sku_count": 2553,
         "product_count": 2553
       },
@@ -30633,7 +30633,7 @@
         "title": "CAZAL",
         "handle": "cazal",
         "legacy_id": "400594534654",
-        "total_qty": 98,
+        "total_qty": 97,
         "sku_count": 12,
         "product_count": 12
       },
@@ -30641,7 +30641,7 @@
         "title": "CAZAL CURRENT",
         "handle": "cazal-current",
         "legacy_id": "437928689918",
-        "total_qty": 52,
+        "total_qty": 51,
         "sku_count": 6,
         "product_count": 6
       },
@@ -30833,7 +30833,7 @@
         "title": "LIGHTEC-MOREL",
         "handle": "lightec-morel",
         "legacy_id": "466217926910",
-        "total_qty": 2374,
+        "total_qty": 2373,
         "sku_count": 103,
         "product_count": 103
       },
@@ -31586,7 +31586,7 @@
         "sku": "CAZAL-707-C524-52"
       },
       "gid://shopify/ProductVariant/45858110800126": {
-        "qty": 15,
+        "qty": 14,
         "product_title": "7093-C003-53",
         "sku": "CAZAL-7093-C003-53"
       },
@@ -37186,7 +37186,7 @@
         "sku": "LIGHTEC-MOREL-30174L-NP01-50"
       },
       "gid://shopify/ProductVariant/47558957859070": {
-        "qty": 41,
+        "qty": 40,
         "product_title": "30179L-GG05-51",
         "sku": "LIGHTEC-MOREL-30179L-GG05-51"
       },
