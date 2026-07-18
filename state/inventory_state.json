@@ -30323,15 +30323,15 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-18T03:33:50.121853+00:00",
+    "updated_at": "2026-07-18T05:51:21.955101+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63068,
-        "sku_count": 2179,
-        "product_count": 2179
+        "total_qty": 63064,
+        "sku_count": 2178,
+        "product_count": 2178
       },
       "gid://shopify/Collection/391774208254": {
         "title": "ELIE SAAB",
@@ -30345,15 +30345,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82009,
-        "sku_count": 2996,
-        "product_count": 2996
+        "total_qty": 82001,
+        "sku_count": 2995,
+        "product_count": 2995
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82009,
+        "total_qty": 82001,
         "sku_count": 10106,
         "product_count": 10106
       },
@@ -30361,25 +30361,25 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12636,
-        "sku_count": 931,
-        "product_count": 931
+        "total_qty": 12632,
+        "sku_count": 930,
+        "product_count": 930
       },
       "gid://shopify/Collection/410150142206": {
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82009,
-        "sku_count": 3809,
-        "product_count": 3809
+        "total_qty": 82001,
+        "sku_count": 3808,
+        "product_count": 3808
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12636,
-        "sku_count": 931,
-        "product_count": 931
+        "total_qty": 12632,
+        "sku_count": 930,
+        "product_count": 930
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
@@ -30409,15 +30409,15 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81567,
-        "sku_count": 2554,
-        "product_count": 2554
+        "total_qty": 81559,
+        "sku_count": 2553,
+        "product_count": 2553
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3922,
+        "total_qty": 3920,
         "sku_count": 505,
         "product_count": 505
       },
@@ -30441,7 +30441,7 @@
         "title": "GUCCI",
         "handle": "gucci",
         "legacy_id": "421341364478",
-        "total_qty": 582,
+        "total_qty": 581,
         "sku_count": 301,
         "product_count": 301
       },
@@ -30481,7 +30481,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 9242,
+        "total_qty": 9240,
         "sku_count": 810,
         "product_count": 810
       },
@@ -30521,7 +30521,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 4250,
+        "total_qty": 4248,
         "sku_count": 364,
         "product_count": 364
       },
@@ -30585,7 +30585,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1346,
+        "total_qty": 1345,
         "sku_count": 59,
         "product_count": 59
       },
@@ -30681,7 +30681,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 25789,
+        "total_qty": 25787,
         "sku_count": 39,
         "product_count": 39
       },
@@ -30745,7 +30745,7 @@
         "title": "KARL LAGERFELD",
         "handle": "karl-lagerfeld",
         "legacy_id": "422907576574",
-        "total_qty": 413,
+        "total_qty": 412,
         "sku_count": 39,
         "product_count": 39
       },
@@ -30753,7 +30753,7 @@
         "title": "Gucci",
         "handle": "gucci-1",
         "legacy_id": "407282450686",
-        "total_qty": 582,
+        "total_qty": 581,
         "sku_count": 118,
         "product_count": 118
       },
@@ -30841,7 +30841,7 @@
         "title": "VALENTINO",
         "handle": "valentino",
         "legacy_id": "462679113982",
-        "total_qty": 141,
+        "total_qty": 140,
         "sku_count": 25,
         "product_count": 25
       },
@@ -31017,9 +31017,9 @@
         "title": "DKNY",
         "handle": "dkny",
         "legacy_id": "395943870718",
-        "total_qty": 65,
-        "sku_count": 26,
-        "product_count": 26
+        "total_qty": 63,
+        "sku_count": 25,
+        "product_count": 25
       },
       "gid://shopify/Collection/472287772926": {
         "title": "HARRY LARY",
@@ -35001,7 +35001,7 @@
         "sku": "PC-6882-0003-56"
       },
       "gid://shopify/ProductVariant/47010388312318": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "3038-0EX9-55",
         "sku": "CARRERA-3038-0EX4-55"
       },
@@ -38755,13 +38755,8 @@
         "product_title": "DK5047-237-52",
         "sku": "DKNY-DK5047-237-52"
       },
-      "gid://shopify/ProductVariant/47730445910270": {
-        "qty": 1,
-        "product_title": "DK5052-000-53",
-        "sku": "DKNY-DK5052-000-53"
-      },
       "gid://shopify/ProductVariant/47730446074110": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "DK5052-261-53",
         "sku": "DKNY-DK5052-261-53"
       },
@@ -40661,7 +40656,7 @@
         "sku": "BALENCIAGA-BB0406O-004-59"
       },
       "gid://shopify/ProductVariant/48288329859326": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "GG0025O-004-56",
         "sku": "GUCCI-GG0025O-004-56"
       },
@@ -42451,7 +42446,7 @@
         "sku": "NIKE-ADRENALINE-M-EVG-066"
       },
       "gid://shopify/ProductVariant/46059134714110": {
-        "qty": 9686,
+        "qty": 9684,
         "product_title": "DropShip",
         "sku": "DropShip"
       },
@@ -42486,7 +42481,7 @@
         "sku": "DB-DB-7117/S-0WR7/W7"
       },
       "gid://shopify/ProductVariant/46622348214526": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "V-SOUL-VLS-127A-53",
         "sku": "VALENTINO-V-SOUL-VLS-127A-53"
       },
@@ -44876,7 +44871,7 @@
         "sku": "KL-KL6209S-601"
       },
       "gid://shopify/ProductVariant/48113356210430": {
-        "qty": 19,
+        "qty": 18,
         "product_title": "KL6165S-N-602",
         "sku": "KL-KL6165S-N-602"
       },
@@ -73654,6 +73649,11 @@
         "qty": 0,
         "product_title": "DK1034-272-51",
         "sku": "DKNY-DK1034-272-51"
+      },
+      "gid://shopify/ProductVariant/47730445910270": {
+        "qty": 0,
+        "product_title": "DK5052-000-53",
+        "sku": "DKNY-DK5052-000-53"
       },
       "gid://shopify/ProductVariant/47730446270718": {
         "qty": 0,
