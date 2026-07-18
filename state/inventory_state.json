@@ -30323,13 +30323,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-18T12:37:04.170984+00:00",
+    "updated_at": "2026-07-18T14:07:17.521866+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63062,
+        "total_qty": 63061,
         "sku_count": 2178,
         "product_count": 2178
       },
@@ -30345,7 +30345,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81999,
+        "total_qty": 81998,
         "sku_count": 2995,
         "product_count": 2995
       },
@@ -30353,7 +30353,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81999,
+        "total_qty": 81998,
         "sku_count": 10106,
         "product_count": 10106
       },
@@ -30369,7 +30369,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81999,
+        "total_qty": 81998,
         "sku_count": 3808,
         "product_count": 3808
       },
@@ -30409,7 +30409,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81557,
+        "total_qty": 81556,
         "sku_count": 2553,
         "product_count": 2553
       },
@@ -31137,7 +31137,7 @@
         "title": "JOSEPH ABBOUD",
         "handle": "joseph-abboud",
         "legacy_id": "474673447166",
-        "total_qty": 31,
+        "total_qty": 30,
         "sku_count": 5,
         "product_count": 5
       },
@@ -36606,7 +36606,7 @@
         "sku": "JOE-JOE4110-036-53"
       },
       "gid://shopify/ProductVariant/47504333275390": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "JA4082-400-53",
         "sku": "JA-JA4082-400-53"
       },
