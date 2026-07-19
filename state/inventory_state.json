@@ -30323,13 +30323,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-19T18:07:53.036306+00:00",
+    "updated_at": "2026-07-19T19:29:27.990912+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63036,
+        "total_qty": 63033,
         "sku_count": 2174,
         "product_count": 2174
       },
@@ -30345,7 +30345,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81949,
+        "total_qty": 81945,
         "sku_count": 2982,
         "product_count": 2982
       },
@@ -30353,7 +30353,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81949,
+        "total_qty": 81945,
         "sku_count": 10106,
         "product_count": 10106
       },
@@ -30361,7 +30361,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12619,
+        "total_qty": 12617,
         "sku_count": 929,
         "product_count": 929
       },
@@ -30369,7 +30369,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81949,
+        "total_qty": 81945,
         "sku_count": 3797,
         "product_count": 3797
       },
@@ -30377,7 +30377,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12619,
+        "total_qty": 12617,
         "sku_count": 929,
         "product_count": 929
       },
@@ -30409,7 +30409,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81510,
+        "total_qty": 81506,
         "sku_count": 2543,
         "product_count": 2543
       },
@@ -30417,7 +30417,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3891,
+        "total_qty": 3888,
         "sku_count": 496,
         "product_count": 496
       },
@@ -30433,7 +30433,7 @@
         "title": "Plastic Metal",
         "handle": "plastic-metal",
         "legacy_id": "462599520510",
-        "total_qty": 1777,
+        "total_qty": 1776,
         "sku_count": 99,
         "product_count": 99
       },
@@ -30441,7 +30441,7 @@
         "title": "GUCCI",
         "handle": "gucci",
         "legacy_id": "421341364478",
-        "total_qty": 578,
+        "total_qty": 577,
         "sku_count": 301,
         "product_count": 301
       },
@@ -30481,7 +30481,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 9216,
+        "total_qty": 9215,
         "sku_count": 801,
         "product_count": 801
       },
@@ -30521,7 +30521,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 4236,
+        "total_qty": 4235,
         "sku_count": 360,
         "product_count": 360
       },
@@ -30753,7 +30753,7 @@
         "title": "Gucci",
         "handle": "gucci-1",
         "legacy_id": "407282450686",
-        "total_qty": 578,
+        "total_qty": 577,
         "sku_count": 117,
         "product_count": 117
       },
@@ -30841,7 +30841,7 @@
         "title": "VALENTINO",
         "handle": "valentino",
         "legacy_id": "462679113982",
-        "total_qty": 140,
+        "total_qty": 139,
         "sku_count": 25,
         "product_count": 25
       },
@@ -30985,7 +30985,7 @@
         "title": "COCO SONG",
         "handle": "coco-song",
         "legacy_id": "467688259838",
-        "total_qty": 265,
+        "total_qty": 264,
         "sku_count": 66,
         "product_count": 66
       },
@@ -31225,7 +31225,7 @@
         "title": "BALENCIAGA",
         "handle": "balenciaga",
         "legacy_id": "395973296382",
-        "total_qty": 251,
+        "total_qty": 250,
         "sku_count": 110,
         "product_count": 110
       },
@@ -36121,7 +36121,7 @@
         "sku": "CS-SWEET-MAMA-CV257.02-09"
       },
       "gid://shopify/ProductVariant/47272819491070": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "SWEET-MAMA-CV257.03-09",
         "sku": "CS-SWEET-MAMA-CV257.03-09"
       },
@@ -40561,7 +40561,7 @@
         "sku": "BALENCIAGA-BB0312O-005-53"
       },
       "gid://shopify/ProductVariant/48288328057086": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "BB0325O-009-54",
         "sku": "BALENCIAGA-BB0325O-009-54"
       },
@@ -40781,7 +40781,7 @@
         "sku": "GUCCI-GG1737O-004-54"
       },
       "gid://shopify/ProductVariant/48288333037822": {
-        "qty": 21,
+        "qty": 20,
         "product_title": "GG1738O-002-52",
         "sku": "GUCCI-GG1738O-002-52"
       },
@@ -42461,7 +42461,7 @@
         "sku": "DB-DB-7117/S-0WR7/W7"
       },
       "gid://shopify/ProductVariant/46622348214526": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "V-SOUL-VLS-127A-53",
         "sku": "VALENTINO-V-SOUL-VLS-127A-53"
       },
