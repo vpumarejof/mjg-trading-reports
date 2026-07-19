@@ -30323,15 +30323,15 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-19T03:50:08.263245+00:00",
+    "updated_at": "2026-07-19T06:23:57.530505+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63048,
-        "sku_count": 2177,
-        "product_count": 2177
+        "total_qty": 63042,
+        "sku_count": 2175,
+        "product_count": 2175
       },
       "gid://shopify/Collection/391774208254": {
         "title": "ELIE SAAB",
@@ -30345,15 +30345,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81977,
-        "sku_count": 2991,
-        "product_count": 2991
+        "total_qty": 81959,
+        "sku_count": 2984,
+        "product_count": 2984
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81977,
+        "total_qty": 81959,
         "sku_count": 10106,
         "product_count": 10106
       },
@@ -30361,7 +30361,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12624,
+        "total_qty": 12622,
         "sku_count": 929,
         "product_count": 929
       },
@@ -30369,15 +30369,15 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81977,
-        "sku_count": 3804,
-        "product_count": 3804
+        "total_qty": 81959,
+        "sku_count": 3799,
+        "product_count": 3799
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12624,
+        "total_qty": 12622,
         "sku_count": 929,
         "product_count": 929
       },
@@ -30385,7 +30385,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22664,
+        "total_qty": 22656,
         "sku_count": 2423,
         "product_count": 2423
       },
@@ -30393,7 +30393,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 974,
+        "total_qty": 973,
         "sku_count": 890,
         "product_count": 890
       },
@@ -30409,17 +30409,17 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81536,
-        "sku_count": 2550,
-        "product_count": 2550
+        "total_qty": 81520,
+        "sku_count": 2545,
+        "product_count": 2545
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3911,
-        "sku_count": 503,
-        "product_count": 503
+        "total_qty": 3896,
+        "sku_count": 496,
+        "product_count": 496
       },
       "gid://shopify/Collection/391854031102": {
         "title": "Women's",
@@ -30441,7 +30441,7 @@
         "title": "GUCCI",
         "handle": "gucci",
         "legacy_id": "421341364478",
-        "total_qty": 581,
+        "total_qty": 578,
         "sku_count": 301,
         "product_count": 301
       },
@@ -30481,9 +30481,9 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 9232,
-        "sku_count": 807,
-        "product_count": 807
+        "total_qty": 9220,
+        "sku_count": 802,
+        "product_count": 802
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -30513,7 +30513,7 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 792,
+        "total_qty": 791,
         "sku_count": 90,
         "product_count": 90
       },
@@ -30521,9 +30521,9 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 4243,
-        "sku_count": 362,
-        "product_count": 362
+        "total_qty": 4239,
+        "sku_count": 360,
+        "product_count": 360
       },
       "gid://shopify/Collection/391853998334": {
         "title": "Men's",
@@ -30537,7 +30537,7 @@
         "title": "LACOSTE",
         "handle": "lacoste",
         "legacy_id": "393068577022",
-        "total_qty": 206,
+        "total_qty": 205,
         "sku_count": 27,
         "product_count": 27
       },
@@ -30545,9 +30545,9 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2707,
-        "sku_count": 206,
-        "product_count": 206
+        "total_qty": 2699,
+        "sku_count": 203,
+        "product_count": 203
       },
       "gid://shopify/Collection/391775125758": {
         "title": "NIKE",
@@ -30673,7 +30673,7 @@
         "title": "JONES NY",
         "handle": "jones-ny",
         "legacy_id": "429417660670",
-        "total_qty": 1037,
+        "total_qty": 1036,
         "sku_count": 6,
         "product_count": 6
       },
@@ -30753,9 +30753,9 @@
         "title": "Gucci",
         "handle": "gucci-1",
         "legacy_id": "407282450686",
-        "total_qty": 581,
-        "sku_count": 118,
-        "product_count": 118
+        "total_qty": 578,
+        "sku_count": 117,
+        "product_count": 117
       },
       "gid://shopify/Collection/373526069502": {
         "title": "Readers",
@@ -30793,9 +30793,9 @@
         "title": "VERSACE",
         "handle": "versace",
         "legacy_id": "391776010494",
-        "total_qty": 291,
-        "sku_count": 79,
-        "product_count": 79
+        "total_qty": 283,
+        "sku_count": 75,
+        "product_count": 75
       },
       "gid://shopify/Collection/460628721918": {
         "title": "PRIMARY",
@@ -31233,9 +31233,9 @@
         "title": "BUGATTI",
         "handle": "bugatti",
         "legacy_id": "480545439998",
-        "total_qty": 249,
-        "sku_count": 52,
-        "product_count": 52
+        "total_qty": 245,
+        "sku_count": 50,
+        "product_count": 50
       },
       "gid://shopify/Collection/481959280894": {
         "title": "MODO",
@@ -31289,7 +31289,7 @@
         "title": "Relabeled",
         "handle": "relabeled",
         "legacy_id": "484454269182",
-        "total_qty": 268,
+        "total_qty": 267,
         "sku_count": 146,
         "product_count": 146
       },
@@ -31329,9 +31329,9 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 626,
-        "sku_count": 103,
-        "product_count": 103
+        "total_qty": 614,
+        "sku_count": 97,
+        "product_count": 97
       }
     },
     "variants": {
@@ -31531,7 +31531,7 @@
         "sku": "CAZAL-4294-C003-53"
       },
       "gid://shopify/ProductVariant/44922442449150": {
-        "qty": 215,
+        "qty": 214,
         "product_title": "J226 BUR-50",
         "sku": "JONES NY J226 BUR - 50"
       },
@@ -33576,7 +33576,7 @@
         "sku": "SF-SF2977-653-53"
       },
       "gid://shopify/ProductVariant/46663431782654": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "SF2985-207-52",
         "sku": "SF-SF2985-207-52"
       },
@@ -39490,18 +39490,13 @@
         "product_title": "GG1056OA-002-56",
         "sku": "GUCCI-GG1056OA-002-56"
       },
-      "gid://shopify/ProductVariant/47807386714366": {
-        "qty": 1,
-        "product_title": "GG1428O-004-55",
-        "sku": "GUCCI-GG1428O-004-55"
-      },
       "gid://shopify/ProductVariant/47807386747134": {
         "qty": 2,
         "product_title": "GG1428O-005-55",
         "sku": "GUCCI-GG1428O-005-55"
       },
       "gid://shopify/ProductVariant/47807386779902": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "GG1429O-001-54",
         "sku": "GUCCI-GG1429O-001-54"
       },
@@ -41191,7 +41186,7 @@
         "sku": "GUCCI-GG1340O-002-54_R"
       },
       "gid://shopify/ProductVariant/48301161021694": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "GG1344O-002-53-RELABELED",
         "sku": "GUCCI-GG1344O-002-53_R"
       },
@@ -42135,11 +42130,6 @@
         "product_title": "0VE3362U-GB1-53",
         "sku": "VERSACE-0VE3362U-GB1-53"
       },
-      "gid://shopify/ProductVariant/48567757373694": {
-        "qty": 1,
-        "product_title": "0VE3363U-5496-50",
-        "sku": "VERSACE-0VE3363U-5496-50"
-      },
       "gid://shopify/ProductVariant/48567757406462": {
         "qty": 3,
         "product_title": "0VE3364U-108-52",
@@ -42891,7 +42881,7 @@
         "sku": "LEVIS-LV-1026/S-01ED/70"
       },
       "gid://shopify/ProductVariant/47358980129022": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "VE2248-100287",
         "sku": "VERSACE-VE2248-100287"
       },
@@ -43366,7 +43356,7 @@
         "sku": "LACOSTE-L6035S-214"
       },
       "gid://shopify/ProductVariant/47609133334782": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "L6043S-301",
         "sku": "LACOSTE-L6043S-301"
       },
@@ -44326,7 +44316,7 @@
         "sku": "BUGATTI-07-DK.BLU/BK"
       },
       "gid://shopify/ProductVariant/47998576066814": {
-        "qty": 3,
+        "qty": 4,
         "product_title": "07-GRY/BK",
         "sku": "BUGATTI-07-GRY/BK"
       },
@@ -46080,20 +46070,10 @@
         "product_title": "07-BK/WG",
         "sku": "BUGATTI-07-BK/WG"
       },
-      "gid://shopify/ProductVariant/48561412079870": {
-        "qty": 2,
-        "product_title": "47-BK",
-        "sku": "BUGATTI-47-BK"
-      },
       "gid://shopify/ProductVariant/48561412112638": {
         "qty": 5,
         "product_title": "47-CAR",
         "sku": "BUGATTI-47-CAR"
-      },
-      "gid://shopify/ProductVariant/48561412145406": {
-        "qty": 3,
-        "product_title": "47-MBK",
-        "sku": "BUGATTI-47-MBK"
       },
       "gid://shopify/ProductVariant/48561412210942": {
         "qty": 4,
@@ -46120,11 +46100,6 @@
         "product_title": "52-MBK/WG",
         "sku": "BUGATTI-52-MBK/WG"
       },
-      "gid://shopify/ProductVariant/48567757996286": {
-        "qty": 1,
-        "product_title": "0VE2184-12528761",
-        "sku": "VERSACE-0VE2184-12528761"
-      },
       "gid://shopify/ProductVariant/48567758127358": {
         "qty": 4,
         "product_title": "0VE2251-1001/263",
@@ -46134,11 +46109,6 @@
         "qty": 1,
         "product_title": "0VE2276-10025844",
         "sku": "VERSACE-0VE2276-10025844"
-      },
-      "gid://shopify/ProductVariant/48567758651646": {
-        "qty": 1,
-        "product_title": "0VE2276-10028744",
-        "sku": "VERSACE-0VE2276-10028744"
       },
       "gid://shopify/ProductVariant/48567758684414": {
         "qty": 2,
@@ -46159,11 +46129,6 @@
         "qty": 2,
         "product_title": "0VE4361-53978753",
         "sku": "VERSACE-0VE4361-53978753"
-      },
-      "gid://shopify/ProductVariant/48567758913790": {
-        "qty": 3,
-        "product_title": "0VE4424U-GB1/8756",
-        "sku": "VERSACE-0VE4424U-GB1/8756"
       },
       "gid://shopify/ProductVariant/48567758946558": {
         "qty": 6,
@@ -46216,7 +46181,7 @@
         "sku": "VERSACE-0VE4454-54298755"
       },
       "gid://shopify/ProductVariant/48567759634686": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "0VE4454-GB1/8755",
         "sku": "VERSACE-0VE4454-GB1/8755"
       },
@@ -75915,6 +75880,11 @@
         "product_title": "GG1320O-002-54",
         "sku": "GUCCI-GG1320O-002-54"
       },
+      "gid://shopify/ProductVariant/47807386714366": {
+        "qty": 0,
+        "product_title": "GG1428O-004-55",
+        "sku": "GUCCI-GG1428O-004-55"
+      },
       "gid://shopify/ProductVariant/47807386976510": {
         "qty": 0,
         "product_title": "GG1462O-003-56",
@@ -81805,15 +81775,35 @@
         "product_title": "01A-RG",
         "sku": "BUGATTI-01A-RG"
       },
+      "gid://shopify/ProductVariant/48561412079870": {
+        "qty": 0,
+        "product_title": "47-BK",
+        "sku": "BUGATTI-47-BK"
+      },
+      "gid://shopify/ProductVariant/48561412145406": {
+        "qty": 0,
+        "product_title": "47-MBK",
+        "sku": "BUGATTI-47-MBK"
+      },
       "gid://shopify/ProductVariant/48567757242622": {
         "qty": 0,
         "product_title": "0VE3358B-5472-54",
         "sku": "VERSACE-0VE3358B-5472-54"
       },
+      "gid://shopify/ProductVariant/48567757373694": {
+        "qty": 0,
+        "product_title": "0VE3363U-5496-50",
+        "sku": "VERSACE-0VE3363U-5496-50"
+      },
       "gid://shopify/ProductVariant/48567757635838": {
         "qty": 0,
         "product_title": "0VE3368U-108-55",
         "sku": "VERSACE-0VE3368U-108-55"
+      },
+      "gid://shopify/ProductVariant/48567757996286": {
+        "qty": 0,
+        "product_title": "0VE2184-12528761",
+        "sku": "VERSACE-0VE2184-12528761"
       },
       "gid://shopify/ProductVariant/48567758094590": {
         "qty": 0,
@@ -81835,6 +81825,11 @@
         "product_title": "0VE2273-GB1/8752",
         "sku": "VERSACE-0VE2273-GB1/8752"
       },
+      "gid://shopify/ProductVariant/48567758651646": {
+        "qty": 0,
+        "product_title": "0VE2276-10028744",
+        "sku": "VERSACE-0VE2276-10028744"
+      },
       "gid://shopify/ProductVariant/48567758749950": {
         "qty": 0,
         "product_title": "0VE2282-1002AK59",
@@ -81844,6 +81839,11 @@
         "qty": 0,
         "product_title": "0VE4409-51198353",
         "sku": "VERSACE-0VE4409-51198353"
+      },
+      "gid://shopify/ProductVariant/48567758913790": {
+        "qty": 0,
+        "product_title": "0VE4424U-GB1/8756",
+        "sku": "VERSACE-0VE4424U-GB1/8756"
       },
       "gid://shopify/ProductVariant/48567759700222": {
         "qty": 0,
