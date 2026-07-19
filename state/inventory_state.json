@@ -30323,15 +30323,15 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-19T16:10:10.301606+00:00",
+    "updated_at": "2026-07-19T17:13:46.203514+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63040,
-        "sku_count": 2175,
-        "product_count": 2175
+        "total_qty": 63036,
+        "sku_count": 2174,
+        "product_count": 2174
       },
       "gid://shopify/Collection/391774208254": {
         "title": "ELIE SAAB",
@@ -30345,15 +30345,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81953,
-        "sku_count": 2983,
-        "product_count": 2983
+        "total_qty": 81949,
+        "sku_count": 2982,
+        "product_count": 2982
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81953,
+        "total_qty": 81949,
         "sku_count": 10106,
         "product_count": 10106
       },
@@ -30361,7 +30361,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12620,
+        "total_qty": 12619,
         "sku_count": 929,
         "product_count": 929
       },
@@ -30369,15 +30369,15 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81953,
-        "sku_count": 3798,
-        "product_count": 3798
+        "total_qty": 81949,
+        "sku_count": 3797,
+        "product_count": 3797
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12620,
+        "total_qty": 12619,
         "sku_count": 929,
         "product_count": 929
       },
@@ -30393,7 +30393,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 973,
+        "total_qty": 972,
         "sku_count": 890,
         "product_count": 890
       },
@@ -30401,7 +30401,7 @@
         "title": "PRADA",
         "handle": "prada",
         "legacy_id": "391775289598",
-        "total_qty": 60,
+        "total_qty": 59,
         "sku_count": 17,
         "product_count": 17
       },
@@ -30409,7 +30409,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81514,
+        "total_qty": 81511,
         "sku_count": 2544,
         "product_count": 2544
       },
@@ -30417,7 +30417,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3893,
+        "total_qty": 3891,
         "sku_count": 496,
         "product_count": 496
       },
@@ -30697,7 +30697,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 614,
+        "total_qty": 613,
         "sku_count": 125,
         "product_count": 125
       },
@@ -30793,7 +30793,7 @@
         "title": "VERSACE",
         "handle": "versace",
         "legacy_id": "391776010494",
-        "total_qty": 283,
+        "total_qty": 282,
         "sku_count": 75,
         "product_count": 75
       },
@@ -30833,9 +30833,9 @@
         "title": "LIGHTEC-MOREL",
         "handle": "lightec-morel",
         "legacy_id": "466217926910",
-        "total_qty": 2373,
-        "sku_count": 103,
-        "product_count": 103
+        "total_qty": 2372,
+        "sku_count": 102,
+        "product_count": 102
       },
       "gid://shopify/Collection/462679113982": {
         "title": "VALENTINO",
@@ -31329,7 +31329,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 614,
+        "total_qty": 613,
         "sku_count": 97,
         "product_count": 97
       }
@@ -37030,11 +37030,6 @@
         "product_title": "30020L-RR15-50",
         "sku": "LIGHTEC-MOREL-30020L-RR15-50"
       },
-      "gid://shopify/ProductVariant/47558956089598": {
-        "qty": 1,
-        "product_title": "30031L-PP04-49",
-        "sku": "LIGHTEC-MOREL-30031L-PP04-49"
-      },
       "gid://shopify/ProductVariant/47558956155134": {
         "qty": 1,
         "product_title": "30033L-ND09-51",
@@ -39811,7 +39806,7 @@
         "sku": "KS-CHANTELLE-086-52"
       },
       "gid://shopify/ProductVariant/48011977916670": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "HAISLEY/F-086-53",
         "sku": "KS-HAISLEY/F-086-53"
       },
@@ -41816,7 +41811,7 @@
         "sku": "PRADA-PS-07RV-1AB1O1-53"
       },
       "gid://shopify/ProductVariant/48392226373886": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "PS-08RV-15X1O1-52",
         "sku": "PRADA-PS-08RV-15X1O1-52"
       },
@@ -42101,7 +42096,7 @@
         "sku": "VERSACE-0VE3354-5460-55"
       },
       "gid://shopify/ProductVariant/48567757013246": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "0VE3354F-GB1-55",
         "sku": "VERSACE-0VE3354F-GB1-55"
       },
@@ -71384,6 +71379,11 @@
         "qty": 0,
         "product_title": "30031L-NN02-49",
         "sku": "LIGHTEC-MOREL-30031L-NN02-49"
+      },
+      "gid://shopify/ProductVariant/47558956089598": {
+        "qty": 0,
+        "product_title": "30031L-PP04-49",
+        "sku": "LIGHTEC-MOREL-30031L-PP04-49"
       },
       "gid://shopify/ProductVariant/47558956187902": {
         "qty": 0,
