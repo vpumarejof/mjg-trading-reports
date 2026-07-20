@@ -30323,13 +30323,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-20T10:23:57.740794+00:00",
+    "updated_at": "2026-07-20T12:29:44.042013+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63021,
+        "total_qty": 63020,
         "sku_count": 2172,
         "product_count": 2172
       },
@@ -30345,7 +30345,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81623,
+        "total_qty": 81618,
         "sku_count": 2964,
         "product_count": 2964
       },
@@ -30353,7 +30353,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81623,
+        "total_qty": 81618,
         "sku_count": 10106,
         "product_count": 10106
       },
@@ -30361,7 +30361,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12609,
+        "total_qty": 12608,
         "sku_count": 929,
         "product_count": 929
       },
@@ -30369,7 +30369,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81623,
+        "total_qty": 81618,
         "sku_count": 3779,
         "product_count": 3779
       },
@@ -30377,7 +30377,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12609,
+        "total_qty": 12608,
         "sku_count": 929,
         "product_count": 929
       },
@@ -30385,7 +30385,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22537,
+        "total_qty": 22535,
         "sku_count": 2423,
         "product_count": 2423
       },
@@ -30409,7 +30409,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81190,
+        "total_qty": 81185,
         "sku_count": 2531,
         "product_count": 2531
       },
@@ -30417,7 +30417,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3867,
+        "total_qty": 3866,
         "sku_count": 488,
         "product_count": 488
       },
@@ -30481,7 +30481,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 8907,
+        "total_qty": 8903,
         "sku_count": 785,
         "product_count": 785
       },
@@ -30497,7 +30497,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2265,
+        "total_qty": 2263,
         "sku_count": 233,
         "product_count": 233
       },
@@ -30545,7 +30545,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2581,
+        "total_qty": 2579,
         "sku_count": 201,
         "product_count": 201
       },
@@ -30745,7 +30745,7 @@
         "title": "KARL LAGERFELD",
         "handle": "karl-lagerfeld",
         "legacy_id": "422907576574",
-        "total_qty": 404,
+        "total_qty": 403,
         "sku_count": 39,
         "product_count": 39
       },
@@ -30865,7 +30865,7 @@
         "title": "CALVIN KLEIN",
         "handle": "calvin-klein",
         "legacy_id": "393476997374",
-        "total_qty": 92,
+        "total_qty": 91,
         "sku_count": 26,
         "product_count": 26
       },
@@ -30873,7 +30873,7 @@
         "title": "CALVIN KLEIN JEANS",
         "handle": "calvin-klein-jeans",
         "legacy_id": "464057172222",
-        "total_qty": 477,
+        "total_qty": 476,
         "sku_count": 61,
         "product_count": 61
       },
@@ -31193,7 +31193,7 @@
         "title": "COLUMBIA",
         "handle": "columbia",
         "legacy_id": "395943805182",
-        "total_qty": 222,
+        "total_qty": 221,
         "sku_count": 42,
         "product_count": 42
       },
@@ -31233,7 +31233,7 @@
         "title": "BUGATTI",
         "handle": "bugatti",
         "legacy_id": "480545439998",
-        "total_qty": 245,
+        "total_qty": 244,
         "sku_count": 50,
         "product_count": 50
       },
@@ -33616,7 +33616,7 @@
         "sku": "CKJ-CKJ20515-240-52"
       },
       "gid://shopify/ProductVariant/46670758314238": {
-        "qty": 11,
+        "qty": 10,
         "product_title": "CKJ23644-600-52",
         "sku": "CKJ-CKJ23644-600-52"
       },
@@ -42581,7 +42581,7 @@
         "sku": "CKJ-CKJ23624S-620"
       },
       "gid://shopify/ProductVariant/46670761623806": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "KL-6147S-432",
         "sku": "KL-KLJ6147S-432"
       },
@@ -44051,7 +44051,7 @@
         "sku": "CK-CK24531S-601"
       },
       "gid://shopify/ProductVariant/47845509791998": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "CK24534S-278",
         "sku": "CK-CK24534S-278"
       },
@@ -44296,7 +44296,7 @@
         "sku": "BUGATTI-07-DK.BLU/BK"
       },
       "gid://shopify/ProductVariant/47998576066814": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "07-GRY/BK",
         "sku": "BUGATTI-07-GRY/BK"
       },
@@ -44691,7 +44691,7 @@
         "sku": "COLUMBIA-C572SP-N-004"
       },
       "gid://shopify/ProductVariant/48094646731006": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "TIMBER POINTE-020",
         "sku": "COLUMBIA-C572SP-N-020"
       },
