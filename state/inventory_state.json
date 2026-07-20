@@ -30416,15 +30416,15 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-20T18:19:19.752550+00:00",
+    "updated_at": "2026-07-20T20:03:34.930237+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63104,
-        "sku_count": 2174,
-        "product_count": 2174
+        "total_qty": 63101,
+        "sku_count": 2173,
+        "product_count": 2173
       },
       "gid://shopify/Collection/391774208254": {
         "title": "ELIE SAAB",
@@ -30438,15 +30438,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81830,
-        "sku_count": 2997,
-        "product_count": 2997
+        "total_qty": 81823,
+        "sku_count": 2995,
+        "product_count": 2995
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81830,
+        "total_qty": 81823,
         "sku_count": 10137,
         "product_count": 10137
       },
@@ -30454,7 +30454,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12712,
+        "total_qty": 12710,
         "sku_count": 934,
         "product_count": 934
       },
@@ -30462,15 +30462,15 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81830,
-        "sku_count": 3814,
-        "product_count": 3814
+        "total_qty": 81823,
+        "sku_count": 3813,
+        "product_count": 3813
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12712,
+        "total_qty": 12710,
         "sku_count": 934,
         "product_count": 934
       },
@@ -30478,7 +30478,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22538,
+        "total_qty": 22539,
         "sku_count": 2425,
         "product_count": 2425
       },
@@ -30494,25 +30494,25 @@
         "title": "PRADA",
         "handle": "prada",
         "legacy_id": "391775289598",
-        "total_qty": 58,
-        "sku_count": 17,
-        "product_count": 17
+        "total_qty": 57,
+        "sku_count": 16,
+        "product_count": 16
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81393,
-        "sku_count": 2560,
-        "product_count": 2560
+        "total_qty": 81387,
+        "sku_count": 2559,
+        "product_count": 2559
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3987,
-        "sku_count": 518,
-        "product_count": 518
+        "total_qty": 3981,
+        "sku_count": 516,
+        "product_count": 516
       },
       "gid://shopify/Collection/391854031102": {
         "title": "Women's",
@@ -30574,9 +30574,9 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 9031,
-        "sku_count": 815,
-        "product_count": 815
+        "total_qty": 9027,
+        "sku_count": 814,
+        "product_count": 814
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -30590,7 +30590,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2298,
+        "total_qty": 2297,
         "sku_count": 242,
         "product_count": 242
       },
@@ -30614,9 +30614,9 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 4157,
-        "sku_count": 370,
-        "product_count": 370
+        "total_qty": 4153,
+        "sku_count": 369,
+        "product_count": 369
       },
       "gid://shopify/Collection/391853998334": {
         "title": "Men's",
@@ -30638,7 +30638,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2586,
+        "total_qty": 2587,
         "sku_count": 203,
         "product_count": 203
       },
@@ -30678,7 +30678,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1327,
+        "total_qty": 1326,
         "sku_count": 59,
         "product_count": 59
       },
@@ -30886,7 +30886,7 @@
         "title": "VERSACE",
         "handle": "versace",
         "legacy_id": "391776010494",
-        "total_qty": 381,
+        "total_qty": 380,
         "sku_count": 97,
         "product_count": 97
       },
@@ -30894,7 +30894,7 @@
         "title": "PRIMARY",
         "handle": "primary",
         "legacy_id": "460628721918",
-        "total_qty": 38172,
+        "total_qty": 38173,
         "sku_count": 259,
         "product_count": 259
       },
@@ -30910,7 +30910,7 @@
         "title": "Tariff Busters",
         "handle": "tariff-busters",
         "legacy_id": "463834087678",
-        "total_qty": 47861,
+        "total_qty": 47862,
         "sku_count": 353,
         "product_count": 353
       },
@@ -31286,7 +31286,7 @@
         "title": "COLUMBIA",
         "handle": "columbia",
         "legacy_id": "395943805182",
-        "total_qty": 220,
+        "total_qty": 219,
         "sku_count": 42,
         "product_count": 42
       },
@@ -31414,7 +31414,7 @@
         "title": "ANNA-KARIN KARLSSON",
         "handle": "anna-karin-karlsson",
         "legacy_id": "485871059198",
-        "total_qty": 1463,
+        "total_qty": 1460,
         "sku_count": 22,
         "product_count": 22
       },
@@ -31422,7 +31422,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 640,
+        "total_qty": 639,
         "sku_count": 119,
         "product_count": 119
       }
@@ -40229,7 +40229,7 @@
         "sku": "CARRERA-3022-RHL-55"
       },
       "gid://shopify/ProductVariant/48121211683070": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "3025-690-54",
         "sku": "CARRERA-3025-690-54"
       },
@@ -41893,11 +41893,6 @@
         "product_title": "PS-02PV-1BO1O1-55",
         "sku": "PRADA-PS-02PV-1BO1O1-55"
       },
-      "gid://shopify/ProductVariant/48392226144510": {
-        "qty": 1,
-        "product_title": "PS-05MV-2AZ1O1-55",
-        "sku": "PRADA-PS-05MV-2AZ1O1-55"
-      },
       "gid://shopify/ProductVariant/48392226275582": {
         "qty": 4,
         "product_title": "PS-06RV-CZH1O1-53",
@@ -42224,7 +42219,7 @@
         "sku": "VERSACE-0VE3364U-GB1-52"
       },
       "gid://shopify/ProductVariant/48567757471998": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "0VE3366-5428-53",
         "sku": "VERSACE-0VE3366-5428-53"
       },
@@ -42589,7 +42584,7 @@
         "sku": "Prs08-Tortoise/Crystal-52-SUN"
       },
       "gid://shopify/ProductVariant/46622544953598": {
-        "qty": 29,
+        "qty": 30,
         "product_title": "PRS09-BLACK/HORN-54-SUN",
         "sku": "Prs09-Black/Horn-54-SUN"
       },
@@ -44644,7 +44639,7 @@
         "sku": "COLUMBIA-C113SP-770"
       },
       "gid://shopify/ProductVariant/48094645158142": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "MIST TRAIL-040",
         "sku": "COLUMBIA-C115SP-040"
       },
@@ -45859,7 +45854,7 @@
         "sku": "AKK-LUCKY-GOES-TO-VEGAS-BLACK CRYSTAL"
       },
       "gid://shopify/ProductVariant/48406939369726": {
-        "qty": 25,
+        "qty": 24,
         "product_title": "LUCKY-GOES-TO-VEGAS-CERISE ZEBRA",
         "sku": "AKK-LUCKY-GOES-TO-VEGAS-CERISE ZEBRA"
       },
@@ -45869,12 +45864,12 @@
         "sku": "AKK-LUCKY-GOES-TO-VEGAS-EMERALD CRYSTAL"
       },
       "gid://shopify/ProductVariant/48406939533566": {
-        "qty": 25,
+        "qty": 26,
         "product_title": "LUCKY-GOES-TO-VEGAS-ICE CRYSTAL",
         "sku": "AKK-LUCKY-GOES-TO-VEGAS-ICE CRYSTAL"
       },
       "gid://shopify/ProductVariant/48406939599102": {
-        "qty": 22,
+        "qty": 21,
         "product_title": "LUCKY-GOES-TO-VEGAS-LEOPARD",
         "sku": "AKK-LUCKY-GOES-TO-VEGAS-LEOPARD"
       },
@@ -45884,7 +45879,7 @@
         "sku": "AKK-MOTHER-BEEP-BLACK CRYSTAL"
       },
       "gid://shopify/ProductVariant/48406939762942": {
-        "qty": 27,
+        "qty": 25,
         "product_title": "MOTHER-BEEP-ICE CRYSTAL BLACK",
         "sku": "AKK-MOTHER-BEEP-ICE CRYSTAL BLACK"
       },
@@ -45957,11 +45952,6 @@
         "qty": 1,
         "product_title": "TF4232-80553C",
         "sku": "TF-TF4232-80553C"
-      },
-      "gid://shopify/ProductVariant/48493052133630": {
-        "qty": 1,
-        "product_title": "TF4232-83429S",
-        "sku": "TF-TF4232-83429S"
       },
       "gid://shopify/ProductVariant/48493128384766": {
         "qty": 4,
@@ -81588,6 +81578,11 @@
         "product_title": "FLX1008MAG-SET-620-56",
         "sku": "FLEXON-FLX1008MAG-SET-620-56"
       },
+      "gid://shopify/ProductVariant/48392226144510": {
+        "qty": 0,
+        "product_title": "PS-05MV-2AZ1O1-55",
+        "sku": "PRADA-PS-05MV-2AZ1O1-55"
+      },
       "gid://shopify/ProductVariant/48392226406654": {
         "qty": 0,
         "product_title": "PR-07ZVF-1AB1O1-55",
@@ -81767,6 +81762,11 @@
         "qty": 0,
         "product_title": "TF4231U-800181",
         "sku": "TF-TF4231U-800181"
+      },
+      "gid://shopify/ProductVariant/48493052133630": {
+        "qty": 0,
+        "product_title": "TF4232-83429S",
+        "sku": "TF-TF4232-83429S"
       },
       "gid://shopify/ProductVariant/48493052166398": {
         "qty": 0,
