@@ -65,13 +65,9 @@ CSS = """
     .footer{padding:12px 14px;font-size:10px}
     .table-scroll{overflow-x:visible}
     table{min-width:0;width:100%;table-layout:fixed}
-    table, tbody, tr, td{display:block;width:100%}
-    tr:first-child{display:none}
-    tr{border:1px solid #e5e7eb;border-radius:6px;margin-bottom:6px;padding:6px 10px;box-sizing:border-box}
-    tr:hover td{background:none}
-    td{display:flex;align-items:baseline;gap:8px;padding:3px 0;border-bottom:none;box-sizing:border-box;font-size:12px}
-    td::before{content:attr(data-label);flex:0 0 auto;font-size:9px;font-weight:700;text-transform:uppercase;letter-spacing:.03em;color:#6b7280;white-space:nowrap}
-    td .v{flex:1;min-width:0;overflow-wrap:anywhere;word-break:break-word;text-align:right}
+    th{padding:5px 6px;font-size:8.5px}
+    td{padding:5px 6px;font-size:10.5px;word-break:break-word;overflow-wrap:anywhere}
+    .arrow{display:none}
   }
   @media only screen and (min-width:601px) and (max-width:900px){
     .kpi{min-width:140px}
@@ -288,11 +284,11 @@ def build_email(collections, products, sales, state):
         html += '<div class="table-scroll"><table><tr><th>Collection</th><th>Products</th><th>SKUs</th><th>Storefront</th><th>Admin</th></tr>'
         for col in sorted(empty_collections, key=lambda x: x["title"]):
             html += f"""<tr>
-  <td data-label="Collection"><span class="v" style="font-weight:600">{col['title']}</span></td>
-  <td data-label="Products"><span class="v">{col['product_count']}</span></td>
-  <td data-label="SKUs"><span class="v">{col['sku_count']}</span></td>
-  <td data-label="Storefront"><span class="v"><a href="{collection_url(col['handle'])}">View &rarr;</a></span></td>
-  <td data-label="Admin"><span class="v"><a href="{admin_url(col['legacy_id'])}">Hide &rarr;</a></span></td>
+  <td style="font-weight:600">{col['title']}</td>
+  <td>{col['product_count']}</td>
+  <td>{col['sku_count']}</td>
+  <td><a href="{collection_url(col['handle'])}">View<span class="arrow"> &rarr;</span></a></td>
+  <td><a href="{admin_url(col['legacy_id'])}">Hide<span class="arrow"> &rarr;</span></a></td>
 </tr>"""
         html += "</table></div>"
     else:
@@ -303,10 +299,10 @@ def build_email(collections, products, sales, state):
         html += '<div class="table-scroll"><table><tr><th>Brand</th><th>Product</th><th>SKU</th><th>Previous Stock</th></tr>'
         for item in out_of_stock_24h:
             html += f"""<tr>
-  <td data-label="Brand"><span class="v" style="color:#6b7280;font-size:12px">{item['vendor']}</span></td>
-  <td data-label="Product"><span class="v"><a href="{product_admin_url(item['legacy_id'])}" style="font-weight:600">{item['product_title']}</a></span></td>
-  <td data-label="SKU"><span class="v">{item['sku']}</span></td>
-  <td data-label="Previous Stock"><span class="v">{item['prev_qty']} units</span></td>
+  <td style="color:#6b7280;font-size:12px">{item['vendor']}</td>
+  <td><a href="{product_admin_url(item['legacy_id'])}" style="font-weight:600">{item['product_title']}</a></td>
+  <td>{item['sku']}</td>
+  <td>{item['prev_qty']} units</td>
 </tr>"""
         html += "</table></div>"
     else:
@@ -317,10 +313,10 @@ def build_email(collections, products, sales, state):
         html += '<div class="table-scroll"><table><tr><th>Brand</th><th>Product</th><th>SKUs</th><th>Admin</th></tr>'
         for item in new_products:
             html += f"""<tr>
-  <td data-label="Brand"><span class="v" style="color:#6b7280;font-size:12px">{item['vendor']}</span></td>
-  <td data-label="Product"><span class="v" style="font-weight:600">{item['title']}</span></td>
-  <td data-label="SKUs"><span class="v">{item['sku_count']}</span></td>
-  <td data-label="Admin"><span class="v"><a href="{product_admin_url(item['legacy_id'])}">View &rarr;</a></span></td>
+  <td style="color:#6b7280;font-size:12px">{item['vendor']}</td>
+  <td style="font-weight:600">{item['title']}</td>
+  <td>{item['sku_count']}</td>
+  <td><a href="{product_admin_url(item['legacy_id'])}">View<span class="arrow"> &rarr;</span></a></td>
 </tr>"""
         html += "</table></div>"
     else:
