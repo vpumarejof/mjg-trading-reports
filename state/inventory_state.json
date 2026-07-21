@@ -30545,15 +30545,15 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-21T19:05:54.642288+00:00",
+    "updated_at": "2026-07-21T20:34:38.777090+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63092,
-        "sku_count": 2197,
-        "product_count": 2197
+        "total_qty": 63097,
+        "sku_count": 2199,
+        "product_count": 2199
       },
       "gid://shopify/Collection/391774208254": {
         "title": "ELIE SAAB",
@@ -30567,15 +30567,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81835,
-        "sku_count": 3036,
-        "product_count": 3036
+        "total_qty": 81840,
+        "sku_count": 3038,
+        "product_count": 3038
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81835,
+        "total_qty": 81840,
         "sku_count": 10180,
         "product_count": 10180
       },
@@ -30583,7 +30583,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12703,
+        "total_qty": 12704,
         "sku_count": 941,
         "product_count": 941
       },
@@ -30591,15 +30591,15 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81835,
-        "sku_count": 3854,
-        "product_count": 3854
+        "total_qty": 81840,
+        "sku_count": 3855,
+        "product_count": 3855
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12703,
+        "total_qty": 12704,
         "sku_count": 941,
         "product_count": 941
       },
@@ -30607,7 +30607,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22545,
+        "total_qty": 22546,
         "sku_count": 2438,
         "product_count": 2438
       },
@@ -30615,7 +30615,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 983,
+        "total_qty": 984,
         "sku_count": 892,
         "product_count": 892
       },
@@ -30631,9 +30631,9 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81356,
-        "sku_count": 2557,
-        "product_count": 2557
+        "total_qty": 81360,
+        "sku_count": 2558,
+        "product_count": 2558
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
@@ -30671,17 +30671,17 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 19933,
-        "sku_count": 491,
-        "product_count": 491
+        "total_qty": 19934,
+        "sku_count": 492,
+        "product_count": 492
       },
       "gid://shopify/Collection/463407481086": {
         "title": "OPEN BOX",
         "handle": "shelf-pulls",
         "legacy_id": "463407481086",
-        "total_qty": 157,
-        "sku_count": 78,
-        "product_count": 78
+        "total_qty": 158,
+        "sku_count": 79,
+        "product_count": 79
       },
       "gid://shopify/Collection/463674867966": {
         "title": "Open Box",
@@ -30919,7 +30919,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 603,
+        "total_qty": 604,
         "sku_count": 125,
         "product_count": 125
       },
@@ -31431,9 +31431,9 @@
         "title": "PRODESIGN",
         "handle": "prodesign",
         "legacy_id": "478388125950",
-        "total_qty": 231,
-        "sku_count": 43,
-        "product_count": 43
+        "total_qty": 234,
+        "sku_count": 44,
+        "product_count": 44
       },
       "gid://shopify/Collection/478400839934": {
         "title": "WOOW",
@@ -35073,7 +35073,7 @@
         "sku": "ELASTA-E-7253-0003-53"
       },
       "gid://shopify/ProductVariant/47010180169982": {
-        "qty": 2,
+        "qty": 3,
         "product_title": "AURELI3/F-0086-53",
         "sku": "KS-AURELIA/F-0086-53"
       },
@@ -39207,6 +39207,11 @@
         "product_title": "8886-R6S-50",
         "sku": "CARRERA-8886-R6S-50"
       },
+      "gid://shopify/ProductVariant/47761274011902": {
+        "qty": 3,
+        "product_title": "1449-6631-58",
+        "sku": "PD-1449-6631-58"
+      },
       "gid://shopify/ProductVariant/47761274044670": {
         "qty": 2,
         "product_title": "1450-5221-54",
@@ -40086,6 +40091,11 @@
         "qty": 9,
         "product_title": "JG33627-6500-55_D",
         "sku": "JAGUAR-JG33627-6500-55_D"
+      },
+      "gid://shopify/ProductVariant/48034285486334": {
+        "qty": 1,
+        "product_title": "3661-5034-52_D",
+        "sku": "PD-3661-5034-52_D"
       },
       "gid://shopify/ProductVariant/48034285584638": {
         "qty": 1,
@@ -74712,11 +74722,6 @@
         "product_title": "1449-6021-58",
         "sku": "PD-1449-6021-58"
       },
-      "gid://shopify/ProductVariant/47761274011902": {
-        "qty": 0,
-        "product_title": "1449-6631-58",
-        "sku": "PD-1449-6631-58"
-      },
       "gid://shopify/ProductVariant/47761274142974": {
         "qty": 0,
         "product_title": "3600-9522-49",
@@ -78081,11 +78086,6 @@
         "qty": 0,
         "product_title": "JG36832-3100-58_D",
         "sku": "JAGUAR-JG36832-3100-58_D"
-      },
-      "gid://shopify/ProductVariant/48034285486334": {
-        "qty": 0,
-        "product_title": "3661-5034-52_D",
-        "sku": "PD-3661-5034-52_D"
       },
       "gid://shopify/ProductVariant/48034285519102": {
         "qty": 0,
