@@ -30416,13 +30416,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-21T07:09:15.785589+00:00",
+    "updated_at": "2026-07-21T09:37:36.834493+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63092,
+        "total_qty": 63090,
         "sku_count": 2173,
         "product_count": 2173
       },
@@ -30438,7 +30438,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81812,
+        "total_qty": 81807,
         "sku_count": 2996,
         "product_count": 2996
       },
@@ -30446,7 +30446,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81812,
+        "total_qty": 81807,
         "sku_count": 10138,
         "product_count": 10138
       },
@@ -30454,7 +30454,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12703,
+        "total_qty": 12701,
         "sku_count": 934,
         "product_count": 934
       },
@@ -30462,7 +30462,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81812,
+        "total_qty": 81807,
         "sku_count": 3814,
         "product_count": 3814
       },
@@ -30470,7 +30470,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12703,
+        "total_qty": 12701,
         "sku_count": 934,
         "product_count": 934
       },
@@ -30502,15 +30502,15 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81373,
-        "sku_count": 2557,
-        "product_count": 2557
+        "total_qty": 81367,
+        "sku_count": 2556,
+        "product_count": 2556
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3979,
+        "total_qty": 3977,
         "sku_count": 517,
         "product_count": 517
       },
@@ -30574,7 +30574,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 9025,
+        "total_qty": 9023,
         "sku_count": 815,
         "product_count": 815
       },
@@ -30614,7 +30614,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 4155,
+        "total_qty": 4153,
         "sku_count": 370,
         "product_count": 370
       },
@@ -30774,7 +30774,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 25784,
+        "total_qty": 25783,
         "sku_count": 39,
         "product_count": 39
       },
@@ -30814,7 +30814,7 @@
         "title": "MARC JACOBS",
         "handle": "marc-jacobs",
         "legacy_id": "391774732542",
-        "total_qty": 342,
+        "total_qty": 341,
         "sku_count": 65,
         "product_count": 65
       },
@@ -30934,7 +30934,7 @@
         "title": "VALENTINO",
         "handle": "valentino",
         "legacy_id": "462679113982",
-        "total_qty": 138,
+        "total_qty": 137,
         "sku_count": 25,
         "product_count": 25
       },
@@ -30950,7 +30950,7 @@
         "title": "MISSONI",
         "handle": "missoni",
         "legacy_id": "408673911038",
-        "total_qty": 744,
+        "total_qty": 743,
         "sku_count": 59,
         "product_count": 59
       },
@@ -31326,7 +31326,7 @@
         "title": "BUGATTI",
         "handle": "bugatti",
         "legacy_id": "480545439998",
-        "total_qty": 244,
+        "total_qty": 243,
         "sku_count": 50,
         "product_count": 50
       },
@@ -34449,7 +34449,7 @@
         "sku": "MISSONI-MIS-0090-00AE-52"
       },
       "gid://shopify/ProductVariant/46754101166334": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "MIS-0090-00AE-54",
         "sku": "MISSONI-MIS-0090-00AE-54"
       },
@@ -34994,7 +34994,7 @@
         "sku": "MJ-MARC-596-0HK3-54"
       },
       "gid://shopify/ProductVariant/47010182103294": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "MARC-649-080S-53",
         "sku": "MJ-MARC-649-080S-53"
       },
@@ -42514,7 +42514,7 @@
         "sku": "NIKE-ADRENALINE-M-EVG-066"
       },
       "gid://shopify/ProductVariant/46059134714110": {
-        "qty": 9681,
+        "qty": 9680,
         "product_title": "DropShip",
         "sku": "DropShip"
       },
@@ -42554,7 +42554,7 @@
         "sku": "DB-DB-7117/S-0WR7/W7"
       },
       "gid://shopify/ProductVariant/46622348214526": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "V-SOUL-VLS-127A-53",
         "sku": "VALENTINO-V-SOUL-VLS-127A-53"
       },
@@ -44224,7 +44224,7 @@
         "sku": "BUGATTI-03-BK/SS"
       },
       "gid://shopify/ProductVariant/47931242873086": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "03-DT",
         "sku": "BUGATTI-03-DT"
       },
