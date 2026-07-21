@@ -35,13 +35,14 @@ CSS = """
   .header-right strong{color:#0f172a;font-size:15px;display:block}
   .body{padding:28px 32px}
   h2{font-size:13px;font-weight:700;color:#0f172a;text-transform:uppercase;letter-spacing:.07em;margin:28px 0 10px;border-bottom:1px solid #e5e7eb;padding-bottom:6px}
-  .kpi-row{display:flex;gap:12px;margin-bottom:12px}
-  .kpi{flex:1;background:#f8fafc;border:1px solid #e5e7eb;border-radius:6px;padding:16px 18px}
+  .kpi-row{display:flex;flex-wrap:wrap;gap:12px;margin-bottom:12px}
+  .kpi{flex:1;min-width:120px;background:#f8fafc;border:1px solid #e5e7eb;border-radius:6px;padding:16px 18px}
   .kpi-num{font-size:24px;font-weight:700;color:#0f172a}
   .kpi-label{font-size:11px;color:#6b7280;margin-top:2px;text-transform:uppercase;letter-spacing:.04em}
   .kpi-sub{font-size:12px;color:#9ca3af;margin-top:4px}
-  table{width:100%;border-collapse:collapse;font-size:13px;margin-bottom:4px}
-  th{background:#0f172a;color:#e2e8f0;padding:9px 12px;text-align:left;font-size:11px;text-transform:uppercase;letter-spacing:.05em;font-weight:600}
+  .table-scroll{width:100%;overflow-x:auto}
+  table{width:100%;min-width:460px;border-collapse:collapse;font-size:13px;margin-bottom:4px}
+  th{background:#0f172a;color:#e2e8f0;padding:9px 12px;text-align:left;font-size:11px;text-transform:uppercase;letter-spacing:.05em;font-weight:600;white-space:nowrap}
   td{padding:9px 12px;border-bottom:1px solid #f1f5f9;vertical-align:middle}
   tr:last-child td{border-bottom:none}
   tr:hover td{background:#f8fafc}
@@ -49,6 +50,20 @@ CSS = """
   a:hover{text-decoration:underline}
   .footer{background:#f8fafc;border-top:1px solid #e5e7eb;padding:16px 32px;font-size:11px;color:#9ca3af;text-align:center}
   .ok{color:#9ca3af;font-style:italic;font-size:13px}
+
+  @media only screen and (max-width:600px){
+    .body{padding:20px 16px}
+    .header{padding:18px 16px;flex-wrap:wrap;gap:10px}
+    .header-right{text-align:left}
+    .kpi-row{gap:8px}
+    .kpi{min-width:100%;padding:14px 16px}
+    .footer{padding:14px 16px}
+    table{font-size:12px}
+    th,td{padding:8px 10px}
+  }
+  @media only screen and (min-width:601px) and (max-width:900px){
+    .kpi{min-width:140px}
+  }
 """
 
 
@@ -106,7 +121,6 @@ def daily_sales_summary(orders):
 
 def build_collections_summary(collections):
     empty_collections = []
-    low_stock_collections = []
 
     for col in collections:
         active = [p for p in col["products"]["nodes"] if p["status"] == "ACTIVE"]
@@ -114,7 +128,6 @@ def build_collections_summary(collections):
             continue
 
         all_variants = [v for p in active for v in p["variants"]["nodes"]]
-        total_qty = sum(max(0, v["inventoryQuantity"] or 0) for v in all_variants)
         all_zero = all((v["inventoryQuantity"] or 0) <= 0 for v in all_variants)
 
         if all_zero:
@@ -125,16 +138,8 @@ def build_collections_summary(collections):
                 "sku_count": len(all_variants),
                 "product_count": len(active),
             })
-        elif 0 < total_qty < 3:
-            low_stock_collections.append({
-                "title": col["title"],
-                "handle": col["handle"],
-                "legacy_id": col["legacyResourceId"],
-                "total_qty": total_qty,
-                "product_count": len(active),
-            })
 
-    return empty_collections, low_stock_collections
+    return empty_collections
 
 
 def build_product_events(products, state):
@@ -197,7 +202,7 @@ def build_email(collections, products, sales, state):
         if logo_b64 else '<span style="font-size:20px;font-weight:700;color:#0f172a">MJG Trading</span>'
     )
 
-    empty_collections, low_stock_collections = build_collections_summary(collections)
+    empty_collections = build_collections_summary(collections)
     events = build_product_events(products, state)
     out_of_stock_24h = events["out_of_stock_24h"]
     new_products = events["new_products"]
@@ -236,10 +241,6 @@ def build_email(collections, products, sales, state):
   </div>
 </div>
 <div class="kpi-row">
-  <div class="kpi">
-    <div class="kpi-num">{len(low_stock_collections)}</div>
-    <div class="kpi-label">Low Stock (&lt;3 units)</div>
-  </div>
   <div class="kpi">
     <div class="kpi-num">{len(out_of_stock_24h)}</div>
     <div class="kpi-label">Went OOS Today</div>
@@ -286,45 +287,31 @@ def build_email(collections, products, sales, state):
     else:
         html += '<p class="ok">No completely empty collections.</p>'
 
-    html += "<h2>Collections with Less than 3 Units</h2>"
-    if low_stock_collections:
-        html += "<table><tr><th>Collection</th><th>Units</th><th>Products</th><th>Admin</th></tr>"
-        for col in sorted(low_stock_collections, key=lambda x: x["total_qty"]):
-            html += f"""<tr>
-  <td style="font-weight:600">{col['title']}</td>
-  <td>{col['total_qty']}</td>
-  <td>{col['product_count']}</td>
-  <td><a href="{admin_url(col['legacy_id'])}">Admin &rarr;</a></td>
-</tr>"""
-        html += "</table>"
-    else:
-        html += '<p class="ok">No collections with low stock.</p>'
-
     html += "<h2>Products That Went Out of Stock in the Last 24h</h2>"
     if out_of_stock_24h:
-        html += "<table><tr><th>Product</th><th>Brand</th><th>SKU</th><th>Previous Stock</th></tr>"
+        html += '<div class="table-scroll"><table><tr><th>Brand</th><th>Product</th><th>SKU</th><th>Previous Stock</th></tr>'
         for item in out_of_stock_24h:
             html += f"""<tr>
-  <td><a href="{product_admin_url(item['legacy_id'])}" style="font-weight:600">{item['product_title']}</a></td>
   <td style="color:#6b7280;font-size:12px">{item['vendor']}</td>
+  <td><a href="{product_admin_url(item['legacy_id'])}" style="font-weight:600">{item['product_title']}</a></td>
   <td>{item['sku']}</td>
   <td>{item['prev_qty']} units</td>
 </tr>"""
-        html += "</table>"
+        html += "</table></div>"
     else:
         html += '<p class="ok">No products went out of stock in the last 24h.</p>'
 
     html += "<h2>New Products Added in the Last 24h</h2>"
     if new_products:
-        html += "<table><tr><th>Product</th><th>Brand</th><th>SKUs</th><th>Admin</th></tr>"
+        html += '<div class="table-scroll"><table><tr><th>Brand</th><th>Product</th><th>SKUs</th><th>Admin</th></tr>'
         for item in new_products:
             html += f"""<tr>
-  <td style="font-weight:600">{item['title']}</td>
   <td style="color:#6b7280;font-size:12px">{item['vendor']}</td>
+  <td style="font-weight:600">{item['title']}</td>
   <td>{item['sku_count']}</td>
   <td><a href="{product_admin_url(item['legacy_id'])}">View &rarr;</a></td>
 </tr>"""
-        html += "</table>"
+        html += "</table></div>"
     else:
         html += '<p class="ok">No new products added in the last 24h.</p>'
 
