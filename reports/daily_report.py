@@ -33,6 +33,7 @@ CSS = """
   .header{background:#ffffff;border-bottom:1px solid #e5e7eb;padding:24px 32px;display:flex;align-items:center;justify-content:space-between}
   .header-right{text-align:right;color:#6b7280;font-size:13px;line-height:1.6}
   .header-right strong{color:#0f172a;font-size:15px;display:block}
+  .logo-img{width:80px;height:80px;object-fit:contain;display:block}
   .body{padding:28px 32px}
   h2{font-size:13px;font-weight:700;color:#0f172a;text-transform:uppercase;letter-spacing:.07em;margin:28px 0 10px;border-bottom:1px solid #e5e7eb;padding-bottom:6px}
   .kpi-row{display:flex;flex-wrap:wrap;gap:12px;margin-bottom:12px}
@@ -52,14 +53,25 @@ CSS = """
   .ok{color:#9ca3af;font-style:italic;font-size:13px}
 
   @media only screen and (max-width:600px){
-    .body{padding:20px 16px}
-    .header{padding:18px 16px;flex-wrap:wrap;gap:10px}
+    .body{padding:16px 14px}
+    .header{padding:12px 16px;flex-wrap:wrap;gap:8px}
     .header-right{text-align:left}
-    .kpi-row{gap:8px}
-    .kpi{min-width:100%;padding:14px 16px}
-    .footer{padding:14px 16px}
-    table{font-size:12px}
-    th,td{padding:8px 10px}
+    .logo-img{width:52px;height:52px}
+    h2{font-size:11px;margin:18px 0 8px;padding-bottom:4px}
+    .kpi-row{display:grid;grid-template-columns:1fr 1fr;gap:6px;margin-bottom:8px}
+    .kpi{min-width:0;padding:9px 11px}
+    .kpi-num{font-size:17px}
+    .kpi-label{font-size:9px}
+    .footer{padding:12px 14px;font-size:10px}
+    .table-scroll{overflow-x:visible}
+    table{min-width:0;width:100%;table-layout:fixed}
+    table, tbody, tr, td{display:block;width:100%}
+    tr:first-child{display:none}
+    tr{border:1px solid #e5e7eb;border-radius:6px;margin-bottom:6px;padding:6px 10px;box-sizing:border-box}
+    tr:hover td{background:none}
+    td{display:flex;align-items:baseline;gap:8px;padding:3px 0;border-bottom:none;box-sizing:border-box;font-size:12px}
+    td::before{content:attr(data-label);flex:0 0 auto;font-size:9px;font-weight:700;text-transform:uppercase;letter-spacing:.03em;color:#6b7280;white-space:nowrap}
+    td .v{flex:1;min-width:0;overflow-wrap:anywhere;word-break:break-word;text-align:right}
   }
   @media only screen and (min-width:601px) and (max-width:900px){
     .kpi{min-width:140px}
@@ -197,8 +209,7 @@ def build_product_events(products, state):
 def build_email(collections, products, sales, state):
     logo_b64 = load_logo_b64()
     logo_tag = (
-        f'<img src="data:image/jpeg;base64,{logo_b64}" alt="MJG Trading" '
-        f'style="width:80px;height:80px;object-fit:contain;display:block">'
+        f'<img src="data:image/jpeg;base64,{logo_b64}" alt="MJG Trading" class="logo-img">'
         if logo_b64 else '<span style="font-size:20px;font-weight:700;color:#0f172a">MJG Trading</span>'
     )
 
@@ -274,16 +285,16 @@ def build_email(collections, products, sales, state):
 
     html += "<h2>Collections Completely Empty — consider hiding them</h2>"
     if empty_collections:
-        html += "<table><tr><th>Collection</th><th>Products</th><th>SKUs</th><th>Storefront</th><th>Admin</th></tr>"
+        html += '<div class="table-scroll"><table><tr><th>Collection</th><th>Products</th><th>SKUs</th><th>Storefront</th><th>Admin</th></tr>'
         for col in sorted(empty_collections, key=lambda x: x["title"]):
             html += f"""<tr>
-  <td style="font-weight:600">{col['title']}</td>
-  <td>{col['product_count']}</td>
-  <td>{col['sku_count']}</td>
-  <td><a href="{collection_url(col['handle'])}">View &rarr;</a></td>
-  <td><a href="{admin_url(col['legacy_id'])}">Hide &rarr;</a></td>
+  <td data-label="Collection"><span class="v" style="font-weight:600">{col['title']}</span></td>
+  <td data-label="Products"><span class="v">{col['product_count']}</span></td>
+  <td data-label="SKUs"><span class="v">{col['sku_count']}</span></td>
+  <td data-label="Storefront"><span class="v"><a href="{collection_url(col['handle'])}">View &rarr;</a></span></td>
+  <td data-label="Admin"><span class="v"><a href="{admin_url(col['legacy_id'])}">Hide &rarr;</a></span></td>
 </tr>"""
-        html += "</table>"
+        html += "</table></div>"
     else:
         html += '<p class="ok">No completely empty collections.</p>'
 
@@ -292,10 +303,10 @@ def build_email(collections, products, sales, state):
         html += '<div class="table-scroll"><table><tr><th>Brand</th><th>Product</th><th>SKU</th><th>Previous Stock</th></tr>'
         for item in out_of_stock_24h:
             html += f"""<tr>
-  <td style="color:#6b7280;font-size:12px">{item['vendor']}</td>
-  <td><a href="{product_admin_url(item['legacy_id'])}" style="font-weight:600">{item['product_title']}</a></td>
-  <td>{item['sku']}</td>
-  <td>{item['prev_qty']} units</td>
+  <td data-label="Brand"><span class="v" style="color:#6b7280;font-size:12px">{item['vendor']}</span></td>
+  <td data-label="Product"><span class="v"><a href="{product_admin_url(item['legacy_id'])}" style="font-weight:600">{item['product_title']}</a></span></td>
+  <td data-label="SKU"><span class="v">{item['sku']}</span></td>
+  <td data-label="Previous Stock"><span class="v">{item['prev_qty']} units</span></td>
 </tr>"""
         html += "</table></div>"
     else:
@@ -306,10 +317,10 @@ def build_email(collections, products, sales, state):
         html += '<div class="table-scroll"><table><tr><th>Brand</th><th>Product</th><th>SKUs</th><th>Admin</th></tr>'
         for item in new_products:
             html += f"""<tr>
-  <td style="color:#6b7280;font-size:12px">{item['vendor']}</td>
-  <td style="font-weight:600">{item['title']}</td>
-  <td>{item['sku_count']}</td>
-  <td><a href="{product_admin_url(item['legacy_id'])}">View &rarr;</a></td>
+  <td data-label="Brand"><span class="v" style="color:#6b7280;font-size:12px">{item['vendor']}</span></td>
+  <td data-label="Product"><span class="v" style="font-weight:600">{item['title']}</span></td>
+  <td data-label="SKUs"><span class="v">{item['sku_count']}</span></td>
+  <td data-label="Admin"><span class="v"><a href="{product_admin_url(item['legacy_id'])}">View &rarr;</a></span></td>
 </tr>"""
         html += "</table></div>"
     else:
