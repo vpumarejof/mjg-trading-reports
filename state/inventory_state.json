@@ -30545,13 +30545,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-21T17:50:54.729379+00:00",
+    "updated_at": "2026-07-21T19:05:54.642288+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63091,
+        "total_qty": 63092,
         "sku_count": 2197,
         "product_count": 2197
       },
@@ -30567,7 +30567,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81834,
+        "total_qty": 81835,
         "sku_count": 3036,
         "product_count": 3036
       },
@@ -30575,7 +30575,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81834,
+        "total_qty": 81835,
         "sku_count": 10180,
         "product_count": 10180
       },
@@ -30591,7 +30591,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81834,
+        "total_qty": 81835,
         "sku_count": 3854,
         "product_count": 3854
       },
@@ -30631,7 +30631,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81355,
+        "total_qty": 81356,
         "sku_count": 2557,
         "product_count": 2557
       },
@@ -31183,7 +31183,7 @@
         "title": "NOMAD-MOREL",
         "handle": "nomad-morel",
         "legacy_id": "466916409598",
-        "total_qty": 848,
+        "total_qty": 849,
         "sku_count": 47,
         "product_count": 47
       },
@@ -35343,7 +35343,7 @@
         "sku": "NOMAD-MOREL-40123N-TO05-50"
       },
       "gid://shopify/ProductVariant/47021050822910": {
-        "qty": 2,
+        "qty": 3,
         "product_title": "40197N-SP03-56",
         "sku": "NOMAD-MOREL-40197N-SP03-56"
       },
