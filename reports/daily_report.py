@@ -67,7 +67,6 @@ CSS = """
     table{min-width:0;width:100%;table-layout:fixed}
     th{padding:5px 6px;font-size:8.5px}
     td{padding:5px 6px;font-size:10.5px;word-break:break-word;overflow-wrap:anywhere}
-    .arrow{display:none}
   }
   @media only screen and (min-width:601px) and (max-width:900px){
     .kpi{min-width:140px}
@@ -287,8 +286,8 @@ def build_email(collections, products, sales, state):
   <td style="font-weight:600">{col['title']}</td>
   <td>{col['product_count']}</td>
   <td>{col['sku_count']}</td>
-  <td><a href="{collection_url(col['handle'])}">View<span class="arrow"> &rarr;</span></a></td>
-  <td><a href="{admin_url(col['legacy_id'])}">Hide<span class="arrow"> &rarr;</span></a></td>
+  <td><a href="{collection_url(col['handle'])}">View</a></td>
+  <td><a href="{admin_url(col['legacy_id'])}">Hide</a></td>
 </tr>"""
         html += "</table></div>"
     else:
@@ -316,7 +315,7 @@ def build_email(collections, products, sales, state):
   <td style="color:#6b7280;font-size:12px">{item['vendor']}</td>
   <td style="font-weight:600">{item['title']}</td>
   <td>{item['sku_count']}</td>
-  <td><a href="{product_admin_url(item['legacy_id'])}">View<span class="arrow"> &rarr;</span></a></td>
+  <td><a href="{product_admin_url(item['legacy_id'])}">View</a></td>
 </tr>"""
         html += "</table></div>"
     else:
