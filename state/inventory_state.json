@@ -30545,13 +30545,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-22T22:42:15.189571+00:00",
+    "updated_at": "2026-07-22T23:40:20.146119+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63039,
+        "total_qty": 63036,
         "sku_count": 2186,
         "product_count": 2186
       },
@@ -30567,7 +30567,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82258,
+        "total_qty": 82253,
         "sku_count": 3045,
         "product_count": 3045
       },
@@ -30575,7 +30575,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82258,
+        "total_qty": 82253,
         "sku_count": 10209,
         "product_count": 10209
       },
@@ -30583,7 +30583,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12690,
+        "total_qty": 12688,
         "sku_count": 936,
         "product_count": 936
       },
@@ -30591,7 +30591,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82258,
+        "total_qty": 82253,
         "sku_count": 3868,
         "product_count": 3868
       },
@@ -30599,7 +30599,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12690,
+        "total_qty": 12688,
         "sku_count": 936,
         "product_count": 936
       },
@@ -30631,15 +30631,15 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81786,
-        "sku_count": 2573,
-        "product_count": 2573
+        "total_qty": 81780,
+        "sku_count": 2572,
+        "product_count": 2572
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3941,
+        "total_qty": 3939,
         "sku_count": 514,
         "product_count": 514
       },
@@ -30655,7 +30655,7 @@
         "title": "Plastic Metal",
         "handle": "plastic-metal",
         "legacy_id": "462599520510",
-        "total_qty": 1770,
+        "total_qty": 1769,
         "sku_count": 99,
         "product_count": 99
       },
@@ -30679,7 +30679,7 @@
         "title": "OPEN BOX",
         "handle": "shelf-pulls",
         "legacy_id": "463407481086",
-        "total_qty": 149,
+        "total_qty": 148,
         "sku_count": 72,
         "product_count": 72
       },
@@ -30687,9 +30687,9 @@
         "title": "Open Box",
         "handle": "open-box",
         "legacy_id": "463674867966",
-        "total_qty": 98,
-        "sku_count": 21,
-        "product_count": 21
+        "total_qty": 96,
+        "sku_count": 20,
+        "product_count": 20
       },
       "gid://shopify/Collection/391775584510": {
         "title": "SAINT LAURENT",
@@ -30703,7 +30703,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 9530,
+        "total_qty": 9528,
         "sku_count": 851,
         "product_count": 851
       },
@@ -30735,7 +30735,7 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 780,
+        "total_qty": 779,
         "sku_count": 89,
         "product_count": 89
       },
@@ -30743,7 +30743,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 4332,
+        "total_qty": 4330,
         "sku_count": 386,
         "product_count": 386
       },
@@ -30895,7 +30895,7 @@
         "title": "JONES NY",
         "handle": "jones-ny",
         "legacy_id": "429417660670",
-        "total_qty": 1036,
+        "total_qty": 1035,
         "sku_count": 6,
         "product_count": 6
       },
@@ -30967,7 +30967,7 @@
         "title": "KARL LAGERFELD",
         "handle": "karl-lagerfeld",
         "legacy_id": "422907576574",
-        "total_qty": 395,
+        "total_qty": 394,
         "sku_count": 39,
         "product_count": 39
       },
@@ -31015,7 +31015,7 @@
         "title": "VERSACE",
         "handle": "versace",
         "legacy_id": "391776010494",
-        "total_qty": 367,
+        "total_qty": 366,
         "sku_count": 97,
         "product_count": 97
       },
@@ -31551,7 +31551,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 1153,
+        "total_qty": 1152,
         "sku_count": 145,
         "product_count": 145
       }
@@ -31723,7 +31723,7 @@
         "sku": "GUCCI GG1056OA 001 - 56"
       },
       "gid://shopify/ProductVariant/44587869536510": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "GG1356OJ 002-55",
         "sku": "GUCCI GG1356OJ 002 - 55"
       },
@@ -31768,7 +31768,7 @@
         "sku": "JONES NY J234 PUR - 47"
       },
       "gid://shopify/ProductVariant/44922449101054": {
-        "qty": 113,
+        "qty": 112,
         "product_title": "J235 PUR-49",
         "sku": "JONES NY J235 PUR - 49"
       },
@@ -40313,7 +40313,7 @@
         "sku": "SF-SF2950-N-219-54"
       },
       "gid://shopify/ProductVariant/48094649417982": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "SF2971-601-53",
         "sku": "SF-SF2971-601-53"
       },
@@ -45118,7 +45118,7 @@
         "sku": "KL-KL6209S-601"
       },
       "gid://shopify/ProductVariant/48113356210430": {
-        "qty": 17,
+        "qty": 16,
         "product_title": "KL6165S-N-602",
         "sku": "KL-KL6165S-N-602"
       },
@@ -46528,7 +46528,7 @@
         "sku": "VERSACE-0VE4471BF-54755M56"
       },
       "gid://shopify/ProductVariant/48621026607358": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "0VE4471B-GB1/8756",
         "sku": "VERSACE-0VE4471B-GB1/8756"
       },
