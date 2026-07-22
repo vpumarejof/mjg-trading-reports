@@ -30545,13 +30545,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-22T04:32:07.034858+00:00",
+    "updated_at": "2026-07-22T07:19:52.809308+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63060,
+        "total_qty": 63059,
         "sku_count": 2194,
         "product_count": 2194
       },
@@ -30567,7 +30567,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81799,
+        "total_qty": 81795,
         "sku_count": 3033,
         "product_count": 3033
       },
@@ -30575,7 +30575,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81799,
+        "total_qty": 81795,
         "sku_count": 10180,
         "product_count": 10180
       },
@@ -30583,7 +30583,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12699,
+        "total_qty": 12698,
         "sku_count": 940,
         "product_count": 940
       },
@@ -30591,7 +30591,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81799,
+        "total_qty": 81795,
         "sku_count": 3854,
         "product_count": 3854
       },
@@ -30599,7 +30599,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12699,
+        "total_qty": 12698,
         "sku_count": 940,
         "product_count": 940
       },
@@ -30631,7 +30631,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81321,
+        "total_qty": 81317,
         "sku_count": 2555,
         "product_count": 2555
       },
@@ -30639,7 +30639,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3967,
+        "total_qty": 3964,
         "sku_count": 516,
         "product_count": 516
       },
@@ -30703,7 +30703,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 9050,
+        "total_qty": 9047,
         "sku_count": 831,
         "product_count": 831
       },
@@ -30719,7 +30719,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2298,
+        "total_qty": 2297,
         "sku_count": 248,
         "product_count": 248
       },
@@ -30743,7 +30743,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 4173,
+        "total_qty": 4171,
         "sku_count": 377,
         "product_count": 377
       },
@@ -31015,7 +31015,7 @@
         "title": "VERSACE",
         "handle": "versace",
         "legacy_id": "391776010494",
-        "total_qty": 378,
+        "total_qty": 375,
         "sku_count": 98,
         "product_count": 98
       },
@@ -31239,7 +31239,7 @@
         "title": "DKNY",
         "handle": "dkny",
         "legacy_id": "395943870718",
-        "total_qty": 63,
+        "total_qty": 62,
         "sku_count": 25,
         "product_count": 25
       },
@@ -31551,7 +31551,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 631,
+        "total_qty": 628,
         "sku_count": 119,
         "product_count": 119
       }
@@ -38958,7 +38958,7 @@
         "sku": "DKNY-DK5045-210-54"
       },
       "gid://shopify/ProductVariant/47730445713662": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "DK5047-001-52",
         "sku": "DKNY-DK5047-001-52"
       },
@@ -46503,12 +46503,12 @@
         "sku": "VERSACE-0VE2174-1002Z359"
       },
       "gid://shopify/ProductVariant/48621025853694": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "0VE2184-12521361",
         "sku": "VERSACE-0VE2184-12521361"
       },
       "gid://shopify/ProductVariant/48621025886462": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "0VE2184-12526U61",
         "sku": "VERSACE-0VE2184-12526U61"
       },
@@ -46538,7 +46538,7 @@
         "sku": "VERSACE-0VE2242-10028761"
       },
       "gid://shopify/ProductVariant/48621026148606": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "0VE2266-10028764",
         "sku": "VERSACE-0VE2266-10028764"
       },
