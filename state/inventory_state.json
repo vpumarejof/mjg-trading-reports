@@ -30545,15 +30545,15 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-22T23:40:20.146119+00:00",
+    "updated_at": "2026-07-23T01:11:10.393028+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63036,
-        "sku_count": 2186,
-        "product_count": 2186
+        "total_qty": 63034,
+        "sku_count": 2185,
+        "product_count": 2185
       },
       "gid://shopify/Collection/391774208254": {
         "title": "ELIE SAAB",
@@ -30567,23 +30567,23 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82253,
-        "sku_count": 3045,
-        "product_count": 3045
+        "total_qty": 82250,
+        "sku_count": 3044,
+        "product_count": 3044
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82253,
-        "sku_count": 10209,
-        "product_count": 10209
+        "total_qty": 82250,
+        "sku_count": 10207,
+        "product_count": 10207
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12688,
+        "total_qty": 12687,
         "sku_count": 936,
         "product_count": 936
       },
@@ -30591,7 +30591,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82253,
+        "total_qty": 82250,
         "sku_count": 3868,
         "product_count": 3868
       },
@@ -30599,7 +30599,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12688,
+        "total_qty": 12687,
         "sku_count": 936,
         "product_count": 936
       },
@@ -30608,8 +30608,8 @@
         "handle": "unisex",
         "legacy_id": "454431047934",
         "total_qty": 22717,
-        "sku_count": 2449,
-        "product_count": 2449
+        "sku_count": 2448,
+        "product_count": 2448
       },
       "gid://shopify/Collection/454449725694": {
         "title": "Havana",
@@ -30631,7 +30631,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81780,
+        "total_qty": 81778,
         "sku_count": 2572,
         "product_count": 2572
       },
@@ -30639,9 +30639,9 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3939,
-        "sku_count": 514,
-        "product_count": 514
+        "total_qty": 3938,
+        "sku_count": 513,
+        "product_count": 513
       },
       "gid://shopify/Collection/391854031102": {
         "title": "Women's",
@@ -30703,7 +30703,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 9528,
+        "total_qty": 9527,
         "sku_count": 851,
         "product_count": 851
       },
@@ -30743,7 +30743,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 4330,
+        "total_qty": 4329,
         "sku_count": 386,
         "product_count": 386
       },
@@ -30919,7 +30919,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 602,
+        "total_qty": 601,
         "sku_count": 124,
         "product_count": 124
       },
@@ -31015,9 +31015,9 @@
         "title": "VERSACE",
         "handle": "versace",
         "legacy_id": "391776010494",
-        "total_qty": 366,
-        "sku_count": 97,
-        "product_count": 97
+        "total_qty": 365,
+        "sku_count": 96,
+        "product_count": 96
       },
       "gid://shopify/Collection/460628721918": {
         "title": "PRIMARY",
@@ -31095,7 +31095,7 @@
         "title": "CALVIN KLEIN JEANS",
         "handle": "calvin-klein-jeans",
         "legacy_id": "464057172222",
-        "total_qty": 475,
+        "total_qty": 474,
         "sku_count": 61,
         "product_count": 61
       },
@@ -31551,9 +31551,9 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 1152,
-        "sku_count": 145,
-        "product_count": 145
+        "total_qty": 1151,
+        "sku_count": 144,
+        "product_count": 144
       }
     },
     "variants": {
@@ -41828,7 +41828,7 @@
         "sku": "MODO-4635-BURG0-54"
       },
       "gid://shopify/ProductVariant/48361935634686": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "CKJ24615-011-53",
         "sku": "CKJ-CKJ24615-011-53"
       },
@@ -42261,11 +42261,6 @@
         "qty": 2,
         "product_title": "0VE3354-5460-55",
         "sku": "VERSACE-0VE3354-5460-55"
-      },
-      "gid://shopify/ProductVariant/48567757013246": {
-        "qty": 1,
-        "product_title": "0VE3354F-GB1-55",
-        "sku": "VERSACE-0VE3354F-GB1-55"
       },
       "gid://shopify/ProductVariant/48567757078782": {
         "qty": 1,
@@ -44633,7 +44628,7 @@
         "sku": "KS-FRIDA/G/S-PJP/9O"
       },
       "gid://shopify/ProductVariant/48011978211582": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "JANECE/G/S-PEF/HA",
         "sku": "KS-JANECE/G/S-PEF/HA"
       },
@@ -82442,6 +82437,11 @@
         "product_title": "0VE1302-1002-59",
         "sku": "VERSACE-0VE1302-1002-59"
       },
+      "gid://shopify/ProductVariant/48567757013246": {
+        "qty": 0,
+        "product_title": "0VE3354F-GB1-55",
+        "sku": "VERSACE-0VE3354F-GB1-55"
+      },
       "gid://shopify/ProductVariant/48567757242622": {
         "qty": 0,
         "product_title": "0VE3358B-5472-54",
@@ -82591,16 +82591,6 @@
         "qty": 0,
         "product_title": "914-307M",
         "sku": "RM-914-307M_D"
-      },
-      "gid://shopify/ProductVariant/48628776501502": {
-        "qty": 0,
-        "product_title": "PESUN078-002_D",
-        "sku": "PE-PESUN078-002_D"
-      },
-      "gid://shopify/ProductVariant/48628778828030": {
-        "qty": 0,
-        "product_title": "PLUS-152NY-C_D",
-        "sku": "MO-PLUS-C-53_D"
       }
     }
   }
