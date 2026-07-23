@@ -30545,13 +30545,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-23T07:16:35.913856+00:00",
+    "updated_at": "2026-07-23T09:44:55.151570+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63009,
+        "total_qty": 63004,
         "sku_count": 2162,
         "product_count": 2162
       },
@@ -30567,7 +30567,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82187,
+        "total_qty": 82181,
         "sku_count": 3007,
         "product_count": 3007
       },
@@ -30575,7 +30575,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82187,
+        "total_qty": 82181,
         "sku_count": 10165,
         "product_count": 10165
       },
@@ -30583,7 +30583,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12680,
+        "total_qty": 12675,
         "sku_count": 929,
         "product_count": 929
       },
@@ -30591,7 +30591,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82187,
+        "total_qty": 82181,
         "sku_count": 3832,
         "product_count": 3832
       },
@@ -30599,7 +30599,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12680,
+        "total_qty": 12675,
         "sku_count": 929,
         "product_count": 929
       },
@@ -30631,9 +30631,9 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81747,
-        "sku_count": 2567,
-        "product_count": 2567
+        "total_qty": 81740,
+        "sku_count": 2566,
+        "product_count": 2566
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
@@ -30655,7 +30655,7 @@
         "title": "Plastic Metal",
         "handle": "plastic-metal",
         "legacy_id": "462599520510",
-        "total_qty": 1769,
+        "total_qty": 1768,
         "sku_count": 99,
         "product_count": 99
       },
@@ -30703,7 +30703,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 9490,
+        "total_qty": 9489,
         "sku_count": 837,
         "product_count": 837
       },
@@ -30719,7 +30719,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2431,
+        "total_qty": 2430,
         "sku_count": 247,
         "product_count": 247
       },
@@ -30807,7 +30807,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1312,
+        "total_qty": 1311,
         "sku_count": 58,
         "product_count": 58
       },
@@ -30943,7 +30943,7 @@
         "title": "MARC JACOBS",
         "handle": "marc-jacobs",
         "legacy_id": "391774732542",
-        "total_qty": 339,
+        "total_qty": 337,
         "sku_count": 63,
         "product_count": 63
       },
@@ -31207,7 +31207,7 @@
         "title": "COCO SONG",
         "handle": "coco-song",
         "legacy_id": "467688259838",
-        "total_qty": 264,
+        "total_qty": 261,
         "sku_count": 66,
         "product_count": 66
       },
@@ -36168,7 +36168,7 @@
         "sku": "CS-SURFING-DOLPHIN-CV228.04-09"
       },
       "gid://shopify/ProductVariant/47272815198462": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "SWEET-SKY-CV229.02-09",
         "sku": "CS-SWEET-SKY-CV229.02-09"
       },
@@ -36248,7 +36248,7 @@
         "sku": "CS-DAIQUIRI-CHEERS-CV247.04-09"
       },
       "gid://shopify/ProductVariant/47272817819902": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "SHANTY-TOWN-CV248.01-09",
         "sku": "CS-SHANTY-TOWN-CV248.01-09"
       },
@@ -36308,7 +36308,7 @@
         "sku": "CS-SWING-ALONE-CV256.03-09"
       },
       "gid://shopify/ProductVariant/47272819425534": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "SWEET-MAMA-CV257.01-09",
         "sku": "CS-SWEET-MAMA-CV257.01-09"
       },
@@ -39928,7 +39928,7 @@
         "sku": "MJ-MARC-306-086-54"
       },
       "gid://shopify/ProductVariant/48011618681086": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "MARC-400-O63-54",
         "sku": "MJ-MARC-400-O63-54"
       },
@@ -40538,7 +40538,7 @@
         "sku": "MJ-MARC-518-0UC-51"
       },
       "gid://shopify/ProductVariant/48121215779070": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "MARC-540-ZX9-53",
         "sku": "MJ-MARC-540-ZX9-53"
       },
@@ -45673,7 +45673,7 @@
         "sku": "QUAY-QC-000098-GLD/BRN"
       },
       "gid://shopify/ProductVariant/48336088006910": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "C-SPORT-02/S-4CW/IR",
         "sku": "CARRERA-C-SPORT-02/S-4CW/IR"
       },
