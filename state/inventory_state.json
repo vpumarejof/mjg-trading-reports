@@ -30545,15 +30545,15 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-23T04:31:46.352993+00:00",
+    "updated_at": "2026-07-23T07:16:35.913856+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63010,
-        "sku_count": 2163,
-        "product_count": 2163
+        "total_qty": 63009,
+        "sku_count": 2162,
+        "product_count": 2162
       },
       "gid://shopify/Collection/391774208254": {
         "title": "ELIE SAAB",
@@ -30567,15 +30567,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82190,
-        "sku_count": 3008,
-        "product_count": 3008
+        "total_qty": 82187,
+        "sku_count": 3007,
+        "product_count": 3007
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82190,
+        "total_qty": 82187,
         "sku_count": 10165,
         "product_count": 10165
       },
@@ -30591,7 +30591,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82190,
+        "total_qty": 82187,
         "sku_count": 3832,
         "product_count": 3832
       },
@@ -30631,7 +30631,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81749,
+        "total_qty": 81747,
         "sku_count": 2567,
         "product_count": 2567
       },
@@ -30703,7 +30703,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 9491,
+        "total_qty": 9490,
         "sku_count": 837,
         "product_count": 837
       },
@@ -30743,7 +30743,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 4302,
+        "total_qty": 4301,
         "sku_count": 378,
         "product_count": 378
       },
@@ -30903,7 +30903,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 25775,
+        "total_qty": 25774,
         "sku_count": 39,
         "product_count": 39
       },
@@ -30919,7 +30919,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 601,
+        "total_qty": 600,
         "sku_count": 124,
         "product_count": 124
       },
@@ -31047,9 +31047,9 @@
         "title": "PIERRE CARDIN",
         "handle": "pierre-cardin",
         "legacy_id": "408975540478",
-        "total_qty": 52,
-        "sku_count": 22,
-        "product_count": 22
+        "total_qty": 51,
+        "sku_count": 21,
+        "product_count": 21
       },
       "gid://shopify/Collection/466217926910": {
         "title": "LIGHTEC-MOREL",
@@ -33116,11 +33116,6 @@
         "qty": 1,
         "product_title": "6172-0DGN-56",
         "sku": "PC-6172-0DGN-56"
-      },
-      "gid://shopify/ProductVariant/46529204748542": {
-        "qty": 1,
-        "product_title": "6777-0HS1-54",
-        "sku": "PC-6777-0HS1-54"
       },
       "gid://shopify/ProductVariant/46529204879614": {
         "qty": 3,
@@ -42593,7 +42588,7 @@
         "sku": "NIKE-ADRENALINE-M-EVG-066"
       },
       "gid://shopify/ProductVariant/46059134714110": {
-        "qty": 9675,
+        "qty": 9674,
         "product_title": "DropShip",
         "sku": "DropShip"
       },
@@ -44533,7 +44528,7 @@
         "sku": "KS-LOTTIE/G/S-1ED/PR"
       },
       "gid://shopify/ProductVariant/48011978408190": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "LOTTIE/G/S-807/WJ",
         "sku": "KS-LOTTIE/G/S-807/WJ"
       },
@@ -60721,6 +60716,11 @@
         "qty": 0,
         "product_title": "REGINE-0DH4-52",
         "sku": "KS-REGINE-0DH4-52"
+      },
+      "gid://shopify/ProductVariant/46529204748542": {
+        "qty": 0,
+        "product_title": "6777-0HS1-54",
+        "sku": "PC-6777-0HS1-54"
       },
       "gid://shopify/ProductVariant/46529204814078": {
         "qty": 0,
