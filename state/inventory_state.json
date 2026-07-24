@@ -30728,13 +30728,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-24T11:23:13.286412+00:00",
+    "updated_at": "2026-07-24T12:53:38.115710+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63344,
+        "total_qty": 63343,
         "sku_count": 2250,
         "product_count": 2250
       },
@@ -30750,7 +30750,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82730,
+        "total_qty": 82726,
         "sku_count": 3162,
         "product_count": 3162
       },
@@ -30758,7 +30758,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82730,
+        "total_qty": 82726,
         "sku_count": 10300,
         "product_count": 10300
       },
@@ -30774,7 +30774,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82730,
+        "total_qty": 82726,
         "sku_count": 3974,
         "product_count": 3974
       },
@@ -30790,7 +30790,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22745,
+        "total_qty": 22742,
         "sku_count": 2463,
         "product_count": 2463
       },
@@ -30814,7 +30814,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 82177,
+        "total_qty": 82173,
         "sku_count": 2609,
         "product_count": 2609
       },
@@ -30886,7 +30886,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 9700,
+        "total_qty": 9697,
         "sku_count": 904,
         "product_count": 904
       },
@@ -30950,7 +30950,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2783,
+        "total_qty": 2780,
         "sku_count": 225,
         "product_count": 225
       },
@@ -31278,7 +31278,7 @@
         "title": "CALVIN KLEIN JEANS",
         "handle": "calvin-klein-jeans",
         "legacy_id": "464057172222",
-        "total_qty": 474,
+        "total_qty": 470,
         "sku_count": 61,
         "product_count": 61
       },
@@ -42149,7 +42149,7 @@
         "sku": "CKJ-CKJ24634-N-001-56"
       },
       "gid://shopify/ProductVariant/48361936912638": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "CKJ25612-N-210-54",
         "sku": "CKJ-CKJ25612-N-210-54"
       },
@@ -46549,7 +46549,7 @@
         "sku": "CKJ-CKJ25604S-671"
       },
       "gid://shopify/ProductVariant/48361936814334": {
-        "qty": 20,
+        "qty": 17,
         "product_title": "CKJ25606S-242",
         "sku": "CKJ-CKJ25606S-242"
       },
