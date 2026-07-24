@@ -30905,15 +30905,15 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-24T19:20:59.306285+00:00",
+    "updated_at": "2026-07-24T20:45:05.711716+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63318,
-        "sku_count": 2239,
-        "product_count": 2239
+        "total_qty": 63324,
+        "sku_count": 2240,
+        "product_count": 2240
       },
       "gid://shopify/Collection/391774208254": {
         "title": "ELIE SAAB",
@@ -30927,17 +30927,17 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82686,
-        "sku_count": 3146,
-        "product_count": 3146
+        "total_qty": 82692,
+        "sku_count": 3147,
+        "product_count": 3147
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82686,
-        "sku_count": 10300,
-        "product_count": 10300
+        "total_qty": 82692,
+        "sku_count": 10301,
+        "product_count": 10301
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
@@ -30951,9 +30951,9 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82686,
-        "sku_count": 3963,
-        "product_count": 3963
+        "total_qty": 82692,
+        "sku_count": 3964,
+        "product_count": 3964
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
@@ -30967,9 +30967,9 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22736,
-        "sku_count": 2463,
-        "product_count": 2463
+        "total_qty": 22742,
+        "sku_count": 2464,
+        "product_count": 2464
       },
       "gid://shopify/Collection/454449725694": {
         "title": "Havana",
@@ -30991,9 +30991,9 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 82145,
-        "sku_count": 2605,
-        "product_count": 2605
+        "total_qty": 82151,
+        "sku_count": 2606,
+        "product_count": 2606
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
@@ -31167,9 +31167,9 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1461,
-        "sku_count": 71,
-        "product_count": 71
+        "total_qty": 1467,
+        "sku_count": 72,
+        "product_count": 72
       },
       "gid://shopify/Collection/400740516094": {
         "title": "SPY",
@@ -31282,6 +31282,22 @@
         "total_qty": 595,
         "sku_count": 124,
         "product_count": 124
+      },
+      "gid://shopify/Collection/407946952958": {
+        "title": "New Arrivals",
+        "handle": "new-arrivals",
+        "legacy_id": "407946952958",
+        "total_qty": 1105,
+        "sku_count": 197,
+        "product_count": 197
+      },
+      "gid://shopify/Collection/455407829246": {
+        "title": "Uniisex Eyeglasses",
+        "handle": "uniisex-eyeglasses",
+        "legacy_id": "455407829246",
+        "total_qty": 6,
+        "sku_count": 1,
+        "product_count": 1
       },
       "gid://shopify/Collection/411442249982": {
         "title": "ELASTA",
@@ -31914,14 +31930,6 @@
         "total_qty": 1451,
         "sku_count": 22,
         "product_count": 22
-      },
-      "gid://shopify/Collection/407946952958": {
-        "title": "New Arrivals",
-        "handle": "new-arrivals",
-        "legacy_id": "407946952958",
-        "total_qty": 1123,
-        "sku_count": 205,
-        "product_count": 205
       }
     },
     "variants": {
@@ -32189,6 +32197,11 @@
         "qty": 2,
         "product_title": "MAKENSIE-0B3V-53",
         "sku": "KS-MAKENSIE-0B3V-53"
+      },
+      "gid://shopify/ProductVariant/46020184867070": {
+        "qty": 6,
+        "product_title": "249-0807-55",
+        "sku": "CARRERA-249-0807-55"
       },
       "gid://shopify/ProductVariant/46022774161662": {
         "qty": 4,
