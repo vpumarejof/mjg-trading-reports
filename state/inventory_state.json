@@ -30908,7 +30908,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-25T16:47:20.894405+00:00",
+    "updated_at": "2026-07-25T17:52:28.926808+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
@@ -30930,7 +30930,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82597,
+        "total_qty": 82596,
         "sku_count": 3140,
         "product_count": 3140
       },
@@ -30938,7 +30938,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82597,
+        "total_qty": 82596,
         "sku_count": 10301,
         "product_count": 10301
       },
@@ -30954,7 +30954,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82597,
+        "total_qty": 82596,
         "sku_count": 3957,
         "product_count": 3957
       },
@@ -30994,7 +30994,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 82055,
+        "total_qty": 82054,
         "sku_count": 2598,
         "product_count": 2598
       },
@@ -31066,7 +31066,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 9600,
+        "total_qty": 9599,
         "sku_count": 892,
         "product_count": 892
       },
@@ -31082,7 +31082,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2524,
+        "total_qty": 2523,
         "sku_count": 279,
         "product_count": 279
       },
@@ -31170,7 +31170,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1466,
+        "total_qty": 1465,
         "sku_count": 72,
         "product_count": 72
       },
@@ -46467,7 +46467,7 @@
         "sku": "CARRERA-C-SPORT-02/S-4CW/IR"
       },
       "gid://shopify/ProductVariant/48336088170750": {
-        "qty": 11,
+        "qty": 10,
         "product_title": "C-SPORT-02/S-A1W/IR",
         "sku": "CARRERA-C-SPORT-02/S-A1W/IR"
       },
