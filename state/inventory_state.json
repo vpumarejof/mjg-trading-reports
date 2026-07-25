@@ -30905,7 +30905,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-25T11:58:06.982655+00:00",
+    "updated_at": "2026-07-25T13:21:47.863591+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
@@ -30927,7 +30927,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82601,
+        "total_qty": 82598,
         "sku_count": 3140,
         "product_count": 3140
       },
@@ -30935,7 +30935,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82601,
+        "total_qty": 82598,
         "sku_count": 10301,
         "product_count": 10301
       },
@@ -30951,7 +30951,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82601,
+        "total_qty": 82598,
         "sku_count": 3957,
         "product_count": 3957
       },
@@ -30975,7 +30975,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 988,
+        "total_qty": 987,
         "sku_count": 893,
         "product_count": 893
       },
@@ -30991,7 +30991,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 82059,
+        "total_qty": 82056,
         "sku_count": 2598,
         "product_count": 2598
       },
@@ -31063,7 +31063,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 9603,
+        "total_qty": 9600,
         "sku_count": 892,
         "product_count": 892
       },
@@ -31079,7 +31079,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2526,
+        "total_qty": 2524,
         "sku_count": 279,
         "product_count": 279
       },
@@ -31103,7 +31103,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 4474,
+        "total_qty": 4473,
         "sku_count": 402,
         "product_count": 402
       },
@@ -31135,7 +31135,7 @@
         "title": "NIKE",
         "handle": "nike",
         "legacy_id": "391775125758",
-        "total_qty": 280,
+        "total_qty": 278,
         "sku_count": 28,
         "product_count": 28
       },
@@ -31279,7 +31279,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 595,
+        "total_qty": 594,
         "sku_count": 124,
         "product_count": 124
       },
@@ -43579,7 +43579,7 @@
         "sku": "NIKE-HORIZON-ASCENT DJ9920-900"
       },
       "gid://shopify/ProductVariant/46811453718782": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "LUCENT BOOST EV24051",
         "sku": "NIKE-LUCENT-BOOST-EV24051-601"
       },
@@ -43589,7 +43589,7 @@
         "sku": "NIKE-LUCENT-BOOST-EV24051-010"
       },
       "gid://shopify/ProductVariant/46811457192190": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "LUCENT BOOST EV24051",
         "sku": "NIKE-LUCENT-BOOST-EV24051-900"
       },
@@ -45319,7 +45319,7 @@
         "sku": "KS-SERAPHINA/G/S-IWB/3X"
       },
       "gid://shopify/ProductVariant/48011978735870": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "YOLANDA/S-086/1LA",
         "sku": "KS-YOLANDA/S-086/1LA"
       },
