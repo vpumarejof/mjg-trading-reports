@@ -30908,15 +30908,15 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-25T17:52:28.926808+00:00",
+    "updated_at": "2026-07-25T18:55:04.432000+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63312,
-        "sku_count": 2240,
-        "product_count": 2240
+        "total_qty": 63309,
+        "sku_count": 2239,
+        "product_count": 2239
       },
       "gid://shopify/Collection/391774208254": {
         "title": "ELIE SAAB",
@@ -30930,15 +30930,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82596,
-        "sku_count": 3140,
-        "product_count": 3140
+        "total_qty": 82591,
+        "sku_count": 3137,
+        "product_count": 3137
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82596,
+        "total_qty": 82591,
         "sku_count": 10301,
         "product_count": 10301
       },
@@ -30946,7 +30946,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12798,
+        "total_qty": 12797,
         "sku_count": 959,
         "product_count": 959
       },
@@ -30954,15 +30954,15 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82596,
-        "sku_count": 3957,
-        "product_count": 3957
+        "total_qty": 82591,
+        "sku_count": 3954,
+        "product_count": 3954
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12798,
+        "total_qty": 12797,
         "sku_count": 959,
         "product_count": 959
       },
@@ -30970,7 +30970,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22690,
+        "total_qty": 22689,
         "sku_count": 2464,
         "product_count": 2464
       },
@@ -30994,7 +30994,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 82054,
+        "total_qty": 82052,
         "sku_count": 2598,
         "product_count": 2598
       },
@@ -31042,9 +31042,9 @@
         "title": "OPEN BOX",
         "handle": "shelf-pulls",
         "legacy_id": "463407481086",
-        "total_qty": 216,
-        "sku_count": 137,
-        "product_count": 137
+        "total_qty": 214,
+        "sku_count": 135,
+        "product_count": 135
       },
       "gid://shopify/Collection/463674867966": {
         "title": "Open Box",
@@ -31066,9 +31066,9 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 9599,
-        "sku_count": 892,
-        "product_count": 892
+        "total_qty": 9597,
+        "sku_count": 890,
+        "product_count": 890
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -31106,9 +31106,9 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 4473,
-        "sku_count": 402,
-        "product_count": 402
+        "total_qty": 4471,
+        "sku_count": 400,
+        "product_count": 400
       },
       "gid://shopify/Collection/391853998334": {
         "title": "Men's",
@@ -31130,9 +31130,9 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2730,
-        "sku_count": 223,
-        "product_count": 223
+        "total_qty": 2729,
+        "sku_count": 222,
+        "product_count": 222
       },
       "gid://shopify/Collection/391775125758": {
         "title": "NIKE",
@@ -31274,9 +31274,9 @@
         "title": "CAROLINA HERRERA",
         "handle": "carolina-herrera",
         "legacy_id": "395943936254",
-        "total_qty": 145,
-        "sku_count": 13,
-        "product_count": 13
+        "total_qty": 143,
+        "sku_count": 12,
+        "product_count": 12
       },
       "gid://shopify/Collection/391774634238": {
         "title": "KATE SPADE",
@@ -31346,7 +31346,7 @@
         "title": "KARL LAGERFELD",
         "handle": "karl-lagerfeld",
         "legacy_id": "422907576574",
-        "total_qty": 393,
+        "total_qty": 392,
         "sku_count": 39,
         "product_count": 39
       },
@@ -35402,7 +35402,7 @@
         "sku": "FLEXON-E1130-210-55"
       },
       "gid://shopify/ProductVariant/46988930711806": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "KL6176-404-53",
         "sku": "KL-KL6176-404-53"
       },
@@ -40257,7 +40257,7 @@
         "sku": "CH-HER-0166-WR7-51"
       },
       "gid://shopify/ProductVariant/47845513429246": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "HER-0166-XLT-51",
         "sku": "CH-HER-0166-XLT-51"
       },
@@ -40290,11 +40290,6 @@
         "qty": 2,
         "product_title": "HER-0213-WR7-54",
         "sku": "CH-HER-0213-WR7-54"
-      },
-      "gid://shopify/ProductVariant/47845513986302": {
-        "qty": 1,
-        "product_title": "HER-0086/S-80S/9O",
-        "sku": "CH-HER-0086/S-80S/9O"
       },
       "gid://shopify/ProductVariant/47892356268286": {
         "qty": 7,
@@ -47580,16 +47575,6 @@
         "qty": 2,
         "product_title": "FLAGLAB-13-VK6/9O_D",
         "sku": "CARRERA-FLAGLAB-13-VK6/9O_D"
-      },
-      "gid://shopify/ProductVariant/48637112779006": {
-        "qty": 1,
-        "product_title": "HER-0086/S-80S/9O_D",
-        "sku": "CH-HER-0086/S-80S/9O_D"
-      },
-      "gid://shopify/ProductVariant/48637112844542": {
-        "qty": 1,
-        "product_title": "CK24510S-438_D",
-        "sku": "CK-CK24510S-438_D"
       },
       "gid://shopify/ProductVariant/48637112910078": {
         "qty": 1,
@@ -77901,6 +77886,11 @@
         "product_title": "HER-0078/G/S-807/9O",
         "sku": "CH-HER-0078/G/S-807/9O"
       },
+      "gid://shopify/ProductVariant/47845513986302": {
+        "qty": 0,
+        "product_title": "HER-0086/S-80S/9O",
+        "sku": "CH-HER-0086/S-80S/9O"
+      },
       "gid://shopify/ProductVariant/47845514019070": {
         "qty": 0,
         "product_title": "HER-0132/G/S-807/9O",
@@ -83380,6 +83370,16 @@
         "qty": 0,
         "product_title": "914-307M",
         "sku": "RM-914-307M_D"
+      },
+      "gid://shopify/ProductVariant/48637112779006": {
+        "qty": 0,
+        "product_title": "HER-0086/S-80S/9O_D",
+        "sku": "CH-HER-0086/S-80S/9O_D"
+      },
+      "gid://shopify/ProductVariant/48637112844542": {
+        "qty": 0,
+        "product_title": "CK24510S-438_D",
+        "sku": "CK-CK24510S-438_D"
       },
       "gid://shopify/ProductVariant/48637113368830": {
         "qty": 0,
