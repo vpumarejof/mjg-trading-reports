@@ -30908,7 +30908,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-26T18:58:58.371192+00:00",
+    "updated_at": "2026-07-26T20:09:50.421985+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
@@ -30930,7 +30930,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82574,
+        "total_qty": 82573,
         "sku_count": 3133,
         "product_count": 3133
       },
@@ -30938,7 +30938,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82574,
+        "total_qty": 82573,
         "sku_count": 10301,
         "product_count": 10301
       },
@@ -30954,7 +30954,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82574,
+        "total_qty": 82573,
         "sku_count": 3951,
         "product_count": 3951
       },
@@ -30994,15 +30994,15 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 82036,
-        "sku_count": 2595,
-        "product_count": 2595
+        "total_qty": 82034,
+        "sku_count": 2594,
+        "product_count": 2594
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3882,
+        "total_qty": 3881,
         "sku_count": 505,
         "product_count": 505
       },
@@ -31066,7 +31066,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 9592,
+        "total_qty": 9591,
         "sku_count": 889,
         "product_count": 889
       },
@@ -31082,7 +31082,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2519,
+        "total_qty": 2518,
         "sku_count": 278,
         "product_count": 278
       },
@@ -31290,7 +31290,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 926,
+        "total_qty": 925,
         "sku_count": 139,
         "product_count": 139
       },
@@ -31394,7 +31394,7 @@
         "title": "VERSACE",
         "handle": "versace",
         "legacy_id": "391776010494",
-        "total_qty": 335,
+        "total_qty": 334,
         "sku_count": 91,
         "product_count": 91
       },
@@ -47102,7 +47102,7 @@
         "sku": "SMITH-HOLT-H16-HLMWMD"
       },
       "gid://shopify/ProductVariant/48621025820926": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "0VE2174-1002Z359",
         "sku": "VERSACE-0VE2174-1002Z359"
       },
