@@ -30908,13 +30908,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-26T17:55:35.613118+00:00",
+    "updated_at": "2026-07-26T18:58:58.371192+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63298,
+        "total_qty": 63299,
         "sku_count": 2236,
         "product_count": 2236
       },
@@ -30930,7 +30930,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82573,
+        "total_qty": 82574,
         "sku_count": 3133,
         "product_count": 3133
       },
@@ -30938,7 +30938,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82573,
+        "total_qty": 82574,
         "sku_count": 10301,
         "product_count": 10301
       },
@@ -30954,7 +30954,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82573,
+        "total_qty": 82574,
         "sku_count": 3951,
         "product_count": 3951
       },
@@ -30970,7 +30970,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22689,
+        "total_qty": 22690,
         "sku_count": 2464,
         "product_count": 2464
       },
@@ -30994,7 +30994,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 82035,
+        "total_qty": 82036,
         "sku_count": 2595,
         "product_count": 2595
       },
@@ -31034,7 +31034,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 19927,
+        "total_qty": 19928,
         "sku_count": 496,
         "product_count": 496
       },
@@ -31418,7 +31418,7 @@
         "title": "Tariff Busters",
         "handle": "tariff-busters",
         "legacy_id": "463834087678",
-        "total_qty": 47833,
+        "total_qty": 47834,
         "sku_count": 353,
         "product_count": 353
       },
@@ -31498,7 +31498,7 @@
         "title": "SIGNATURE",
         "handle": "signature",
         "legacy_id": "464260399358",
-        "total_qty": 9690,
+        "total_qty": 9691,
         "sku_count": 95,
         "product_count": 95
       },
@@ -34697,7 +34697,7 @@
         "sku": "Signature-Pn104Gun-55"
       },
       "gid://shopify/ProductVariant/46684978053374": {
-        "qty": 12,
+        "qty": 13,
         "product_title": "Pn105-DarkBrown-54",
         "sku": "Signature-Pn105-DarkBrown-54"
       },
