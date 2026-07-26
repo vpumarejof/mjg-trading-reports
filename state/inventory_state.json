@@ -30908,15 +30908,15 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-26T16:50:22.662729+00:00",
+    "updated_at": "2026-07-26T17:55:35.613118+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63301,
-        "sku_count": 2237,
-        "product_count": 2237
+        "total_qty": 63298,
+        "sku_count": 2236,
+        "product_count": 2236
       },
       "gid://shopify/Collection/391774208254": {
         "title": "ELIE SAAB",
@@ -30930,15 +30930,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82577,
-        "sku_count": 3135,
-        "product_count": 3135
+        "total_qty": 82573,
+        "sku_count": 3133,
+        "product_count": 3133
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82577,
+        "total_qty": 82573,
         "sku_count": 10301,
         "product_count": 10301
       },
@@ -30946,7 +30946,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12790,
+        "total_qty": 12789,
         "sku_count": 957,
         "product_count": 957
       },
@@ -30954,15 +30954,15 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82577,
-        "sku_count": 3952,
-        "product_count": 3952
+        "total_qty": 82573,
+        "sku_count": 3951,
+        "product_count": 3951
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12790,
+        "total_qty": 12789,
         "sku_count": 957,
         "product_count": 957
       },
@@ -30994,7 +30994,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 82037,
+        "total_qty": 82035,
         "sku_count": 2595,
         "product_count": 2595
       },
@@ -31002,7 +31002,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3883,
+        "total_qty": 3882,
         "sku_count": 505,
         "product_count": 505
       },
@@ -31066,9 +31066,9 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 9593,
-        "sku_count": 890,
-        "product_count": 890
+        "total_qty": 9592,
+        "sku_count": 889,
+        "product_count": 889
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -31082,9 +31082,9 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2520,
-        "sku_count": 279,
-        "product_count": 279
+        "total_qty": 2519,
+        "sku_count": 278,
+        "product_count": 278
       },
       "gid://shopify/Collection/391774109950": {
         "title": "DRAGON",
@@ -31322,7 +31322,7 @@
         "title": "MARC JACOBS",
         "handle": "marc-jacobs",
         "legacy_id": "391774732542",
-        "total_qty": 368,
+        "total_qty": 367,
         "sku_count": 67,
         "product_count": 67
       },
@@ -31346,9 +31346,9 @@
         "title": "KARL LAGERFELD",
         "handle": "karl-lagerfeld",
         "legacy_id": "422907576574",
-        "total_qty": 392,
-        "sku_count": 39,
-        "product_count": 39
+        "total_qty": 391,
+        "sku_count": 38,
+        "product_count": 38
       },
       "gid://shopify/Collection/407282450686": {
         "title": "Gucci",
@@ -31818,7 +31818,7 @@
         "title": "BALENCIAGA",
         "handle": "balenciaga",
         "legacy_id": "395973296382",
-        "total_qty": 246,
+        "total_qty": 245,
         "sku_count": 108,
         "product_count": 108
       },
@@ -36902,7 +36902,7 @@
         "sku": "MJ-MARC-1060-35J-52"
       },
       "gid://shopify/ProductVariant/47377633968382": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "MARC-1097-PJP-53",
         "sku": "MJ-MARC-1097-PJP-53"
       },
@@ -38320,11 +38320,6 @@
         "qty": 3,
         "product_title": "KL6151-516-53",
         "sku": "KL-KL6151-516-53"
-      },
-      "gid://shopify/ProductVariant/47609150963966": {
-        "qty": 1,
-        "product_title": "KL6157-300-54",
-        "sku": "KL-KL6157-300-54"
       },
       "gid://shopify/ProductVariant/47609151127806": {
         "qty": 11,
@@ -40027,7 +40022,7 @@
         "sku": "BALENCIAGA-BB0334O-002-54"
       },
       "gid://shopify/ProductVariant/47807380488446": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "BB0334O-004-54",
         "sku": "BALENCIAGA-BB0334O-004-54"
       },
@@ -44820,11 +44815,6 @@
         "qty": 2,
         "product_title": "SUPER-BOLD-2-0210",
         "sku": "WOOW-SUPER-BOLD-2-0210"
-      },
-      "gid://shopify/ProductVariant/47761816092926": {
-        "qty": 1,
-        "product_title": "SUPER-DANCER-1-0215",
-        "sku": "WOOW-SUPER-DANCER-1-0215"
       },
       "gid://shopify/ProductVariant/47761816191230": {
         "qty": 3,
@@ -73946,6 +73936,11 @@
         "product_title": "KL6155-020-53",
         "sku": "KL-KL6155-020-53"
       },
+      "gid://shopify/ProductVariant/47609150963966": {
+        "qty": 0,
+        "product_title": "KL6157-300-54",
+        "sku": "KL-KL6157-300-54"
+      },
       "gid://shopify/ProductVariant/47609151029502": {
         "qty": 0,
         "product_title": "KL6181S-602",
@@ -75820,6 +75815,11 @@
         "qty": 0,
         "product_title": "STAND-OUT-3-0202-52",
         "sku": "WOOW-STAND-OUT-3-0202-52"
+      },
+      "gid://shopify/ProductVariant/47761816092926": {
+        "qty": 0,
+        "product_title": "SUPER-DANCER-1-0215",
+        "sku": "WOOW-SUPER-DANCER-1-0215"
       },
       "gid://shopify/ProductVariant/47761816158462": {
         "qty": 0,
