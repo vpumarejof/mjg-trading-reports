@@ -30908,13 +30908,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-26T22:11:11.846369+00:00",
+    "updated_at": "2026-07-26T23:10:46.066642+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63299,
+        "total_qty": 63298,
         "sku_count": 2236,
         "product_count": 2236
       },
@@ -30930,7 +30930,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82573,
+        "total_qty": 82570,
         "sku_count": 3133,
         "product_count": 3133
       },
@@ -30938,7 +30938,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82573,
+        "total_qty": 82570,
         "sku_count": 10301,
         "product_count": 10301
       },
@@ -30946,7 +30946,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12789,
+        "total_qty": 12788,
         "sku_count": 957,
         "product_count": 957
       },
@@ -30954,7 +30954,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82573,
+        "total_qty": 82570,
         "sku_count": 3951,
         "product_count": 3951
       },
@@ -30962,7 +30962,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12789,
+        "total_qty": 12788,
         "sku_count": 957,
         "product_count": 957
       },
@@ -30970,7 +30970,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22690,
+        "total_qty": 22689,
         "sku_count": 2464,
         "product_count": 2464
       },
@@ -30994,7 +30994,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 82034,
+        "total_qty": 82031,
         "sku_count": 2594,
         "product_count": 2594
       },
@@ -31002,7 +31002,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3881,
+        "total_qty": 3880,
         "sku_count": 505,
         "product_count": 505
       },
@@ -31066,7 +31066,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 9591,
+        "total_qty": 9589,
         "sku_count": 889,
         "product_count": 889
       },
@@ -31082,7 +31082,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2518,
+        "total_qty": 2517,
         "sku_count": 278,
         "product_count": 278
       },
@@ -31130,7 +31130,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2729,
+        "total_qty": 2728,
         "sku_count": 222,
         "product_count": 222
       },
@@ -31330,7 +31330,7 @@
         "title": "QUAY",
         "handle": "quay",
         "legacy_id": "472482939134",
-        "total_qty": 748,
+        "total_qty": 747,
         "sku_count": 63,
         "product_count": 63
       },
@@ -31394,7 +31394,7 @@
         "title": "VERSACE",
         "handle": "versace",
         "legacy_id": "391776010494",
-        "total_qty": 334,
+        "total_qty": 333,
         "sku_count": 91,
         "product_count": 91
       },
@@ -31786,7 +31786,7 @@
         "title": "COLUMBIA",
         "handle": "columbia",
         "legacy_id": "395943805182",
-        "total_qty": 219,
+        "total_qty": 218,
         "sku_count": 42,
         "product_count": 42
       },
@@ -42597,7 +42597,7 @@
         "sku": "VERSACE-0VE1301-1002-57"
       },
       "gid://shopify/ProductVariant/48567755997438": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "0VE1301-1412-55",
         "sku": "VERSACE-0VE1301-1412-55"
       },
@@ -45577,7 +45577,7 @@
         "sku": "COLUMBIA-C571SP-N-001"
       },
       "gid://shopify/ProductVariant/48094646632702": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "FAIRBANKS-004",
         "sku": "COLUMBIA-C571SP-N-004"
       },
@@ -46382,7 +46382,7 @@
         "sku": "QUAY-NO-NS-2925-TRT/BRN"
       },
       "gid://shopify/ProductVariant/48314439336190": {
-        "qty": 18,
+        "qty": 17,
         "product_title": "HINDSIGHT-81788",
         "sku": "QUAY-NO-NS-2924-TRT/SMTP"
       },
