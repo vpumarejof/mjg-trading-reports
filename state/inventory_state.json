@@ -30908,13 +30908,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-26T06:29:43.292148+00:00",
+    "updated_at": "2026-07-26T08:57:33.851929+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63305,
+        "total_qty": 63302,
         "sku_count": 2238,
         "product_count": 2238
       },
@@ -30930,7 +30930,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82583,
+        "total_qty": 82579,
         "sku_count": 3136,
         "product_count": 3136
       },
@@ -30938,7 +30938,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82583,
+        "total_qty": 82579,
         "sku_count": 10301,
         "product_count": 10301
       },
@@ -30946,7 +30946,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12794,
+        "total_qty": 12791,
         "sku_count": 958,
         "product_count": 958
       },
@@ -30954,7 +30954,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82583,
+        "total_qty": 82579,
         "sku_count": 3953,
         "product_count": 3953
       },
@@ -30962,7 +30962,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12794,
+        "total_qty": 12791,
         "sku_count": 958,
         "product_count": 958
       },
@@ -30978,7 +30978,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 987,
+        "total_qty": 986,
         "sku_count": 893,
         "product_count": 893
       },
@@ -30994,15 +30994,15 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 82044,
-        "sku_count": 2597,
-        "product_count": 2597
+        "total_qty": 82039,
+        "sku_count": 2596,
+        "product_count": 2596
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3885,
+        "total_qty": 3883,
         "sku_count": 505,
         "product_count": 505
       },
@@ -31266,7 +31266,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 25768,
+        "total_qty": 25767,
         "sku_count": 39,
         "product_count": 39
       },
@@ -31322,7 +31322,7 @@
         "title": "MARC JACOBS",
         "handle": "marc-jacobs",
         "legacy_id": "391774732542",
-        "total_qty": 369,
+        "total_qty": 368,
         "sku_count": 67,
         "product_count": 67
       },
@@ -31394,7 +31394,7 @@
         "title": "VERSACE",
         "handle": "versace",
         "legacy_id": "391776010494",
-        "total_qty": 337,
+        "total_qty": 335,
         "sku_count": 91,
         "product_count": 91
       },
@@ -40372,7 +40372,7 @@
         "sku": "MJ-MARC-630-C9A-52"
       },
       "gid://shopify/ProductVariant/48011619008766": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "MARC-661-807-53",
         "sku": "MJ-MARC-661-807-53"
       },
@@ -42697,7 +42697,7 @@
         "sku": "VERSACE-0VE3357-GB1-55"
       },
       "gid://shopify/ProductVariant/48567757275390": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "0VE3358B-GB1-52",
         "sku": "VERSACE-0VE3358B-GB1-52"
       },
@@ -42752,7 +42752,7 @@
         "sku": "VERSACE-0VE3369-GB1-53"
       },
       "gid://shopify/ProductVariant/48567757734142": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "0VE3372U-108-52",
         "sku": "VERSACE-0VE3372U-108-52"
       },
@@ -43347,7 +43347,7 @@
         "sku": "NIKE-ADRENALINE-M-EVG-066"
       },
       "gid://shopify/ProductVariant/46059134714110": {
-        "qty": 9670,
+        "qty": 9669,
         "product_title": "DropShip",
         "sku": "DropShip"
       },
