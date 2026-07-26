@@ -30908,15 +30908,15 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-26T03:53:44.667580+00:00",
+    "updated_at": "2026-07-26T06:29:43.292148+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63306,
-        "sku_count": 2239,
-        "product_count": 2239
+        "total_qty": 63305,
+        "sku_count": 2238,
+        "product_count": 2238
       },
       "gid://shopify/Collection/391774208254": {
         "title": "ELIE SAAB",
@@ -30930,15 +30930,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82585,
-        "sku_count": 3137,
-        "product_count": 3137
+        "total_qty": 82583,
+        "sku_count": 3136,
+        "product_count": 3136
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82585,
+        "total_qty": 82583,
         "sku_count": 10301,
         "product_count": 10301
       },
@@ -30946,25 +30946,25 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12795,
-        "sku_count": 959,
-        "product_count": 959
+        "total_qty": 12794,
+        "sku_count": 958,
+        "product_count": 958
       },
       "gid://shopify/Collection/410150142206": {
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82585,
-        "sku_count": 3954,
-        "product_count": 3954
+        "total_qty": 82583,
+        "sku_count": 3953,
+        "product_count": 3953
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12795,
-        "sku_count": 959,
-        "product_count": 959
+        "total_qty": 12794,
+        "sku_count": 958,
+        "product_count": 958
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
@@ -30994,7 +30994,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 82045,
+        "total_qty": 82044,
         "sku_count": 2597,
         "product_count": 2597
       },
@@ -31002,9 +31002,9 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3886,
-        "sku_count": 506,
-        "product_count": 506
+        "total_qty": 3885,
+        "sku_count": 505,
+        "product_count": 505
       },
       "gid://shopify/Collection/391854031102": {
         "title": "Women's",
@@ -31098,9 +31098,9 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 774,
-        "sku_count": 89,
-        "product_count": 89
+        "total_qty": 773,
+        "sku_count": 88,
+        "product_count": 88
       },
       "gid://shopify/Collection/410149978366": {
         "title": "Women's Sunglasses",
@@ -31266,7 +31266,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 25769,
+        "total_qty": 25768,
         "sku_count": 39,
         "product_count": 39
       },
@@ -34195,11 +34195,6 @@
         "qty": 4,
         "product_title": "SF2948-612-54",
         "sku": "SF-SF2948-612-54"
-      },
-      "gid://shopify/ProductVariant/46663465795838": {
-        "qty": 1,
-        "product_title": "SF2957EN-321-54",
-        "sku": "SF-SF2957EN-321-54"
       },
       "gid://shopify/ProductVariant/46670755954942": {
         "qty": 6,
@@ -43352,7 +43347,7 @@
         "sku": "NIKE-ADRENALINE-M-EVG-066"
       },
       "gid://shopify/ProductVariant/46059134714110": {
-        "qty": 9671,
+        "qty": 9670,
         "product_title": "DropShip",
         "sku": "DropShip"
       },
@@ -63505,6 +63500,11 @@
         "qty": 0,
         "product_title": "SF2937R-655-54",
         "sku": "SF-SF2937R-655-54"
+      },
+      "gid://shopify/ProductVariant/46663465795838": {
+        "qty": 0,
+        "product_title": "SF2957EN-321-54",
+        "sku": "SF-SF2957EN-321-54"
       },
       "gid://shopify/ProductVariant/46663469138174": {
         "qty": 0,
