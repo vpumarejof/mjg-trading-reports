@@ -30908,15 +30908,15 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-26T13:01:19.032760+00:00",
+    "updated_at": "2026-07-26T14:43:50.591496+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
         "total_qty": 63301,
-        "sku_count": 2238,
-        "product_count": 2238
+        "sku_count": 2237,
+        "product_count": 2237
       },
       "gid://shopify/Collection/391774208254": {
         "title": "ELIE SAAB",
@@ -30931,8 +30931,8 @@
         "handle": "all",
         "legacy_id": "391850787070",
         "total_qty": 82577,
-        "sku_count": 3136,
-        "product_count": 3136
+        "sku_count": 3135,
+        "product_count": 3135
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
@@ -30947,24 +30947,24 @@
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
         "total_qty": 12790,
-        "sku_count": 958,
-        "product_count": 958
+        "sku_count": 957,
+        "product_count": 957
       },
       "gid://shopify/Collection/410150142206": {
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
         "total_qty": 82577,
-        "sku_count": 3953,
-        "product_count": 3953
+        "sku_count": 3952,
+        "product_count": 3952
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
         "total_qty": 12790,
-        "sku_count": 958,
-        "product_count": 958
+        "sku_count": 957,
+        "product_count": 957
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
@@ -31507,16 +31507,16 @@
         "handle": "ted-baker-1",
         "legacy_id": "466205999358",
         "total_qty": 76,
-        "sku_count": 12,
-        "product_count": 12
+        "sku_count": 11,
+        "product_count": 11
       },
       "gid://shopify/Collection/466212126974": {
         "title": "TED BAKER",
         "handle": "ted-baker",
         "legacy_id": "466212126974",
         "total_qty": 76,
-        "sku_count": 12,
-        "product_count": 12
+        "sku_count": 11,
+        "product_count": 11
       },
       "gid://shopify/Collection/466217861374": {
         "title": "KOALI-MOREL",
@@ -35030,11 +35030,6 @@
         "qty": 7,
         "product_title": "B713-DEM-50",
         "sku": "TB-B713-DEM-50"
-      },
-      "gid://shopify/ProductVariant/46978329444606": {
-        "qty": 0,
-        "product_title": "TPW005-BLK-48",
-        "sku": "TB-TPW005-BLK-48"
       },
       "gid://shopify/ProductVariant/46978329477374": {
         "qty": 2,
@@ -64645,6 +64640,11 @@
         "qty": 0,
         "product_title": "TPW002-BLU-48",
         "sku": "TB-TPW002-BLU-48"
+      },
+      "gid://shopify/ProductVariant/46978329444606": {
+        "qty": 0,
+        "product_title": "TPW005-BLK-48",
+        "sku": "TB-TPW005-BLK-48"
       },
       "gid://shopify/ProductVariant/46978329542910": {
         "qty": 0,
