@@ -30908,13 +30908,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-26T11:47:51.726523+00:00",
+    "updated_at": "2026-07-26T13:01:19.032760+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63302,
+        "total_qty": 63301,
         "sku_count": 2238,
         "product_count": 2238
       },
@@ -30930,7 +30930,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82578,
+        "total_qty": 82577,
         "sku_count": 3136,
         "product_count": 3136
       },
@@ -30938,7 +30938,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82578,
+        "total_qty": 82577,
         "sku_count": 10301,
         "product_count": 10301
       },
@@ -30946,7 +30946,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12791,
+        "total_qty": 12790,
         "sku_count": 958,
         "product_count": 958
       },
@@ -30954,7 +30954,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82578,
+        "total_qty": 82577,
         "sku_count": 3953,
         "product_count": 3953
       },
@@ -30962,7 +30962,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12791,
+        "total_qty": 12790,
         "sku_count": 958,
         "product_count": 958
       },
@@ -31506,7 +31506,7 @@
         "title": "TED BAKER",
         "handle": "ted-baker-1",
         "legacy_id": "466205999358",
-        "total_qty": 77,
+        "total_qty": 76,
         "sku_count": 12,
         "product_count": 12
       },
@@ -31514,7 +31514,7 @@
         "title": "TED BAKER",
         "handle": "ted-baker",
         "legacy_id": "466212126974",
-        "total_qty": 77,
+        "total_qty": 76,
         "sku_count": 12,
         "product_count": 12
       },
@@ -35032,7 +35032,7 @@
         "sku": "TB-B713-DEM-50"
       },
       "gid://shopify/ProductVariant/46978329444606": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "TPW005-BLK-48",
         "sku": "TB-TPW005-BLK-48"
       },
