@@ -30908,13 +30908,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-27T17:54:31.421244+00:00",
+    "updated_at": "2026-07-27T19:15:00.157224+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63486,
+        "total_qty": 63484,
         "sku_count": 2280,
         "product_count": 2280
       },
@@ -30930,15 +30930,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 83508,
-        "sku_count": 3215,
-        "product_count": 3215
+        "total_qty": 83504,
+        "sku_count": 3216,
+        "product_count": 3216
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 83508,
+        "total_qty": 83504,
         "sku_count": 10422,
         "product_count": 10422
       },
@@ -30946,7 +30946,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12848,
+        "total_qty": 12846,
         "sku_count": 971,
         "product_count": 971
       },
@@ -30954,15 +30954,15 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 83508,
-        "sku_count": 4034,
-        "product_count": 4034
+        "total_qty": 83504,
+        "sku_count": 4035,
+        "product_count": 4035
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12848,
+        "total_qty": 12846,
         "sku_count": 971,
         "product_count": 971
       },
@@ -30970,7 +30970,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22610,
+        "total_qty": 22609,
         "sku_count": 2468,
         "product_count": 2468
       },
@@ -30978,7 +30978,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 1039,
+        "total_qty": 1038,
         "sku_count": 902,
         "product_count": 902
       },
@@ -30994,7 +30994,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 82983,
+        "total_qty": 82978,
         "sku_count": 2690,
         "product_count": 2690
       },
@@ -31003,8 +31003,8 @@
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
         "total_qty": 3860,
-        "sku_count": 503,
-        "product_count": 503
+        "sku_count": 504,
+        "product_count": 504
       },
       "gid://shopify/Collection/391854031102": {
         "title": "Women's",
@@ -31026,7 +31026,7 @@
         "title": "GUCCI",
         "handle": "gucci",
         "legacy_id": "421341364478",
-        "total_qty": 558,
+        "total_qty": 559,
         "sku_count": 301,
         "product_count": 301
       },
@@ -31066,9 +31066,9 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 10340,
-        "sku_count": 927,
-        "product_count": 927
+        "total_qty": 10338,
+        "sku_count": 928,
+        "product_count": 928
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -31082,9 +31082,9 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 3026,
-        "sku_count": 307,
-        "product_count": 307
+        "total_qty": 3027,
+        "sku_count": 308,
+        "product_count": 308
       },
       "gid://shopify/Collection/391774109950": {
         "title": "DRAGON",
@@ -31106,7 +31106,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 4789,
+        "total_qty": 4787,
         "sku_count": 415,
         "product_count": 415
       },
@@ -31130,7 +31130,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2651,
+        "total_qty": 2650,
         "sku_count": 217,
         "product_count": 217
       },
@@ -31170,7 +31170,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1954,
+        "total_qty": 1953,
         "sku_count": 105,
         "product_count": 105
       },
@@ -31282,7 +31282,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 583,
+        "total_qty": 581,
         "sku_count": 123,
         "product_count": 123
       },
@@ -31342,6 +31342,14 @@
         "sku_count": 68,
         "product_count": 68
       },
+      "gid://shopify/Collection/407282450686": {
+        "title": "Gucci",
+        "handle": "gucci-1",
+        "legacy_id": "407282450686",
+        "total_qty": 559,
+        "sku_count": 114,
+        "product_count": 114
+      },
       "gid://shopify/Collection/422907576574": {
         "title": "KARL LAGERFELD",
         "handle": "karl-lagerfeld",
@@ -31349,14 +31357,6 @@
         "total_qty": 389,
         "sku_count": 38,
         "product_count": 38
-      },
-      "gid://shopify/Collection/407282450686": {
-        "title": "Gucci",
-        "handle": "gucci-1",
-        "legacy_id": "407282450686",
-        "total_qty": 558,
-        "sku_count": 113,
-        "product_count": 113
       },
       "gid://shopify/Collection/373526069502": {
         "title": "Readers",
@@ -31450,7 +31450,7 @@
         "title": "MOSCHINO",
         "handle": "moschino",
         "legacy_id": "395943837950",
-        "total_qty": 420,
+        "total_qty": 419,
         "sku_count": 46,
         "product_count": 46
       },
@@ -31826,7 +31826,7 @@
         "title": "BUGATTI",
         "handle": "bugatti",
         "legacy_id": "480545439998",
-        "total_qty": 239,
+        "total_qty": 238,
         "sku_count": 49,
         "product_count": 49
       },
@@ -35565,7 +35565,7 @@
         "sku": "MOSCHINO-MOS-628-0MU1-51"
       },
       "gid://shopify/ProductVariant/47010186428670": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "MOS-629-0FWM-52",
         "sku": "MOSCHINO-MOS-629-0FWM-52"
       },
@@ -38090,7 +38090,7 @@
         "sku": "CARRERA-292-807-55"
       },
       "gid://shopify/ProductVariant/47577488425214": {
-        "qty": 11,
+        "qty": 10,
         "product_title": "3013-010-53",
         "sku": "CARRERA-3013-010-53"
       },
@@ -43540,7 +43540,7 @@
         "sku": "KS-VALERIA/S-0807/9O"
       },
       "gid://shopify/ProductVariant/45901595640062": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "VALERIA/S-0VK6/GA",
         "sku": "KS-VALERIA/S-0VK6/GA"
       },
@@ -43583,6 +43583,11 @@
         "qty": 29,
         "product_title": "QT-000747-TORT-CLRRX",
         "sku": "QUAY-QT-000747-TORT/CLRRX"
+      },
+      "gid://shopify/ProductVariant/46226006704382": {
+        "qty": 1,
+        "product_title": "GG0528S-007",
+        "sku": "GUCCI-GG0528S-007"
       },
       "gid://shopify/ProductVariant/46236280324350": {
         "qty": 6,
@@ -43945,7 +43950,7 @@
         "sku": "KS-IZARA/G/S-0807/9O"
       },
       "gid://shopify/ProductVariant/47056116089086": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "JOSEY/G/S-0SZJ/G/HA",
         "sku": "KS-JOSEY/G/S-0SZJ/HA"
       },
@@ -45345,7 +45350,7 @@
         "sku": "BUGATTI-48M-GRY"
       },
       "gid://shopify/ProductVariant/47931243528446": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "48M-HAV",
         "sku": "BUGATTI-48M-HAV"
       },
@@ -60868,11 +60873,6 @@
         "qty": 0,
         "product_title": "GG0417SK-001",
         "sku": "GUCCI-GG0417SK-001"
-      },
-      "gid://shopify/ProductVariant/46226006704382": {
-        "qty": 0,
-        "product_title": "GG0528S-007",
-        "sku": "GUCCI-GG0528S-007"
       },
       "gid://shopify/ProductVariant/46226006737150": {
         "qty": 0,
