@@ -31283,15 +31283,15 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-28T21:00:31.622760+00:00",
+    "updated_at": "2026-07-28T22:09:18.200280+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63431,
-        "sku_count": 2255,
-        "product_count": 2255
+        "total_qty": 63428,
+        "sku_count": 2254,
+        "product_count": 2254
       },
       "gid://shopify/Collection/391774208254": {
         "title": "ELIE SAAB",
@@ -31305,15 +31305,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 83201,
-        "sku_count": 3158,
-        "product_count": 3158
+        "total_qty": 83197,
+        "sku_count": 3157,
+        "product_count": 3157
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 83201,
+        "total_qty": 83197,
         "sku_count": 10426,
         "product_count": 10426
       },
@@ -31329,7 +31329,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 83201,
+        "total_qty": 83197,
         "sku_count": 3987,
         "product_count": 3987
       },
@@ -31369,9 +31369,9 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 82708,
-        "sku_count": 2665,
-        "product_count": 2665
+        "total_qty": 82704,
+        "sku_count": 2664,
+        "product_count": 2664
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
@@ -31409,7 +31409,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 19915,
+        "total_qty": 19914,
         "sku_count": 493,
         "product_count": 493
       },
@@ -31417,7 +31417,7 @@
         "title": "OPEN BOX",
         "handle": "shelf-pulls",
         "legacy_id": "463407481086",
-        "total_qty": 155,
+        "total_qty": 154,
         "sku_count": 86,
         "product_count": 86
       },
@@ -31425,7 +31425,7 @@
         "title": "Open Box",
         "handle": "open-box",
         "legacy_id": "463674867966",
-        "total_qty": 84,
+        "total_qty": 83,
         "sku_count": 15,
         "product_count": 15
       },
@@ -31441,7 +31441,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 10090,
+        "total_qty": 10089,
         "sku_count": 895,
         "product_count": 895
       },
@@ -31449,15 +31449,15 @@
         "title": "TOMMY HILFIGER",
         "handle": "tommy-hilfiger",
         "legacy_id": "391775912190",
-        "total_qty": 431,
-        "sku_count": 85,
-        "product_count": 85
+        "total_qty": 429,
+        "sku_count": 84,
+        "product_count": 84
       },
       "gid://shopify/Collection/410150076670": {
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2920,
+        "total_qty": 2919,
         "sku_count": 295,
         "product_count": 295
       },
@@ -31833,7 +31833,7 @@
         "title": "MISSONI",
         "handle": "missoni",
         "legacy_id": "408673911038",
-        "total_qty": 757,
+        "total_qty": 756,
         "sku_count": 61,
         "product_count": 61
       },
@@ -32343,7 +32343,7 @@
         "sku": "GUCCIGG0553OA00252"
       },
       "gid://shopify/ProductVariant/42500340973822": {
-        "qty": 21,
+        "qty": 20,
         "product_title": "GG0579OK00153",
         "sku": "GUCCIGG0579OK00153"
       },
@@ -40122,11 +40122,6 @@
         "product_title": "1396-R1X-53",
         "sku": "TH-TH-1396-R1X-53"
       },
-      "gid://shopify/ProductVariant/47783446774014": {
-        "qty": 2,
-        "product_title": "1478-003-55",
-        "sku": "TH-TH-1478-003-55"
-      },
       "gid://shopify/ProductVariant/47783446806782": {
         "qty": 1,
         "product_title": "1522-807-54",
@@ -44213,7 +44208,7 @@
         "sku": "DB-DB-7117/S-0807/KU"
       },
       "gid://shopify/ProductVariant/47078456262910": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "MOS165/S-0PJP/XT",
         "sku": "MOSCHINO-MOS165/S-0PJP/XT"
       },
@@ -77276,6 +77271,11 @@
         "qty": 0,
         "product_title": "1385-QFY-50",
         "sku": "TH-TH-1385-QFY-50"
+      },
+      "gid://shopify/ProductVariant/47783446774014": {
+        "qty": 0,
+        "product_title": "1478-003-55",
+        "sku": "TH-TH-1478-003-55"
       },
       "gid://shopify/ProductVariant/47783447429374": {
         "qty": 0,
