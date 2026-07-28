@@ -31283,15 +31283,15 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-28T19:50:39.421006+00:00",
+    "updated_at": "2026-07-28T21:00:31.622760+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63432,
-        "sku_count": 2256,
-        "product_count": 2256
+        "total_qty": 63431,
+        "sku_count": 2255,
+        "product_count": 2255
       },
       "gid://shopify/Collection/391774208254": {
         "title": "ELIE SAAB",
@@ -31305,15 +31305,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 83203,
-        "sku_count": 3159,
-        "product_count": 3159
+        "total_qty": 83201,
+        "sku_count": 3158,
+        "product_count": 3158
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 83203,
+        "total_qty": 83201,
         "sku_count": 10426,
         "product_count": 10426
       },
@@ -31329,7 +31329,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 83203,
+        "total_qty": 83201,
         "sku_count": 3987,
         "product_count": 3987
       },
@@ -31369,7 +31369,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 82709,
+        "total_qty": 82708,
         "sku_count": 2665,
         "product_count": 2665
       },
@@ -31449,9 +31449,9 @@
         "title": "TOMMY HILFIGER",
         "handle": "tommy-hilfiger",
         "legacy_id": "391775912190",
-        "total_qty": 432,
-        "sku_count": 86,
-        "product_count": 86
+        "total_qty": 431,
+        "sku_count": 85,
+        "product_count": 85
       },
       "gid://shopify/Collection/410150076670": {
         "title": "Men's Sunglasses",
@@ -31641,7 +31641,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 25765,
+        "total_qty": 25764,
         "sku_count": 39,
         "product_count": 39
       },
@@ -40117,11 +40117,6 @@
         "product_title": "EP8021-420-54",
         "sku": "FLEXON-EP8021-420-54"
       },
-      "gid://shopify/ProductVariant/47783446708478": {
-        "qty": 1,
-        "product_title": "1385-QFY-50",
-        "sku": "TH-TH-1385-QFY-50"
-      },
       "gid://shopify/ProductVariant/47783446741246": {
         "qty": 3,
         "product_title": "1396-R1X-53",
@@ -43823,7 +43818,7 @@
         "sku": "NIKE-ADRENALINE-M-EVG-066"
       },
       "gid://shopify/ProductVariant/46059134714110": {
-        "qty": 9667,
+        "qty": 9666,
         "product_title": "DropShip",
         "sku": "DropShip"
       },
@@ -77276,6 +77271,11 @@
         "qty": 0,
         "product_title": "904/S-003/IR",
         "sku": "TH-TH-904/S-003/IR"
+      },
+      "gid://shopify/ProductVariant/47783446708478": {
+        "qty": 0,
+        "product_title": "1385-QFY-50",
+        "sku": "TH-TH-1385-QFY-50"
       },
       "gid://shopify/ProductVariant/47783447429374": {
         "qty": 0,
