@@ -31283,13 +31283,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-29T06:17:57.977079+00:00",
+    "updated_at": "2026-07-29T09:19:48.847664+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63403,
+        "total_qty": 63402,
         "sku_count": 2252,
         "product_count": 2252
       },
@@ -31305,7 +31305,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 83165,
+        "total_qty": 83162,
         "sku_count": 3153,
         "product_count": 3153
       },
@@ -31313,7 +31313,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 83165,
+        "total_qty": 83162,
         "sku_count": 10426,
         "product_count": 10426
       },
@@ -31329,7 +31329,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 83165,
+        "total_qty": 83162,
         "sku_count": 3983,
         "product_count": 3983
       },
@@ -31361,7 +31361,7 @@
         "title": "PRADA",
         "handle": "prada",
         "legacy_id": "391775289598",
-        "total_qty": 52,
+        "total_qty": 51,
         "sku_count": 16,
         "product_count": 16
       },
@@ -31369,15 +31369,15 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 82672,
-        "sku_count": 2660,
-        "product_count": 2660
+        "total_qty": 82668,
+        "sku_count": 2659,
+        "product_count": 2659
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3794,
+        "total_qty": 3793,
         "sku_count": 492,
         "product_count": 492
       },
@@ -31441,7 +31441,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 10082,
+        "total_qty": 10080,
         "sku_count": 893,
         "product_count": 893
       },
@@ -31457,7 +31457,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2915,
+        "total_qty": 2914,
         "sku_count": 294,
         "product_count": 294
       },
@@ -31481,7 +31481,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 4677,
+        "total_qty": 4676,
         "sku_count": 398,
         "product_count": 398
       },
@@ -31665,7 +31665,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 1859,
+        "total_qty": 1858,
         "sku_count": 207,
         "product_count": 207
       },
@@ -31713,7 +31713,7 @@
         "title": "DAVID BECKHAM",
         "handle": "david-beckham",
         "legacy_id": "397089702142",
-        "total_qty": 486,
+        "total_qty": 485,
         "sku_count": 68,
         "product_count": 68
       },
@@ -31825,7 +31825,7 @@
         "title": "MOSCHINO",
         "handle": "moschino",
         "legacy_id": "395943837950",
-        "total_qty": 418,
+        "total_qty": 417,
         "sku_count": 46,
         "product_count": 46
       },
@@ -42720,7 +42720,7 @@
         "sku": "PRADA-PR-A06V-17O1O1-52"
       },
       "gid://shopify/ProductVariant/48392226111742": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "PS-02PV-1BO1O1-55",
         "sku": "PRADA-PS-02PV-1BO1O1-55"
       },
@@ -46880,7 +46880,7 @@
         "sku": "MISSONI-MIS-0165/S-4KQ/HA"
       },
       "gid://shopify/ProductVariant/48336089841918": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "MOS170/S-4WC/9O",
         "sku": "MOSCHINO-MOS170/S-4WC/9O"
       },
@@ -47920,7 +47920,7 @@
         "sku": "DB-DB-7100/S-807/IR"
       },
       "gid://shopify/ProductVariant/48648016953598": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "DB-7102/S-LOJ/HA",
         "sku": "DB-DB-7102/S-LOJ/HA"
       },
