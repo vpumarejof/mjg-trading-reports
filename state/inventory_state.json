@@ -31283,7 +31283,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-29T21:34:09.579261+00:00",
+    "updated_at": "2026-07-29T22:37:26.652899+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
@@ -31305,7 +31305,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 83651,
+        "total_qty": 83650,
         "sku_count": 3164,
         "product_count": 3164
       },
@@ -31313,7 +31313,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 83651,
+        "total_qty": 83650,
         "sku_count": 10426,
         "product_count": 10426
       },
@@ -31329,7 +31329,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 83651,
+        "total_qty": 83650,
         "sku_count": 3995,
         "product_count": 3995
       },
@@ -31369,7 +31369,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 83167,
+        "total_qty": 83166,
         "sku_count": 2680,
         "product_count": 2680
       },
@@ -31441,7 +31441,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 10597,
+        "total_qty": 10596,
         "sku_count": 912,
         "product_count": 912
       },
@@ -31481,7 +31481,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 4971,
+        "total_qty": 4970,
         "sku_count": 408,
         "product_count": 408
       },
@@ -31697,7 +31697,7 @@
         "title": "MARC JACOBS",
         "handle": "marc-jacobs",
         "legacy_id": "391774732542",
-        "total_qty": 410,
+        "total_qty": 409,
         "sku_count": 71,
         "product_count": 71
       },
@@ -45615,7 +45615,7 @@
         "sku": "BUGATTI-07-GRY/BK"
       },
       "gid://shopify/ProductVariant/48011619369214": {
-        "qty": 14,
+        "qty": 13,
         "product_title": "MARC-773/S-807/IR",
         "sku": "MJ-MARC-773/S-807/IR"
       },
