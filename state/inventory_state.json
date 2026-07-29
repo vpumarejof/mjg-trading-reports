@@ -31283,15 +31283,15 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-29T11:38:07.666238+00:00",
+    "updated_at": "2026-07-29T13:22:05.596656+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63402,
-        "sku_count": 2252,
-        "product_count": 2252
+        "total_qty": 63401,
+        "sku_count": 2251,
+        "product_count": 2251
       },
       "gid://shopify/Collection/391774208254": {
         "title": "ELIE SAAB",
@@ -31305,15 +31305,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 83162,
-        "sku_count": 3153,
-        "product_count": 3153
+        "total_qty": 83161,
+        "sku_count": 3152,
+        "product_count": 3152
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 83162,
+        "total_qty": 83161,
         "sku_count": 10426,
         "product_count": 10426
       },
@@ -31321,25 +31321,25 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12823,
-        "sku_count": 964,
-        "product_count": 964
+        "total_qty": 12822,
+        "sku_count": 963,
+        "product_count": 963
       },
       "gid://shopify/Collection/410150142206": {
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 83162,
-        "sku_count": 3983,
-        "product_count": 3983
+        "total_qty": 83161,
+        "sku_count": 3982,
+        "product_count": 3982
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12823,
-        "sku_count": 964,
-        "product_count": 964
+        "total_qty": 12822,
+        "sku_count": 963,
+        "product_count": 963
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
@@ -31657,9 +31657,9 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 543,
-        "sku_count": 113,
-        "product_count": 113
+        "total_qty": 542,
+        "sku_count": 112,
+        "product_count": 112
       },
       "gid://shopify/Collection/407946952958": {
         "title": "New Arrivals",
@@ -41203,11 +41203,6 @@
         "qty": 1,
         "product_title": "BRIEANA-09Q-52",
         "sku": "KS-BRIEANA-09Q-52"
-      },
-      "gid://shopify/ProductVariant/48121213878526": {
-        "qty": 1,
-        "product_title": "EMELYN-LHF-52",
-        "sku": "KS-EMELYN-LHF-52"
       },
       "gid://shopify/ProductVariant/48121214009598": {
         "qty": 1,
@@ -80593,6 +80588,11 @@
         "qty": 0,
         "product_title": "CRISHELL-1ED-55",
         "sku": "KS-CRISHELL-1ED-55"
+      },
+      "gid://shopify/ProductVariant/48121213878526": {
+        "qty": 0,
+        "product_title": "EMELYN-LHF-52",
+        "sku": "KS-EMELYN-LHF-52"
       },
       "gid://shopify/ProductVariant/48121213976830": {
         "qty": 0,
