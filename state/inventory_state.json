@@ -31283,15 +31283,15 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-29T03:35:09.357995+00:00",
+    "updated_at": "2026-07-29T06:17:57.977079+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63424,
-        "sku_count": 2254,
-        "product_count": 2254
+        "total_qty": 63403,
+        "sku_count": 2252,
+        "product_count": 2252
       },
       "gid://shopify/Collection/391774208254": {
         "title": "ELIE SAAB",
@@ -31305,15 +31305,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 83187,
-        "sku_count": 3155,
-        "product_count": 3155
+        "total_qty": 83165,
+        "sku_count": 3153,
+        "product_count": 3153
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 83187,
+        "total_qty": 83165,
         "sku_count": 10426,
         "product_count": 10426
       },
@@ -31329,9 +31329,9 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 83187,
-        "sku_count": 3985,
-        "product_count": 3985
+        "total_qty": 83165,
+        "sku_count": 3983,
+        "product_count": 3983
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
@@ -31345,7 +31345,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22558,
+        "total_qty": 22557,
         "sku_count": 2468,
         "product_count": 2468
       },
@@ -31369,9 +31369,9 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 82694,
-        "sku_count": 2662,
-        "product_count": 2662
+        "total_qty": 82672,
+        "sku_count": 2660,
+        "product_count": 2660
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
@@ -31409,7 +31409,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 19914,
+        "total_qty": 19913,
         "sku_count": 493,
         "product_count": 493
       },
@@ -31441,7 +31441,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 10083,
+        "total_qty": 10082,
         "sku_count": 893,
         "product_count": 893
       },
@@ -31457,7 +31457,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2916,
+        "total_qty": 2915,
         "sku_count": 294,
         "product_count": 294
       },
@@ -31513,7 +31513,7 @@
         "title": "NIKE",
         "handle": "nike",
         "legacy_id": "391775125758",
-        "total_qty": 277,
+        "total_qty": 276,
         "sku_count": 28,
         "product_count": 28
       },
@@ -32217,7 +32217,7 @@
         "title": "MODO",
         "handle": "modo",
         "legacy_id": "481959280894",
-        "total_qty": 397,
+        "total_qty": 396,
         "sku_count": 31,
         "product_count": 31
       },
@@ -32316,14 +32316,6 @@
         "total_qty": 271,
         "sku_count": 14,
         "product_count": 14
-      },
-      "gid://shopify/Collection/487707541758": {
-        "title": "PRE PACK",
-        "handle": "pre-pack",
-        "legacy_id": "487707541758",
-        "total_qty": 20,
-        "sku_count": 2,
-        "product_count": 2
       }
     },
     "variants": {
@@ -40893,7 +40885,7 @@
         "sku": "MODO-4632-DGRN0-58"
       },
       "gid://shopify/ProductVariant/48061855072510": {
-        "qty": 14,
+        "qty": 13,
         "product_title": "4633-GOLD0-50",
         "sku": "MODO-4633-GOLD0-50"
       },
@@ -43587,16 +43579,6 @@
         "product_title": "TH-2131-086-52",
         "sku": "TH-TH-2131-086-52"
       },
-      "gid://shopify/ProductVariant/48651414503678": {
-        "qty": 10,
-        "product_title": "Signature Eyeglass Pre Pack 25",
-        "sku": "SIG_PP-25"
-      },
-      "gid://shopify/ProductVariant/48651415453950": {
-        "qty": 10,
-        "product_title": "Signature Eyeglass Pre Pack 50",
-        "sku": "SIG_PP-50"
-      },
       "gid://shopify/ProductVariant/42500344316158": {
         "qty": 23,
         "product_title": "TH1506-F-S-0086-70",
@@ -44053,7 +44035,7 @@
         "sku": "NIKE-LUCENT-BOOST-EV24051-010"
       },
       "gid://shopify/ProductVariant/46811457192190": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "LUCENT BOOST EV24051",
         "sku": "NIKE-LUCENT-BOOST-EV24051-900"
       },
@@ -84451,6 +84433,16 @@
         "qty": 0,
         "product_title": "LO732S-230",
         "sku": "LONGCHAMP-LO732S-230"
+      },
+      "gid://shopify/ProductVariant/48651414503678": {
+        "qty": 0,
+        "product_title": "Signature Eyeglass Pre Pack 25",
+        "sku": "SIG_PP-25"
+      },
+      "gid://shopify/ProductVariant/48651415453950": {
+        "qty": 0,
+        "product_title": "Signature Eyeglass Pre Pack 50",
+        "sku": "SIG_PP-50"
       },
       "gid://shopify/ProductVariant/48651416404222": {
         "qty": 0,
