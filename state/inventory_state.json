@@ -31283,13 +31283,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-29T18:02:39.473099+00:00",
+    "updated_at": "2026-07-29T19:40:37.260058+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63377,
+        "total_qty": 63375,
         "sku_count": 2244,
         "product_count": 2244
       },
@@ -31305,15 +31305,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 83069,
-        "sku_count": 3136,
-        "product_count": 3136
+        "total_qty": 82952,
+        "sku_count": 3135,
+        "product_count": 3135
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 83069,
+        "total_qty": 82952,
         "sku_count": 10426,
         "product_count": 10426
       },
@@ -31329,9 +31329,9 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 83069,
-        "sku_count": 3967,
-        "product_count": 3967
+        "total_qty": 82952,
+        "sku_count": 3966,
+        "product_count": 3966
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
@@ -31369,7 +31369,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 82585,
+        "total_qty": 82469,
         "sku_count": 2652,
         "product_count": 2652
       },
@@ -31377,7 +31377,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3776,
+        "total_qty": 3666,
         "sku_count": 486,
         "product_count": 486
       },
@@ -31441,9 +31441,9 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 10012,
-        "sku_count": 884,
-        "product_count": 884
+        "total_qty": 9897,
+        "sku_count": 883,
+        "product_count": 883
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -31457,9 +31457,9 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2865,
-        "sku_count": 292,
-        "product_count": 292
+        "total_qty": 2860,
+        "sku_count": 291,
+        "product_count": 291
       },
       "gid://shopify/Collection/391774109950": {
         "title": "DRAGON",
@@ -31481,7 +31481,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 4648,
+        "total_qty": 4538,
         "sku_count": 391,
         "product_count": 391
       },
@@ -31545,9 +31545,9 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1861,
-        "sku_count": 104,
-        "product_count": 104
+        "total_qty": 1854,
+        "sku_count": 103,
+        "product_count": 103
       },
       "gid://shopify/Collection/400740516094": {
         "title": "SPY",
@@ -31665,7 +31665,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 1779,
+        "total_qty": 1777,
         "sku_count": 193,
         "product_count": 193
       },
@@ -32305,7 +32305,7 @@
         "title": "ANNA-KARIN KARLSSON",
         "handle": "anna-karin-karlsson",
         "legacy_id": "485871059198",
-        "total_qty": 1446,
+        "total_qty": 1336,
         "sku_count": 22,
         "product_count": 22
       },
@@ -40920,7 +40920,7 @@
         "sku": "CARRERA-8886-PJP-50"
       },
       "gid://shopify/ProductVariant/48094137024766": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "8897-BLX-55",
         "sku": "CARRERA-8897-BLX-55"
       },
@@ -43315,7 +43315,7 @@
         "sku": "PD-LIFTED-1-3724-50_D"
       },
       "gid://shopify/ProductVariant/48648024555774": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "286-003-57",
         "sku": "CARRERA-286-003-57"
       },
@@ -46105,7 +46105,7 @@
         "sku": "KL-KL6165S-N-602"
       },
       "gid://shopify/ProductVariant/48121211781374": {
-        "qty": 24,
+        "qty": 23,
         "product_title": "329/S-WR7/9O",
         "sku": "CARRERA-329/S-WR7/9O"
       },
@@ -46240,7 +46240,7 @@
         "sku": "MOSCHINO-MOS166/S-2W8/IR"
       },
       "gid://shopify/ProductVariant/48121228787966": {
-        "qty": 13,
+        "qty": 12,
         "product_title": "4017/S-807/TE",
         "sku": "CARRERA-4017/S-807/TE"
       },
@@ -46789,13 +46789,8 @@
         "product_title": "C-FLEX-02/G/S-J5G/YL",
         "sku": "CARRERA-C-FLEX-02/G/S-J5G/YL"
       },
-      "gid://shopify/ProductVariant/48336088006910": {
-        "qty": 1,
-        "product_title": "C-SPORT-02/S-4CW/IR",
-        "sku": "CARRERA-C-SPORT-02/S-4CW/IR"
-      },
       "gid://shopify/ProductVariant/48336088170750": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "C-SPORT-02/S-A1W/IR",
         "sku": "CARRERA-C-SPORT-02/S-A1W/IR"
       },
@@ -47050,112 +47045,112 @@
         "sku": "PRADA-PS-54YS-5AV09U"
       },
       "gid://shopify/ProductVariant/48406939107582": {
-        "qty": 163,
+        "qty": 158,
         "product_title": "COCO-STORIES-BLACK GOLD",
         "sku": "AKK-COCO-STORIES-BLACK GOLD"
       },
       "gid://shopify/ProductVariant/48406939173118": {
-        "qty": 121,
+        "qty": 116,
         "product_title": "COCO-STORIES-GREY WHITE GOLD",
         "sku": "AKK-COCO-STORIES-GREY WHITE GOLD"
       },
       "gid://shopify/ProductVariant/48406939304190": {
-        "qty": 9,
+        "qty": 4,
         "product_title": "LUCKY-GOES-TO-VEGAS-BLACK CRYSTAL",
         "sku": "AKK-LUCKY-GOES-TO-VEGAS-BLACK CRYSTAL"
       },
       "gid://shopify/ProductVariant/48406939369726": {
-        "qty": 24,
+        "qty": 19,
         "product_title": "LUCKY-GOES-TO-VEGAS-CERISE ZEBRA",
         "sku": "AKK-LUCKY-GOES-TO-VEGAS-CERISE ZEBRA"
       },
       "gid://shopify/ProductVariant/48406939468030": {
-        "qty": 60,
+        "qty": 55,
         "product_title": "LUCKY-GOES-TO-VEGAS-EMERALD CRYSTAL",
         "sku": "AKK-LUCKY-GOES-TO-VEGAS-EMERALD CRYSTAL"
       },
       "gid://shopify/ProductVariant/48406939533566": {
-        "qty": 25,
+        "qty": 20,
         "product_title": "LUCKY-GOES-TO-VEGAS-ICE CRYSTAL",
         "sku": "AKK-LUCKY-GOES-TO-VEGAS-ICE CRYSTAL"
       },
       "gid://shopify/ProductVariant/48406939599102": {
-        "qty": 20,
+        "qty": 15,
         "product_title": "LUCKY-GOES-TO-VEGAS-LEOPARD",
         "sku": "AKK-LUCKY-GOES-TO-VEGAS-LEOPARD"
       },
       "gid://shopify/ProductVariant/48406939664638": {
-        "qty": 52,
+        "qty": 47,
         "product_title": "MOTHER-BEEP-BLACK CRYSTAL",
         "sku": "AKK-MOTHER-BEEP-BLACK CRYSTAL"
       },
       "gid://shopify/ProductVariant/48406939762942": {
-        "qty": 23,
+        "qty": 18,
         "product_title": "MOTHER-BEEP-ICE CRYSTAL BLACK",
         "sku": "AKK-MOTHER-BEEP-ICE CRYSTAL BLACK"
       },
       "gid://shopify/ProductVariant/48406939894014": {
-        "qty": 150,
+        "qty": 145,
         "product_title": "MR-3AM-STORIES-BLACK GOLD",
         "sku": "AKK-MR-3AM-STORIES-BLACK GOLD"
       },
       "gid://shopify/ProductVariant/48406939959550": {
-        "qty": 96,
+        "qty": 91,
         "product_title": "MR-3AM-STORIES-EMERALD",
         "sku": "AKK-MR-3AM-STORIES-EMERALD"
       },
       "gid://shopify/ProductVariant/48406940123390": {
-        "qty": 104,
+        "qty": 99,
         "product_title": "MR-3AM-STORIES-FUDGE GOLD",
         "sku": "AKK-MR-3AM-STORIES-FUDGE GOLD"
       },
       "gid://shopify/ProductVariant/48406940221694": {
-        "qty": 113,
+        "qty": 108,
         "product_title": "MR-3AM-STORIES-GREY WHITE GOLD",
         "sku": "AKK-MR-3AM-STORIES-GREY WHITE GOLD"
       },
       "gid://shopify/ProductVariant/48406940287230": {
-        "qty": 48,
+        "qty": 43,
         "product_title": "SHADY-LUV-2.0-BLACK",
         "sku": "AKK-SHADY-LUV-2.0-BLACK"
       },
       "gid://shopify/ProductVariant/48406940483838": {
-        "qty": 59,
+        "qty": 54,
         "product_title": "SHADY-LUV-2.0-GOLD 24K",
         "sku": "AKK-SHADY-LUV-2.0-GOLD 24K"
       },
       "gid://shopify/ProductVariant/48406940549374": {
-        "qty": 42,
+        "qty": 37,
         "product_title": "SHADY-LUV-2.0-GOLD BLUSH MIRROR",
         "sku": "AKK-SHADY-LUV-2.0-GOLD BLUSH MIRROR"
       },
       "gid://shopify/ProductVariant/48406940647678": {
-        "qty": 41,
+        "qty": 36,
         "product_title": "SHADY-LUV-2.0-ROSE",
         "sku": "AKK-SHADY-LUV-2.0-ROSE"
       },
       "gid://shopify/ProductVariant/48406940745982": {
-        "qty": 34,
+        "qty": 29,
         "product_title": "SHADY-LUV-2.0-WHITE GOLD",
         "sku": "AKK-SHADY-LUV-2.0-WHITE GOLD"
       },
       "gid://shopify/ProductVariant/48406940811518": {
-        "qty": 40,
+        "qty": 35,
         "product_title": "SHADY-LUV-2.0-WHITE GOLD BLUSH MIRROR",
         "sku": "AKK-SHADY-LUV-2.0-WHITE GOLD BLUSH MIRROR"
       },
       "gid://shopify/ProductVariant/48406955622654": {
-        "qty": 97,
+        "qty": 92,
         "product_title": "COCO-STORIES-SUMMER",
         "sku": "AKK-COCO-STORIES-SUMMER"
       },
       "gid://shopify/ProductVariant/48406955688190": {
-        "qty": 106,
+        "qty": 101,
         "product_title": "COCO-STORIES-WINTER",
         "sku": "AKK-COCO-STORIES-WINTER"
       },
       "gid://shopify/ProductVariant/48406955753726": {
-        "qty": 19,
+        "qty": 14,
         "product_title": "MR-3AM-STORIES-AUTUMN",
         "sku": "AKK-MR-3AM-STORIES-AUTUMN"
       },
@@ -47720,7 +47715,7 @@
         "sku": "CARRERA-8055/S-003/M9"
       },
       "gid://shopify/ProductVariant/48648015610110": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "CA-298/S/US-003/UC",
         "sku": "CARRERA-CA-298/S/US-003/UC"
       },
@@ -82863,6 +82858,11 @@
         "qty": 0,
         "product_title": "WIRED LARGE-80649",
         "sku": "QUAY-NO-NS-2786-BLK/SMK"
+      },
+      "gid://shopify/ProductVariant/48336088006910": {
+        "qty": 0,
+        "product_title": "C-SPORT-02/S-4CW/IR",
+        "sku": "CARRERA-C-SPORT-02/S-4CW/IR"
       },
       "gid://shopify/ProductVariant/48336088236286": {
         "qty": 0,
