@@ -31283,13 +31283,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-29T13:22:05.596656+00:00",
+    "updated_at": "2026-07-29T15:26:03.572083+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63401,
+        "total_qty": 63397,
         "sku_count": 2251,
         "product_count": 2251
       },
@@ -31305,7 +31305,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 83161,
+        "total_qty": 83154,
         "sku_count": 3152,
         "product_count": 3152
       },
@@ -31313,7 +31313,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 83161,
+        "total_qty": 83154,
         "sku_count": 10426,
         "product_count": 10426
       },
@@ -31321,7 +31321,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12822,
+        "total_qty": 12819,
         "sku_count": 963,
         "product_count": 963
       },
@@ -31329,7 +31329,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 83161,
+        "total_qty": 83154,
         "sku_count": 3982,
         "product_count": 3982
       },
@@ -31337,7 +31337,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12822,
+        "total_qty": 12819,
         "sku_count": 963,
         "product_count": 963
       },
@@ -31345,7 +31345,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22557,
+        "total_qty": 22556,
         "sku_count": 2468,
         "product_count": 2468
       },
@@ -31353,7 +31353,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 1012,
+        "total_qty": 1009,
         "sku_count": 902,
         "product_count": 902
       },
@@ -31369,9 +31369,9 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 82668,
-        "sku_count": 2659,
-        "product_count": 2659
+        "total_qty": 82660,
+        "sku_count": 2658,
+        "product_count": 2658
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
@@ -31409,7 +31409,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 19913,
+        "total_qty": 19912,
         "sku_count": 493,
         "product_count": 493
       },
@@ -31441,7 +31441,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 10080,
+        "total_qty": 10077,
         "sku_count": 893,
         "product_count": 893
       },
@@ -31457,7 +31457,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2914,
+        "total_qty": 2913,
         "sku_count": 294,
         "product_count": 294
       },
@@ -31481,7 +31481,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 4676,
+        "total_qty": 4674,
         "sku_count": 398,
         "product_count": 398
       },
@@ -31513,7 +31513,7 @@
         "title": "NIKE",
         "handle": "nike",
         "legacy_id": "391775125758",
-        "total_qty": 276,
+        "total_qty": 275,
         "sku_count": 28,
         "product_count": 28
       },
@@ -31657,7 +31657,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 542,
+        "total_qty": 539,
         "sku_count": 112,
         "product_count": 112
       },
@@ -31697,7 +31697,7 @@
         "title": "MARC JACOBS",
         "handle": "marc-jacobs",
         "legacy_id": "391774732542",
-        "total_qty": 421,
+        "total_qty": 420,
         "sku_count": 71,
         "product_count": 71
       },
@@ -31705,7 +31705,7 @@
         "title": "QUAY",
         "handle": "quay",
         "legacy_id": "472482939134",
-        "total_qty": 742,
+        "total_qty": 741,
         "sku_count": 62,
         "product_count": 62
       },
@@ -31977,7 +31977,7 @@
         "title": "ANDY WOLF",
         "handle": "andy-wolf-1",
         "legacy_id": "469566619902",
-        "total_qty": 1155,
+        "total_qty": 1154,
         "sku_count": 295,
         "product_count": 295
       },
@@ -39480,7 +39480,7 @@
         "sku": "AW-IGNACIO-A-55"
       },
       "gid://shopify/ProductVariant/47655184564478": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "IGNACIO-D-55",
         "sku": "AW-IGNACIO-D-55"
       },
@@ -40655,7 +40655,7 @@
         "sku": "KS-EMALIE/F-PJP-52"
       },
       "gid://shopify/ProductVariant/48011617829118": {
-        "qty": 4,
+        "qty": 1,
         "product_title": "ADELLE-086-51",
         "sku": "KS-ADELLE-086-51"
       },
@@ -44095,7 +44095,7 @@
         "sku": "NIKE-VARIANT-II-EV24014-010"
       },
       "gid://shopify/ProductVariant/46811490550014": {
-        "qty": 14,
+        "qty": 13,
         "product_title": "VARIANT II EV24014",
         "sku": "NIKE-VARIANT-II-EV24014-113"
       },
@@ -45665,7 +45665,7 @@
         "sku": "MJ-MARC-773/S-SZJ/T4"
       },
       "gid://shopify/ProductVariant/48011619467518": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "MARC-797/S-C9A/O2",
         "sku": "MJ-MARC-797/S-C9A/O2"
       },
@@ -46790,7 +46790,7 @@
         "sku": "QUAY-QU-000602-MTBLK/SMKGRN"
       },
       "gid://shopify/ProductVariant/48314439696638": {
-        "qty": 20,
+        "qty": 19,
         "product_title": "IT\u2019S MY WAY-2272",
         "sku": "QUAY-QW-000144-BLK/SMK"
       },
