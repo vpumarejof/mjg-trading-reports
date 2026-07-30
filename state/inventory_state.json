@@ -31283,15 +31283,15 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-30T16:57:36.027819+00:00",
+    "updated_at": "2026-07-30T18:13:44.042931+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63371,
-        "sku_count": 2242,
-        "product_count": 2242
+        "total_qty": 63361,
+        "sku_count": 2240,
+        "product_count": 2240
       },
       "gid://shopify/Collection/391774208254": {
         "title": "ELIE SAAB",
@@ -31305,15 +31305,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 83964,
-        "sku_count": 3186,
-        "product_count": 3186
+        "total_qty": 83952,
+        "sku_count": 3184,
+        "product_count": 3184
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 83964,
+        "total_qty": 83952,
         "sku_count": 10426,
         "product_count": 10426
       },
@@ -31321,31 +31321,31 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12806,
-        "sku_count": 958,
-        "product_count": 958
+        "total_qty": 12802,
+        "sku_count": 956,
+        "product_count": 956
       },
       "gid://shopify/Collection/410150142206": {
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 83964,
-        "sku_count": 4018,
-        "product_count": 4018
+        "total_qty": 83952,
+        "sku_count": 4016,
+        "product_count": 4016
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12806,
-        "sku_count": 958,
-        "product_count": 958
+        "total_qty": 12802,
+        "sku_count": 956,
+        "product_count": 956
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22846,
+        "total_qty": 22842,
         "sku_count": 2468,
         "product_count": 2468
       },
@@ -31369,17 +31369,17 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 83482,
-        "sku_count": 2704,
-        "product_count": 2704
+        "total_qty": 83470,
+        "sku_count": 2702,
+        "product_count": 2702
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3654,
-        "sku_count": 484,
-        "product_count": 484
+        "total_qty": 3651,
+        "sku_count": 483,
+        "product_count": 483
       },
       "gid://shopify/Collection/391854031102": {
         "title": "Women's",
@@ -31393,7 +31393,7 @@
         "title": "Plastic Metal",
         "handle": "plastic-metal",
         "legacy_id": "462599520510",
-        "total_qty": 1767,
+        "total_qty": 1765,
         "sku_count": 99,
         "product_count": 99
       },
@@ -31409,7 +31409,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 19904,
+        "total_qty": 19901,
         "sku_count": 490,
         "product_count": 490
       },
@@ -31441,7 +31441,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 10914,
+        "total_qty": 10912,
         "sku_count": 936,
         "product_count": 936
       },
@@ -31449,7 +31449,7 @@
         "title": "TOMMY HILFIGER",
         "handle": "tommy-hilfiger",
         "legacy_id": "391775912190",
-        "total_qty": 434,
+        "total_qty": 433,
         "sku_count": 84,
         "product_count": 84
       },
@@ -31457,7 +31457,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2926,
+        "total_qty": 2925,
         "sku_count": 294,
         "product_count": 294
       },
@@ -31505,7 +31505,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2909,
+        "total_qty": 2908,
         "sku_count": 221,
         "product_count": 221
       },
@@ -31665,7 +31665,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 1770,
+        "total_qty": 1768,
         "sku_count": 193,
         "product_count": 193
       },
@@ -31713,7 +31713,7 @@
         "title": "DAVID BECKHAM",
         "handle": "david-beckham",
         "legacy_id": "397089702142",
-        "total_qty": 507,
+        "total_qty": 505,
         "sku_count": 69,
         "product_count": 69
       },
@@ -31769,15 +31769,15 @@
         "title": "VERSACE",
         "handle": "versace",
         "legacy_id": "391776010494",
-        "total_qty": 282,
-        "sku_count": 78,
-        "product_count": 78
+        "total_qty": 279,
+        "sku_count": 77,
+        "product_count": 77
       },
       "gid://shopify/Collection/460628721918": {
         "title": "PRIMARY",
         "handle": "primary",
         "legacy_id": "460628721918",
-        "total_qty": 38129,
+        "total_qty": 38126,
         "sku_count": 259,
         "product_count": 259
       },
@@ -31793,7 +31793,7 @@
         "title": "Tariff Busters",
         "handle": "tariff-busters",
         "legacy_id": "463834087678",
-        "total_qty": 47810,
+        "total_qty": 47807,
         "sku_count": 353,
         "product_count": 353
       },
@@ -31985,7 +31985,7 @@
         "title": "DENIM",
         "handle": "denim",
         "legacy_id": "470247014654",
-        "total_qty": 32,
+        "total_qty": 31,
         "sku_count": 11,
         "product_count": 11
       },
@@ -32081,9 +32081,9 @@
         "title": "BEBE",
         "handle": "bebe",
         "legacy_id": "392547991806",
-        "total_qty": 13,
-        "sku_count": 4,
-        "product_count": 4
+        "total_qty": 12,
+        "sku_count": 3,
+        "product_count": 3
       },
       "gid://shopify/Collection/474673348862": {
         "title": "COLE HAAN",
@@ -32313,7 +32313,7 @@
         "title": "CANADA GOOSE",
         "handle": "canada-goose",
         "legacy_id": "487431995646",
-        "total_qty": 271,
+        "total_qty": 270,
         "sku_count": 14,
         "product_count": 14
       }
@@ -33120,17 +33120,17 @@
         "sku": "Primary-1035-Teal-52"
       },
       "gid://shopify/ProductVariant/46371972612350": {
-        "qty": 157,
+        "qty": 156,
         "product_title": "1041-BLACK/REDTORTOISE-54",
         "sku": "Primary-1041-Black/RedTortoise-54"
       },
       "gid://shopify/ProductVariant/46371975430398": {
-        "qty": 30,
+        "qty": 29,
         "product_title": "1041-TORTOISE-54",
         "sku": "Primary-1041-Tortoise-54"
       },
       "gid://shopify/ProductVariant/46371975463166": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "1042-BROWN-53",
         "sku": "Primary-1042-Brown-53"
       },
@@ -36805,7 +36805,7 @@
         "sku": "DENIM-165-0807-52"
       },
       "gid://shopify/ProductVariant/47180871696638": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "165-0807-54",
         "sku": "DENIM-165-0807-54"
       },
@@ -37503,11 +37503,6 @@
         "qty": 5,
         "product_title": "BB5209-001-52",
         "sku": "BEBE-BB5209-001-52"
-      },
-      "gid://shopify/ProductVariant/47504332390654": {
-        "qty": 1,
-        "product_title": "BB5214-502-54",
-        "sku": "BEBE-BB5214-502-54"
       },
       "gid://shopify/ProductVariant/47504332456190": {
         "qty": 3,
@@ -40170,7 +40165,7 @@
         "sku": "TH-TH-1892-KB7-52"
       },
       "gid://shopify/ProductVariant/47783449460990": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "1916-807-55",
         "sku": "TH-TH-1916-807-55"
       },
@@ -41130,7 +41125,7 @@
         "sku": "DB-1019-37N-54"
       },
       "gid://shopify/ProductVariant/48121212403966": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "1020-2W8-56",
         "sku": "DB-1020-2W8-56"
       },
@@ -41305,7 +41300,7 @@
         "sku": "ELASTA-E-8001-C9A-55"
       },
       "gid://shopify/ProductVariant/48130605580542": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "1073-KB7-54",
         "sku": "DB-1073-KB7-54"
       },
@@ -42974,11 +42969,6 @@
         "product_title": "0VE3357-5464-53",
         "sku": "VERSACE-0VE3357-5464-53"
       },
-      "gid://shopify/ProductVariant/48567757209854": {
-        "qty": 1,
-        "product_title": "0VE3357-GB1-55",
-        "sku": "VERSACE-0VE3357-GB1-55"
-      },
       "gid://shopify/ProductVariant/48567757275390": {
         "qty": 2,
         "product_title": "0VE3358B-GB1-52",
@@ -43050,7 +43040,7 @@
         "sku": "VERSACE-0VE3372U-GB1-54"
       },
       "gid://shopify/ProductVariant/48567757865214": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "0VE3377U-108-55",
         "sku": "VERSACE-0VE3377U-108-55"
       },
@@ -47720,7 +47710,7 @@
         "sku": "VERSACE-0VE4452-55178755"
       },
       "gid://shopify/ProductVariant/48621026509054": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "0VE4464-54588755",
         "sku": "VERSACE-0VE4464-54588755"
       },
@@ -47755,7 +47745,7 @@
         "sku": "VERSACE-0VE4485-GB1/8759"
       },
       "gid://shopify/ProductVariant/48629789950206": {
-        "qty": 19,
+        "qty": 18,
         "product_title": "GC25501SE-001",
         "sku": "CG-GC25501SE-001"
       },
@@ -73179,6 +73169,11 @@
         "product_title": "BB5209-712-54",
         "sku": "BEBE-BB5209-712-54"
       },
+      "gid://shopify/ProductVariant/47504332390654": {
+        "qty": 0,
+        "product_title": "BB5214-502-54",
+        "sku": "BEBE-BB5214-502-54"
+      },
       "gid://shopify/ProductVariant/47504332620030": {
         "qty": 0,
         "product_title": "CKJ301-041-56",
@@ -83758,6 +83753,11 @@
         "qty": 0,
         "product_title": "0VE3354F-GB1-55",
         "sku": "VERSACE-0VE3354F-GB1-55"
+      },
+      "gid://shopify/ProductVariant/48567757209854": {
+        "qty": 0,
+        "product_title": "0VE3357-GB1-55",
+        "sku": "VERSACE-0VE3357-GB1-55"
       },
       "gid://shopify/ProductVariant/48567757242622": {
         "qty": 0,
