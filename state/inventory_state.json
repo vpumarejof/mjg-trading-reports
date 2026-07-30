@@ -31283,15 +31283,15 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-30T01:01:28.364466+00:00",
+    "updated_at": "2026-07-30T04:17:34.720522+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63369,
-        "sku_count": 2244,
-        "product_count": 2244
+        "total_qty": 63368,
+        "sku_count": 2242,
+        "product_count": 2242
       },
       "gid://shopify/Collection/391774208254": {
         "title": "ELIE SAAB",
@@ -31305,15 +31305,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 83639,
-        "sku_count": 3164,
-        "product_count": 3164
+        "total_qty": 83638,
+        "sku_count": 3161,
+        "product_count": 3161
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 83639,
+        "total_qty": 83638,
         "sku_count": 10426,
         "product_count": 10426
       },
@@ -31322,30 +31322,30 @@
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
         "total_qty": 12811,
-        "sku_count": 960,
-        "product_count": 960
+        "sku_count": 958,
+        "product_count": 958
       },
       "gid://shopify/Collection/410150142206": {
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 83639,
-        "sku_count": 3995,
-        "product_count": 3995
+        "total_qty": 83638,
+        "sku_count": 3992,
+        "product_count": 3992
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
         "total_qty": 12811,
-        "sku_count": 960,
-        "product_count": 960
+        "sku_count": 958,
+        "product_count": 958
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22824,
+        "total_qty": 22823,
         "sku_count": 2468,
         "product_count": 2468
       },
@@ -31369,17 +31369,17 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 83158,
-        "sku_count": 2680,
-        "product_count": 2680
+        "total_qty": 83156,
+        "sku_count": 2679,
+        "product_count": 2679
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
         "total_qty": 3664,
-        "sku_count": 486,
-        "product_count": 486
+        "sku_count": 485,
+        "product_count": 485
       },
       "gid://shopify/Collection/391854031102": {
         "title": "Women's",
@@ -31409,7 +31409,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 19907,
+        "total_qty": 19906,
         "sku_count": 490,
         "product_count": 490
       },
@@ -31442,16 +31442,16 @@
         "handle": "sunglasses",
         "legacy_id": "373525872894",
         "total_qty": 10590,
-        "sku_count": 912,
-        "product_count": 912
+        "sku_count": 911,
+        "product_count": 911
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
         "handle": "tommy-hilfiger",
         "legacy_id": "391775912190",
         "total_qty": 428,
-        "sku_count": 84,
-        "product_count": 84
+        "sku_count": 83,
+        "product_count": 83
       },
       "gid://shopify/Collection/410150076670": {
         "title": "Men's Sunglasses",
@@ -31482,8 +31482,8 @@
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
         "total_qty": 4967,
-        "sku_count": 408,
-        "product_count": 408
+        "sku_count": 407,
+        "product_count": 407
       },
       "gid://shopify/Collection/391853998334": {
         "title": "Men's",
@@ -31777,7 +31777,7 @@
         "title": "PRIMARY",
         "handle": "primary",
         "legacy_id": "460628721918",
-        "total_qty": 38130,
+        "total_qty": 38129,
         "sku_count": 259,
         "product_count": 259
       },
@@ -31793,7 +31793,7 @@
         "title": "Tariff Busters",
         "handle": "tariff-busters",
         "legacy_id": "463834087678",
-        "total_qty": 47811,
+        "total_qty": 47810,
         "sku_count": 353,
         "product_count": 353
       },
@@ -31978,8 +31978,8 @@
         "handle": "andy-wolf-1",
         "legacy_id": "469566619902",
         "total_qty": 1153,
-        "sku_count": 295,
-        "product_count": 295
+        "sku_count": 294,
+        "product_count": 294
       },
       "gid://shopify/Collection/470247014654": {
         "title": "DENIM",
@@ -33175,7 +33175,7 @@
         "sku": "Primary-1048-Chocolate-51"
       },
       "gid://shopify/ProductVariant/46371976118526": {
-        "qty": 132,
+        "qty": 131,
         "product_title": "1048-TEAL-51",
         "sku": "Primary-1048-Teal-51"
       },
@@ -40209,11 +40209,6 @@
         "product_title": "1965-807-54",
         "sku": "TH-TH-1965-807-54"
       },
-      "gid://shopify/ProductVariant/47783449755902": {
-        "qty": 0,
-        "product_title": "1965-C8C-54",
-        "sku": "TH-TH-1965-C8C-54"
-      },
       "gid://shopify/ProductVariant/47783449788670": {
         "qty": 5,
         "product_title": "1969-YWP-51",
@@ -41438,11 +41433,6 @@
         "qty": 2,
         "product_title": "TF2270B-8389-55",
         "sku": "TF-TF2270B-8389-55"
-      },
-      "gid://shopify/ProductVariant/48223291572478": {
-        "qty": 0,
-        "product_title": "TF2281-8055-53",
-        "sku": "TF-TF2281-8055-53"
       },
       "gid://shopify/ProductVariant/48288327696638": {
         "qty": 1,
@@ -44858,11 +44848,6 @@
         "qty": 7,
         "product_title": "REVERENCE-SUN-COL-B",
         "sku": "AW-REVERENCE-B"
-      },
-      "gid://shopify/ProductVariant/47655190692094": {
-        "qty": 0,
-        "product_title": "RISING-HIGH-SUN-COL-C",
-        "sku": "AW-RISING-HIGH-C"
       },
       "gid://shopify/ProductVariant/47655190790398": {
         "qty": 2,
@@ -75204,6 +75189,11 @@
         "product_title": "REVERENCE-SUN-COL-A",
         "sku": "AW-REVERENCE-A"
       },
+      "gid://shopify/ProductVariant/47655190692094": {
+        "qty": 0,
+        "product_title": "RISING-HIGH-SUN-COL-C",
+        "sku": "AW-RISING-HIGH-C"
+      },
       "gid://shopify/ProductVariant/47655190724862": {
         "qty": 0,
         "product_title": "ROLI-S-SUN-COL-E",
@@ -77363,6 +77353,11 @@
         "qty": 0,
         "product_title": "1948-GV4-55",
         "sku": "TH-TH-1948-GV4-55"
+      },
+      "gid://shopify/ProductVariant/47783449755902": {
+        "qty": 0,
+        "product_title": "1965-C8C-54",
+        "sku": "TH-TH-1965-C8C-54"
       },
       "gid://shopify/ProductVariant/47783449854206": {
         "qty": 0,
@@ -81898,6 +81893,11 @@
         "qty": 0,
         "product_title": "TF2226-8353-52",
         "sku": "TF-TF2226-8353-52"
+      },
+      "gid://shopify/ProductVariant/48223291572478": {
+        "qty": 0,
+        "product_title": "TF2281-8055-53",
+        "sku": "TF-TF2281-8055-53"
       },
       "gid://shopify/ProductVariant/48223291605246": {
         "qty": 0,
