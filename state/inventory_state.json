@@ -31283,13 +31283,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-30T07:08:20.476045+00:00",
+    "updated_at": "2026-07-30T09:39:36.094421+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63363,
+        "total_qty": 63362,
         "sku_count": 2241,
         "product_count": 2241
       },
@@ -31305,7 +31305,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 83628,
+        "total_qty": 83625,
         "sku_count": 3160,
         "product_count": 3160
       },
@@ -31313,7 +31313,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 83628,
+        "total_qty": 83625,
         "sku_count": 10426,
         "product_count": 10426
       },
@@ -31329,7 +31329,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 83628,
+        "total_qty": 83625,
         "sku_count": 3992,
         "product_count": 3992
       },
@@ -31369,7 +31369,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 83146,
+        "total_qty": 83143,
         "sku_count": 2678,
         "product_count": 2678
       },
@@ -31377,7 +31377,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3662,
+        "total_qty": 3660,
         "sku_count": 484,
         "product_count": 484
       },
@@ -31441,7 +31441,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 10586,
+        "total_qty": 10584,
         "sku_count": 911,
         "product_count": 911
       },
@@ -31457,7 +31457,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2848,
+        "total_qty": 2846,
         "sku_count": 291,
         "product_count": 291
       },
@@ -31545,7 +31545,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1843,
+        "total_qty": 1842,
         "sku_count": 103,
         "product_count": 103
       },
@@ -31665,7 +31665,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 1768,
+        "total_qty": 1766,
         "sku_count": 193,
         "product_count": 193
       },
@@ -31769,7 +31769,7 @@
         "title": "VERSACE",
         "handle": "versace",
         "legacy_id": "391776010494",
-        "total_qty": 284,
+        "total_qty": 282,
         "sku_count": 78,
         "product_count": 78
       },
@@ -42910,7 +42910,7 @@
         "sku": "VERSACE-0VE1306-1002-55"
       },
       "gid://shopify/ProductVariant/48567756161278": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "0VE1306-1266-55",
         "sku": "VERSACE-0VE1306-1266-55"
       },
@@ -47590,7 +47590,7 @@
         "sku": "VERSACE-0VE4452-55178755"
       },
       "gid://shopify/ProductVariant/48621026509054": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "0VE4464-54588755",
         "sku": "VERSACE-0VE4464-54588755"
       },
@@ -47815,7 +47815,7 @@
         "sku": "CARRERA-5047/S-807/QT"
       },
       "gid://shopify/ProductVariant/48648015347966": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "8036/S-003/QT",
         "sku": "CARRERA-8036/S-003/QT"
       },
