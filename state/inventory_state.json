@@ -31283,7 +31283,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-31T10:14:16.615326+00:00",
+    "updated_at": "2026-07-31T12:17:31.127362+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
@@ -31305,7 +31305,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 83885,
+        "total_qty": 83883,
         "sku_count": 3174,
         "product_count": 3174
       },
@@ -31313,7 +31313,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 83885,
+        "total_qty": 83883,
         "sku_count": 10426,
         "product_count": 10426
       },
@@ -31329,7 +31329,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 83885,
+        "total_qty": 83883,
         "sku_count": 4006,
         "product_count": 4006
       },
@@ -31369,7 +31369,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 83406,
+        "total_qty": 83404,
         "sku_count": 2695,
         "product_count": 2695
       },
@@ -31441,7 +31441,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 10873,
+        "total_qty": 10872,
         "sku_count": 934,
         "product_count": 934
       },
@@ -31457,7 +31457,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2913,
+        "total_qty": 2912,
         "sku_count": 293,
         "product_count": 293
       },
@@ -31649,7 +31649,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 25760,
+        "total_qty": 25759,
         "sku_count": 39,
         "product_count": 39
       },
@@ -31665,7 +31665,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 1755,
+        "total_qty": 1754,
         "sku_count": 193,
         "product_count": 193
       },
@@ -31697,7 +31697,7 @@
         "title": "MARC JACOBS",
         "handle": "marc-jacobs",
         "legacy_id": "391774732542",
-        "total_qty": 438,
+        "total_qty": 437,
         "sku_count": 74,
         "product_count": 74
       },
@@ -43715,7 +43715,7 @@
         "sku": "NIKE-ADRENALINE-M-EVG-066"
       },
       "gid://shopify/ProductVariant/46059134714110": {
-        "qty": 9663,
+        "qty": 9662,
         "product_title": "DropShip",
         "sku": "DropShip"
       },
@@ -48045,7 +48045,7 @@
         "sku": "MISSONI-MIS-0165/S-807/9O"
       },
       "gid://shopify/ProductVariant/48648017150206": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "MARC-646/S/US-XLT/9O",
         "sku": "MJ-MARC-646/S/US-XLT/9O"
       },
