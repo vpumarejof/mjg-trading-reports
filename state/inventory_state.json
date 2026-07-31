@@ -31283,13 +31283,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-30T23:17:15.603544+00:00",
+    "updated_at": "2026-07-31T01:00:59.553196+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63347,
+        "total_qty": 63346,
         "sku_count": 2234,
         "product_count": 2234
       },
@@ -31305,7 +31305,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 83924,
+        "total_qty": 83923,
         "sku_count": 3178,
         "product_count": 3178
       },
@@ -31313,7 +31313,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 83924,
+        "total_qty": 83923,
         "sku_count": 10426,
         "product_count": 10426
       },
@@ -31321,7 +31321,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12791,
+        "total_qty": 12790,
         "sku_count": 950,
         "product_count": 950
       },
@@ -31329,7 +31329,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 83924,
+        "total_qty": 83923,
         "sku_count": 4010,
         "product_count": 4010
       },
@@ -31337,7 +31337,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12791,
+        "total_qty": 12790,
         "sku_count": 950,
         "product_count": 950
       },
@@ -31961,7 +31961,7 @@
         "title": "COCO SONG",
         "handle": "coco-song",
         "legacy_id": "467688259838",
-        "total_qty": 256,
+        "total_qty": 255,
         "sku_count": 66,
         "product_count": 66
       },
@@ -36990,7 +36990,7 @@
         "sku": "CS-NELSONS-DREAM-CV244.02-09"
       },
       "gid://shopify/ProductVariant/47272817328382": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "NELSONS-DREAM-CV244.03-09",
         "sku": "CS-NELSONS-DREAM-CV244.03-09"
       },
