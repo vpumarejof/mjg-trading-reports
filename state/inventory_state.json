@@ -31283,15 +31283,15 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-31T01:00:59.553196+00:00",
+    "updated_at": "2026-07-31T04:36:40.486385+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63346,
-        "sku_count": 2234,
-        "product_count": 2234
+        "total_qty": 63343,
+        "sku_count": 2233,
+        "product_count": 2233
       },
       "gid://shopify/Collection/391774208254": {
         "title": "ELIE SAAB",
@@ -31305,15 +31305,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 83923,
-        "sku_count": 3178,
-        "product_count": 3178
+        "total_qty": 83919,
+        "sku_count": 3177,
+        "product_count": 3177
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 83923,
+        "total_qty": 83919,
         "sku_count": 10426,
         "product_count": 10426
       },
@@ -31322,30 +31322,30 @@
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
         "total_qty": 12790,
-        "sku_count": 950,
-        "product_count": 950
+        "sku_count": 949,
+        "product_count": 949
       },
       "gid://shopify/Collection/410150142206": {
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 83923,
-        "sku_count": 4010,
-        "product_count": 4010
+        "total_qty": 83919,
+        "sku_count": 4009,
+        "product_count": 4009
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
         "total_qty": 12790,
-        "sku_count": 950,
-        "product_count": 950
+        "sku_count": 949,
+        "product_count": 949
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22838,
+        "total_qty": 22837,
         "sku_count": 2468,
         "product_count": 2468
       },
@@ -31353,7 +31353,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 1070,
+        "total_qty": 1069,
         "sku_count": 902,
         "product_count": 902
       },
@@ -31369,15 +31369,15 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 83445,
-        "sku_count": 2699,
-        "product_count": 2699
+        "total_qty": 83440,
+        "sku_count": 2698,
+        "product_count": 2698
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3646,
+        "total_qty": 3644,
         "sku_count": 483,
         "product_count": 483
       },
@@ -31409,7 +31409,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 19899,
+        "total_qty": 19898,
         "sku_count": 490,
         "product_count": 490
       },
@@ -31417,7 +31417,7 @@
         "title": "OPEN BOX",
         "handle": "shelf-pulls",
         "legacy_id": "463407481086",
-        "total_qty": 146,
+        "total_qty": 145,
         "sku_count": 78,
         "product_count": 78
       },
@@ -31425,9 +31425,9 @@
         "title": "Open Box",
         "handle": "open-box",
         "legacy_id": "463674867966",
-        "total_qty": 83,
-        "sku_count": 15,
-        "product_count": 15
+        "total_qty": 81,
+        "sku_count": 14,
+        "product_count": 14
       },
       "gid://shopify/Collection/391775584510": {
         "title": "SAINT LAURENT",
@@ -31441,7 +31441,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 10900,
+        "total_qty": 10899,
         "sku_count": 936,
         "product_count": 936
       },
@@ -31505,7 +31505,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2906,
+        "total_qty": 2905,
         "sku_count": 221,
         "product_count": 221
       },
@@ -31665,7 +31665,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 1763,
+        "total_qty": 1762,
         "sku_count": 193,
         "product_count": 193
       },
@@ -31713,7 +31713,7 @@
         "title": "DAVID BECKHAM",
         "handle": "david-beckham",
         "legacy_id": "397089702142",
-        "total_qty": 505,
+        "total_qty": 504,
         "sku_count": 69,
         "product_count": 69
       },
@@ -31769,7 +31769,7 @@
         "title": "VERSACE",
         "handle": "versace",
         "legacy_id": "391776010494",
-        "total_qty": 278,
+        "total_qty": 276,
         "sku_count": 77,
         "product_count": 77
       },
@@ -31962,8 +31962,8 @@
         "handle": "coco-song",
         "legacy_id": "467688259838",
         "total_qty": 255,
-        "sku_count": 66,
-        "product_count": 66
+        "sku_count": 65,
+        "product_count": 65
       },
       "gid://shopify/Collection/391771324670": {
         "title": "BURBERRY",
@@ -32330,7 +32330,7 @@
         "sku": "PRADA0PR60XV5541O153"
       },
       "gid://shopify/ProductVariant/42500340875518": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "GG0553OA00252",
         "sku": "GUCCIGG0553OA00252"
       },
@@ -36988,11 +36988,6 @@
         "qty": 4,
         "product_title": "NELSONS-DREAM-CV244.02-09",
         "sku": "CS-NELSONS-DREAM-CV244.02-09"
-      },
-      "gid://shopify/ProductVariant/47272817328382": {
-        "qty": 0,
-        "product_title": "NELSONS-DREAM-CV244.03-09",
-        "sku": "CS-NELSONS-DREAM-CV244.03-09"
       },
       "gid://shopify/ProductVariant/47272817459454": {
         "qty": 1,
@@ -42880,7 +42875,7 @@
         "sku": "VERSACE-0VE1306-1002-55"
       },
       "gid://shopify/ProductVariant/48567756161278": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "0VE1306-1266-55",
         "sku": "VERSACE-0VE1306-1266-55"
       },
@@ -43310,7 +43305,7 @@
         "sku": "CARRERA-8888-003-58"
       },
       "gid://shopify/ProductVariant/48648025473278": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "DB 1020-086-56",
         "sku": "DB-DB 1020-086-56"
       },
@@ -47550,7 +47545,7 @@
         "sku": "VERSACE-0VE4361-53978753"
       },
       "gid://shopify/ProductVariant/48567758946558": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "0VE4425U-54228754",
         "sku": "VERSACE-0VE4425U-54228754"
       },
@@ -69888,6 +69883,11 @@
         "qty": 0,
         "product_title": "JUST-JULIET-CV236.04-09",
         "sku": "CS-JUST-JULIET-CV236.04-09"
+      },
+      "gid://shopify/ProductVariant/47272817328382": {
+        "qty": 0,
+        "product_title": "NELSONS-DREAM-CV244.03-09",
+        "sku": "CS-NELSONS-DREAM-CV244.03-09"
       },
       "gid://shopify/ProductVariant/47272817393918": {
         "qty": 0,
