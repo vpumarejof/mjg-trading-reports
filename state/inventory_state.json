@@ -31415,13 +31415,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-01T20:33:44.187372+00:00",
+    "updated_at": "2026-08-01T21:35:03.981569+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63272,
+        "total_qty": 63270,
         "sku_count": 2221,
         "product_count": 2221
       },
@@ -31437,7 +31437,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 84642,
+        "total_qty": 84638,
         "sku_count": 3198,
         "product_count": 3198
       },
@@ -31445,7 +31445,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 84642,
+        "total_qty": 84638,
         "sku_count": 10470,
         "product_count": 10470
       },
@@ -31453,7 +31453,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12784,
+        "total_qty": 12783,
         "sku_count": 942,
         "product_count": 942
       },
@@ -31461,7 +31461,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 84642,
+        "total_qty": 84638,
         "sku_count": 4032,
         "product_count": 4032
       },
@@ -31469,7 +31469,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12784,
+        "total_qty": 12783,
         "sku_count": 942,
         "product_count": 942
       },
@@ -31493,7 +31493,7 @@
         "title": "PRADA",
         "handle": "prada",
         "legacy_id": "391775289598",
-        "total_qty": 50,
+        "total_qty": 48,
         "sku_count": 16,
         "product_count": 16
       },
@@ -31501,15 +31501,15 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 84169,
-        "sku_count": 2725,
-        "product_count": 2725
+        "total_qty": 84163,
+        "sku_count": 2723,
+        "product_count": 2723
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3605,
+        "total_qty": 3601,
         "sku_count": 477,
         "product_count": 477
       },
@@ -31573,7 +31573,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11694,
+        "total_qty": 11692,
         "sku_count": 969,
         "product_count": 969
       },
@@ -31589,7 +31589,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2909,
+        "total_qty": 2908,
         "sku_count": 292,
         "product_count": 292
       },
@@ -31605,7 +31605,7 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 748,
+        "total_qty": 747,
         "sku_count": 86,
         "product_count": 86
       },
@@ -31613,7 +31613,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5864,
+        "total_qty": 5863,
         "sku_count": 458,
         "product_count": 458
       },
@@ -31901,7 +31901,7 @@
         "title": "VERSACE",
         "handle": "versace",
         "legacy_id": "391776010494",
-        "total_qty": 268,
+        "total_qty": 267,
         "sku_count": 76,
         "product_count": 76
       },
@@ -42709,7 +42709,7 @@
         "sku": "FLEXON-W3043-505-54"
       },
       "gid://shopify/ProductVariant/48392225587454": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "PR-10YV-1AB1O1-54",
         "sku": "PRADA-PR-10YV-1AB1O1-54"
       },
@@ -42939,7 +42939,7 @@
         "sku": "VERSACE-0VE1304-1412-54"
       },
       "gid://shopify/ProductVariant/48567756128510": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "0VE1306-1002-55",
         "sku": "VERSACE-0VE1306-1002-55"
       },
@@ -46189,7 +46189,7 @@
         "sku": "SF-SF1027S-315"
       },
       "gid://shopify/ProductVariant/48094648402174": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "SF1067S-001",
         "sku": "SF-SF1067S-001"
       },
@@ -47269,7 +47269,7 @@
         "sku": "PRADA-PS-54YS-1BO06U"
       },
       "gid://shopify/ProductVariant/48392232108286": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "PS-54YS-5AV09U",
         "sku": "PRADA-PS-54YS-5AV09U"
       },
