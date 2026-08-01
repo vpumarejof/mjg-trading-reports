@@ -31415,7 +31415,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-01T08:38:05.063926+00:00",
+    "updated_at": "2026-08-01T10:20:17.219994+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
@@ -31437,7 +31437,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 84651,
+        "total_qty": 84650,
         "sku_count": 3200,
         "product_count": 3200
       },
@@ -31445,7 +31445,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 84651,
+        "total_qty": 84650,
         "sku_count": 10470,
         "product_count": 10470
       },
@@ -31461,7 +31461,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 84651,
+        "total_qty": 84650,
         "sku_count": 4033,
         "product_count": 4033
       },
@@ -31477,7 +31477,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22935,
+        "total_qty": 22934,
         "sku_count": 2474,
         "product_count": 2474
       },
@@ -31501,7 +31501,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 84178,
+        "total_qty": 84177,
         "sku_count": 2727,
         "product_count": 2727
       },
@@ -31573,7 +31573,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11699,
+        "total_qty": 11698,
         "sku_count": 970,
         "product_count": 970
       },
@@ -31637,7 +31637,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 3008,
+        "total_qty": 3007,
         "sku_count": 226,
         "product_count": 226
       },
@@ -31645,7 +31645,7 @@
         "title": "NIKE",
         "handle": "nike",
         "legacy_id": "391775125758",
-        "total_qty": 275,
+        "total_qty": 274,
         "sku_count": 28,
         "product_count": 28
       },
@@ -44064,7 +44064,7 @@
         "sku": "NIKE-NV04-DZ7376-010"
       },
       "gid://shopify/ProductVariant/46811473510654": {
-        "qty": 11,
+        "qty": 10,
         "product_title": "PURSUIT FLAIR IB3683X",
         "sku": "NIKE-PURSUIT-FLAIR-IB3683X-711"
       },
