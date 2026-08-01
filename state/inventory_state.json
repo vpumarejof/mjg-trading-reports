@@ -31415,15 +31415,15 @@
     }
   },
   "current": {
-    "updated_at": "2026-07-31T22:59:46.892702+00:00",
+    "updated_at": "2026-08-01T00:03:31.752002+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63288,
-        "sku_count": 2224,
-        "product_count": 2224
+        "total_qty": 63287,
+        "sku_count": 2223,
+        "product_count": 2223
       },
       "gid://shopify/Collection/391774208254": {
         "title": "ELIE SAAB",
@@ -31437,15 +31437,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 84666,
-        "sku_count": 3203,
-        "product_count": 3203
+        "total_qty": 84665,
+        "sku_count": 3202,
+        "product_count": 3202
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 84666,
+        "total_qty": 84665,
         "sku_count": 10470,
         "product_count": 10470
       },
@@ -31453,25 +31453,25 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12793,
-        "sku_count": 944,
-        "product_count": 944
+        "total_qty": 12792,
+        "sku_count": 943,
+        "product_count": 943
       },
       "gid://shopify/Collection/410150142206": {
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 84666,
-        "sku_count": 4036,
-        "product_count": 4036
+        "total_qty": 84665,
+        "sku_count": 4035,
+        "product_count": 4035
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12793,
-        "sku_count": 944,
-        "product_count": 944
+        "total_qty": 12792,
+        "sku_count": 943,
+        "product_count": 943
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
@@ -31485,7 +31485,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 1064,
+        "total_qty": 1063,
         "sku_count": 902,
         "product_count": 902
       },
@@ -31533,7 +31533,7 @@
         "title": "GUCCI",
         "handle": "gucci",
         "legacy_id": "421341364478",
-        "total_qty": 555,
+        "total_qty": 554,
         "sku_count": 301,
         "product_count": 301
       },
@@ -31853,9 +31853,9 @@
         "title": "Gucci",
         "handle": "gucci-1",
         "legacy_id": "407282450686",
-        "total_qty": 555,
-        "sku_count": 114,
-        "product_count": 114
+        "total_qty": 554,
+        "sku_count": 113,
+        "product_count": 113
       },
       "gid://shopify/Collection/422907576574": {
         "title": "KARL LAGERFELD",
@@ -32389,9 +32389,9 @@
         "title": "Relabeled",
         "handle": "relabeled",
         "legacy_id": "484454269182",
-        "total_qty": 260,
-        "sku_count": 139,
-        "product_count": 139
+        "total_qty": 259,
+        "sku_count": 138,
+        "product_count": 138
       },
       "gid://shopify/Collection/409354371326": {
         "title": "Goliath",
@@ -42212,11 +42212,6 @@
         "qty": 1,
         "product_title": "GG1540O-008-55-RELABELED",
         "sku": "GUCCI-GG1540O-008-55_R"
-      },
-      "gid://shopify/ProductVariant/48301161644286": {
-        "qty": 1,
-        "product_title": "GG1666O-007-53-RELABELED",
-        "sku": "GUCCI-GG1666O-007-53_R"
       },
       "gid://shopify/ProductVariant/48301161677054": {
         "qty": 1,
@@ -82532,6 +82527,11 @@
         "qty": 0,
         "product_title": "GG1526O-007-54-RELABELED",
         "sku": "GUCCI-GG1526O-007-54_R"
+      },
+      "gid://shopify/ProductVariant/48301161644286": {
+        "qty": 0,
+        "product_title": "GG1666O-007-53-RELABELED",
+        "sku": "GUCCI-GG1666O-007-53_R"
       },
       "gid://shopify/ProductVariant/48301161742590": {
         "qty": 0,
