@@ -31415,13 +31415,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-01T19:44:39.496405+00:00",
+    "updated_at": "2026-08-01T20:33:44.187372+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63273,
+        "total_qty": 63272,
         "sku_count": 2221,
         "product_count": 2221
       },
@@ -31437,7 +31437,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 84643,
+        "total_qty": 84642,
         "sku_count": 3198,
         "product_count": 3198
       },
@@ -31445,7 +31445,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 84643,
+        "total_qty": 84642,
         "sku_count": 10470,
         "product_count": 10470
       },
@@ -31453,7 +31453,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12785,
+        "total_qty": 12784,
         "sku_count": 942,
         "product_count": 942
       },
@@ -31461,7 +31461,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 84643,
+        "total_qty": 84642,
         "sku_count": 4032,
         "product_count": 4032
       },
@@ -31469,7 +31469,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12785,
+        "total_qty": 12784,
         "sku_count": 942,
         "product_count": 942
       },
@@ -31501,9 +31501,9 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 84171,
-        "sku_count": 2726,
-        "product_count": 2726
+        "total_qty": 84169,
+        "sku_count": 2725,
+        "product_count": 2725
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
@@ -32269,7 +32269,7 @@
         "title": "LONGCHAMP",
         "handle": "longchamp",
         "legacy_id": "476032958718",
-        "total_qty": 423,
+        "total_qty": 422,
         "sku_count": 50,
         "product_count": 50
       },
@@ -41099,7 +41099,7 @@
         "sku": "LONGCHAMP-LO2728-606-53"
       },
       "gid://shopify/ProductVariant/48094647648510": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "LO2742L-001-52",
         "sku": "LONGCHAMP-LO2742L-001-52"
       },
