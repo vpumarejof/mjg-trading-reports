@@ -31415,13 +31415,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-02T17:55:17.845262+00:00",
+    "updated_at": "2026-08-02T18:57:21.729103+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63238,
+        "total_qty": 63234,
         "sku_count": 2220,
         "product_count": 2220
       },
@@ -31437,15 +31437,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 84601,
-        "sku_count": 3196,
-        "product_count": 3196
+        "total_qty": 84565,
+        "sku_count": 3192,
+        "product_count": 3192
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 84601,
+        "total_qty": 84565,
         "sku_count": 10470,
         "product_count": 10470
       },
@@ -31453,7 +31453,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12778,
+        "total_qty": 12776,
         "sku_count": 942,
         "product_count": 942
       },
@@ -31461,15 +31461,15 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 84601,
-        "sku_count": 4030,
-        "product_count": 4030
+        "total_qty": 84565,
+        "sku_count": 4026,
+        "product_count": 4026
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12778,
+        "total_qty": 12776,
         "sku_count": 942,
         "product_count": 942
       },
@@ -31477,7 +31477,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22931,
+        "total_qty": 22928,
         "sku_count": 2474,
         "product_count": 2474
       },
@@ -31501,15 +31501,15 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 84126,
-        "sku_count": 2721,
-        "product_count": 2721
+        "total_qty": 84090,
+        "sku_count": 2717,
+        "product_count": 2717
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3596,
+        "total_qty": 3595,
         "sku_count": 476,
         "product_count": 476
       },
@@ -31525,7 +31525,7 @@
         "title": "Plastic Metal",
         "handle": "plastic-metal",
         "legacy_id": "462599520510",
-        "total_qty": 1763,
+        "total_qty": 1762,
         "sku_count": 99,
         "product_count": 99
       },
@@ -31541,7 +31541,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 19892,
+        "total_qty": 19890,
         "sku_count": 489,
         "product_count": 489
       },
@@ -31573,25 +31573,25 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11687,
-        "sku_count": 968,
-        "product_count": 968
+        "total_qty": 11655,
+        "sku_count": 964,
+        "product_count": 964
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
         "handle": "tommy-hilfiger",
         "legacy_id": "391775912190",
-        "total_qty": 430,
-        "sku_count": 83,
-        "product_count": 83
+        "total_qty": 418,
+        "sku_count": 80,
+        "product_count": 80
       },
       "gid://shopify/Collection/410150076670": {
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2905,
-        "sku_count": 290,
-        "product_count": 290
+        "total_qty": 2885,
+        "sku_count": 288,
+        "product_count": 288
       },
       "gid://shopify/Collection/391774109950": {
         "title": "DRAGON",
@@ -31613,9 +31613,9 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5861,
-        "sku_count": 458,
-        "product_count": 458
+        "total_qty": 5850,
+        "sku_count": 456,
+        "product_count": 456
       },
       "gid://shopify/Collection/391853998334": {
         "title": "Men's",
@@ -31637,7 +31637,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 3005,
+        "total_qty": 3004,
         "sku_count": 226,
         "product_count": 226
       },
@@ -31677,7 +31677,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1908,
+        "total_qty": 1902,
         "sku_count": 104,
         "product_count": 104
       },
@@ -31789,7 +31789,7 @@
         "title": "CAROLINA HERRERA",
         "handle": "carolina-herrera",
         "legacy_id": "395943936254",
-        "total_qty": 143,
+        "total_qty": 142,
         "sku_count": 12,
         "product_count": 12
       },
@@ -31797,7 +31797,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 2610,
+        "total_qty": 2605,
         "sku_count": 236,
         "product_count": 236
       },
@@ -31949,7 +31949,7 @@
         "title": "VALENTINO",
         "handle": "valentino",
         "legacy_id": "462679113982",
-        "total_qty": 126,
+        "total_qty": 125,
         "sku_count": 23,
         "product_count": 23
       },
@@ -31981,7 +31981,7 @@
         "title": "CALVIN KLEIN JEANS",
         "handle": "calvin-klein-jeans",
         "legacy_id": "464057172222",
-        "total_qty": 462,
+        "total_qty": 461,
         "sku_count": 60,
         "product_count": 60
       },
@@ -32029,7 +32029,7 @@
         "title": "KOALI-MOREL",
         "handle": "koali-morel",
         "legacy_id": "466217861374",
-        "total_qty": 2057,
+        "total_qty": 2056,
         "sku_count": 77,
         "product_count": 77
       },
@@ -32189,9 +32189,9 @@
         "title": "QUIKSILVER",
         "handle": "quiksilver",
         "legacy_id": "474031259902",
-        "total_qty": 214,
-        "sku_count": 31,
-        "product_count": 31
+        "total_qty": 200,
+        "sku_count": 30,
+        "product_count": 30
       },
       "gid://shopify/Collection/474031227134": {
         "title": "ROXY",
@@ -37529,7 +37529,7 @@
         "sku": "QUIKSILVER-QS2009-GRY-52"
       },
       "gid://shopify/ProductVariant/47484457713918": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "QS2016 GREEN/NAVY 51/20-145",
         "sku": "QUIKSILVER-QS2016-GRN/NV-51"
       },
@@ -37539,7 +37539,7 @@
         "sku": "QUIKSILVER-QS2016-BLK-51"
       },
       "gid://shopify/ProductVariant/47484458074366": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "QS2023 GREEN 53/18-145",
         "sku": "QUIKSILVER-QS2023-GRN-53"
       },
@@ -38019,7 +38019,7 @@
         "sku": "KOALI-MOREL-20108K-BP03-50"
       },
       "gid://shopify/ProductVariant/47558955204862": {
-        "qty": 15,
+        "qty": 14,
         "product_title": "20111K-BP12-51",
         "sku": "KOALI-MOREL-20111K-BP12-51"
       },
@@ -40684,7 +40684,7 @@
         "sku": "CH-HER-0192-O63-50"
       },
       "gid://shopify/ProductVariant/47845513756926": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "HER-0210-O63-52",
         "sku": "CH-HER-0210-O63-52"
       },
@@ -43664,7 +43664,7 @@
         "sku": "CARRERA-CARDUC-012/S-00A4/UZ"
       },
       "gid://shopify/ProductVariant/45606141067518": {
-        "qty": 46,
+        "qty": 45,
         "product_title": "CARDUC-012-S-0807-IR",
         "sku": "CARDUC-012/S-0807/IR"
       },
@@ -43934,7 +43934,7 @@
         "sku": "CKJ-CKJ23603S-600"
       },
       "gid://shopify/ProductVariant/46670757593342": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "CKJ23608S-238",
         "sku": "CKJ-CKJ23608S-238"
       },
@@ -44543,18 +44543,13 @@
         "product_title": "QS4003-MBRN/BLU",
         "sku": "QUIKSILVER-QS4003-MBRN/BLU"
       },
-      "gid://shopify/ProductVariant/47455922323710": {
-        "qty": 10,
-        "product_title": "QS4006-CRYBLU",
-        "sku": "QUIKSILVER-QS4006-CRYBLU"
-      },
       "gid://shopify/ProductVariant/47455922356478": {
         "qty": 6,
         "product_title": "QS4006-MGRY",
         "sku": "QUIKSILVER-QS4006-MGRY"
       },
       "gid://shopify/ProductVariant/47455922422014": {
-        "qty": 8,
+        "qty": 6,
         "product_title": "QS4015-MCLR",
         "sku": "QUIKSILVER-QS4015-MCLR"
       },
@@ -45349,7 +45344,7 @@
         "sku": "VALENTINO-V-GOLD-III-VLS-138A-53"
       },
       "gid://shopify/ProductVariant/47769384419582": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "V-GOLD-III-VLS-138C-53",
         "sku": "VALENTINO-V-GOLD-III-VLS-138C-53"
       },
@@ -45362,16 +45357,6 @@
         "qty": 4,
         "product_title": "V-GOLD-III-VLS-138B-53",
         "sku": "VALENTINO-V-GOLD-III-VLS-138B-53"
-      },
-      "gid://shopify/ProductVariant/47783446511870": {
-        "qty": 2,
-        "product_title": "2087/S-SVK/GK",
-        "sku": "TH-TH-2087/S-SVK/GK"
-      },
-      "gid://shopify/ProductVariant/47783446577406": {
-        "qty": 6,
-        "product_title": "2101/S-G31/U1",
-        "sku": "TH-TH-2101/S-G31/U1"
       },
       "gid://shopify/ProductVariant/47796734034174": {
         "qty": 10,
@@ -47393,11 +47378,6 @@
         "product_title": "VARESE/O/S-010/9O",
         "sku": "KS-VARESE/O/S-010/9O"
       },
-      "gid://shopify/ProductVariant/48493130711294": {
-        "qty": 4,
-        "product_title": "TH-2156/S-35J/3X",
-        "sku": "TH-TH-2156/S-35J/3X"
-      },
       "gid://shopify/ProductVariant/48560872456446": {
         "qty": 19,
         "product_title": "AURA POINTS-79934",
@@ -47854,7 +47834,7 @@
         "sku": "BEBE-BBOP1017CE-001_D"
       },
       "gid://shopify/ProductVariant/48648014692606": {
-        "qty": 25,
+        "qty": 20,
         "product_title": "1067/S-J5G/08",
         "sku": "CARRERA-1067/S-J5G/08"
       },
@@ -72258,6 +72238,11 @@
         "product_title": "QS4005-MCRY",
         "sku": "QUIKSILVER-QS4005-MCRY"
       },
+      "gid://shopify/ProductVariant/47455922323710": {
+        "qty": 0,
+        "product_title": "QS4006-CRYBLU",
+        "sku": "QUIKSILVER-QS4006-CRYBLU"
+      },
       "gid://shopify/ProductVariant/47455922389246": {
         "qty": 0,
         "product_title": "QS4009-MCLR",
@@ -77552,6 +77537,16 @@
         "qty": 0,
         "product_title": "2023/S-003/MI",
         "sku": "TH-TH-2023/S-003/MI"
+      },
+      "gid://shopify/ProductVariant/47783446511870": {
+        "qty": 0,
+        "product_title": "2087/S-SVK/GK",
+        "sku": "TH-TH-2087/S-SVK/GK"
+      },
+      "gid://shopify/ProductVariant/47783446577406": {
+        "qty": 0,
+        "product_title": "2101/S-G31/U1",
+        "sku": "TH-TH-2101/S-G31/U1"
       },
       "gid://shopify/ProductVariant/47783446642942": {
         "qty": 0,
@@ -83852,6 +83847,11 @@
         "qty": 0,
         "product_title": "MJ-1120/S-35J/HA",
         "sku": "MJ-MJ-1120/S-35J/HA"
+      },
+      "gid://shopify/ProductVariant/48493130711294": {
+        "qty": 0,
+        "product_title": "TH-2156/S-35J/3X",
+        "sku": "TH-TH-2156/S-35J/3X"
       },
       "gid://shopify/ProductVariant/48493130744062": {
         "qty": 0,
