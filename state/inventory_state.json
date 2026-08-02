@@ -31415,13 +31415,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-01T23:38:57.348092+00:00",
+    "updated_at": "2026-08-02T01:13:39.267546+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63270,
+        "total_qty": 63246,
         "sku_count": 2221,
         "product_count": 2221
       },
@@ -31437,7 +31437,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 84638,
+        "total_qty": 84614,
         "sku_count": 3198,
         "product_count": 3198
       },
@@ -31445,7 +31445,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 84638,
+        "total_qty": 84614,
         "sku_count": 10470,
         "product_count": 10470
       },
@@ -31461,7 +31461,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 84638,
+        "total_qty": 84614,
         "sku_count": 4032,
         "product_count": 4032
       },
@@ -31501,7 +31501,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 84163,
+        "total_qty": 84139,
         "sku_count": 2723,
         "product_count": 2723
       },
@@ -31661,7 +31661,7 @@
         "title": "Kid's Eyeglasses",
         "handle": "kids-eyeglasses",
         "legacy_id": "408131305726",
-        "total_qty": 22286,
+        "total_qty": 22262,
         "sku_count": 93,
         "product_count": 93
       },
@@ -31757,7 +31757,7 @@
         "title": "Kids",
         "handle": "kids",
         "legacy_id": "454431080702",
-        "total_qty": 22281,
+        "total_qty": 22257,
         "sku_count": 121,
         "product_count": 121
       },
@@ -31781,7 +31781,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 25758,
+        "total_qty": 25749,
         "sku_count": 39,
         "product_count": 39
       },
@@ -31909,7 +31909,7 @@
         "title": "PRIMARY",
         "handle": "primary",
         "legacy_id": "460628721918",
-        "total_qty": 38125,
+        "total_qty": 38101,
         "sku_count": 259,
         "product_count": 259
       },
@@ -31925,7 +31925,7 @@
         "title": "Tariff Busters",
         "handle": "tariff-busters",
         "legacy_id": "463834087678",
-        "total_qty": 47805,
+        "total_qty": 47781,
         "sku_count": 353,
         "product_count": 353
       },
@@ -34049,7 +34049,7 @@
         "sku": "PC-6869-0R80-56"
       },
       "gid://shopify/ProductVariant/46617258950910": {
-        "qty": 88,
+        "qty": 87,
         "product_title": "PK103-MATT-BLK/PUR--45",
         "sku": "Primary-PK103-MATT-BLK/PUR--45"
       },
@@ -34069,7 +34069,7 @@
         "sku": "Primary-PK153-BLK/RED-43"
       },
       "gid://shopify/ProductVariant/46617259802878": {
-        "qty": 210,
+        "qty": 209,
         "product_title": "PK104-MATTEBLACK-41",
         "sku": "Primary-Pk104-MatteBlack-41"
       },
@@ -34084,7 +34084,7 @@
         "sku": "Primary-Pk104-MatteBrown/Tortoise-41"
       },
       "gid://shopify/ProductVariant/46617259999486": {
-        "qty": 78,
+        "qty": 77,
         "product_title": "PK105-BLACK/BLUE-45",
         "sku": "Primary-Pk105-Black/Blue-45"
       },
@@ -34109,7 +34109,7 @@
         "sku": "Primary-Pk108-Brown-48"
       },
       "gid://shopify/ProductVariant/46617260327166": {
-        "qty": 94,
+        "qty": 93,
         "product_title": "PK108-GRAY-48",
         "sku": "Primary-Pk108-Gray-48"
       },
@@ -34124,12 +34124,12 @@
         "sku": "Primary-Pk109-MatteGunmetal-48"
       },
       "gid://shopify/ProductVariant/46617260556542": {
-        "qty": 91,
+        "qty": 90,
         "product_title": "PK110-BLUE-50",
         "sku": "Primary-Pk110-Blue-50"
       },
       "gid://shopify/ProductVariant/46617260622078": {
-        "qty": 84,
+        "qty": 83,
         "product_title": "PK111-BLUETORT-46",
         "sku": "Primary-Pk111-BlueTort-46"
       },
@@ -34174,17 +34174,17 @@
         "sku": "Primary-Pk124-Black-45"
       },
       "gid://shopify/ProductVariant/46617261113598": {
-        "qty": 302,
+        "qty": 301,
         "product_title": "PK124-BROWN-45",
         "sku": "Primary-Pk124-Brown-45"
       },
       "gid://shopify/ProductVariant/46617261179134": {
-        "qty": 291,
+        "qty": 290,
         "product_title": "PK124-BURGUNDY-45",
         "sku": "Primary-Pk124-Burgundy-45"
       },
       "gid://shopify/ProductVariant/46617261211902": {
-        "qty": 172,
+        "qty": 171,
         "product_title": "PK124-SLATE-45",
         "sku": "Primary-Pk124-Slate-45"
       },
@@ -34214,7 +34214,7 @@
         "sku": "Primary-Pk128-Burgundy-46"
       },
       "gid://shopify/ProductVariant/46617261605118": {
-        "qty": 63,
+        "qty": 62,
         "product_title": "PK128-TEAL-46",
         "sku": "Primary-Pk128-Teal-46"
       },
@@ -34249,7 +34249,7 @@
         "sku": "Primary-Pk132-Brown-43"
       },
       "gid://shopify/ProductVariant/46617262096638": {
-        "qty": 253,
+        "qty": 252,
         "product_title": "PK132-PURPLE-43",
         "sku": "Primary-Pk132-Purple-43"
       },
@@ -34259,12 +34259,12 @@
         "sku": "Primary-Pk134-RoseGold-46"
       },
       "gid://shopify/ProductVariant/46617262293246": {
-        "qty": 117,
+        "qty": 116,
         "product_title": "PK134-TEALLILAC-46",
         "sku": "Primary-Pk134-TealLilac-46"
       },
       "gid://shopify/ProductVariant/46617262326014": {
-        "qty": 284,
+        "qty": 283,
         "product_title": "PK134-TORTOISE-46",
         "sku": "Primary-Pk134-Tortoise-46"
       },
@@ -34284,12 +34284,12 @@
         "sku": "Primary-Pk136-MatteGunmetal-52"
       },
       "gid://shopify/ProductVariant/46617263079678": {
-        "qty": 45,
+        "qty": 44,
         "product_title": "PK137-BLACK/PINK-49",
         "sku": "Primary-Pk137-Black/Pink-49"
       },
       "gid://shopify/ProductVariant/46617263145214": {
-        "qty": 113,
+        "qty": 112,
         "product_title": "PK138-BLACK-46",
         "sku": "Primary-Pk138-Black-46"
       },
@@ -34359,7 +34359,7 @@
         "sku": "Primary-Pk142-Blue-48"
       },
       "gid://shopify/ProductVariant/46617264849150": {
-        "qty": 123,
+        "qty": 122,
         "product_title": "PK142-PURPLETORT-48",
         "sku": "Primary-Pk142-PurpleTort-48"
       },
@@ -34439,27 +34439,27 @@
         "sku": "Primary-Pk152-Purple-48"
       },
       "gid://shopify/ProductVariant/46617266422014": {
-        "qty": 585,
+        "qty": 584,
         "product_title": "PK154-BLACK/REDMATTE-48",
         "sku": "Primary-Pk154-Black/RedMatte-48"
       },
       "gid://shopify/ProductVariant/46617266454782": {
-        "qty": 453,
+        "qty": 451,
         "product_title": "PK154-CRYSTAL-48",
         "sku": "Primary-Pk154-Crystal-48"
       },
       "gid://shopify/ProductVariant/46617266520318": {
-        "qty": 588,
+        "qty": 587,
         "product_title": "PK154-NAVY/LIME-48",
         "sku": "Primary-Pk154-Navy/Lime-48"
       },
       "gid://shopify/ProductVariant/46617266815230": {
-        "qty": 667,
+        "qty": 666,
         "product_title": "PK155-BLACK/SKYBLUE-46",
         "sku": "Primary-Pk155-Black/SkyBlue-46"
       },
       "gid://shopify/ProductVariant/46617267175678": {
-        "qty": 708,
+        "qty": 707,
         "product_title": "PK155-LILAC/PINK-46",
         "sku": "Primary-Pk155-Lilac/Pink-46"
       },
@@ -34469,7 +34469,7 @@
         "sku": "Primary-Pk155-Purple/White-46"
       },
       "gid://shopify/ProductVariant/46617267372286": {
-        "qty": 369,
+        "qty": 368,
         "product_title": "PK156-LILACCRYSTAL-48",
         "sku": "Primary-Pk156-LilacCrystal-48"
       },
@@ -34479,7 +34479,7 @@
         "sku": "Primary-Pk156-PinkCrystal-48"
       },
       "gid://shopify/ProductVariant/46617267503358": {
-        "qty": 379,
+        "qty": 378,
         "product_title": "PK156-TEALCRYSTAL-48",
         "sku": "Primary-Pk156-TealCrystal-48"
       },
