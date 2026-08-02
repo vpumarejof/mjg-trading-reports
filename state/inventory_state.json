@@ -31415,7 +31415,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-02T12:06:20.154690+00:00",
+    "updated_at": "2026-08-02T13:51:49.628222+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
@@ -31437,7 +31437,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 84603,
+        "total_qty": 84602,
         "sku_count": 3197,
         "product_count": 3197
       },
@@ -31445,7 +31445,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 84603,
+        "total_qty": 84602,
         "sku_count": 10470,
         "product_count": 10470
       },
@@ -31461,7 +31461,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 84603,
+        "total_qty": 84602,
         "sku_count": 4031,
         "product_count": 4031
       },
@@ -31501,7 +31501,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 84127,
+        "total_qty": 84126,
         "sku_count": 2721,
         "product_count": 2721
       },
@@ -31573,7 +31573,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11688,
+        "total_qty": 11687,
         "sku_count": 968,
         "product_count": 968
       },
@@ -31613,7 +31613,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5862,
+        "total_qty": 5861,
         "sku_count": 458,
         "product_count": 458
       },
@@ -31837,7 +31837,7 @@
         "title": "QUAY",
         "handle": "quay",
         "legacy_id": "472482939134",
-        "total_qty": 734,
+        "total_qty": 733,
         "sku_count": 62,
         "product_count": 62
       },
@@ -47449,7 +47449,7 @@
         "sku": "QUAY-NO-NS-2349-GLD/PLMTPE"
       },
       "gid://shopify/ProductVariant/48560873046270": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "IN PURSUIT-79942",
         "sku": "QUAY-NO-NS-2578-BLK/BPLPK"
       },
