@@ -31415,13 +31415,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-02T04:37:32.204890+00:00",
+    "updated_at": "2026-08-02T07:16:29.122332+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63240,
+        "total_qty": 63239,
         "sku_count": 2221,
         "product_count": 2221
       },
@@ -31437,15 +31437,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 84607,
-        "sku_count": 3198,
-        "product_count": 3198
+        "total_qty": 84603,
+        "sku_count": 3197,
+        "product_count": 3197
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 84607,
+        "total_qty": 84603,
         "sku_count": 10470,
         "product_count": 10470
       },
@@ -31453,7 +31453,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12779,
+        "total_qty": 12778,
         "sku_count": 942,
         "product_count": 942
       },
@@ -31461,15 +31461,15 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 84607,
-        "sku_count": 4032,
-        "product_count": 4032
+        "total_qty": 84603,
+        "sku_count": 4031,
+        "product_count": 4031
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12779,
+        "total_qty": 12778,
         "sku_count": 942,
         "product_count": 942
       },
@@ -31477,7 +31477,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22932,
+        "total_qty": 22931,
         "sku_count": 2474,
         "product_count": 2474
       },
@@ -31493,25 +31493,25 @@
         "title": "PRADA",
         "handle": "prada",
         "legacy_id": "391775289598",
-        "total_qty": 48,
-        "sku_count": 16,
-        "product_count": 16
+        "total_qty": 47,
+        "sku_count": 15,
+        "product_count": 15
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 84131,
-        "sku_count": 2722,
-        "product_count": 2722
+        "total_qty": 84127,
+        "sku_count": 2721,
+        "product_count": 2721
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3598,
-        "sku_count": 477,
-        "product_count": 477
+        "total_qty": 3596,
+        "sku_count": 476,
+        "product_count": 476
       },
       "gid://shopify/Collection/391854031102": {
         "title": "Women's",
@@ -31573,9 +31573,9 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11691,
-        "sku_count": 969,
-        "product_count": 969
+        "total_qty": 11688,
+        "sku_count": 968,
+        "product_count": 968
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -31589,9 +31589,9 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2908,
-        "sku_count": 292,
-        "product_count": 292
+        "total_qty": 2906,
+        "sku_count": 291,
+        "product_count": 291
       },
       "gid://shopify/Collection/391774109950": {
         "title": "DRAGON",
@@ -31637,7 +31637,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 3006,
+        "total_qty": 3005,
         "sku_count": 226,
         "product_count": 226
       },
@@ -31749,7 +31749,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 722,
+        "total_qty": 721,
         "sku_count": 122,
         "product_count": 122
       },
@@ -31797,7 +31797,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 2612,
+        "total_qty": 2611,
         "sku_count": 237,
         "product_count": 237
       },
@@ -31901,7 +31901,7 @@
         "title": "VERSACE",
         "handle": "versace",
         "legacy_id": "391776010494",
-        "total_qty": 267,
+        "total_qty": 266,
         "sku_count": 76,
         "product_count": 76
       },
@@ -32293,7 +32293,7 @@
         "title": "COLUMBIA",
         "handle": "columbia",
         "legacy_id": "395943805182",
-        "total_qty": 214,
+        "total_qty": 213,
         "sku_count": 41,
         "product_count": 41
       },
@@ -37354,7 +37354,7 @@
         "sku": "KS-HALLIE/G-59I-52"
       },
       "gid://shopify/ProductVariant/47377632133374": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "ILANA-086-52",
         "sku": "KS-ILANA-086-52"
       },
@@ -46069,7 +46069,7 @@
         "sku": "COLUMBIA-C525SP-008"
       },
       "gid://shopify/ProductVariant/48094645780734": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "UTILIZER-010",
         "sku": "COLUMBIA-C525SP-010"
       },
@@ -47263,11 +47263,6 @@
         "product_title": "PS-04VS-AAI5N2",
         "sku": "PRADA-PS-04VS-AAI5N2"
       },
-      "gid://shopify/ProductVariant/48392231911678": {
-        "qty": 1,
-        "product_title": "PS-54YS-1BO06U",
-        "sku": "PRADA-PS-54YS-1BO06U"
-      },
       "gid://shopify/ProductVariant/48392232108286": {
         "qty": 1,
         "product_title": "PS-54YS-5AV09U",
@@ -47689,7 +47684,7 @@
         "sku": "VERSACE-0VE4464-54588755"
       },
       "gid://shopify/ProductVariant/48621026672894": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "0VE4475-53608742",
         "sku": "VERSACE-0VE4475-53608742"
       },
@@ -83722,6 +83717,11 @@
         "qty": 0,
         "product_title": "PS-54WS-DG005U",
         "sku": "PRADA-PS-54WS-DG005U"
+      },
+      "gid://shopify/ProductVariant/48392231911678": {
+        "qty": 0,
+        "product_title": "PS-54YS-1BO06U",
+        "sku": "PRADA-PS-54YS-1BO06U"
       },
       "gid://shopify/ProductVariant/48392232206590": {
         "qty": 0,
