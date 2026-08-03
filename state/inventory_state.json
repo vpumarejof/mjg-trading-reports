@@ -31415,7 +31415,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-03T20:56:20.799291+00:00",
+    "updated_at": "2026-08-03T22:01:35.481484+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
@@ -31437,7 +31437,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 83663,
+        "total_qty": 83662,
         "sku_count": 3168,
         "product_count": 3168
       },
@@ -31445,7 +31445,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 83663,
+        "total_qty": 83662,
         "sku_count": 10470,
         "product_count": 10470
       },
@@ -31461,7 +31461,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 83663,
+        "total_qty": 83662,
         "sku_count": 4001,
         "product_count": 4001
       },
@@ -31477,7 +31477,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22805,
+        "total_qty": 22804,
         "sku_count": 2474,
         "product_count": 2474
       },
@@ -31501,7 +31501,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 83187,
+        "total_qty": 83186,
         "sku_count": 2692,
         "product_count": 2692
       },
@@ -31509,7 +31509,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3577,
+        "total_qty": 3576,
         "sku_count": 475,
         "product_count": 475
       },
@@ -31573,7 +31573,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11212,
+        "total_qty": 11211,
         "sku_count": 938,
         "product_count": 938
       },
@@ -31637,7 +31637,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2870,
+        "total_qty": 2869,
         "sku_count": 214,
         "product_count": 214
       },
@@ -31949,7 +31949,7 @@
         "title": "VALENTINO",
         "handle": "valentino",
         "legacy_id": "462679113982",
-        "total_qty": 125,
+        "total_qty": 124,
         "sku_count": 23,
         "product_count": 23
       },
@@ -44669,7 +44669,7 @@
         "sku": "VALENTINO-XI-VLS-164B"
       },
       "gid://shopify/ProductVariant/47462524911870": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "XI-VLS-164C",
         "sku": "VALENTINO-XI-VLS-164C"
       },
