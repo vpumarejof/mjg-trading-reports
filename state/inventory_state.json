@@ -31415,7 +31415,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-03T18:03:13.837859+00:00",
+    "updated_at": "2026-08-03T19:55:02.834014+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
@@ -31437,7 +31437,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 83670,
+        "total_qty": 83667,
         "sku_count": 3169,
         "product_count": 3169
       },
@@ -31445,7 +31445,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 83670,
+        "total_qty": 83667,
         "sku_count": 10470,
         "product_count": 10470
       },
@@ -31461,7 +31461,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 83670,
+        "total_qty": 83667,
         "sku_count": 4001,
         "product_count": 4001
       },
@@ -31501,7 +31501,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 83194,
+        "total_qty": 83191,
         "sku_count": 2693,
         "product_count": 2693
       },
@@ -31509,7 +31509,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3579,
+        "total_qty": 3577,
         "sku_count": 475,
         "product_count": 475
       },
@@ -31573,7 +31573,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11214,
+        "total_qty": 11212,
         "sku_count": 938,
         "product_count": 938
       },
@@ -31613,7 +31613,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5691,
+        "total_qty": 5689,
         "sku_count": 451,
         "product_count": 451
       },
@@ -31781,7 +31781,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 24973,
+        "total_qty": 24972,
         "sku_count": 37,
         "product_count": 37
       },
@@ -32429,7 +32429,7 @@
         "title": "ANNA-KARIN KARLSSON",
         "handle": "anna-karin-karlsson",
         "legacy_id": "485871059198",
-        "total_qty": 1332,
+        "total_qty": 1330,
         "sku_count": 22,
         "product_count": 22
       },
@@ -43794,7 +43794,7 @@
         "sku": "NIKE-ADRENALINE-M-EVG-066"
       },
       "gid://shopify/ProductVariant/46059134714110": {
-        "qty": 9659,
+        "qty": 9658,
         "product_title": "DropShip",
         "sku": "DropShip"
       },
@@ -47229,7 +47229,7 @@
         "sku": "AKK-LUCKY-GOES-TO-VEGAS-EMERALD CRYSTAL"
       },
       "gid://shopify/ProductVariant/48406939533566": {
-        "qty": 20,
+        "qty": 19,
         "product_title": "LUCKY-GOES-TO-VEGAS-ICE CRYSTAL",
         "sku": "AKK-LUCKY-GOES-TO-VEGAS-ICE CRYSTAL"
       },
@@ -47249,7 +47249,7 @@
         "sku": "AKK-MOTHER-BEEP-ICE CRYSTAL BLACK"
       },
       "gid://shopify/ProductVariant/48406939894014": {
-        "qty": 145,
+        "qty": 144,
         "product_title": "MR-3AM-STORIES-BLACK GOLD",
         "sku": "AKK-MR-3AM-STORIES-BLACK GOLD"
       },
