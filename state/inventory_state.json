@@ -31415,15 +31415,15 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-04T15:44:07.423970+00:00",
+    "updated_at": "2026-08-04T17:21:48.348100+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 62697,
-        "sku_count": 2207,
-        "product_count": 2207
+        "total_qty": 62685,
+        "sku_count": 2198,
+        "product_count": 2198
       },
       "gid://shopify/Collection/391774208254": {
         "title": "ELIE SAAB",
@@ -31437,15 +31437,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 83571,
-        "sku_count": 3151,
-        "product_count": 3151
+        "total_qty": 83550,
+        "sku_count": 3141,
+        "product_count": 3141
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 83571,
+        "total_qty": 83550,
         "sku_count": 10470,
         "product_count": 10470
       },
@@ -31453,31 +31453,31 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12728,
-        "sku_count": 933,
-        "product_count": 933
+        "total_qty": 12725,
+        "sku_count": 930,
+        "product_count": 930
       },
       "gid://shopify/Collection/410150142206": {
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 83571,
-        "sku_count": 3990,
-        "product_count": 3990
+        "total_qty": 83550,
+        "sku_count": 3981,
+        "product_count": 3981
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12728,
-        "sku_count": 933,
-        "product_count": 933
+        "total_qty": 12725,
+        "sku_count": 930,
+        "product_count": 930
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22803,
+        "total_qty": 22797,
         "sku_count": 2474,
         "product_count": 2474
       },
@@ -31501,7 +31501,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 83099,
+        "total_qty": 83088,
         "sku_count": 2679,
         "product_count": 2679
       },
@@ -31541,23 +31541,23 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 19897,
-        "sku_count": 491,
-        "product_count": 491
+        "total_qty": 19892,
+        "sku_count": 488,
+        "product_count": 488
       },
       "gid://shopify/Collection/463407481086": {
         "title": "OPEN BOX",
         "handle": "shelf-pulls",
         "legacy_id": "463407481086",
-        "total_qty": 138,
-        "sku_count": 74,
-        "product_count": 74
+        "total_qty": 126,
+        "sku_count": 64,
+        "product_count": 64
       },
       "gid://shopify/Collection/463674867966": {
         "title": "Open Box",
         "handle": "open-box",
         "legacy_id": "463674867966",
-        "total_qty": 77,
+        "total_qty": 75,
         "sku_count": 13,
         "product_count": 13
       },
@@ -31573,9 +31573,9 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11202,
-        "sku_count": 936,
-        "product_count": 936
+        "total_qty": 11193,
+        "sku_count": 935,
+        "product_count": 935
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -31589,9 +31589,9 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2730,
-        "sku_count": 279,
-        "product_count": 279
+        "total_qty": 2723,
+        "sku_count": 276,
+        "product_count": 276
       },
       "gid://shopify/Collection/391774109950": {
         "title": "DRAGON",
@@ -31613,7 +31613,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5681,
+        "total_qty": 5679,
         "sku_count": 449,
         "product_count": 449
       },
@@ -31637,7 +31637,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2869,
+        "total_qty": 2867,
         "sku_count": 214,
         "product_count": 214
       },
@@ -31677,7 +31677,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1693,
+        "total_qty": 1689,
         "sku_count": 93,
         "product_count": 93
       },
@@ -31797,9 +31797,9 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 2295,
-        "sku_count": 212,
-        "product_count": 212
+        "total_qty": 2284,
+        "sku_count": 204,
+        "product_count": 204
       },
       "gid://shopify/Collection/455407829246": {
         "title": "Uniisex Eyeglasses",
@@ -31909,7 +31909,7 @@
         "title": "PRIMARY",
         "handle": "primary",
         "legacy_id": "460628721918",
-        "total_qty": 37658,
+        "total_qty": 37657,
         "sku_count": 258,
         "product_count": 258
       },
@@ -31925,7 +31925,7 @@
         "title": "Tariff Busters",
         "handle": "tariff-busters",
         "legacy_id": "463834087678",
-        "total_qty": 47336,
+        "total_qty": 47335,
         "sku_count": 352,
         "product_count": 352
       },
@@ -31981,7 +31981,7 @@
         "title": "CALVIN KLEIN JEANS",
         "handle": "calvin-klein-jeans",
         "legacy_id": "464057172222",
-        "total_qty": 459,
+        "total_qty": 457,
         "sku_count": 60,
         "product_count": 60
       },
@@ -32045,7 +32045,7 @@
         "title": "LEVI'S",
         "handle": "levi",
         "legacy_id": "406703735038",
-        "total_qty": 204,
+        "total_qty": 202,
         "sku_count": 27,
         "product_count": 27
       },
@@ -33654,7 +33654,7 @@
         "sku": "Primary-M102-Silver-54"
       },
       "gid://shopify/ProductVariant/46372037624062": {
-        "qty": 31,
+        "qty": 30,
         "product_title": "M104-BROWN-52",
         "sku": "Primary-M104-Brown-52"
       },
@@ -40579,7 +40579,7 @@
         "sku": "BALENCIAGA-BB0343O-004-53"
       },
       "gid://shopify/ProductVariant/47807531352318": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "QS1014-MGLD-54_D",
         "sku": "QUIKSILVER-QS1014-MGLD-54_D"
       },
@@ -40839,14 +40839,9 @@
         "sku": "MJ-MJ-1098-B3V-57"
       },
       "gid://shopify/ProductVariant/48034285388030": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "JG33627-6500-55_D",
         "sku": "JAGUAR-JG33627-6500-55_D"
-      },
-      "gid://shopify/ProductVariant/48034285486334": {
-        "qty": 1,
-        "product_title": "3661-5034-52_D",
-        "sku": "PD-3661-5034-52_D"
       },
       "gid://shopify/ProductVariant/48034285584638": {
         "qty": 1,
@@ -43038,16 +43033,6 @@
         "product_title": "0VE3376U-5523-53",
         "sku": "VERSACE-0VE3376U-5523-53"
       },
-      "gid://shopify/ProductVariant/48624494215422": {
-        "qty": 1,
-        "product_title": "B0025S-BLK",
-        "sku": "BUFFALO-B0025S-BLK_D"
-      },
-      "gid://shopify/ProductVariant/48624494248190": {
-        "qty": 1,
-        "product_title": "B0025S-CRY",
-        "sku": "BUFFALO-B0025S-CRY_D"
-      },
       "gid://shopify/ProductVariant/48624494608638": {
         "qty": 20,
         "product_title": "BETH-BLK/RED",
@@ -43058,16 +43043,6 @@
         "product_title": "JJE12543XL-002-53_D",
         "sku": "JJ-JJE12543XL-002-53_D"
       },
-      "gid://shopify/ProductVariant/48624495984894": {
-        "qty": 1,
-        "product_title": "JJE11686XL-001-56_D",
-        "sku": "JJ-JJE11686XL-001-56_D"
-      },
-      "gid://shopify/ProductVariant/48624496115966": {
-        "qty": 1,
-        "product_title": "JJE13192-001-54_D",
-        "sku": "JJ-JJE13192-001-54_D"
-      },
       "gid://shopify/ProductVariant/48624496148734": {
         "qty": 1,
         "product_title": "JJE13469-001-55_D",
@@ -43077,16 +43052,6 @@
         "qty": 1,
         "product_title": "JJE13591-005-53_D",
         "sku": "JJ-JJE13591-005-53_D"
-      },
-      "gid://shopify/ProductVariant/48624496214270": {
-        "qty": 1,
-        "product_title": "JJE13792-002-50_D",
-        "sku": "JJ-JJE13792-002-50_D"
-      },
-      "gid://shopify/ProductVariant/48624496247038": {
-        "qty": 1,
-        "product_title": "JJE13793-001-57_D",
-        "sku": "JJ-JJE13793-001-57_D"
       },
       "gid://shopify/ProductVariant/48624496279806": {
         "qty": 1,
@@ -43102,11 +43067,6 @@
         "qty": 1,
         "product_title": "JJE14759-001-49_D",
         "sku": "JJ-JJE14759-001-49_D"
-      },
-      "gid://shopify/ProductVariant/48624496574718": {
-        "qty": 1,
-        "product_title": "LAE16208-002-52_D",
-        "sku": "LENSKART-LAE16208-002-52_D"
       },
       "gid://shopify/ProductVariant/48624496705790": {
         "qty": 1,
@@ -43147,11 +43107,6 @@
         "qty": 1,
         "product_title": "MARC-754-145-53_D",
         "sku": "MJ-MARC-754-145-53_D"
-      },
-      "gid://shopify/ProductVariant/48637114319102": {
-        "qty": 1,
-        "product_title": "30234L-ND02-53_D",
-        "sku": "MOREL-30234L-ND02-53_D"
       },
       "gid://shopify/ProductVariant/48637114384638": {
         "qty": 2,
@@ -44049,7 +44004,7 @@
         "sku": "LEVIS-LV-1004/S-0J5G/QT"
       },
       "gid://shopify/ProductVariant/46998479274238": {
-        "qty": 9,
+        "qty": 7,
         "product_title": "LV-1016/0J5G/HA",
         "sku": "LEVIS-LV-1016/S-0J5G/HA"
       },
@@ -46884,7 +46839,7 @@
         "sku": "CARRERA-C-FLEX-02/G/S-J5G/YL"
       },
       "gid://shopify/ProductVariant/48336088301822": {
-        "qty": 20,
+        "qty": 19,
         "product_title": "1067/S-KJ1/WJ",
         "sku": "CARRERA-1067/S-KJ1/WJ"
       },
@@ -46999,12 +46954,12 @@
         "sku": "FOSSIL-FOS-3152/G/S-0OX/70"
       },
       "gid://shopify/ProductVariant/48361936388350": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "CKJ25200S-002",
         "sku": "CKJ-CKJ25200S-002"
       },
       "gid://shopify/ProductVariant/48361936421118": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "CKJ25200S-717",
         "sku": "CKJ-CKJ25200S-717"
       },
@@ -47633,11 +47588,6 @@
         "product_title": "PESUN067-001_D",
         "sku": "PE-PESUN067-001_D"
       },
-      "gid://shopify/ProductVariant/48630723150078": {
-        "qty": 1,
-        "product_title": "PESUN078-001_D",
-        "sku": "PE-PESUN078-001_D"
-      },
       "gid://shopify/ProductVariant/48630723215614": {
         "qty": 1,
         "product_title": "PESUN081-002_D",
@@ -47694,7 +47644,7 @@
         "sku": "CARRERA-330/S-086/IR"
       },
       "gid://shopify/ProductVariant/48648015184126": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "330/S-807/08",
         "sku": "CARRERA-330/S-807/08"
       },
@@ -47719,12 +47669,12 @@
         "sku": "CARRERA-CA-298/S/US-003/UC"
       },
       "gid://shopify/ProductVariant/48648015675646": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "CA-298/S/US-807/IR",
         "sku": "CARRERA-CA-298/S/US-807/IR"
       },
       "gid://shopify/ProductVariant/48648015708414": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "CARDUC-022/S-V81/H4",
         "sku": "CARRERA-CARDUC-022/S-V81/H4"
       },
@@ -79688,6 +79638,11 @@
         "product_title": "JG36832-3100-58_D",
         "sku": "JAGUAR-JG36832-3100-58_D"
       },
+      "gid://shopify/ProductVariant/48034285486334": {
+        "qty": 0,
+        "product_title": "3661-5034-52_D",
+        "sku": "PD-3661-5034-52_D"
+      },
       "gid://shopify/ProductVariant/48034285519102": {
         "qty": 0,
         "product_title": "4786-9035-53_D",
@@ -84253,6 +84208,16 @@
         "product_title": "B0022S-DGN",
         "sku": "BUFFALO-B0022S-DGN_D"
       },
+      "gid://shopify/ProductVariant/48624494215422": {
+        "qty": 0,
+        "product_title": "B0025S-BLK",
+        "sku": "BUFFALO-B0025S-BLK_D"
+      },
+      "gid://shopify/ProductVariant/48624494248190": {
+        "qty": 0,
+        "product_title": "B0025S-CRY",
+        "sku": "BUFFALO-B0025S-CRY_D"
+      },
       "gid://shopify/ProductVariant/48624494641406": {
         "qty": 0,
         "product_title": "GXS02-WHT",
@@ -84348,6 +84313,26 @@
         "product_title": "JJE11455-007-54_D",
         "sku": "JJ-JJE11455-007-54_D"
       },
+      "gid://shopify/ProductVariant/48624495984894": {
+        "qty": 0,
+        "product_title": "JJE11686XL-001-56_D",
+        "sku": "JJ-JJE11686XL-001-56_D"
+      },
+      "gid://shopify/ProductVariant/48624496115966": {
+        "qty": 0,
+        "product_title": "JJE13192-001-54_D",
+        "sku": "JJ-JJE13192-001-54_D"
+      },
+      "gid://shopify/ProductVariant/48624496214270": {
+        "qty": 0,
+        "product_title": "JJE13792-002-50_D",
+        "sku": "JJ-JJE13792-002-50_D"
+      },
+      "gid://shopify/ProductVariant/48624496247038": {
+        "qty": 0,
+        "product_title": "JJE13793-001-57_D",
+        "sku": "JJ-JJE13793-001-57_D"
+      },
       "gid://shopify/ProductVariant/48624496410878": {
         "qty": 0,
         "product_title": "LAE13643-001-53_D",
@@ -84367,6 +84352,11 @@
         "qty": 0,
         "product_title": "LAE15417-N-003-46_D",
         "sku": "LENSKART-LAE15417-N-003-46_D"
+      },
+      "gid://shopify/ProductVariant/48624496574718": {
+        "qty": 0,
+        "product_title": "LAE16208-002-52_D",
+        "sku": "LENSKART-LAE16208-002-52_D"
       },
       "gid://shopify/ProductVariant/48624496640254": {
         "qty": 0,
@@ -84462,6 +84452,11 @@
         "qty": 0,
         "product_title": "PESUN075-002_D",
         "sku": "PE-PESUN075-002_D"
+      },
+      "gid://shopify/ProductVariant/48630723150078": {
+        "qty": 0,
+        "product_title": "PESUN078-001_D",
+        "sku": "PE-PESUN078-001_D"
       },
       "gid://shopify/ProductVariant/48630723182846": {
         "qty": 0,
@@ -84627,6 +84622,11 @@
         "qty": 0,
         "product_title": "MJ-1068-RHL-54_D",
         "sku": "MJ-MJ-1068-RHL-54_D"
+      },
+      "gid://shopify/ProductVariant/48637114319102": {
+        "qty": 0,
+        "product_title": "30234L-ND02-53_D",
+        "sku": "MOREL-30234L-ND02-53_D"
       },
       "gid://shopify/ProductVariant/48637114417406": {
         "qty": 0,
