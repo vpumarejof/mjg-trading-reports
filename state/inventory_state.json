@@ -31415,13 +31415,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-04T06:39:38.351741+00:00",
+    "updated_at": "2026-08-04T09:26:45.668352+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 62705,
+        "total_qty": 62704,
         "sku_count": 2208,
         "product_count": 2208
       },
@@ -31437,7 +31437,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 83580,
+        "total_qty": 83578,
         "sku_count": 3152,
         "product_count": 3152
       },
@@ -31445,7 +31445,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 83580,
+        "total_qty": 83578,
         "sku_count": 10470,
         "product_count": 10470
       },
@@ -31461,7 +31461,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 83580,
+        "total_qty": 83578,
         "sku_count": 3991,
         "product_count": 3991
       },
@@ -31501,7 +31501,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 83109,
+        "total_qty": 83107,
         "sku_count": 2681,
         "product_count": 2681
       },
@@ -31573,7 +31573,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11203,
+        "total_qty": 11202,
         "sku_count": 936,
         "product_count": 936
       },
@@ -31613,7 +31613,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5682,
+        "total_qty": 5681,
         "sku_count": 449,
         "product_count": 449
       },
@@ -31797,7 +31797,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 2349,
+        "total_qty": 2348,
         "sku_count": 226,
         "product_count": 226
       },
@@ -32125,7 +32125,7 @@
         "title": "DKNY",
         "handle": "dkny",
         "legacy_id": "395943870718",
-        "total_qty": 404,
+        "total_qty": 403,
         "sku_count": 43,
         "product_count": 43
       },
@@ -32349,7 +32349,7 @@
         "title": "MODO",
         "handle": "modo",
         "legacy_id": "481959280894",
-        "total_qty": 394,
+        "total_qty": 393,
         "sku_count": 31,
         "product_count": 31
       },
@@ -42504,7 +42504,7 @@
         "sku": "MODO-4627-DNAVY-51"
       },
       "gid://shopify/ProductVariant/48354208776446": {
-        "qty": 15,
+        "qty": 14,
         "product_title": "4627-SMK00-51",
         "sku": "MODO-4627-SMK00-51"
       },
@@ -47964,7 +47964,7 @@
         "sku": "DKNY-DK555S-000"
       },
       "gid://shopify/ProductVariant/48648154841342": {
-        "qty": 20,
+        "qty": 19,
         "product_title": "DK555S-520",
         "sku": "DKNY-DK555S-520"
       },
