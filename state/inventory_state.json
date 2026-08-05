@@ -31415,7 +31415,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-05T07:37:06.996206+00:00",
+    "updated_at": "2026-08-05T10:15:24.344930+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
@@ -31437,7 +31437,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 84608,
+        "total_qty": 84606,
         "sku_count": 3224,
         "product_count": 3224
       },
@@ -31445,7 +31445,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 84608,
+        "total_qty": 84606,
         "sku_count": 10564,
         "product_count": 10564
       },
@@ -31461,7 +31461,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 84608,
+        "total_qty": 84606,
         "sku_count": 4070,
         "product_count": 4070
       },
@@ -31477,7 +31477,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22870,
+        "total_qty": 22869,
         "sku_count": 2483,
         "product_count": 2483
       },
@@ -31501,7 +31501,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 84157,
+        "total_qty": 84155,
         "sku_count": 2773,
         "product_count": 2773
       },
@@ -31573,7 +31573,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 12397,
+        "total_qty": 12396,
         "sku_count": 1048,
         "product_count": 1048
       },
@@ -31637,7 +31637,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2973,
+        "total_qty": 2972,
         "sku_count": 222,
         "product_count": 222
       },
@@ -31645,7 +31645,7 @@
         "title": "NIKE",
         "handle": "nike",
         "legacy_id": "391775125758",
-        "total_qty": 270,
+        "total_qty": 269,
         "sku_count": 28,
         "product_count": 28
       },
@@ -31781,7 +31781,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 24971,
+        "total_qty": 24970,
         "sku_count": 37,
         "product_count": 37
       },
@@ -43532,7 +43532,7 @@
         "sku": "NIKE-ADRENALINE-M-EVG-066"
       },
       "gid://shopify/ProductVariant/46059134714110": {
-        "qty": 9657,
+        "qty": 9656,
         "product_title": "DropShip",
         "sku": "DropShip"
       },
@@ -43797,7 +43797,7 @@
         "sku": "NIKE-NV03-DZ7374-010"
       },
       "gid://shopify/ProductVariant/46811470233854": {
-        "qty": 11,
+        "qty": 10,
         "product_title": "NV03 DZ7374",
         "sku": "NIKE-NV03-DZ7374-451"
       },
