@@ -31415,13 +31415,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-06T13:17:55.639421+00:00",
+    "updated_at": "2026-08-06T15:38:34.668180+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 62465,
+        "total_qty": 62464,
         "sku_count": 2153,
         "product_count": 2153
       },
@@ -31437,7 +31437,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 84504,
+        "total_qty": 84501,
         "sku_count": 3206,
         "product_count": 3206
       },
@@ -31445,7 +31445,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 84504,
+        "total_qty": 84501,
         "sku_count": 10564,
         "product_count": 10564
       },
@@ -31453,7 +31453,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12637,
+        "total_qty": 12634,
         "sku_count": 907,
         "product_count": 907
       },
@@ -31461,7 +31461,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 84504,
+        "total_qty": 84501,
         "sku_count": 4056,
         "product_count": 4056
       },
@@ -31469,7 +31469,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12637,
+        "total_qty": 12634,
         "sku_count": 907,
         "product_count": 907
       },
@@ -31501,7 +31501,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 84061,
+        "total_qty": 84058,
         "sku_count": 2763,
         "product_count": 2763
       },
@@ -31509,7 +31509,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3856,
+        "total_qty": 3855,
         "sku_count": 508,
         "product_count": 508
       },
@@ -31573,7 +31573,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 12370,
+        "total_qty": 12368,
         "sku_count": 1045,
         "product_count": 1045
       },
@@ -31605,7 +31605,7 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 737,
+        "total_qty": 736,
         "sku_count": 86,
         "product_count": 86
       },
@@ -31613,7 +31613,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 6346,
+        "total_qty": 6344,
         "sku_count": 515,
         "product_count": 515
       },
@@ -31749,7 +31749,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 1012,
+        "total_qty": 1010,
         "sku_count": 150,
         "product_count": 150
       },
@@ -31797,7 +31797,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 2302,
+        "total_qty": 2301,
         "sku_count": 206,
         "product_count": 206
       },
@@ -31829,7 +31829,7 @@
         "title": "MARC JACOBS",
         "handle": "marc-jacobs",
         "legacy_id": "391774732542",
-        "total_qty": 395,
+        "total_qty": 396,
         "sku_count": 70,
         "product_count": 70
       },
@@ -31957,7 +31957,7 @@
         "title": "MOSCHINO",
         "handle": "moschino",
         "legacy_id": "395943837950",
-        "total_qty": 428,
+        "total_qty": 427,
         "sku_count": 48,
         "product_count": 48
       },
@@ -32093,7 +32093,7 @@
         "title": "COCO SONG",
         "handle": "coco-song",
         "legacy_id": "467688259838",
-        "total_qty": 236,
+        "total_qty": 235,
         "sku_count": 60,
         "product_count": 60
       },
@@ -32109,7 +32109,7 @@
         "title": "ANDY WOLF",
         "handle": "andy-wolf-1",
         "legacy_id": "469566619902",
-        "total_qty": 1110,
+        "total_qty": 1111,
         "sku_count": 286,
         "product_count": 286
       },
@@ -32261,7 +32261,7 @@
         "title": "JAGUAR",
         "handle": "jaguar",
         "legacy_id": "475760034046",
-        "total_qty": 43,
+        "total_qty": 44,
         "sku_count": 8,
         "product_count": 8
       },
@@ -32421,7 +32421,7 @@
         "title": "FOSSIL",
         "handle": "fossil",
         "legacy_id": "395943772414",
-        "total_qty": 13,
+        "total_qty": 12,
         "sku_count": 2,
         "product_count": 2
       },
@@ -36227,7 +36227,7 @@
         "sku": "SF-SF2986-232-53"
       },
       "gid://shopify/ProductVariant/47027375177982": {
-        "qty": 17,
+        "qty": 16,
         "product_title": "SF2993-232-53",
         "sku": "SF-SF2993-232-53"
       },
@@ -37067,7 +37067,7 @@
         "sku": "CS-LONG-NIGHT-CV249.02-09"
       },
       "gid://shopify/ProductVariant/47272818114814": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "LONG-NIGHT-CV249.03-09",
         "sku": "CS-LONG-NIGHT-CV249.03-09"
       },
@@ -38552,7 +38552,7 @@
         "sku": "MOSCHINO-MOS635-C9A-53"
       },
       "gid://shopify/ProductVariant/47589021974782": {
-        "qty": 7,
+        "qty": 8,
         "product_title": "JG31523-4717-51",
         "sku": "JAGUAR-JG31523-4717-51"
       },
@@ -38932,7 +38932,7 @@
         "sku": "AW-4519-D-50"
       },
       "gid://shopify/ProductVariant/47655176470782": {
-        "qty": 6,
+        "qty": 7,
         "product_title": "4520-G-55",
         "sku": "AW-4520-G-55"
       },
@@ -43117,7 +43117,7 @@
         "sku": "MOSCHINO-MOS608-LHF-51"
       },
       "gid://shopify/ProductVariant/48648026915070": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "MOS609-TBO-53",
         "sku": "MOSCHINO-MOS609-TBO-53"
       },
@@ -43307,7 +43307,7 @@
         "sku": "TOMMY HILFIGER TJ 0027/S 0VK6/KU"
       },
       "gid://shopify/ProductVariant/44615972421886": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "AMIYAH-G-S-0F74-9O",
         "sku": "KATE SPADE AMIYAH/G/S 0F74/9O"
       },
@@ -44997,7 +44997,7 @@
         "sku": "KS-ALVI/G/S-086/HA"
       },
       "gid://shopify/ProductVariant/47796734263550": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "AMIYAH/G/S-F74/9O",
         "sku": "KS-AMIYAH/G/S-F74/9O"
       },
@@ -45302,7 +45302,7 @@
         "sku": "BUGATTI-07-GRY/BK"
       },
       "gid://shopify/ProductVariant/48011619369214": {
-        "qty": 9,
+        "qty": 10,
         "product_title": "MARC-773/S-807/IR",
         "sku": "MJ-MARC-773/S-807/IR"
       },
@@ -46762,7 +46762,7 @@
         "sku": "CELINE-CL40304U-25E"
       },
       "gid://shopify/ProductVariant/48349469016318": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "FOS-3151/G/S-807/HA",
         "sku": "FOSSIL-FOS-3151/G/S-807/HA"
       },
