@@ -31415,7 +31415,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-06T00:49:33.853854+00:00",
+    "updated_at": "2026-08-06T03:58:56.520576+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
@@ -31437,15 +31437,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 84531,
-        "sku_count": 3213,
-        "product_count": 3213
+        "total_qty": 84530,
+        "sku_count": 3212,
+        "product_count": 3212
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 84531,
+        "total_qty": 84530,
         "sku_count": 10564,
         "product_count": 10564
       },
@@ -31461,9 +31461,9 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 84531,
-        "sku_count": 4061,
-        "product_count": 4061
+        "total_qty": 84530,
+        "sku_count": 4060,
+        "product_count": 4060
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
@@ -31573,9 +31573,9 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 12380,
-        "sku_count": 1048,
-        "product_count": 1048
+        "total_qty": 12379,
+        "sku_count": 1047,
+        "product_count": 1047
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -31613,9 +31613,9 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 6351,
-        "sku_count": 516,
-        "product_count": 516
+        "total_qty": 6350,
+        "sku_count": 515,
+        "product_count": 515
       },
       "gid://shopify/Collection/391853998334": {
         "title": "Men's",
@@ -32269,9 +32269,9 @@
         "title": "LONGCHAMP",
         "handle": "longchamp",
         "legacy_id": "476032958718",
-        "total_qty": 405,
-        "sku_count": 50,
-        "product_count": 50
+        "total_qty": 404,
+        "sku_count": 49,
+        "product_count": 49
       },
       "gid://shopify/Collection/476563603710": {
         "title": "CHARRIOL",
@@ -44430,11 +44430,6 @@
         "qty": 5,
         "product_title": "L995S-214",
         "sku": "LACOSTE-L995S-214"
-      },
-      "gid://shopify/ProductVariant/47609140740350": {
-        "qty": 1,
-        "product_title": "LO758S-600",
-        "sku": "LONGCHAMP-LO758S-600"
       },
       "gid://shopify/ProductVariant/47609151422718": {
         "qty": 6,
@@ -74885,6 +74880,11 @@
         "qty": 0,
         "product_title": "LO745S-305",
         "sku": "LONGCHAMP-LO745S-305"
+      },
+      "gid://shopify/ProductVariant/47609140740350": {
+        "qty": 0,
+        "product_title": "LO758S-600",
+        "sku": "LONGCHAMP-LO758S-600"
       },
       "gid://shopify/ProductVariant/47609140773118": {
         "qty": 0,
