@@ -5,8 +5,8 @@ from email.mime.text import MIMEText
 
 
 def send_email(subject, html_body):
-    from_email = os.environ["OUTLOOK_EMAIL"]
-    password = os.environ["OUTLOOK_APP_PASSWORD"]
+    from_email = os.environ["GMAIL_EMAIL"]
+    password = os.environ["GMAIL_APP_PASSWORD"]
     raw = os.environ.get("REPORT_EMAIL", from_email)
     recipients = [r.strip() for r in raw.split(",") if r.strip()]
 
@@ -16,7 +16,7 @@ def send_email(subject, html_body):
     msg["To"] = ", ".join(recipients)
     msg.attach(MIMEText(html_body, "html", "utf-8"))
 
-    with smtplib.SMTP("smtp.office365.com", 587, timeout=30) as server:
+    with smtplib.SMTP("smtp.gmail.com", 587, timeout=30) as server:
         server.ehlo()
         server.starttls()
         server.login(from_email, password)
