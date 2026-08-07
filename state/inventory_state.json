@@ -31697,7 +31697,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-07T18:28:48.686475+00:00",
+    "updated_at": "2026-08-07T19:29:45.677281+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
@@ -31719,15 +31719,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 84557,
-        "sku_count": 3225,
-        "product_count": 3225
+        "total_qty": 84587,
+        "sku_count": 3228,
+        "product_count": 3228
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 84557,
+        "total_qty": 84587,
         "sku_count": 10594,
         "product_count": 10594
       },
@@ -31743,9 +31743,9 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 84557,
-        "sku_count": 4079,
-        "product_count": 4079
+        "total_qty": 84587,
+        "sku_count": 4082,
+        "product_count": 4082
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
@@ -31783,9 +31783,9 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 84100,
-        "sku_count": 2768,
-        "product_count": 2768
+        "total_qty": 84130,
+        "sku_count": 2771,
+        "product_count": 2771
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
@@ -31855,9 +31855,9 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 12292,
-        "sku_count": 1041,
-        "product_count": 1041
+        "total_qty": 12322,
+        "sku_count": 1044,
+        "product_count": 1044
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -31871,9 +31871,9 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 3107,
-        "sku_count": 313,
-        "product_count": 313
+        "total_qty": 3137,
+        "sku_count": 316,
+        "product_count": 316
       },
       "gid://shopify/Collection/391774109950": {
         "title": "DRAGON",
@@ -32079,9 +32079,9 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 1841,
-        "sku_count": 178,
-        "product_count": 178
+        "total_qty": 1839,
+        "sku_count": 177,
+        "product_count": 177
       },
       "gid://shopify/Collection/455407829246": {
         "title": "Uniisex Eyeglasses",
@@ -32719,9 +32719,9 @@
         "title": "CANADA GOOSE",
         "handle": "canada-goose",
         "legacy_id": "487431995646",
-        "total_qty": 270,
-        "sku_count": 14,
-        "product_count": 14
+        "total_qty": 300,
+        "sku_count": 17,
+        "product_count": 17
       },
       "gid://shopify/Collection/396440076542": {
         "title": "POLAROID",
@@ -47812,6 +47812,21 @@
         "qty": 19,
         "product_title": "GC25625S-SID-002",
         "sku": "CG-GC25625S-SID-002"
+      },
+      "gid://shopify/ProductVariant/48629791326462": {
+        "qty": 10,
+        "product_title": "GC25625S-SID-211",
+        "sku": "CG-GC25625S-SID-211"
+      },
+      "gid://shopify/ProductVariant/48629791359230": {
+        "qty": 10,
+        "product_title": "GC25625S-SID-318",
+        "sku": "CG-GC25625S-SID-318"
+      },
+      "gid://shopify/ProductVariant/48629791391998": {
+        "qty": 10,
+        "product_title": "GC25625S-SID-424",
+        "sku": "CG-GC25625S-SID-424"
       },
       "gid://shopify/ProductVariant/48629791555838": {
         "qty": 20,
@@ -85262,21 +85277,6 @@
         "qty": 0,
         "product_title": "GC25603S-424",
         "sku": "CG-GC25603S-424"
-      },
-      "gid://shopify/ProductVariant/48629791326462": {
-        "qty": 0,
-        "product_title": "GC25625S-SID-211",
-        "sku": "CG-GC25625S-SID-211"
-      },
-      "gid://shopify/ProductVariant/48629791359230": {
-        "qty": 0,
-        "product_title": "GC25625S-SID-318",
-        "sku": "CG-GC25625S-SID-318"
-      },
-      "gid://shopify/ProductVariant/48629791391998": {
-        "qty": 0,
-        "product_title": "GC25625S-SID-424",
-        "sku": "CG-GC25625S-SID-424"
       },
       "gid://shopify/ProductVariant/48629791457534": {
         "qty": 0,
