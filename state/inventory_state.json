@@ -31697,15 +31697,15 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-07T20:06:30.964479+00:00",
+    "updated_at": "2026-08-07T20:56:39.111668+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 62598,
-        "sku_count": 2176,
-        "product_count": 2176
+        "total_qty": 62605,
+        "sku_count": 2177,
+        "product_count": 2177
       },
       "gid://shopify/Collection/391774208254": {
         "title": "ELIE SAAB",
@@ -31719,17 +31719,17 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 84587,
-        "sku_count": 3228,
-        "product_count": 3228
+        "total_qty": 84594,
+        "sku_count": 3229,
+        "product_count": 3229
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 84587,
-        "sku_count": 10594,
-        "product_count": 10594
+        "total_qty": 84594,
+        "sku_count": 10595,
+        "product_count": 10595
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
@@ -31743,9 +31743,9 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 84587,
-        "sku_count": 4082,
-        "product_count": 4082
+        "total_qty": 84594,
+        "sku_count": 4083,
+        "product_count": 4083
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
@@ -31783,9 +31783,9 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 84130,
-        "sku_count": 2771,
-        "product_count": 2771
+        "total_qty": 84137,
+        "sku_count": 2772,
+        "product_count": 2772
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
@@ -32271,9 +32271,9 @@
         "title": "FLEXON",
         "handle": "flexon",
         "legacy_id": "466401853694",
-        "total_qty": 244,
-        "sku_count": 42,
-        "product_count": 42
+        "total_qty": 251,
+        "sku_count": 43,
+        "product_count": 43
       },
       "gid://shopify/Collection/464259285246": {
         "title": "OPTIKA",
@@ -43502,6 +43502,11 @@
         "qty": 5,
         "product_title": "H6030-032-52",
         "sku": "FLEXON-H6030-032-52"
+      },
+      "gid://shopify/ProductVariant/48698371277054": {
+        "qty": 7,
+        "product_title": "H6066-N-070-57",
+        "sku": "FLEXON-H6066-N-070-57"
       },
       "gid://shopify/ProductVariant/48698371375358": {
         "qty": 5,
