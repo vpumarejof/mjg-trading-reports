@@ -31697,13 +31697,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-07T15:45:18.983568+00:00",
+    "updated_at": "2026-08-07T16:35:45.482321+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 62599,
+        "total_qty": 62598,
         "sku_count": 2176,
         "product_count": 2176
       },
@@ -31719,7 +31719,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 84587,
+        "total_qty": 84583,
         "sku_count": 3225,
         "product_count": 3225
       },
@@ -31727,7 +31727,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 84587,
+        "total_qty": 84583,
         "sku_count": 10594,
         "product_count": 10594
       },
@@ -31735,7 +31735,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12627,
+        "total_qty": 12626,
         "sku_count": 906,
         "product_count": 906
       },
@@ -31743,7 +31743,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 84587,
+        "total_qty": 84583,
         "sku_count": 4079,
         "product_count": 4079
       },
@@ -31751,7 +31751,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12627,
+        "total_qty": 12626,
         "sku_count": 906,
         "product_count": 906
       },
@@ -31783,7 +31783,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 84130,
+        "total_qty": 84126,
         "sku_count": 2768,
         "product_count": 2768
       },
@@ -31791,7 +31791,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3815,
+        "total_qty": 3811,
         "sku_count": 498,
         "product_count": 498
       },
@@ -31855,7 +31855,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 12321,
+        "total_qty": 12318,
         "sku_count": 1041,
         "product_count": 1041
       },
@@ -31887,7 +31887,7 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 732,
+        "total_qty": 731,
         "sku_count": 85,
         "product_count": 85
       },
@@ -31895,7 +31895,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 6333,
+        "total_qty": 6330,
         "sku_count": 515,
         "product_count": 515
       },
@@ -32607,7 +32607,7 @@
         "title": "BALENCIAGA",
         "handle": "balenciaga",
         "legacy_id": "395973296382",
-        "total_qty": 237,
+        "total_qty": 236,
         "sku_count": 106,
         "product_count": 106
       },
@@ -32655,7 +32655,7 @@
         "title": "TIFFANY & CO",
         "handle": "tiffany-co",
         "legacy_id": "483397370110",
-        "total_qty": 162,
+        "total_qty": 160,
         "sku_count": 25,
         "product_count": 25
       },
@@ -41604,7 +41604,7 @@
         "sku": "BALENCIAGA-BB0326O-004-53"
       },
       "gid://shopify/ProductVariant/48288328188158": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "BB0326O-005-53",
         "sku": "BALENCIAGA-BB0326O-005-53"
       },
@@ -46164,7 +46164,7 @@
         "sku": "LONGCHAMP-LO712S-N-011"
       },
       "gid://shopify/ProductVariant/48094648205566": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "SF1027S-214",
         "sku": "SF-SF1027S-214"
       },
@@ -46634,7 +46634,7 @@
         "sku": "TF-TF4193B-80019S"
       },
       "gid://shopify/ProductVariant/48223291834622": {
-        "qty": 11,
+        "qty": 10,
         "product_title": "TF4231U-8055S4",
         "sku": "TF-TF4231U-8055S4"
       },
@@ -46644,7 +46644,7 @@
         "sku": "TF-TF4232-80013C"
       },
       "gid://shopify/ProductVariant/48223291900158": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "TF4253-80013C",
         "sku": "TF-TF4253-80013C"
       },
