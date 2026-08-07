@@ -31697,13 +31697,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-07T14:52:51.840832+00:00",
+    "updated_at": "2026-08-07T15:45:18.983568+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 62600,
+        "total_qty": 62599,
         "sku_count": 2176,
         "product_count": 2176
       },
@@ -31719,7 +31719,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 84590,
+        "total_qty": 84587,
         "sku_count": 3225,
         "product_count": 3225
       },
@@ -31727,7 +31727,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 84590,
+        "total_qty": 84587,
         "sku_count": 10594,
         "product_count": 10594
       },
@@ -31743,7 +31743,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 84590,
+        "total_qty": 84587,
         "sku_count": 4079,
         "product_count": 4079
       },
@@ -31759,7 +31759,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22851,
+        "total_qty": 22850,
         "sku_count": 2485,
         "product_count": 2485
       },
@@ -31775,7 +31775,7 @@
         "title": "PRADA",
         "handle": "prada",
         "legacy_id": "391775289598",
-        "total_qty": 214,
+        "total_qty": 213,
         "sku_count": 35,
         "product_count": 35
       },
@@ -31783,15 +31783,15 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 84134,
-        "sku_count": 2769,
-        "product_count": 2769
+        "total_qty": 84130,
+        "sku_count": 2768,
+        "product_count": 2768
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3817,
+        "total_qty": 3815,
         "sku_count": 498,
         "product_count": 498
       },
@@ -31823,7 +31823,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 19847,
+        "total_qty": 19846,
         "sku_count": 482,
         "product_count": 482
       },
@@ -31831,7 +31831,7 @@
         "title": "OPEN BOX",
         "handle": "shelf-pulls",
         "legacy_id": "463407481086",
-        "total_qty": 106,
+        "total_qty": 105,
         "sku_count": 46,
         "product_count": 46
       },
@@ -31839,7 +31839,7 @@
         "title": "Open Box",
         "handle": "open-box",
         "legacy_id": "463674867966",
-        "total_qty": 71,
+        "total_qty": 70,
         "sku_count": 11,
         "product_count": 11
       },
@@ -31855,7 +31855,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 12323,
+        "total_qty": 12321,
         "sku_count": 1041,
         "product_count": 1041
       },
@@ -31871,7 +31871,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 3108,
+        "total_qty": 3107,
         "sku_count": 313,
         "product_count": 313
       },
@@ -31919,7 +31919,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2962,
+        "total_qty": 2961,
         "sku_count": 218,
         "product_count": 218
       },
@@ -32687,9 +32687,9 @@
         "title": "CELINE",
         "handle": "celine",
         "legacy_id": "483191193854",
-        "total_qty": 14,
-        "sku_count": 6,
-        "product_count": 6
+        "total_qty": 12,
+        "sku_count": 5,
+        "product_count": 5
       },
       "gid://shopify/Collection/391774077182": {
         "title": "DIOR",
@@ -32744,7 +32744,7 @@
         "sku": "PRADA0PR60XV5541O153"
       },
       "gid://shopify/ProductVariant/42500340973822": {
-        "qty": 20,
+        "qty": 19,
         "product_title": "GG0579OK00153",
         "sku": "GUCCIGG0579OK00153"
       },
@@ -47084,7 +47084,7 @@
         "sku": "TH-TH-2105/S-086/GB"
       },
       "gid://shopify/ProductVariant/48336357687550": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "CL40280U 5452A",
         "sku": "CELINE-CL40280U-52A"
       },
@@ -47269,7 +47269,7 @@
         "sku": "PRADA-PR-A19S-1BO40G"
       },
       "gid://shopify/ProductVariant/48392229290238": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "PS-02YS-1BO06F",
         "sku": "PRADA-PS-02YS-1BO06F"
       },
