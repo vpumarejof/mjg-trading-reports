@@ -31697,15 +31697,15 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-07T13:59:00.089105+00:00",
+    "updated_at": "2026-08-07T14:52:51.840832+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 62416,
-        "sku_count": 2146,
-        "product_count": 2146
+        "total_qty": 62600,
+        "sku_count": 2176,
+        "product_count": 2176
       },
       "gid://shopify/Collection/391774208254": {
         "title": "ELIE SAAB",
@@ -31719,49 +31719,49 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 84406,
-        "sku_count": 3195,
-        "product_count": 3195
+        "total_qty": 84590,
+        "sku_count": 3225,
+        "product_count": 3225
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 84406,
-        "sku_count": 10564,
-        "product_count": 10564
+        "total_qty": 84590,
+        "sku_count": 10594,
+        "product_count": 10594
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12606,
-        "sku_count": 903,
-        "product_count": 903
+        "total_qty": 12627,
+        "sku_count": 906,
+        "product_count": 906
       },
       "gid://shopify/Collection/410150142206": {
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 84406,
-        "sku_count": 4049,
-        "product_count": 4049
+        "total_qty": 84590,
+        "sku_count": 4079,
+        "product_count": 4079
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12606,
-        "sku_count": 903,
-        "product_count": 903
+        "total_qty": 12627,
+        "sku_count": 906,
+        "product_count": 906
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22841,
-        "sku_count": 2483,
-        "product_count": 2483
+        "total_qty": 22851,
+        "sku_count": 2485,
+        "product_count": 2485
       },
       "gid://shopify/Collection/454449725694": {
         "title": "Havana",
@@ -31783,9 +31783,9 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 83951,
-        "sku_count": 2740,
-        "product_count": 2740
+        "total_qty": 84134,
+        "sku_count": 2769,
+        "product_count": 2769
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
@@ -31823,9 +31823,9 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 19837,
-        "sku_count": 480,
-        "product_count": 480
+        "total_qty": 19847,
+        "sku_count": 482,
+        "product_count": 482
       },
       "gid://shopify/Collection/463407481086": {
         "title": "OPEN BOX",
@@ -31943,9 +31943,9 @@
         "title": "Kid's Eyeglasses",
         "handle": "kids-eyeglasses",
         "legacy_id": "408131305726",
-        "total_qty": 21818,
-        "sku_count": 91,
-        "product_count": 91
+        "total_qty": 21930,
+        "sku_count": 107,
+        "product_count": 107
       },
       "gid://shopify/Collection/409185091838": {
         "title": "Ski & Sport",
@@ -32039,9 +32039,9 @@
         "title": "Kids",
         "handle": "kids",
         "legacy_id": "454431080702",
-        "total_qty": 21814,
-        "sku_count": 121,
-        "product_count": 121
+        "total_qty": 21926,
+        "sku_count": 137,
+        "product_count": 137
       },
       "gid://shopify/Collection/416213041406": {
         "title": "Male Sunglasses",
@@ -32271,9 +32271,9 @@
         "title": "FLEXON",
         "handle": "flexon",
         "legacy_id": "466401853694",
-        "total_qty": 60,
-        "sku_count": 12,
-        "product_count": 12
+        "total_qty": 244,
+        "sku_count": 42,
+        "product_count": 42
       },
       "gid://shopify/Collection/464259285246": {
         "title": "OPTIKA",
@@ -43462,6 +43462,156 @@
         "qty": 5,
         "product_title": "TH-2131-086-52",
         "sku": "TH-TH-2131-086-52"
+      },
+      "gid://shopify/ProductVariant/48698370916606": {
+        "qty": 1,
+        "product_title": "B2021-001-54",
+        "sku": "FLEXON-B2021-001-54"
+      },
+      "gid://shopify/ProductVariant/48698370949374": {
+        "qty": 3,
+        "product_title": "B2021-221-54",
+        "sku": "FLEXON-B2021-221-54"
+      },
+      "gid://shopify/ProductVariant/48698370982142": {
+        "qty": 5,
+        "product_title": "E1128-N-072-54",
+        "sku": "FLEXON-E1128-N-072-54"
+      },
+      "gid://shopify/ProductVariant/48698371047678": {
+        "qty": 5,
+        "product_title": "E1155-206-54",
+        "sku": "FLEXON-E1155-206-54"
+      },
+      "gid://shopify/ProductVariant/48698371080446": {
+        "qty": 7,
+        "product_title": "E1158-042-57",
+        "sku": "FLEXON-E1158-042-57"
+      },
+      "gid://shopify/ProductVariant/48698371113214": {
+        "qty": 5,
+        "product_title": "EP8006-N-020-50",
+        "sku": "FLEXON-EP8006-N-020-50"
+      },
+      "gid://shopify/ProductVariant/48698371145982": {
+        "qty": 5,
+        "product_title": "EP8006-N-231-50",
+        "sku": "FLEXON-EP8006-N-231-50"
+      },
+      "gid://shopify/ProductVariant/48698371211518": {
+        "qty": 5,
+        "product_title": "H6030-032-52",
+        "sku": "FLEXON-H6030-032-52"
+      },
+      "gid://shopify/ProductVariant/48698371375358": {
+        "qty": 5,
+        "product_title": "H6077-306-57",
+        "sku": "FLEXON-H6077-306-57"
+      },
+      "gid://shopify/ProductVariant/48698371440894": {
+        "qty": 5,
+        "product_title": "H6079-004-55",
+        "sku": "FLEXON-H6079-004-55"
+      },
+      "gid://shopify/ProductVariant/48698371506430": {
+        "qty": 5,
+        "product_title": "H6084-002-57",
+        "sku": "FLEXON-H6084-002-57"
+      },
+      "gid://shopify/ProductVariant/48698371604734": {
+        "qty": 7,
+        "product_title": "J4017-051-49",
+        "sku": "FLEXON-J4017-051-49"
+      },
+      "gid://shopify/ProductVariant/48698371670270": {
+        "qty": 7,
+        "product_title": "J4018-001-48",
+        "sku": "FLEXON-J4018-001-48"
+      },
+      "gid://shopify/ProductVariant/48698371735806": {
+        "qty": 7,
+        "product_title": "J4018-415-48",
+        "sku": "FLEXON-J4018-415-48"
+      },
+      "gid://shopify/ProductVariant/48698371801342": {
+        "qty": 7,
+        "product_title": "J4020-N-001-49",
+        "sku": "FLEXON-J4020-N-001-49"
+      },
+      "gid://shopify/ProductVariant/48698371866878": {
+        "qty": 7,
+        "product_title": "J4020-N-036-49",
+        "sku": "FLEXON-J4020-N-036-49"
+      },
+      "gid://shopify/ProductVariant/48698371965182": {
+        "qty": 7,
+        "product_title": "J4020-N-318-49",
+        "sku": "FLEXON-J4020-N-318-49"
+      },
+      "gid://shopify/ProductVariant/48698372161790": {
+        "qty": 7,
+        "product_title": "J4020-N-404-49",
+        "sku": "FLEXON-J4020-N-404-49"
+      },
+      "gid://shopify/ProductVariant/48698372260094": {
+        "qty": 7,
+        "product_title": "J4021-N-244-48",
+        "sku": "FLEXON-J4021-N-244-48"
+      },
+      "gid://shopify/ProductVariant/48698372358398": {
+        "qty": 7,
+        "product_title": "J4021-N-501-48",
+        "sku": "FLEXON-J4021-N-501-48"
+      },
+      "gid://shopify/ProductVariant/48698372423934": {
+        "qty": 7,
+        "product_title": "J4021-N-518-48",
+        "sku": "FLEXON-J4021-N-518-48"
+      },
+      "gid://shopify/ProductVariant/48698372489470": {
+        "qty": 7,
+        "product_title": "J4021-N-650-48",
+        "sku": "FLEXON-J4021-N-650-48"
+      },
+      "gid://shopify/ProductVariant/48698372555006": {
+        "qty": 7,
+        "product_title": "J4022-N-313-49",
+        "sku": "FLEXON-J4022-N-313-49"
+      },
+      "gid://shopify/ProductVariant/48698372620542": {
+        "qty": 7,
+        "product_title": "J4022-N-313-51",
+        "sku": "FLEXON-J4022-N-313-51"
+      },
+      "gid://shopify/ProductVariant/48698372686078": {
+        "qty": 7,
+        "product_title": "J4022-N-404-49",
+        "sku": "FLEXON-J4022-N-404-49"
+      },
+      "gid://shopify/ProductVariant/48698372751614": {
+        "qty": 7,
+        "product_title": "J4022-N-404-51",
+        "sku": "FLEXON-J4022-N-404-51"
+      },
+      "gid://shopify/ProductVariant/48698372817150": {
+        "qty": 7,
+        "product_title": "J4026-N-070-50",
+        "sku": "FLEXON-J4026-N-070-50"
+      },
+      "gid://shopify/ProductVariant/48698372882686": {
+        "qty": 7,
+        "product_title": "MAE-412-51",
+        "sku": "FLEXON-MAE-412-51"
+      },
+      "gid://shopify/ProductVariant/48698372948222": {
+        "qty": 7,
+        "product_title": "W3036-033-52",
+        "sku": "FLEXON-W3036-033-52"
+      },
+      "gid://shopify/ProductVariant/48698373013758": {
+        "qty": 7,
+        "product_title": "W3036-210-52",
+        "sku": "FLEXON-W3036-210-52"
       },
       "gid://shopify/ProductVariant/42500344316158": {
         "qty": 23,
