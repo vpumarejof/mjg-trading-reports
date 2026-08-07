@@ -31697,7 +31697,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-07T03:37:48.765808+00:00",
+    "updated_at": "2026-08-07T05:22:14.003892+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
@@ -31719,15 +31719,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 84422,
-        "sku_count": 3196,
-        "product_count": 3196
+        "total_qty": 84421,
+        "sku_count": 3195,
+        "product_count": 3195
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 84422,
+        "total_qty": 84421,
         "sku_count": 10564,
         "product_count": 10564
       },
@@ -31743,9 +31743,9 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 84422,
-        "sku_count": 4050,
-        "product_count": 4050
+        "total_qty": 84421,
+        "sku_count": 4049,
+        "product_count": 4049
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
@@ -31759,7 +31759,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22844,
+        "total_qty": 22843,
         "sku_count": 2483,
         "product_count": 2483
       },
@@ -31855,9 +31855,9 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 12332,
-        "sku_count": 1042,
-        "product_count": 1042
+        "total_qty": 12331,
+        "sku_count": 1041,
+        "product_count": 1041
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -31919,9 +31919,9 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2964,
-        "sku_count": 219,
-        "product_count": 219
+        "total_qty": 2963,
+        "sku_count": 218,
+        "product_count": 218
       },
       "gid://shopify/Collection/391775125758": {
         "title": "NIKE",
@@ -32263,9 +32263,9 @@
         "title": "CALVIN KLEIN JEANS",
         "handle": "calvin-klein-jeans",
         "legacy_id": "464057172222",
-        "total_qty": 419,
-        "sku_count": 59,
-        "product_count": 59
+        "total_qty": 418,
+        "sku_count": 58,
+        "product_count": 58
       },
       "gid://shopify/Collection/466401853694": {
         "title": "FLEXON",
@@ -43862,11 +43862,6 @@
         "qty": 4,
         "product_title": "CKJ23608S-238",
         "sku": "CKJ-CKJ23608S-238"
-      },
-      "gid://shopify/ProductVariant/46670758150398": {
-        "qty": 1,
-        "product_title": "CKJ23622S-300",
-        "sku": "CKJ-CKJ23622S-300"
       },
       "gid://shopify/ProductVariant/46670758183166": {
         "qty": 8,
@@ -64712,6 +64707,11 @@
         "qty": 0,
         "product_title": "CKJ23609S-239",
         "sku": "CKJ-CKJ23609S-239"
+      },
+      "gid://shopify/ProductVariant/46670758150398": {
+        "qty": 0,
+        "product_title": "CKJ23622S-300",
+        "sku": "CKJ-CKJ23622S-300"
       },
       "gid://shopify/ProductVariant/46670758379774": {
         "qty": 0,
