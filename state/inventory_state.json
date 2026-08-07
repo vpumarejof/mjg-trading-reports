@@ -31697,13 +31697,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-07T20:56:39.111668+00:00",
+    "updated_at": "2026-08-07T21:33:39.371834+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 62605,
+        "total_qty": 62604,
         "sku_count": 2177,
         "product_count": 2177
       },
@@ -31719,15 +31719,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 84594,
-        "sku_count": 3229,
-        "product_count": 3229
+        "total_qty": 84591,
+        "sku_count": 3228,
+        "product_count": 3228
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 84594,
+        "total_qty": 84591,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31743,9 +31743,9 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 84594,
-        "sku_count": 4083,
-        "product_count": 4083
+        "total_qty": 84591,
+        "sku_count": 4082,
+        "product_count": 4082
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
@@ -31759,7 +31759,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22850,
+        "total_qty": 22849,
         "sku_count": 2485,
         "product_count": 2485
       },
@@ -31767,7 +31767,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 1123,
+        "total_qty": 1122,
         "sku_count": 911,
         "product_count": 911
       },
@@ -31775,7 +31775,7 @@
         "title": "PRADA",
         "handle": "prada",
         "legacy_id": "391775289598",
-        "total_qty": 213,
+        "total_qty": 212,
         "sku_count": 35,
         "product_count": 35
       },
@@ -31783,17 +31783,17 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 84137,
-        "sku_count": 2772,
-        "product_count": 2772
+        "total_qty": 84134,
+        "sku_count": 2771,
+        "product_count": 2771
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3811,
-        "sku_count": 498,
-        "product_count": 498
+        "total_qty": 3809,
+        "sku_count": 497,
+        "product_count": 497
       },
       "gid://shopify/Collection/391854031102": {
         "title": "Women's",
@@ -31855,9 +31855,9 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 12322,
-        "sku_count": 1044,
-        "product_count": 1044
+        "total_qty": 12320,
+        "sku_count": 1043,
+        "product_count": 1043
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -31895,7 +31895,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 6304,
+        "total_qty": 6303,
         "sku_count": 515,
         "product_count": 515
       },
@@ -31919,9 +31919,9 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2961,
-        "sku_count": 218,
-        "product_count": 218
+        "total_qty": 2960,
+        "sku_count": 217,
+        "product_count": 217
       },
       "gid://shopify/Collection/391775125758": {
         "title": "NIKE",
@@ -32127,7 +32127,7 @@
         "title": "DAVID BECKHAM",
         "handle": "david-beckham",
         "legacy_id": "397089702142",
-        "total_qty": 629,
+        "total_qty": 628,
         "sku_count": 79,
         "product_count": 79
       },
@@ -32231,9 +32231,9 @@
         "title": "VALENTINO",
         "handle": "valentino",
         "legacy_id": "462679113982",
-        "total_qty": 122,
-        "sku_count": 23,
-        "product_count": 23
+        "total_qty": 121,
+        "sku_count": 22,
+        "product_count": 22
       },
       "gid://shopify/Collection/395943837950": {
         "title": "MOSCHINO",
@@ -34229,7 +34229,7 @@
         "sku": "DB-DB-1108-0086-55"
       },
       "gid://shopify/ProductVariant/46529203306750": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "DB-7097-0086",
         "sku": "DB-7097-0086"
       },
@@ -45353,11 +45353,6 @@
         "product_title": "V-GLASSLINER-VLS-118D-55",
         "sku": "VALENTINO-V-GLASSLINER-VLS-118D-55"
       },
-      "gid://shopify/ProductVariant/47769384354046": {
-        "qty": 1,
-        "product_title": "V-GOLD-II-VLS-161C-53",
-        "sku": "VALENTINO-V-GOLD-II-VLS-161C-53"
-      },
       "gid://shopify/ProductVariant/47769384386814": {
         "qty": 6,
         "product_title": "V-GOLD-III-VLS-138A-53",
@@ -47254,7 +47249,7 @@
         "sku": "PRADA-PR-06YS-2AU8C1"
       },
       "gid://shopify/ProductVariant/48392226668798": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "PR-07YS-VAU6S1",
         "sku": "PRADA-PR-07YS-VAU6S1"
       },
@@ -77992,6 +77987,11 @@
         "qty": 0,
         "product_title": "V-GOLD-II-VLS-161B-53",
         "sku": "VALENTINO-V-GOLD-II-VLS-161B-53"
+      },
+      "gid://shopify/ProductVariant/47769384354046": {
+        "qty": 0,
+        "product_title": "V-GOLD-II-VLS-161C-53",
+        "sku": "VALENTINO-V-GOLD-II-VLS-161C-53"
       },
       "gid://shopify/ProductVariant/47769384452350": {
         "qty": 0,
