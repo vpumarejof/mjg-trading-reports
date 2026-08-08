@@ -31790,13 +31790,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-08T19:51:09.729755+00:00",
+    "updated_at": "2026-08-08T20:19:00.429161+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 62563,
+        "total_qty": 62562,
         "sku_count": 2172,
         "product_count": 2172
       },
@@ -31812,7 +31812,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 84525,
+        "total_qty": 84523,
         "sku_count": 3220,
         "product_count": 3220
       },
@@ -31820,7 +31820,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 84525,
+        "total_qty": 84523,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31836,7 +31836,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 84525,
+        "total_qty": 84523,
         "sku_count": 4074,
         "product_count": 4074
       },
@@ -31876,7 +31876,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 84073,
+        "total_qty": 84071,
         "sku_count": 2768,
         "product_count": 2768
       },
@@ -32156,7 +32156,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 24964,
+        "total_qty": 24963,
         "sku_count": 37,
         "product_count": 37
       },
@@ -32484,7 +32484,7 @@
         "title": "ANDY WOLF",
         "handle": "andy-wolf-1",
         "legacy_id": "469566619902",
-        "total_qty": 1109,
+        "total_qty": 1108,
         "sku_count": 286,
         "product_count": 286
       },
@@ -39347,7 +39347,7 @@
         "sku": "AW-4525-I-57"
       },
       "gid://shopify/ProductVariant/47655176929534": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "4525-K-57",
         "sku": "AW-4525-K-57"
       },
@@ -43927,7 +43927,7 @@
         "sku": "NIKE-ADRENALINE-M-EVG-066"
       },
       "gid://shopify/ProductVariant/46059134714110": {
-        "qty": 9652,
+        "qty": 9651,
         "product_title": "DropShip",
         "sku": "DropShip"
       },
