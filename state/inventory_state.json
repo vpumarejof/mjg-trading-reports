@@ -31790,7 +31790,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-08T15:54:18.460125+00:00",
+    "updated_at": "2026-08-08T16:22:16.981731+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
@@ -31812,15 +31812,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 84537,
-        "sku_count": 3222,
-        "product_count": 3222
+        "total_qty": 84536,
+        "sku_count": 3221,
+        "product_count": 3221
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 84537,
+        "total_qty": 84536,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31836,9 +31836,9 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 84537,
-        "sku_count": 4076,
-        "product_count": 4076
+        "total_qty": 84536,
+        "sku_count": 4075,
+        "product_count": 4075
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
@@ -31948,9 +31948,9 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 12304,
-        "sku_count": 1041,
-        "product_count": 1041
+        "total_qty": 12303,
+        "sku_count": 1040,
+        "product_count": 1040
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -31988,9 +31988,9 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 6301,
-        "sku_count": 515,
-        "product_count": 515
+        "total_qty": 6300,
+        "sku_count": 514,
+        "product_count": 514
       },
       "gid://shopify/Collection/391853998334": {
         "title": "Men's",
@@ -32572,9 +32572,9 @@
         "title": "ROXY",
         "handle": "roxy",
         "legacy_id": "474031227134",
-        "total_qty": 70,
-        "sku_count": 11,
-        "product_count": 11
+        "total_qty": 69,
+        "sku_count": 10,
+        "product_count": 10
       },
       "gid://shopify/Collection/474673250558": {
         "title": "ANNE KLEIN",
@@ -44715,11 +44715,6 @@
         "qty": 10,
         "product_title": "RX7014-GRN",
         "sku": "ROXY-RX7014-GRN"
-      },
-      "gid://shopify/ProductVariant/47455923994878": {
-        "qty": 1,
-        "product_title": "RX7014-TO",
-        "sku": "ROXY-RX7014-TO"
       },
       "gid://shopify/ProductVariant/47462521700606": {
         "qty": 3,
@@ -72980,6 +72975,11 @@
         "qty": 0,
         "product_title": "RX7012-GRN",
         "sku": "ROXY-RX7012-GRN"
+      },
+      "gid://shopify/ProductVariant/47455923994878": {
+        "qty": 0,
+        "product_title": "RX7014-TO",
+        "sku": "ROXY-RX7014-TO"
       },
       "gid://shopify/ProductVariant/47455924060414": {
         "qty": 0,
