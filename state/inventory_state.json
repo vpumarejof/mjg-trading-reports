@@ -31790,13 +31790,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-09T08:21:38.941073+00:00",
+    "updated_at": "2026-08-09T09:09:29.083965+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 62561,
+        "total_qty": 62560,
         "sku_count": 2172,
         "product_count": 2172
       },
@@ -31812,7 +31812,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 84517,
+        "total_qty": 84514,
         "sku_count": 3220,
         "product_count": 3220
       },
@@ -31820,7 +31820,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 84517,
+        "total_qty": 84514,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31836,7 +31836,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 84517,
+        "total_qty": 84514,
         "sku_count": 4074,
         "product_count": 4074
       },
@@ -31876,7 +31876,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 84065,
+        "total_qty": 84062,
         "sku_count": 2768,
         "product_count": 2768
       },
@@ -31948,7 +31948,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 12291,
+        "total_qty": 12290,
         "sku_count": 1040,
         "product_count": 1040
       },
@@ -31964,7 +31964,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 3128,
+        "total_qty": 3127,
         "sku_count": 315,
         "product_count": 315
       },
@@ -32052,7 +32052,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1997,
+        "total_qty": 1996,
         "sku_count": 116,
         "product_count": 116
       },
@@ -32156,7 +32156,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 24963,
+        "total_qty": 24962,
         "sku_count": 37,
         "product_count": 37
       },
@@ -32244,7 +32244,7 @@
         "title": "Readers",
         "handle": "readers",
         "legacy_id": "373526069502",
-        "total_qty": 170,
+        "total_qty": 169,
         "sku_count": 50,
         "product_count": 50
       },
@@ -32252,7 +32252,7 @@
         "title": "EYEBOBS",
         "handle": "eyebobs",
         "legacy_id": "391774273790",
-        "total_qty": 182,
+        "total_qty": 181,
         "sku_count": 62,
         "product_count": 62
       },
@@ -32268,7 +32268,7 @@
         "title": "Women's Readers",
         "handle": "womens-readers",
         "legacy_id": "459347689726",
-        "total_qty": 96,
+        "total_qty": 95,
         "sku_count": 34,
         "product_count": 34
       },
@@ -33412,7 +33412,7 @@
         "sku": "EYEBOBS-3450-19-2.50"
       },
       "gid://shopify/ProductVariant/46243450487038": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "3432-19-1.25",
         "sku": "EYEBOBS-3432-19-1.25"
       },
@@ -43927,7 +43927,7 @@
         "sku": "NIKE-ADRENALINE-M-EVG-066"
       },
       "gid://shopify/ProductVariant/46059134714110": {
-        "qty": 9651,
+        "qty": 9650,
         "product_title": "DropShip",
         "sku": "DropShip"
       },
@@ -46492,7 +46492,7 @@
         "sku": "MOSCHINO-MOS166/S-2W8/IR"
       },
       "gid://shopify/ProductVariant/48121228787966": {
-        "qty": 11,
+        "qty": 10,
         "product_title": "4017/S-807/TE",
         "sku": "CARRERA-4017/S-807/TE"
       },
