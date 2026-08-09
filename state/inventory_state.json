@@ -31790,13 +31790,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-08T23:52:18.433426+00:00",
+    "updated_at": "2026-08-09T01:02:20.422063+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 62562,
+        "total_qty": 62561,
         "sku_count": 2172,
         "product_count": 2172
       },
@@ -31812,7 +31812,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 84523,
+        "total_qty": 84518,
         "sku_count": 3220,
         "product_count": 3220
       },
@@ -31820,7 +31820,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 84523,
+        "total_qty": 84518,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31836,7 +31836,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 84523,
+        "total_qty": 84518,
         "sku_count": 4074,
         "product_count": 4074
       },
@@ -31868,7 +31868,7 @@
         "title": "PRADA",
         "handle": "prada",
         "legacy_id": "391775289598",
-        "total_qty": 212,
+        "total_qty": 209,
         "sku_count": 35,
         "product_count": 35
       },
@@ -31876,7 +31876,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 84071,
+        "total_qty": 84066,
         "sku_count": 2768,
         "product_count": 2768
       },
@@ -31884,7 +31884,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3804,
+        "total_qty": 3801,
         "sku_count": 495,
         "product_count": 495
       },
@@ -31948,7 +31948,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 12296,
+        "total_qty": 12292,
         "sku_count": 1040,
         "product_count": 1040
       },
@@ -31964,7 +31964,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 3130,
+        "total_qty": 3128,
         "sku_count": 315,
         "product_count": 315
       },
@@ -31988,7 +31988,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 6295,
+        "total_qty": 6293,
         "sku_count": 514,
         "product_count": 514
       },
@@ -32172,7 +32172,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 1826,
+        "total_qty": 1825,
         "sku_count": 176,
         "product_count": 176
       },
@@ -32580,7 +32580,7 @@
         "title": "ANNE KLEIN",
         "handle": "anne-klein",
         "legacy_id": "474673250558",
-        "total_qty": 55,
+        "total_qty": 54,
         "sku_count": 9,
         "product_count": 9
       },
@@ -32644,7 +32644,7 @@
         "title": "LONGCHAMP",
         "handle": "longchamp",
         "legacy_id": "476032958718",
-        "total_qty": 400,
+        "total_qty": 399,
         "sku_count": 49,
         "product_count": 49
       },
@@ -37822,7 +37822,7 @@
         "sku": "QUIKSILVER-QS2027-BLK-53"
       },
       "gid://shopify/ProductVariant/47504331768062": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "AK5075-780-53",
         "sku": "AK-AK5075-780-53"
       },
@@ -46652,7 +46652,7 @@
         "sku": "LONGCHAMP-LO727S-239"
       },
       "gid://shopify/ProductVariant/48175301591294": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "LO729S-525",
         "sku": "LONGCHAMP-LO729S-525"
       },
@@ -47327,7 +47327,7 @@
         "sku": "PRADA-PR-A19S-1BO40G"
       },
       "gid://shopify/ProductVariant/48392229290238": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "PS-02YS-1BO06F",
         "sku": "PRADA-PS-02YS-1BO06F"
       },
@@ -47337,7 +47337,7 @@
         "sku": "PRADA-PS-02ZSU-1BO05U"
       },
       "gid://shopify/ProductVariant/48392229617918": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "PS-02ZSU-1BO08R",
         "sku": "PRADA-PS-02ZSU-1BO08R"
       },
@@ -48472,7 +48472,7 @@
         "sku": "PRADA-PR-A24S-1AB5S0"
       },
       "gid://shopify/ProductVariant/48683421434110": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "PR-A25S-1AB5S0",
         "sku": "PRADA-PR-A25S-1AB5S0"
       },
