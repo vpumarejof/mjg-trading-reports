@@ -31790,13 +31790,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-10T08:12:09.005451+00:00",
+    "updated_at": "2026-08-10T09:47:04.614151+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 62543,
+        "total_qty": 62538,
         "sku_count": 2169,
         "product_count": 2169
       },
@@ -31812,7 +31812,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 84385,
+        "total_qty": 84380,
         "sku_count": 3208,
         "product_count": 3208
       },
@@ -31820,7 +31820,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 84385,
+        "total_qty": 84380,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31828,7 +31828,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12603,
+        "total_qty": 12600,
         "sku_count": 900,
         "product_count": 900
       },
@@ -31836,7 +31836,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 84385,
+        "total_qty": 84380,
         "sku_count": 4063,
         "product_count": 4063
       },
@@ -31844,7 +31844,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12603,
+        "total_qty": 12600,
         "sku_count": 900,
         "product_count": 900
       },
@@ -31876,9 +31876,9 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 83940,
-        "sku_count": 2763,
-        "product_count": 2763
+        "total_qty": 83934,
+        "sku_count": 2762,
+        "product_count": 2762
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
@@ -32212,7 +32212,7 @@
         "title": "QUAY",
         "handle": "quay",
         "legacy_id": "472482939134",
-        "total_qty": 644,
+        "total_qty": 643,
         "sku_count": 57,
         "product_count": 57
       },
@@ -32316,7 +32316,7 @@
         "title": "LIGHTEC-MOREL",
         "handle": "lightec-morel",
         "legacy_id": "466217926910",
-        "total_qty": 2346,
+        "total_qty": 2344,
         "sku_count": 98,
         "product_count": 98
       },
@@ -32404,7 +32404,7 @@
         "title": "KOALI-MOREL",
         "handle": "koali-morel",
         "legacy_id": "466217861374",
-        "total_qty": 2046,
+        "total_qty": 2045,
         "sku_count": 77,
         "product_count": 77
       },
@@ -32412,7 +32412,7 @@
         "title": "OGA-MOREL",
         "handle": "oga-morel",
         "legacy_id": "466217992446",
-        "total_qty": 226,
+        "total_qty": 225,
         "sku_count": 12,
         "product_count": 12
       },
@@ -35912,7 +35912,7 @@
         "sku": "KOALI-MOREL-20066K-DM02-47"
       },
       "gid://shopify/ProductVariant/46978953117950": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "KOALI-20066K-PN04-47",
         "sku": "KOALI-MOREL-20066K-PN04-47"
       },
@@ -36032,7 +36032,7 @@
         "sku": "LIGHTEC-MOREL-30032L-PD05-51"
       },
       "gid://shopify/ProductVariant/46978954821886": {
-        "qty": 18,
+        "qty": 17,
         "product_title": "LIGHTEC-30184L-PD07-51",
         "sku": "LIGHTEC-MOREL-30184L-PD07-51"
       },
@@ -38502,7 +38502,7 @@
         "sku": "LIGHTEC-MOREL-30180L-GN09-51"
       },
       "gid://shopify/ProductVariant/47558957957374": {
-        "qty": 18,
+        "qty": 17,
         "product_title": "30182L-MP03-50",
         "sku": "LIGHTEC-MOREL-30182L-MP03-50"
       },
@@ -38787,7 +38787,7 @@
         "sku": "OGA-MOREL-10154O-NG01-50"
       },
       "gid://shopify/ProductVariant/47558961103102": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "10163O-GR05-50",
         "sku": "OGA-MOREL-10163O-GR05-50"
       },
@@ -41592,7 +41592,7 @@
         "sku": "QUAY-OG-OF-2520-DAF/RX"
       },
       "gid://shopify/ProductVariant/48145131667710": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "TRUST ME RX-78147",
         "sku": "QUAY-OG-OF-2533-SWTP/RX"
       },
