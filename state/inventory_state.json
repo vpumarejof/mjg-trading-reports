@@ -31790,13 +31790,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-11T22:03:23.809572+00:00",
+    "updated_at": "2026-08-11T23:00:41.554996+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 62445,
+        "total_qty": 62444,
         "sku_count": 2164,
         "product_count": 2164
       },
@@ -31812,7 +31812,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 84085,
+        "total_qty": 84084,
         "sku_count": 3195,
         "product_count": 3195
       },
@@ -31820,7 +31820,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 84085,
+        "total_qty": 84084,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31828,7 +31828,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12572,
+        "total_qty": 12571,
         "sku_count": 896,
         "product_count": 896
       },
@@ -31836,7 +31836,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 84085,
+        "total_qty": 84084,
         "sku_count": 4051,
         "product_count": 4051
       },
@@ -31844,7 +31844,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12572,
+        "total_qty": 12571,
         "sku_count": 896,
         "product_count": 896
       },
@@ -31876,7 +31876,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 83638,
+        "total_qty": 83637,
         "sku_count": 2748,
         "product_count": 2748
       },
@@ -32500,7 +32500,7 @@
         "title": "DKNY",
         "handle": "dkny",
         "legacy_id": "395943870718",
-        "total_qty": 393,
+        "total_qty": 392,
         "sku_count": 43,
         "product_count": 43
       },
@@ -40057,7 +40057,7 @@
         "sku": "DKNY-DK5063-244-54"
       },
       "gid://shopify/ProductVariant/47730447253758": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "DK5063-281-54",
         "sku": "DKNY-DK5063-281-54"
       },
