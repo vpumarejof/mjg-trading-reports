@@ -31790,15 +31790,15 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-11T17:38:55.935433+00:00",
+    "updated_at": "2026-08-11T18:33:39.550984+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 62479,
-        "sku_count": 2166,
-        "product_count": 2166
+        "total_qty": 62470,
+        "sku_count": 2164,
+        "product_count": 2164
       },
       "gid://shopify/Collection/391774208254": {
         "title": "ELIE SAAB",
@@ -31812,15 +31812,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 84124,
-        "sku_count": 3197,
-        "product_count": 3197
+        "total_qty": 84114,
+        "sku_count": 3195,
+        "product_count": 3195
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 84124,
+        "total_qty": 84114,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31828,31 +31828,31 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12577,
-        "sku_count": 898,
-        "product_count": 898
+        "total_qty": 12571,
+        "sku_count": 896,
+        "product_count": 896
       },
       "gid://shopify/Collection/410150142206": {
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 84124,
-        "sku_count": 4053,
-        "product_count": 4053
+        "total_qty": 84114,
+        "sku_count": 4051,
+        "product_count": 4051
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12577,
-        "sku_count": 898,
-        "product_count": 898
+        "total_qty": 12571,
+        "sku_count": 896,
+        "product_count": 896
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22710,
+        "total_qty": 22709,
         "sku_count": 2485,
         "product_count": 2485
       },
@@ -31860,7 +31860,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 1107,
+        "total_qty": 1105,
         "sku_count": 911,
         "product_count": 911
       },
@@ -31876,7 +31876,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 83675,
+        "total_qty": 83667,
         "sku_count": 2748,
         "product_count": 2748
       },
@@ -32036,7 +32036,7 @@
         "title": "Kid's Eyeglasses",
         "handle": "kids-eyeglasses",
         "legacy_id": "408131305726",
-        "total_qty": 21930,
+        "total_qty": 21929,
         "sku_count": 107,
         "product_count": 107
       },
@@ -32132,7 +32132,7 @@
         "title": "Kids",
         "handle": "kids",
         "legacy_id": "454431080702",
-        "total_qty": 21926,
+        "total_qty": 21925,
         "sku_count": 137,
         "product_count": 137
       },
@@ -32156,7 +32156,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 24956,
+        "total_qty": 24955,
         "sku_count": 37,
         "product_count": 37
       },
@@ -32172,7 +32172,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 2234,
+        "total_qty": 2232,
         "sku_count": 200,
         "product_count": 200
       },
@@ -32244,7 +32244,7 @@
         "title": "Readers",
         "handle": "readers",
         "legacy_id": "373526069502",
-        "total_qty": 168,
+        "total_qty": 167,
         "sku_count": 50,
         "product_count": 50
       },
@@ -32252,7 +32252,7 @@
         "title": "EYEBOBS",
         "handle": "eyebobs",
         "legacy_id": "391774273790",
-        "total_qty": 180,
+        "total_qty": 179,
         "sku_count": 62,
         "product_count": 62
       },
@@ -32260,7 +32260,7 @@
         "title": "Unisex Readers",
         "handle": "unisex-readers",
         "legacy_id": "459347788030",
-        "total_qty": 81,
+        "total_qty": 80,
         "sku_count": 24,
         "product_count": 24
       },
@@ -32364,7 +32364,7 @@
         "title": "FLEXON",
         "handle": "flexon",
         "legacy_id": "466401853694",
-        "total_qty": 249,
+        "total_qty": 247,
         "sku_count": 43,
         "product_count": 43
       },
@@ -32644,9 +32644,9 @@
         "title": "LONGCHAMP",
         "handle": "longchamp",
         "legacy_id": "476032958718",
-        "total_qty": 395,
-        "sku_count": 49,
-        "product_count": 49
+        "total_qty": 389,
+        "sku_count": 47,
+        "product_count": 47
       },
       "gid://shopify/Collection/476563603710": {
         "title": "CHARRIOL",
@@ -33422,7 +33422,7 @@
         "sku": "EYEBOBS-3416-15-1.25"
       },
       "gid://shopify/ProductVariant/46243450585342": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "3416-15-1.50",
         "sku": "EYEBOBS-3416-15-1.50"
       },
@@ -39037,14 +39037,9 @@
         "sku": "LONGCHAMP-LO2156-728-54"
       },
       "gid://shopify/ProductVariant/47609152930046": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "LO2712-430-53",
         "sku": "LONGCHAMP-LO2712-430-53"
-      },
-      "gid://shopify/ProductVariant/47609153126654": {
-        "qty": 1,
-        "product_title": "LO2713-230-51",
-        "sku": "LONGCHAMP-LO2713-230-51"
       },
       "gid://shopify/ProductVariant/47609153159422": {
         "qty": 7,
@@ -39062,7 +39057,7 @@
         "sku": "LONGCHAMP-LO2743-242-52"
       },
       "gid://shopify/ProductVariant/47609153814782": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "LO2755-230-53",
         "sku": "LONGCHAMP-LO2755-230-53"
       },
@@ -41222,7 +41217,7 @@
         "sku": "LONGCHAMP-LO2728-242-53"
       },
       "gid://shopify/ProductVariant/48094647386366": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "LO2728-306-53",
         "sku": "LONGCHAMP-LO2728-306-53"
       },
@@ -41230,11 +41225,6 @@
         "qty": 9,
         "product_title": "LO2728-606-53",
         "sku": "LONGCHAMP-LO2728-606-53"
-      },
-      "gid://shopify/ProductVariant/48094647648510": {
-        "qty": 1,
-        "product_title": "LO2742L-001-52",
-        "sku": "LONGCHAMP-LO2742L-001-52"
       },
       "gid://shopify/ProductVariant/48094647681278": {
         "qty": 1,
@@ -41247,7 +41237,7 @@
         "sku": "LONGCHAMP-LO2766-001-53"
       },
       "gid://shopify/ProductVariant/48094647845118": {
-        "qty": 15,
+        "qty": 14,
         "product_title": "LO2766-205-53",
         "sku": "LONGCHAMP-LO2766-205-53"
       },
@@ -43542,7 +43532,7 @@
         "sku": "FLEXON-H6030-032-52"
       },
       "gid://shopify/ProductVariant/48698371277054": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "H6066-N-070-57",
         "sku": "FLEXON-H6066-N-070-57"
       },
@@ -43577,7 +43567,7 @@
         "sku": "FLEXON-J4018-415-48"
       },
       "gid://shopify/ProductVariant/48698371801342": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "J4020-N-001-49",
         "sku": "FLEXON-J4020-N-001-49"
       },
@@ -43897,7 +43887,7 @@
         "sku": "NIKE-ADRENALINE-M-EVG-066"
       },
       "gid://shopify/ProductVariant/46059134714110": {
-        "qty": 9644,
+        "qty": 9643,
         "product_title": "DropShip",
         "sku": "DropShip"
       },
@@ -75471,6 +75461,11 @@
         "product_title": "LO2712-005-53",
         "sku": "LONGCHAMP-LO2712-005-53"
       },
+      "gid://shopify/ProductVariant/47609153126654": {
+        "qty": 0,
+        "product_title": "LO2713-230-51",
+        "sku": "LONGCHAMP-LO2713-230-51"
+      },
       "gid://shopify/ProductVariant/47609153192190": {
         "qty": 0,
         "product_title": "LO2715-600-52",
@@ -81390,6 +81385,11 @@
         "qty": 0,
         "product_title": "LO2731-430-52",
         "sku": "LONGCHAMP-LO2731-430-52"
+      },
+      "gid://shopify/ProductVariant/48094647648510": {
+        "qty": 0,
+        "product_title": "LO2742L-001-52",
+        "sku": "LONGCHAMP-LO2742L-001-52"
       },
       "gid://shopify/ProductVariant/48094647976190": {
         "qty": 0,
