@@ -31790,13 +31790,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-11T10:34:48.370699+00:00",
+    "updated_at": "2026-08-11T11:28:37.976042+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 62506,
+        "total_qty": 62505,
         "sku_count": 2168,
         "product_count": 2168
       },
@@ -31812,7 +31812,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 84190,
+        "total_qty": 84189,
         "sku_count": 3203,
         "product_count": 3203
       },
@@ -31820,7 +31820,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 84190,
+        "total_qty": 84189,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31836,7 +31836,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 84190,
+        "total_qty": 84189,
         "sku_count": 4059,
         "product_count": 4059
       },
@@ -31876,7 +31876,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 83741,
+        "total_qty": 83740,
         "sku_count": 2754,
         "product_count": 2754
       },
@@ -32188,7 +32188,7 @@
         "title": "ELASTA",
         "handle": "elasta",
         "legacy_id": "411442249982",
-        "total_qty": 80,
+        "total_qty": 79,
         "sku_count": 22,
         "product_count": 22
       },
@@ -41172,7 +41172,7 @@
         "sku": "CHESTERFIELD-CH-90XL-6LB-56"
       },
       "gid://shopify/ProductVariant/48094137778430": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "E-8001-C9A-57",
         "sku": "ELASTA-E-8001-C9A-57"
       },
