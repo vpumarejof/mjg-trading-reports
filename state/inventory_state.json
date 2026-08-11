@@ -31790,13 +31790,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-11T04:37:29.943700+00:00",
+    "updated_at": "2026-08-11T05:41:02.139530+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 62508,
+        "total_qty": 62507,
         "sku_count": 2168,
         "product_count": 2168
       },
@@ -31812,7 +31812,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 84262,
+        "total_qty": 84190,
         "sku_count": 3203,
         "product_count": 3203
       },
@@ -31820,7 +31820,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 84262,
+        "total_qty": 84190,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31836,7 +31836,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 84262,
+        "total_qty": 84190,
         "sku_count": 4059,
         "product_count": 4059
       },
@@ -31852,7 +31852,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22740,
+        "total_qty": 22730,
         "sku_count": 2485,
         "product_count": 2485
       },
@@ -31860,7 +31860,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 1119,
+        "total_qty": 1117,
         "sku_count": 911,
         "product_count": 911
       },
@@ -31876,15 +31876,15 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 83814,
-        "sku_count": 2755,
-        "product_count": 2755
+        "total_qty": 83741,
+        "sku_count": 2754,
+        "product_count": 2754
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3756,
+        "total_qty": 3755,
         "sku_count": 489,
         "product_count": 489
       },
@@ -31948,7 +31948,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 12093,
+        "total_qty": 12022,
         "sku_count": 1027,
         "product_count": 1027
       },
@@ -31964,7 +31964,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 3085,
+        "total_qty": 3077,
         "sku_count": 310,
         "product_count": 310
       },
@@ -31988,7 +31988,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 6206,
+        "total_qty": 6153,
         "sku_count": 510,
         "product_count": 510
       },
@@ -32012,7 +32012,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2884,
+        "total_qty": 2874,
         "sku_count": 212,
         "product_count": 212
       },
@@ -32052,7 +32052,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1980,
+        "total_qty": 1967,
         "sku_count": 116,
         "product_count": 116
       },
@@ -32124,7 +32124,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 981,
+        "total_qty": 961,
         "sku_count": 150,
         "product_count": 150
       },
@@ -32172,7 +32172,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 2914,
+        "total_qty": 2869,
         "sku_count": 286,
         "product_count": 286
       },
@@ -32228,7 +32228,7 @@
         "title": "KARL LAGERFELD",
         "handle": "karl-lagerfeld",
         "legacy_id": "422907576574",
-        "total_qty": 366,
+        "total_qty": 363,
         "sku_count": 38,
         "product_count": 38
       },
@@ -32340,7 +32340,7 @@
         "title": "MISSONI",
         "handle": "missoni",
         "legacy_id": "408673911038",
-        "total_qty": 795,
+        "total_qty": 793,
         "sku_count": 65,
         "product_count": 65
       },
@@ -32732,7 +32732,7 @@
         "title": "ELTON JOHN",
         "handle": "elton-john",
         "legacy_id": "482187051262",
-        "total_qty": 1933,
+        "total_qty": 1900,
         "sku_count": 111,
         "product_count": 111
       },
@@ -32748,7 +32748,7 @@
         "title": "TIFFANY & CO",
         "handle": "tiffany-co",
         "legacy_id": "483397370110",
-        "total_qty": 157,
+        "total_qty": 156,
         "sku_count": 25,
         "product_count": 25
       },
@@ -32772,7 +32772,7 @@
         "title": "Goliath",
         "handle": "goliath",
         "legacy_id": "409354371326",
-        "total_qty": 46,
+        "total_qty": 44,
         "sku_count": 3,
         "product_count": 3
       },
@@ -34307,7 +34307,7 @@
         "sku": "CARRERA-292-0086-53"
       },
       "gid://shopify/ProductVariant/46529202684158": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "CARDUC-019-0807-50",
         "sku": "CARRERA-CARDUC-019-0807-50"
       },
@@ -43882,7 +43882,7 @@
         "sku": "KS-VALERIA/S-0VK6/GA"
       },
       "gid://shopify/ProductVariant/45939293978878": {
-        "qty": 25,
+        "qty": 24,
         "product_title": "8060-S-0807-HA",
         "sku": "CARRERA-8060/S-0807/HA"
       },
@@ -44787,7 +44787,7 @@
         "sku": "MISSONI-MIS-0089/S-1EI/9O"
       },
       "gid://shopify/ProductVariant/47577494716670": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "MIS-0112/S-L7W/O9",
         "sku": "MISSONI-MIS-0112/S-L7W/O9"
       },
@@ -45122,7 +45122,7 @@
         "sku": "KS-KENNA/G/S-0LKS/HA"
       },
       "gid://shopify/ProductVariant/47749755175166": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "MIS-0086/S-MQE/GA",
         "sku": "MISSONI-MIS-0086/S-MQE/GA"
       },
@@ -45777,7 +45777,7 @@
         "sku": "EJ-A-LIST5-CRYBR"
       },
       "gid://shopify/ProductVariant/48094428627198": {
-        "qty": 21,
+        "qty": 20,
         "product_title": "BLING2-1-BLACK",
         "sku": "EJ-BLING2-1-BLACK"
       },
@@ -45787,7 +45787,7 @@
         "sku": "EJ-BLING2-2-WHITE"
       },
       "gid://shopify/ProductVariant/48094428791038": {
-        "qty": 20,
+        "qty": 19,
         "product_title": "BOMBSHELL2-BGEBR",
         "sku": "EJ-BOMBSHELL2-BGEBR"
       },
@@ -45797,17 +45797,17 @@
         "sku": "EJ-BOMBSHELL4-VYBLK"
       },
       "gid://shopify/ProductVariant/48094429610238": {
-        "qty": 14,
+        "qty": 13,
         "product_title": "BOOGIE4-CRYCL",
         "sku": "EJ-BOOGIE4-CRYCL"
       },
       "gid://shopify/ProductVariant/48094429643006": {
-        "qty": 11,
+        "qty": 10,
         "product_title": "BOOGIE5-PBKSY",
         "sku": "EJ-BOOGIE5-PBKSY"
       },
       "gid://shopify/ProductVariant/48094429806846": {
-        "qty": 18,
+        "qty": 17,
         "product_title": "CAPTAINFA2-BTBLK",
         "sku": "EJ-CAPTAINFA2-BTBLK"
       },
@@ -45842,7 +45842,7 @@
         "sku": "EJ-GOLIATH2-MTCRY"
       },
       "gid://shopify/ProductVariant/48094431576318": {
-        "qty": 23,
+        "qty": 22,
         "product_title": "HEADLINER-BLKCR",
         "sku": "EJ-HEADLINER-BLKCR"
       },
@@ -45872,12 +45872,12 @@
         "sku": "EJ-HERCULES6-SLV"
       },
       "gid://shopify/ProductVariant/48094432002302": {
-        "qty": 28,
+        "qty": 27,
         "product_title": "JOURNEY1-BLUTT",
         "sku": "EJ-JOURNEY1-BLUTT"
       },
       "gid://shopify/ProductVariant/48094432035070": {
-        "qty": 29,
+        "qty": 28,
         "product_title": "JOURNEY2-BRNBL",
         "sku": "EJ-JOURNEY2-BRNBL"
       },
@@ -45887,22 +45887,22 @@
         "sku": "EJ-KING2-VGLPD"
       },
       "gid://shopify/ProductVariant/48094432133374": {
-        "qty": 23,
+        "qty": 22,
         "product_title": "LEGEND-BLK",
         "sku": "EJ-LEGEND-BLK"
       },
       "gid://shopify/ProductVariant/48094432166142": {
-        "qty": 30,
+        "qty": 29,
         "product_title": "LUCKYSTAR1-TRTBL",
         "sku": "EJ-LUCKYSTAR1-TRTBL"
       },
       "gid://shopify/ProductVariant/48094432231678": {
-        "qty": 30,
+        "qty": 29,
         "product_title": "LUCKYSTAR2-BLKFD",
         "sku": "EJ-LUCKYSTAR2-BLKFD"
       },
       "gid://shopify/ProductVariant/48094432297214": {
-        "qty": 19,
+        "qty": 18,
         "product_title": "MADMAN-RKBAR",
         "sku": "EJ-MADMAN-RKBAR"
       },
@@ -45942,7 +45942,7 @@
         "sku": "EJ-SHADE2-LBKGD"
       },
       "gid://shopify/ProductVariant/48094432985342": {
-        "qty": 19,
+        "qty": 18,
         "product_title": "SUPERSTAR2-RTORT",
         "sku": "EJ-SUPERSTAR2-RTORT"
       },
@@ -45952,7 +45952,7 @@
         "sku": "EJ-TECHIE1-TERTNY"
       },
       "gid://shopify/ProductVariant/48094433313022": {
-        "qty": 13,
+        "qty": 12,
         "product_title": "TECHIE2-TRTSY",
         "sku": "EJ-TECHIE2-TRTSY"
       },
@@ -46377,12 +46377,12 @@
         "sku": "KS-MARLAH/S-807/9O"
       },
       "gid://shopify/ProductVariant/48121214927102": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "SERAPHINA/G/S-C9A/3X",
         "sku": "KS-SERAPHINA/G/S-C9A/3X"
       },
       "gid://shopify/ProductVariant/48121214992638": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "WINSLET/G/S-086/HA",
         "sku": "KS-WINSLET/G/S-086/HA"
       },
@@ -46612,7 +46612,7 @@
         "sku": "FENDI-FE40125I-68S"
       },
       "gid://shopify/ProductVariant/48223291638014": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "TF3088-610516",
         "sku": "TF-TF3088-610516"
       },
@@ -46867,7 +46867,7 @@
         "sku": "EJ-DIVA1-GLSKY"
       },
       "gid://shopify/ProductVariant/48305153933566": {
-        "qty": 25,
+        "qty": 24,
         "product_title": "DUCKTAIL-JTBLK",
         "sku": "EJ-DUCKTAIL-JTBLK"
       },
@@ -46887,12 +46887,12 @@
         "sku": "EJ-GOLIATH1-MTRED"
       },
       "gid://shopify/ProductVariant/48305154097406": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "GOLIATH3-ICEBL",
         "sku": "EJ-GOLIATH3-ICEBL"
       },
       "gid://shopify/ProductVariant/48305154162942": {
-        "qty": 15,
+        "qty": 14,
         "product_title": "GOLIATH4-MTBGE",
         "sku": "EJ-GOLIATH4-MTBGE"
       },
@@ -46957,7 +46957,7 @@
         "sku": "EJ-ROCKER-2-BLKBL"
       },
       "gid://shopify/ProductVariant/48307063030014": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "KL360S-N-040",
         "sku": "KL-KL360S-N-040"
       },
@@ -46967,12 +46967,12 @@
         "sku": "KL-KL6098S-501"
       },
       "gid://shopify/ProductVariant/48307063128318": {
-        "qty": 32,
+        "qty": 31,
         "product_title": "KL6180S-N-232",
         "sku": "KL-KL6180S-N-232"
       },
       "gid://shopify/ProductVariant/48307063161086": {
-        "qty": 42,
+        "qty": 41,
         "product_title": "KL6186S-242",
         "sku": "KL-KL6186S-242"
       },
@@ -47857,7 +47857,7 @@
         "sku": "MO-LOU-A_D"
       },
       "gid://shopify/ProductVariant/48648014692606": {
-        "qty": 13,
+        "qty": 12,
         "product_title": "1067/S-J5G/08",
         "sku": "CARRERA-1067/S-J5G/08"
       },
@@ -47877,7 +47877,7 @@
         "sku": "CARRERA-330/S-086/IR"
       },
       "gid://shopify/ProductVariant/48648015184126": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "330/S-807/08",
         "sku": "CARRERA-330/S-807/08"
       },
@@ -47892,7 +47892,7 @@
         "sku": "CARRERA-8039/S-003/IR"
       },
       "gid://shopify/ProductVariant/48648015446270": {
-        "qty": 11,
+        "qty": 10,
         "product_title": "8040/S-807/XT",
         "sku": "CARRERA-8040/S-807/XT"
       },
@@ -47912,7 +47912,7 @@
         "sku": "CARRERA-CARDUC-022/S-V81/H4"
       },
       "gid://shopify/ProductVariant/48648015741182": {
-        "qty": 14,
+        "qty": 13,
         "product_title": "CARDUC-036/S-003/UZ",
         "sku": "CARRERA-CARDUC-036/S-003/UZ"
       },
@@ -47927,12 +47927,12 @@
         "sku": "CARRERA-C-FLEX-08/G/S-807/UC"
       },
       "gid://shopify/ProductVariant/48648015970558": {
-        "qty": 13,
+        "qty": 12,
         "product_title": "C-FLEX-08/G/S-EX4/SP",
         "sku": "CARRERA-C-FLEX-08/G/S-EX4/SP"
       },
       "gid://shopify/ProductVariant/48648016003326": {
-        "qty": 15,
+        "qty": 14,
         "product_title": "C-SPORT-03/S-A1W/IR",
         "sku": "CARRERA-C-SPORT-03/S-A1W/IR"
       },
@@ -48172,7 +48172,7 @@
         "sku": "EJ-ANIMALINS-2-GLDBK"
       },
       "gid://shopify/ProductVariant/48667528397054": {
-        "qty": 19,
+        "qty": 18,
         "product_title": "BEEHIVE-2-GLDGL",
         "sku": "EJ-BEEHIVE-2-GLDGL"
       },
@@ -48197,7 +48197,7 @@
         "sku": "EJ-DGBYHEART-1-RED"
       },
       "gid://shopify/ProductVariant/48667528626430": {
-        "qty": 22,
+        "qty": 21,
         "product_title": "DGBYHEART-2-BLACK",
         "sku": "EJ-DGBYHEART-2-BLACK"
       },
@@ -48207,22 +48207,22 @@
         "sku": "EJ-DGBYHEART-3-WHITE"
       },
       "gid://shopify/ProductVariant/48667528691966": {
-        "qty": 22,
+        "qty": 21,
         "product_title": "DGBYHEART-4-BLUE",
         "sku": "EJ-DGBYHEART-4-BLUE"
       },
       "gid://shopify/ProductVariant/48667528724734": {
-        "qty": 17,
+        "qty": 16,
         "product_title": "DGBYHEART-5-TORT",
         "sku": "EJ-DGBYHEART-5-TORT"
       },
       "gid://shopify/ProductVariant/48667528757502": {
-        "qty": 19,
+        "qty": 17,
         "product_title": "DGBYHEART-6-GLPINK",
         "sku": "EJ-DGBYHEART-6-GLPINK"
       },
       "gid://shopify/ProductVariant/48667528855806": {
-        "qty": 23,
+        "qty": 22,
         "product_title": "DGBYHEART-7-RED",
         "sku": "EJ-DGBYHEART-7-RED"
       },
@@ -48252,12 +48252,12 @@
         "sku": "EJ-FILMSTAR-PBLON"
       },
       "gid://shopify/ProductVariant/48667529150718": {
-        "qty": 21,
+        "qty": 20,
         "product_title": "FLASHBULB-1-LLTTRT",
         "sku": "EJ-FLASHBULB-1-LLTTRT"
       },
       "gid://shopify/ProductVariant/48667529183486": {
-        "qty": 18,
+        "qty": 17,
         "product_title": "FLASHBULB-2-DKTRT",
         "sku": "EJ-FLASHBULB-2-DKTRT"
       },
@@ -48272,7 +48272,7 @@
         "sku": "EJ-FLOWER-POWER-MANGO"
       },
       "gid://shopify/ProductVariant/48667529347326": {
-        "qty": 23,
+        "qty": 22,
         "product_title": "GLITTER-3-BGEGL",
         "sku": "EJ-GLITTER-3-BGEGL"
       },
@@ -48282,12 +48282,12 @@
         "sku": "EJ-HIPPIE-FKGIF"
       },
       "gid://shopify/ProductVariant/48667529478398": {
-        "qty": 24,
+        "qty": 23,
         "product_title": "HONKYCAT-3-AMSKY",
         "sku": "EJ-HONKYCAT-3-AMSKY"
       },
       "gid://shopify/ProductVariant/48667529511166": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "HONKYCAT-4-BLKFT",
         "sku": "EJ-HONKYCAT-4-BLKFT"
       },
@@ -48297,7 +48297,7 @@
         "sku": "EJ-HONKYCAT-5-NVYTR-54"
       },
       "gid://shopify/ProductVariant/48667529609470": {
-        "qty": 15,
+        "qty": 14,
         "product_title": "HONKYCAT-6-NVYTR",
         "sku": "EJ-HONKYCAT-6-NVYTR"
       },
@@ -48312,7 +48312,7 @@
         "sku": "EJ-MALIBU-2-SGDBK"
       },
       "gid://shopify/ProductVariant/48667529707774": {
-        "qty": 17,
+        "qty": 16,
         "product_title": "MATINEE-1-BGETR",
         "sku": "EJ-MATINEE-1-BGETR"
       },
@@ -48342,7 +48342,7 @@
         "sku": "EJ-HIFI-1-BRNCY"
       },
       "gid://shopify/ProductVariant/48667530002686": {
-        "qty": 19,
+        "qty": 18,
         "product_title": "HIFI-2-THNCY",
         "sku": "EJ-HIFI-2-THNCY"
       },
@@ -48367,7 +48367,7 @@
         "sku": "EJ-SHOOTSTAR-1-GLDSY"
       },
       "gid://shopify/ProductVariant/48667530199294": {
-        "qty": 16,
+        "qty": 15,
         "product_title": "SUPERSTAR-RTORT",
         "sku": "EJ-SUPERSTAR-RTORT"
       },
@@ -48462,7 +48462,7 @@
         "sku": "CARRERA-3005/S-RHL/9O"
       },
       "gid://shopify/ProductVariant/48683728273662": {
-        "qty": 6,
+        "qty": 4,
         "product_title": "3014/S-JBW/9O",
         "sku": "CARRERA-3014/S-JBW/9O"
       },
@@ -48502,7 +48502,7 @@
         "sku": "CARRERA-4017/S-003/IR"
       },
       "gid://shopify/ProductVariant/48683728568574": {
-        "qty": 19,
+        "qty": 18,
         "product_title": "4017/S-807/9O",
         "sku": "CARRERA-4017/S-807/9O"
       },
@@ -48517,7 +48517,7 @@
         "sku": "CARRERA-8059/S-0D51/Z0"
       },
       "gid://shopify/ProductVariant/48683728699646": {
-        "qty": 25,
+        "qty": 24,
         "product_title": "8060/S-003/IR",
         "sku": "CARRERA-8060/S-003/IR"
       },
@@ -48532,7 +48532,7 @@
         "sku": "CARRERA-CA-301/S/US-PJP/XT"
       },
       "gid://shopify/ProductVariant/48683728830718": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "CARDUC-036/S-807/IR",
         "sku": "CARRERA-CARDUC-036/S-807/IR"
       },
@@ -48602,12 +48602,12 @@
         "sku": "DB-DB-7111/S-I46/IR"
       },
       "gid://shopify/ProductVariant/48683729453310": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "AGLAIA/S-1EZ/LA",
         "sku": "KS-AGLAIA/S-1EZ/LA"
       },
       "gid://shopify/ProductVariant/48683729551614": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "AMBERLEE/S-5MU/HA",
         "sku": "KS-AMBERLEE/S-5MU/HA"
       },
@@ -48622,7 +48622,7 @@
         "sku": "KS-ANNIKA/F/S-086/70"
       },
       "gid://shopify/ProductVariant/48683729649918": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "AUBRIELLA/G/S-2VM/LA",
         "sku": "KS-AUBRIELLA/G/S-2VM/LA"
       },
@@ -48632,12 +48632,12 @@
         "sku": "KS-BEXLEY/G/S-PJP/9O"
       },
       "gid://shopify/ProductVariant/48683729715454": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "CAPRI/G/S-4QX/9O",
         "sku": "KS-CAPRI/G/S-4QX/9O"
       },
       "gid://shopify/ProductVariant/48683729944830": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "CONSTANCE/G/S-1ED/9O",
         "sku": "KS-CONSTANCE/G/S-1ED/9O"
       },
@@ -48667,7 +48667,7 @@
         "sku": "KS-DESI/F/S/US-807/9O"
       },
       "gid://shopify/ProductVariant/48683730206974": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "DESI/F/S/US-HT8/HA",
         "sku": "KS-DESI/F/S/US-HT8/HA"
       },
@@ -48677,17 +48677,17 @@
         "sku": "KS-DESI/S-807/9O"
       },
       "gid://shopify/ProductVariant/48683730272510": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "DOMINICA/S-3H2/9O",
         "sku": "KS-DOMINICA/S-3H2/9O"
       },
       "gid://shopify/ProductVariant/48683730305278": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "DOMINICA/S-8CQ/9O",
         "sku": "KS-DOMINICA/S-8CQ/9O"
       },
       "gid://shopify/ProductVariant/48683730338046": {
-        "qty": 11,
+        "qty": 9,
         "product_title": "FLYNNIE/G/S-0B0/HA",
         "sku": "KS-FLYNNIE/G/S-0B0/HA"
       },
@@ -48707,7 +48707,7 @@
         "sku": "KS-JANECE/G/S-3YG/GB"
       },
       "gid://shopify/ProductVariant/48683730501886": {
-        "qty": 9,
+        "qty": 7,
         "product_title": "JAYDA/G/S-305/HA",
         "sku": "KS-JAYDA/G/S-305/HA"
       },
@@ -48722,7 +48722,7 @@
         "sku": "KS-JOSI/S-HMW/9O"
       },
       "gid://shopify/ProductVariant/48683730632958": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "JOSI/S-SK4/3X",
         "sku": "KS-JOSI/S-SK4/3X"
       },
@@ -48732,7 +48732,7 @@
         "sku": "KS-KIYA2/G/S/US-086/HA"
       },
       "gid://shopify/ProductVariant/48683730698494": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "MARIGOLD/S-2TB/WJ",
         "sku": "KS-MARIGOLD/S-2TB/WJ"
       },
@@ -48742,7 +48742,7 @@
         "sku": "KS-MELANIE/S-PJP/08"
       },
       "gid://shopify/ProductVariant/48683730764030": {
-        "qty": 9,
+        "qty": 7,
         "product_title": "NAOMI/S-807/9O",
         "sku": "KS-NAOMI/S-807/9O"
       },
@@ -48762,7 +48762,7 @@
         "sku": "KS-NAVY/G/S-000/HA"
       },
       "gid://shopify/ProductVariant/48683730895102": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "WINSLET/G/S-PJP/GB",
         "sku": "KS-WINSLET/G/S-PJP/GB"
       },
@@ -48837,7 +48837,7 @@
         "sku": "TH-TH-2158/S-086/08"
       },
       "gid://shopify/ProductVariant/48683733156094": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "WINSLET/G/S-92Y/3X",
         "sku": "KS-WINSLET/G/S-92Y/3X"
       },
