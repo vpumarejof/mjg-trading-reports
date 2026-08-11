@@ -31790,15 +31790,15 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-11T14:42:31.446696+00:00",
+    "updated_at": "2026-08-11T15:37:43.316680+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 62480,
-        "sku_count": 2167,
-        "product_count": 2167
+        "total_qty": 62479,
+        "sku_count": 2166,
+        "product_count": 2166
       },
       "gid://shopify/Collection/391774208254": {
         "title": "ELIE SAAB",
@@ -31812,15 +31812,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 84051,
-        "sku_count": 3198,
-        "product_count": 3198
+        "total_qty": 84047,
+        "sku_count": 3197,
+        "product_count": 3197
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 84051,
+        "total_qty": 84047,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31828,25 +31828,25 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12578,
-        "sku_count": 899,
-        "product_count": 899
+        "total_qty": 12577,
+        "sku_count": 898,
+        "product_count": 898
       },
       "gid://shopify/Collection/410150142206": {
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 84051,
-        "sku_count": 4054,
-        "product_count": 4054
+        "total_qty": 84047,
+        "sku_count": 4053,
+        "product_count": 4053
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12578,
-        "sku_count": 899,
-        "product_count": 899
+        "total_qty": 12577,
+        "sku_count": 898,
+        "product_count": 898
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
@@ -31876,7 +31876,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 83600,
+        "total_qty": 83597,
         "sku_count": 2747,
         "product_count": 2747
       },
@@ -31884,9 +31884,9 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3722,
-        "sku_count": 487,
-        "product_count": 487
+        "total_qty": 3719,
+        "sku_count": 486,
+        "product_count": 486
       },
       "gid://shopify/Collection/391854031102": {
         "title": "Women's",
@@ -31948,7 +31948,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11912,
+        "total_qty": 11910,
         "sku_count": 1023,
         "product_count": 1023
       },
@@ -31988,7 +31988,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 6077,
+        "total_qty": 6075,
         "sku_count": 506,
         "product_count": 506
       },
@@ -32156,7 +32156,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 24957,
+        "total_qty": 24956,
         "sku_count": 37,
         "product_count": 37
       },
@@ -32700,9 +32700,9 @@
         "title": "BALENCIAGA",
         "handle": "balenciaga",
         "legacy_id": "395973296382",
-        "total_qty": 234,
-        "sku_count": 106,
-        "product_count": 106
+        "total_qty": 233,
+        "sku_count": 105,
+        "product_count": 105
       },
       "gid://shopify/Collection/480545439998": {
         "title": "BUGATTI",
@@ -32748,7 +32748,7 @@
         "title": "TIFFANY & CO",
         "handle": "tiffany-co",
         "legacy_id": "483397370110",
-        "total_qty": 156,
+        "total_qty": 154,
         "sku_count": 25,
         "product_count": 25
       },
@@ -40576,11 +40576,6 @@
         "product_title": "BB0242O-006-53",
         "sku": "BALENCIAGA-BB0242O-006-53"
       },
-      "gid://shopify/ProductVariant/47807379898622": {
-        "qty": 1,
-        "product_title": "BB0263O-001-52",
-        "sku": "BALENCIAGA-BB0263O-001-52"
-      },
       "gid://shopify/ProductVariant/47807380062462": {
         "qty": 1,
         "product_title": "BB0263O-004-52",
@@ -43902,7 +43897,7 @@
         "sku": "NIKE-ADRENALINE-M-EVG-066"
       },
       "gid://shopify/ProductVariant/46059134714110": {
-        "qty": 9645,
+        "qty": 9644,
         "product_title": "DropShip",
         "sku": "DropShip"
       },
@@ -46602,7 +46597,7 @@
         "sku": "FENDI-FE4172US-16J"
       },
       "gid://shopify/ProductVariant/48223291638014": {
-        "qty": 11,
+        "qty": 9,
         "product_title": "TF3088-610516",
         "sku": "TF-TF3088-610516"
       },
@@ -78620,6 +78615,11 @@
         "qty": 0,
         "product_title": "BB0240O-001-52",
         "sku": "BALENCIAGA-BB0240O-001-52"
+      },
+      "gid://shopify/ProductVariant/47807379898622": {
+        "qty": 0,
+        "product_title": "BB0263O-001-52",
+        "sku": "BALENCIAGA-BB0263O-001-52"
       },
       "gid://shopify/ProductVariant/47807380095230": {
         "qty": 0,
