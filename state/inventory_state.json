@@ -31790,7 +31790,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-11T15:37:43.316680+00:00",
+    "updated_at": "2026-08-11T16:33:13.112909+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
@@ -31812,7 +31812,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 84047,
+        "total_qty": 84040,
         "sku_count": 3197,
         "product_count": 3197
       },
@@ -31820,7 +31820,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 84047,
+        "total_qty": 84040,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31836,7 +31836,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 84047,
+        "total_qty": 84040,
         "sku_count": 4053,
         "product_count": 4053
       },
@@ -31860,7 +31860,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 1109,
+        "total_qty": 1107,
         "sku_count": 911,
         "product_count": 911
       },
@@ -31876,7 +31876,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 83597,
+        "total_qty": 83590,
         "sku_count": 2747,
         "product_count": 2747
       },
@@ -31948,7 +31948,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11910,
+        "total_qty": 11903,
         "sku_count": 1023,
         "product_count": 1023
       },
@@ -31988,7 +31988,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 6075,
+        "total_qty": 6068,
         "sku_count": 506,
         "product_count": 506
       },
@@ -32124,7 +32124,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 955,
+        "total_qty": 948,
         "sku_count": 150,
         "product_count": 150
       },
@@ -32172,7 +32172,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 2791,
+        "total_qty": 2784,
         "sku_count": 284,
         "product_count": 284
       },
@@ -48577,7 +48577,7 @@
         "sku": "KS-AGLAIA/S-1EZ/LA"
       },
       "gid://shopify/ProductVariant/48683729551614": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "AMBERLEE/S-5MU/HA",
         "sku": "KS-AMBERLEE/S-5MU/HA"
       },
@@ -48587,7 +48587,7 @@
         "sku": "KS-ANGELIQUE/S-US-EUT/Y6"
       },
       "gid://shopify/ProductVariant/48683729617150": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "ANNIKA/F/S-086/70",
         "sku": "KS-ANNIKA/F/S-086/70"
       },
@@ -48622,7 +48622,7 @@
         "sku": "KS-DAESHA/F/S-WR7/WJ"
       },
       "gid://shopify/ProductVariant/48683730075902": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "DALIA/S-US-YB7/Y7",
         "sku": "KS-DALIA/S-US-YB7/Y7"
       },
@@ -48687,7 +48687,7 @@
         "sku": "KS-JOSI/S-086/HA"
       },
       "gid://shopify/ProductVariant/48683730600190": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "JOSI/S-HMW/9O",
         "sku": "KS-JOSI/S-HMW/9O"
       },
@@ -48697,7 +48697,7 @@
         "sku": "KS-JOSI/S-SK4/3X"
       },
       "gid://shopify/ProductVariant/48683730665726": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "KIYA2/G/S/US-086/HA",
         "sku": "KS-KIYA2/G/S/US-086/HA"
       },
@@ -48707,7 +48707,7 @@
         "sku": "KS-MARIGOLD/S-2TB/WJ"
       },
       "gid://shopify/ProductVariant/48683730731262": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "MELANIE/S-PJP/08",
         "sku": "KS-MELANIE/S-PJP/08"
       },
@@ -48727,7 +48727,7 @@
         "sku": "KS-NATHALIE/G/S/US-807/FF"
       },
       "gid://shopify/ProductVariant/48683730862334": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "NAVY/G/S-000/HA",
         "sku": "KS-NAVY/G/S-000/HA"
       },
