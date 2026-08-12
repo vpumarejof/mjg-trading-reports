@@ -31790,13 +31790,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-12T15:38:37.219674+00:00",
+    "updated_at": "2026-08-12T16:33:31.388088+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 62425,
+        "total_qty": 62424,
         "sku_count": 2163,
         "product_count": 2163
       },
@@ -31812,15 +31812,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 83718,
-        "sku_count": 3180,
-        "product_count": 3180
+        "total_qty": 83655,
+        "sku_count": 3173,
+        "product_count": 3173
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 83718,
+        "total_qty": 83655,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31836,9 +31836,9 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 83718,
-        "sku_count": 4036,
-        "product_count": 4036
+        "total_qty": 83655,
+        "sku_count": 4029,
+        "product_count": 4029
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
@@ -31876,9 +31876,9 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 83268,
-        "sku_count": 2730,
-        "product_count": 2730
+        "total_qty": 83203,
+        "sku_count": 2721,
+        "product_count": 2721
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
@@ -31948,9 +31948,9 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11638,
-        "sku_count": 1009,
-        "product_count": 1009
+        "total_qty": 11577,
+        "sku_count": 1002,
+        "product_count": 1002
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -31988,9 +31988,9 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5932,
-        "sku_count": 497,
-        "product_count": 497
+        "total_qty": 5871,
+        "sku_count": 490,
+        "product_count": 490
       },
       "gid://shopify/Collection/391853998334": {
         "title": "Men's",
@@ -32124,9 +32124,9 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 944,
-        "sku_count": 149,
-        "product_count": 149
+        "total_qty": 918,
+        "sku_count": 146,
+        "product_count": 146
       },
       "gid://shopify/Collection/454431080702": {
         "title": "Kids",
@@ -32156,7 +32156,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 24950,
+        "total_qty": 24949,
         "sku_count": 37,
         "product_count": 37
       },
@@ -32332,9 +32332,9 @@
         "title": "MOSCHINO",
         "handle": "moschino",
         "legacy_id": "395943837950",
-        "total_qty": 410,
-        "sku_count": 47,
-        "product_count": 47
+        "total_qty": 384,
+        "sku_count": 45,
+        "product_count": 45
       },
       "gid://shopify/Collection/408673911038": {
         "title": "MISSONI",
@@ -32348,9 +32348,9 @@
         "title": "CALVIN KLEIN",
         "handle": "calvin-klein",
         "legacy_id": "393476997374",
-        "total_qty": 70,
-        "sku_count": 22,
-        "product_count": 22
+        "total_qty": 63,
+        "sku_count": 21,
+        "product_count": 21
       },
       "gid://shopify/Collection/464057172222": {
         "title": "CALVIN KLEIN JEANS",
@@ -32412,7 +32412,7 @@
         "title": "OGA-MOREL",
         "handle": "oga-morel",
         "legacy_id": "466217992446",
-        "total_qty": 225,
+        "total_qty": 224,
         "sku_count": 12,
         "product_count": 12
       },
@@ -32644,9 +32644,9 @@
         "title": "LONGCHAMP",
         "handle": "longchamp",
         "legacy_id": "476032958718",
-        "total_qty": 389,
-        "sku_count": 47,
-        "product_count": 47
+        "total_qty": 387,
+        "sku_count": 46,
+        "product_count": 46
       },
       "gid://shopify/Collection/476563603710": {
         "title": "CHARRIOL",
@@ -36192,7 +36192,7 @@
         "sku": "OGA-MOREL-10205O-GB11-56"
       },
       "gid://shopify/ProductVariant/46978959999230": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "OGA-10174O-RN02-50",
         "sku": "OGA-MOREL-10174O-RN02-50"
       },
@@ -43882,7 +43882,7 @@
         "sku": "NIKE-ADRENALINE-M-EVG-066"
       },
       "gid://shopify/ProductVariant/46059134714110": {
-        "qty": 9641,
+        "qty": 9640,
         "product_title": "DropShip",
         "sku": "DropShip"
       },
@@ -44236,11 +44236,6 @@
         "product_title": "CAPRI/G/S-0B3V/G/DG",
         "sku": "KS-CAPRI/G/S-0B3V/DG"
       },
-      "gid://shopify/ProductVariant/47056115728638": {
-        "qty": 4,
-        "product_title": "DALILA/S-035J/FF",
-        "sku": "KS-DALILA/S-035J/FF"
-      },
       "gid://shopify/ProductVariant/47056115794174": {
         "qty": 7,
         "product_title": "GOLDA/G/S-0W4A/G/3X",
@@ -44357,7 +44352,7 @@
         "sku": "KS-KIMBER/G/S-086/HA"
       },
       "gid://shopify/ProductVariant/47432864727294": {
-        "qty": 9,
+        "qty": 1,
         "product_title": "TAMMY/S-807/IR",
         "sku": "KS-TAMMY/S-807/IR"
       },
@@ -45076,11 +45071,6 @@
         "product_title": "AMIYAH/G/S-807/9O",
         "sku": "KS-AMIYAH/G/S-807/9O"
       },
-      "gid://shopify/ProductVariant/47749754945790": {
-        "qty": 4,
-        "product_title": "BELAH/S/US-807/9O",
-        "sku": "KS-BELAH/S/US-807/9O"
-      },
       "gid://shopify/ProductVariant/47749754978558": {
         "qty": 12,
         "product_title": "ELLERY/F/S-PJP/9O",
@@ -45435,11 +45425,6 @@
         "qty": 1,
         "product_title": "CK22532S-444",
         "sku": "CK-CK22532S-444"
-      },
-      "gid://shopify/ProductVariant/47845509660926": {
-        "qty": 7,
-        "product_title": "CK24531S-601",
-        "sku": "CK-CK24531S-601"
       },
       "gid://shopify/ProductVariant/47845509988606": {
         "qty": 1,
@@ -46271,11 +46256,6 @@
         "product_title": "ELINA/G/S-807/9O",
         "sku": "KS-ELINA/G/S-807/9O"
       },
-      "gid://shopify/ProductVariant/48121214402814": {
-        "qty": 10,
-        "product_title": "JANECE/G/S-RHL/WJ",
-        "sku": "KS-JANECE/G/S-RHL/WJ"
-      },
       "gid://shopify/ProductVariant/48121214501118": {
         "qty": 14,
         "product_title": "JEZEBEL/G/S-PJP/9O",
@@ -46461,16 +46441,6 @@
         "product_title": "MOS180/S-C9A/9O",
         "sku": "MOSCHINO-MOS180/S-C9A/9O"
       },
-      "gid://shopify/ProductVariant/48174871511294": {
-        "qty": 13,
-        "product_title": "MOS171/S-807/9O",
-        "sku": "MOSCHINO-MOS171/S-807/9O"
-      },
-      "gid://shopify/ProductVariant/48174871675134": {
-        "qty": 13,
-        "product_title": "MOS160/S-807/9O",
-        "sku": "MOSCHINO-MOS160/S-807/9O"
-      },
       "gid://shopify/ProductVariant/48174871773438": {
         "qty": 7,
         "product_title": "DIONNA/S-807/WJ",
@@ -46480,11 +46450,6 @@
         "qty": 1,
         "product_title": "LO659S-001",
         "sku": "LONGCHAMP-LO659S-001"
-      },
-      "gid://shopify/ProductVariant/48175301230846": {
-        "qty": 2,
-        "product_title": "LO670S-001",
-        "sku": "LONGCHAMP-LO670S-001"
       },
       "gid://shopify/ProductVariant/48175301263614": {
         "qty": 3,
@@ -67136,6 +67101,11 @@
         "product_title": "BRYNNE/G/S-01ED/G/IB",
         "sku": "KS-BRYNNE/G/S-01ED/IB"
       },
+      "gid://shopify/ProductVariant/47056115728638": {
+        "qty": 0,
+        "product_title": "DALILA/S-035J/FF",
+        "sku": "KS-DALILA/S-035J/FF"
+      },
       "gid://shopify/ProductVariant/47056115859710": {
         "qty": 0,
         "product_title": "HARLOW/G/S-0B3V/G/HA",
@@ -76836,6 +76806,11 @@
         "product_title": "CARDUC 009-5MO-57",
         "sku": "CARRERA-CARDUC 009-5MO-57"
       },
+      "gid://shopify/ProductVariant/47749754945790": {
+        "qty": 0,
+        "product_title": "BELAH/S/US-807/9O",
+        "sku": "KS-BELAH/S/US-807/9O"
+      },
       "gid://shopify/ProductVariant/47749755076862": {
         "qty": 0,
         "product_title": "MIS-0083/S-S37/9O",
@@ -79205,6 +79180,11 @@
         "qty": 0,
         "product_title": "CK24531S-412",
         "sku": "CK-CK24531S-412"
+      },
+      "gid://shopify/ProductVariant/47845509660926": {
+        "qty": 0,
+        "product_title": "CK24531S-601",
+        "sku": "CK-CK24531S-601"
       },
       "gid://shopify/ProductVariant/47845509726462": {
         "qty": 0,
@@ -81606,6 +81586,11 @@
         "product_title": "IVIE-0AW-52",
         "sku": "KS-IVIE-0AW-52"
       },
+      "gid://shopify/ProductVariant/48121214402814": {
+        "qty": 0,
+        "product_title": "JANECE/G/S-RHL/WJ",
+        "sku": "KS-JANECE/G/S-RHL/WJ"
+      },
       "gid://shopify/ProductVariant/48121214435582": {
         "qty": 0,
         "product_title": "JAVANA/G/S-B3V/QR",
@@ -82476,6 +82461,11 @@
         "product_title": "TH-2126/S-PJP/70",
         "sku": "TH-TH-2126/S-PJP/70"
       },
+      "gid://shopify/ProductVariant/48174871511294": {
+        "qty": 0,
+        "product_title": "MOS171/S-807/9O",
+        "sku": "MOSCHINO-MOS171/S-807/9O"
+      },
       "gid://shopify/ProductVariant/48174871609598": {
         "qty": 0,
         "product_title": "MOS171/S-086/HA",
@@ -82485,6 +82475,11 @@
         "qty": 0,
         "product_title": "MOS168/S-C9K/HA",
         "sku": "MOSCHINO-MOS168/S-C9K/HA"
+      },
+      "gid://shopify/ProductVariant/48174871675134": {
+        "qty": 0,
+        "product_title": "MOS160/S-807/9O",
+        "sku": "MOSCHINO-MOS160/S-807/9O"
       },
       "gid://shopify/ProductVariant/48174871707902": {
         "qty": 0,
@@ -82515,6 +82510,11 @@
         "qty": 0,
         "product_title": "LO164S-714",
         "sku": "LONGCHAMP-LO164S-714"
+      },
+      "gid://shopify/ProductVariant/48175301230846": {
+        "qty": 0,
+        "product_title": "LO670S-001",
+        "sku": "LONGCHAMP-LO670S-001"
       },
       "gid://shopify/ProductVariant/48175301329150": {
         "qty": 0,
