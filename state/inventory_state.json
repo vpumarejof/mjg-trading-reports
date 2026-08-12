@@ -31790,13 +31790,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-12T01:11:04.633303+00:00",
+    "updated_at": "2026-08-12T03:29:01.393151+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 62443,
+        "total_qty": 62442,
         "sku_count": 2164,
         "product_count": 2164
       },
@@ -31812,7 +31812,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 84083,
+        "total_qty": 84079,
         "sku_count": 3195,
         "product_count": 3195
       },
@@ -31820,7 +31820,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 84083,
+        "total_qty": 84079,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31836,7 +31836,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 84083,
+        "total_qty": 84079,
         "sku_count": 4051,
         "product_count": 4051
       },
@@ -31852,7 +31852,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22693,
+        "total_qty": 22691,
         "sku_count": 2485,
         "product_count": 2485
       },
@@ -31876,9 +31876,9 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 83636,
-        "sku_count": 2748,
-        "product_count": 2748
+        "total_qty": 83631,
+        "sku_count": 2747,
+        "product_count": 2747
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
@@ -31948,7 +31948,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11984,
+        "total_qty": 11981,
         "sku_count": 1023,
         "product_count": 1023
       },
@@ -31964,7 +31964,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 3055,
+        "total_qty": 3054,
         "sku_count": 310,
         "product_count": 310
       },
@@ -31988,7 +31988,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 6151,
+        "total_qty": 6150,
         "sku_count": 506,
         "product_count": 506
       },
@@ -32012,7 +32012,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2860,
+        "total_qty": 2859,
         "sku_count": 212,
         "product_count": 212
       },
@@ -32052,7 +32052,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1944,
+        "total_qty": 1943,
         "sku_count": 114,
         "product_count": 114
       },
@@ -32124,7 +32124,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 947,
+        "total_qty": 946,
         "sku_count": 150,
         "product_count": 150
       },
@@ -32172,7 +32172,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 1893,
+        "total_qty": 1892,
         "sku_count": 181,
         "product_count": 181
       },
@@ -32244,15 +32244,15 @@
         "title": "Readers",
         "handle": "readers",
         "legacy_id": "373526069502",
-        "total_qty": 167,
-        "sku_count": 50,
-        "product_count": 50
+        "total_qty": 165,
+        "sku_count": 49,
+        "product_count": 49
       },
       "gid://shopify/Collection/391774273790": {
         "title": "EYEBOBS",
         "handle": "eyebobs",
         "legacy_id": "391774273790",
-        "total_qty": 179,
+        "total_qty": 178,
         "sku_count": 62,
         "product_count": 62
       },
@@ -32260,9 +32260,9 @@
         "title": "Unisex Readers",
         "handle": "unisex-readers",
         "legacy_id": "459347788030",
-        "total_qty": 80,
-        "sku_count": 24,
-        "product_count": 24
+        "total_qty": 78,
+        "sku_count": 23,
+        "product_count": 23
       },
       "gid://shopify/Collection/459347689726": {
         "title": "Women's Readers",
@@ -32732,7 +32732,7 @@
         "title": "ELTON JOHN",
         "handle": "elton-john",
         "legacy_id": "482187051262",
-        "total_qty": 1866,
+        "total_qty": 1865,
         "sku_count": 111,
         "product_count": 111
       },
@@ -33417,7 +33417,7 @@
         "sku": "EYEBOBS-3432-19-1.25"
       },
       "gid://shopify/ProductVariant/46243450519806": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "3416-15-1.25",
         "sku": "EYEBOBS-3416-15-1.25"
       },
@@ -45717,7 +45717,7 @@
         "sku": "KS-CAPRI/G/S-3H2/9O"
       },
       "gid://shopify/ProductVariant/48011977556222": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "FRIDA/G/S-C9A-9O",
         "sku": "KS-FRIDA/G/S-C9A-9O"
       },
@@ -47827,7 +47827,7 @@
         "sku": "MO-LOU-A_D"
       },
       "gid://shopify/ProductVariant/48648014692606": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "1067/S-J5G/08",
         "sku": "CARRERA-1067/S-J5G/08"
       },
@@ -48312,7 +48312,7 @@
         "sku": "EJ-HIFI-1-BRNCY"
       },
       "gid://shopify/ProductVariant/48667530002686": {
-        "qty": 18,
+        "qty": 17,
         "product_title": "HIFI-2-THNCY",
         "sku": "EJ-HIFI-2-THNCY"
       },
