@@ -31790,15 +31790,15 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-12T16:33:31.388088+00:00",
+    "updated_at": "2026-08-12T17:40:00.131989+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 62424,
-        "sku_count": 2163,
-        "product_count": 2163
+        "total_qty": 62418,
+        "sku_count": 2162,
+        "product_count": 2162
       },
       "gid://shopify/Collection/391774208254": {
         "title": "ELIE SAAB",
@@ -31812,15 +31812,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 83655,
-        "sku_count": 3173,
-        "product_count": 3173
+        "total_qty": 83645,
+        "sku_count": 3172,
+        "product_count": 3172
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 83655,
+        "total_qty": 83645,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31828,31 +31828,31 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12566,
-        "sku_count": 895,
-        "product_count": 895
+        "total_qty": 12561,
+        "sku_count": 894,
+        "product_count": 894
       },
       "gid://shopify/Collection/410150142206": {
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 83655,
-        "sku_count": 4029,
-        "product_count": 4029
+        "total_qty": 83645,
+        "sku_count": 4028,
+        "product_count": 4028
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12566,
-        "sku_count": 895,
-        "product_count": 895
+        "total_qty": 12561,
+        "sku_count": 894,
+        "product_count": 894
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22564,
+        "total_qty": 22563,
         "sku_count": 2485,
         "product_count": 2485
       },
@@ -31876,15 +31876,15 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 83203,
-        "sku_count": 2721,
-        "product_count": 2721
+        "total_qty": 83193,
+        "sku_count": 2720,
+        "product_count": 2720
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3797,
+        "total_qty": 3795,
         "sku_count": 486,
         "product_count": 486
       },
@@ -31948,7 +31948,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11577,
+        "total_qty": 11573,
         "sku_count": 1002,
         "product_count": 1002
       },
@@ -31964,7 +31964,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 3047,
+        "total_qty": 3044,
         "sku_count": 310,
         "product_count": 310
       },
@@ -31980,7 +31980,7 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 710,
+        "total_qty": 708,
         "sku_count": 85,
         "product_count": 85
       },
@@ -32012,7 +32012,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2741,
+        "total_qty": 2740,
         "sku_count": 207,
         "product_count": 207
       },
@@ -32020,7 +32020,7 @@
         "title": "NIKE",
         "handle": "nike",
         "legacy_id": "391775125758",
-        "total_qty": 262,
+        "total_qty": 260,
         "sku_count": 27,
         "product_count": 27
       },
@@ -32052,7 +32052,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1941,
+        "total_qty": 1940,
         "sku_count": 114,
         "product_count": 114
       },
@@ -32188,7 +32188,7 @@
         "title": "ELASTA",
         "handle": "elasta",
         "legacy_id": "411442249982",
-        "total_qty": 79,
+        "total_qty": 78,
         "sku_count": 22,
         "product_count": 22
       },
@@ -32212,7 +32212,7 @@
         "title": "QUAY",
         "handle": "quay",
         "legacy_id": "472482939134",
-        "total_qty": 640,
+        "total_qty": 639,
         "sku_count": 57,
         "product_count": 57
       },
@@ -32348,7 +32348,7 @@
         "title": "CALVIN KLEIN",
         "handle": "calvin-klein",
         "legacy_id": "393476997374",
-        "total_qty": 63,
+        "total_qty": 62,
         "sku_count": 21,
         "product_count": 21
       },
@@ -32580,9 +32580,9 @@
         "title": "ANNE KLEIN",
         "handle": "anne-klein",
         "legacy_id": "474673250558",
-        "total_qty": 52,
-        "sku_count": 9,
-        "product_count": 9
+        "total_qty": 50,
+        "sku_count": 8,
+        "product_count": 8
       },
       "gid://shopify/Collection/392547991806": {
         "title": "BEBE",
@@ -35012,7 +35012,7 @@
         "sku": "SF-SF2977-653-53"
       },
       "gid://shopify/ProductVariant/46663431782654": {
-        "qty": 6,
+        "qty": 4,
         "product_title": "SF2985-207-52",
         "sku": "SF-SF2985-207-52"
       },
@@ -36257,7 +36257,7 @@
         "sku": "ELASTA-E-7247-0AB8-51"
       },
       "gid://shopify/ProductVariant/47010179809534": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "E-7253-0003-53",
         "sku": "ELASTA-E-7253-0003-53"
       },
@@ -36642,7 +36642,7 @@
         "sku": "CK-CK23512-538-52"
       },
       "gid://shopify/ProductVariant/47077725896958": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "CK23512-616-52",
         "sku": "CK-CK23512-616-52"
       },
@@ -37825,11 +37825,6 @@
         "qty": 7,
         "product_title": "AK5103-030-52",
         "sku": "AK-AK5103-030-52"
-      },
-      "gid://shopify/ProductVariant/47504331997438": {
-        "qty": 2,
-        "product_title": "AK5110-203-53",
-        "sku": "AK-AK5110-203-53"
       },
       "gid://shopify/ProductVariant/47504332030206": {
         "qty": 9,
@@ -43802,7 +43797,7 @@
         "sku": "CARRERA-22/N-080S/9O"
       },
       "gid://shopify/ProductVariant/45606163742974": {
-        "qty": 82,
+        "qty": 81,
         "product_title": "CARDUC-006-S-0OIT-AO",
         "sku": "CARRERA CARDUC 006/S 0OIT/AO"
       },
@@ -44102,7 +44097,7 @@
         "sku": "NIKE-HORIZON-ASCENT DJ9920-900"
       },
       "gid://shopify/ProductVariant/46811453718782": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "LUCENT BOOST EV24051",
         "sku": "NIKE-LUCENT-BOOST-EV24051-601"
       },
@@ -44112,7 +44107,7 @@
         "sku": "NIKE-LUCENT-BOOST-EV24051-010"
       },
       "gid://shopify/ProductVariant/46811457192190": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "LUCENT BOOST EV24051",
         "sku": "NIKE-LUCENT-BOOST-EV24051-900"
       },
@@ -47372,7 +47367,7 @@
         "sku": "QUAY-NO-NS-2708-GLD/CP"
       },
       "gid://shopify/ProductVariant/48560872751358": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "ENTOURAGE-80033",
         "sku": "QUAY-NO-NS-2438-GNMTL/SMK"
       },
@@ -73825,6 +73820,11 @@
         "qty": 0,
         "product_title": "AK5101-770-52",
         "sku": "AK-AK5101-770-52"
+      },
+      "gid://shopify/ProductVariant/47504331997438": {
+        "qty": 0,
+        "product_title": "AK5110-203-53",
+        "sku": "AK-AK5110-203-53"
       },
       "gid://shopify/ProductVariant/47504332128510": {
         "qty": 0,
