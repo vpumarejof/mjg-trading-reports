@@ -31790,13 +31790,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-12T10:36:22.026022+00:00",
+    "updated_at": "2026-08-12T11:27:43.277149+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 62438,
+        "total_qty": 62437,
         "sku_count": 2163,
         "product_count": 2163
       },
@@ -31812,7 +31812,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 84071,
+        "total_qty": 84069,
         "sku_count": 3194,
         "product_count": 3194
       },
@@ -31820,7 +31820,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 84071,
+        "total_qty": 84069,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31836,7 +31836,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 84071,
+        "total_qty": 84069,
         "sku_count": 4050,
         "product_count": 4050
       },
@@ -31852,7 +31852,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22690,
+        "total_qty": 22689,
         "sku_count": 2485,
         "product_count": 2485
       },
@@ -31876,7 +31876,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 83624,
+        "total_qty": 83622,
         "sku_count": 2747,
         "product_count": 2747
       },
@@ -31916,7 +31916,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 19792,
+        "total_qty": 19791,
         "sku_count": 481,
         "product_count": 481
       },
@@ -31948,7 +31948,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11978,
+        "total_qty": 11977,
         "sku_count": 1023,
         "product_count": 1023
       },
@@ -31964,7 +31964,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 3053,
+        "total_qty": 3052,
         "sku_count": 310,
         "product_count": 310
       },
@@ -32020,7 +32020,7 @@
         "title": "NIKE",
         "handle": "nike",
         "legacy_id": "391775125758",
-        "total_qty": 263,
+        "total_qty": 262,
         "sku_count": 27,
         "product_count": 27
       },
@@ -32564,7 +32564,7 @@
         "title": "QUIKSILVER",
         "handle": "quiksilver",
         "legacy_id": "474031259902",
-        "total_qty": 196,
+        "total_qty": 195,
         "sku_count": 28,
         "product_count": 28
       },
@@ -37757,7 +37757,7 @@
         "sku": "QUIKSILVER-QS2005-MCAR-54"
       },
       "gid://shopify/ProductVariant/47484456763646": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "QS2006 BROWN 54/17-145",
         "sku": "QUIKSILVER-QS2006-BRN-54"
       },
@@ -44107,7 +44107,7 @@
         "sku": "NIKE-LUCENT-BOOST-EV24051-601"
       },
       "gid://shopify/ProductVariant/46811454275838": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "LUCENT BOOST EV24051",
         "sku": "NIKE-LUCENT-BOOST-EV24051-010"
       },
