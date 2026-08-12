@@ -31790,13 +31790,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-12T14:43:21.205033+00:00",
+    "updated_at": "2026-08-12T15:38:37.219674+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 62423,
+        "total_qty": 62425,
         "sku_count": 2163,
         "product_count": 2163
       },
@@ -31852,7 +31852,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22562,
+        "total_qty": 22564,
         "sku_count": 2485,
         "product_count": 2485
       },
@@ -31868,7 +31868,7 @@
         "title": "PRADA",
         "handle": "prada",
         "legacy_id": "391775289598",
-        "total_qty": 202,
+        "total_qty": 200,
         "sku_count": 35,
         "product_count": 35
       },
@@ -31884,7 +31884,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3799,
+        "total_qty": 3797,
         "sku_count": 486,
         "product_count": 486
       },
@@ -31916,7 +31916,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 19781,
+        "total_qty": 19783,
         "sku_count": 481,
         "product_count": 481
       },
@@ -31948,7 +31948,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11640,
+        "total_qty": 11638,
         "sku_count": 1009,
         "product_count": 1009
       },
@@ -31964,7 +31964,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 3049,
+        "total_qty": 3047,
         "sku_count": 310,
         "product_count": 310
       },
@@ -32172,9 +32172,9 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 1857,
-        "sku_count": 179,
-        "product_count": 179
+        "total_qty": 1854,
+        "sku_count": 178,
+        "product_count": 178
       },
       "gid://shopify/Collection/455407829246": {
         "title": "Uniisex Eyeglasses",
@@ -32300,7 +32300,7 @@
         "title": "Tariff Busters",
         "handle": "tariff-busters",
         "legacy_id": "463834087678",
-        "total_qty": 47209,
+        "total_qty": 47211,
         "sku_count": 350,
         "product_count": 350
       },
@@ -32380,7 +32380,7 @@
         "title": "SIGNATURE",
         "handle": "signature",
         "legacy_id": "464260399358",
-        "total_qty": 9655,
+        "total_qty": 9657,
         "sku_count": 95,
         "product_count": 95
       },
@@ -35527,7 +35527,7 @@
         "sku": "Signature-Pn104Gun-55"
       },
       "gid://shopify/ProductVariant/46684978053374": {
-        "qty": 10,
+        "qty": 12,
         "product_title": "Pn105-DarkBrown-54",
         "sku": "Signature-Pn105-DarkBrown-54"
       },
@@ -48277,7 +48277,7 @@
         "sku": "PRADA-PR-A15S-1AB8C1"
       },
       "gid://shopify/ProductVariant/48683421401342": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "PR-A24S-1AB5S0",
         "sku": "PRADA-PR-A24S-1AB5S0"
       },
@@ -48297,7 +48297,7 @@
         "sku": "PRADA-PR-A60S-5AK70G"
       },
       "gid://shopify/ProductVariant/48683421532414": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "PS-50ZS-1AB02G",
         "sku": "PRADA-PS-50ZS-1AB02G"
       },
