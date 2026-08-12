@@ -31790,13 +31790,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-12T22:09:13.243120+00:00",
+    "updated_at": "2026-08-12T22:58:26.071440+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 62400,
+        "total_qty": 62398,
         "sku_count": 2159,
         "product_count": 2159
       },
@@ -31812,7 +31812,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 83622,
+        "total_qty": 83619,
         "sku_count": 3168,
         "product_count": 3168
       },
@@ -31820,7 +31820,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 83622,
+        "total_qty": 83619,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31828,7 +31828,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12553,
+        "total_qty": 12551,
         "sku_count": 892,
         "product_count": 892
       },
@@ -31836,7 +31836,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 83622,
+        "total_qty": 83619,
         "sku_count": 4024,
         "product_count": 4024
       },
@@ -31844,7 +31844,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12553,
+        "total_qty": 12551,
         "sku_count": 892,
         "product_count": 892
       },
@@ -31852,7 +31852,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22563,
+        "total_qty": 22562,
         "sku_count": 2485,
         "product_count": 2485
       },
@@ -31876,7 +31876,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 83169,
+        "total_qty": 83166,
         "sku_count": 2715,
         "product_count": 2715
       },
@@ -31948,7 +31948,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11568,
+        "total_qty": 11567,
         "sku_count": 1001,
         "product_count": 1001
       },
@@ -32012,7 +32012,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2740,
+        "total_qty": 2739,
         "sku_count": 207,
         "product_count": 207
       },
@@ -32172,7 +32172,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 1852,
+        "total_qty": 1850,
         "sku_count": 176,
         "product_count": 176
       },
@@ -32348,7 +32348,7 @@
         "title": "CALVIN KLEIN",
         "handle": "calvin-klein",
         "legacy_id": "393476997374",
-        "total_qty": 62,
+        "total_qty": 61,
         "sku_count": 21,
         "product_count": 21
       },
@@ -32364,7 +32364,7 @@
         "title": "FLEXON",
         "handle": "flexon",
         "legacy_id": "466401853694",
-        "total_qty": 247,
+        "total_qty": 246,
         "sku_count": 43,
         "product_count": 43
       },
@@ -32820,7 +32820,7 @@
         "title": "POLAROID",
         "handle": "polaroid",
         "legacy_id": "396440076542",
-        "total_qty": 71,
+        "total_qty": 70,
         "sku_count": 7,
         "product_count": 7
       }
@@ -36637,7 +36637,7 @@
         "sku": "CK-CK23512-240-52"
       },
       "gid://shopify/ProductVariant/47077725733118": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "CK23512-538-52",
         "sku": "CK-CK23512-538-52"
       },
@@ -43607,7 +43607,7 @@
         "sku": "FLEXON-J4026-N-070-50"
       },
       "gid://shopify/ProductVariant/48698372882686": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "MAE-412-51",
         "sku": "FLEXON-MAE-412-51"
       },
@@ -48647,7 +48647,7 @@
         "sku": "POLAROID-PLD-6222/S-MU1/JQ"
       },
       "gid://shopify/ProductVariant/48683731321086": {
-        "qty": 11,
+        "qty": 10,
         "product_title": "PLD-6223/S/X-VK6/M9",
         "sku": "POLAROID-PLD-6223/S/X-VK6/M9"
       },
