@@ -31790,7 +31790,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-12T11:27:43.277149+00:00",
+    "updated_at": "2026-08-12T12:08:52.952857+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
@@ -31812,7 +31812,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 84069,
+        "total_qty": 84070,
         "sku_count": 3194,
         "product_count": 3194
       },
@@ -31820,7 +31820,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 84069,
+        "total_qty": 84070,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31836,7 +31836,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 84069,
+        "total_qty": 84070,
         "sku_count": 4050,
         "product_count": 4050
       },
@@ -31876,7 +31876,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 83622,
+        "total_qty": 83623,
         "sku_count": 2747,
         "product_count": 2747
       },
@@ -31948,7 +31948,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11977,
+        "total_qty": 11978,
         "sku_count": 1023,
         "product_count": 1023
       },
@@ -31988,7 +31988,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 6148,
+        "total_qty": 6149,
         "sku_count": 506,
         "product_count": 506
       },
@@ -32124,7 +32124,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 944,
+        "total_qty": 945,
         "sku_count": 149,
         "product_count": 149
       },
@@ -45712,7 +45712,7 @@
         "sku": "KS-CAPRI/G/S-3H2/9O"
       },
       "gid://shopify/ProductVariant/48011977556222": {
-        "qty": 3,
+        "qty": 4,
         "product_title": "FRIDA/G/S-C9A-9O",
         "sku": "KS-FRIDA/G/S-C9A-9O"
       },
