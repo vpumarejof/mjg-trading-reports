@@ -31790,7 +31790,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-13T18:35:28.413391+00:00",
+    "updated_at": "2026-08-13T19:42:48.371716+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
@@ -31812,7 +31812,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 83534,
+        "total_qty": 83533,
         "sku_count": 3152,
         "product_count": 3152
       },
@@ -31820,7 +31820,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 83534,
+        "total_qty": 83533,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31836,7 +31836,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 83534,
+        "total_qty": 83533,
         "sku_count": 4013,
         "product_count": 4013
       },
@@ -31876,7 +31876,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 83091,
+        "total_qty": 83090,
         "sku_count": 2709,
         "product_count": 2709
       },
@@ -31948,7 +31948,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11514,
+        "total_qty": 11513,
         "sku_count": 995,
         "product_count": 995
       },
@@ -31964,7 +31964,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 3024,
+        "total_qty": 3023,
         "sku_count": 303,
         "product_count": 303
       },
@@ -32668,7 +32668,7 @@
         "title": "COLUMBIA",
         "handle": "columbia",
         "legacy_id": "395943805182",
-        "total_qty": 204,
+        "total_qty": 203,
         "sku_count": 41,
         "product_count": 41
       },
@@ -45907,7 +45907,7 @@
         "sku": "COLUMBIA-C533SP-240"
       },
       "gid://shopify/ProductVariant/48094645944574": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "PEAK RACER-003",
         "sku": "COLUMBIA-C536SP-003"
       },
