@@ -31790,15 +31790,15 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-13T06:43:01.260314+00:00",
+    "updated_at": "2026-08-13T08:05:19.599522+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 62391,
-        "sku_count": 2155,
-        "product_count": 2155
+        "total_qty": 62386,
+        "sku_count": 2153,
+        "product_count": 2153
       },
       "gid://shopify/Collection/391774208254": {
         "title": "ELIE SAAB",
@@ -31812,15 +31812,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 83571,
-        "sku_count": 3159,
-        "product_count": 3159
+        "total_qty": 83566,
+        "sku_count": 3157,
+        "product_count": 3157
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 83571,
+        "total_qty": 83566,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31828,7 +31828,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12548,
+        "total_qty": 12547,
         "sku_count": 890,
         "product_count": 890
       },
@@ -31836,7 +31836,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 83571,
+        "total_qty": 83566,
         "sku_count": 4015,
         "product_count": 4015
       },
@@ -31844,7 +31844,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12548,
+        "total_qty": 12547,
         "sku_count": 890,
         "product_count": 890
       },
@@ -31852,7 +31852,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22548,
+        "total_qty": 22547,
         "sku_count": 2485,
         "product_count": 2485
       },
@@ -31860,7 +31860,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 1104,
+        "total_qty": 1102,
         "sku_count": 911,
         "product_count": 911
       },
@@ -31876,9 +31876,9 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 83123,
-        "sku_count": 2711,
-        "product_count": 2711
+        "total_qty": 83119,
+        "sku_count": 2710,
+        "product_count": 2710
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
@@ -31900,7 +31900,7 @@
         "title": "Plastic Metal",
         "handle": "plastic-metal",
         "legacy_id": "462599520510",
-        "total_qty": 1734,
+        "total_qty": 1733,
         "sku_count": 99,
         "product_count": 99
       },
@@ -31916,7 +31916,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 19778,
+        "total_qty": 19777,
         "sku_count": 479,
         "product_count": 479
       },
@@ -32220,9 +32220,9 @@
         "title": "DAVID BECKHAM",
         "handle": "david-beckham",
         "legacy_id": "397089702142",
-        "total_qty": 611,
-        "sku_count": 78,
-        "product_count": 78
+        "total_qty": 609,
+        "sku_count": 77,
+        "product_count": 77
       },
       "gid://shopify/Collection/422907576574": {
         "title": "KARL LAGERFELD",
@@ -32348,7 +32348,7 @@
         "title": "CALVIN KLEIN",
         "handle": "calvin-klein",
         "legacy_id": "393476997374",
-        "total_qty": 61,
+        "total_qty": 60,
         "sku_count": 21,
         "product_count": 21
       },
@@ -32412,9 +32412,9 @@
         "title": "OGA-MOREL",
         "handle": "oga-morel",
         "legacy_id": "466217992446",
-        "total_qty": 224,
-        "sku_count": 12,
-        "product_count": 12
+        "total_qty": 223,
+        "sku_count": 11,
+        "product_count": 11
       },
       "gid://shopify/Collection/406703735038": {
         "title": "LEVI'S",
@@ -32468,7 +32468,7 @@
         "title": "COCO SONG",
         "handle": "coco-song",
         "legacy_id": "467688259838",
-        "total_qty": 230,
+        "total_qty": 229,
         "sku_count": 59,
         "product_count": 59
       },
@@ -34310,11 +34310,6 @@
         "qty": 1,
         "product_title": "CARDUC-019-0807-50",
         "sku": "CARRERA-CARDUC-019-0807-50"
-      },
-      "gid://shopify/ProductVariant/46529202815230": {
-        "qty": 2,
-        "product_title": "DB-1108-0086-55",
-        "sku": "DB-DB-1108-0086-55"
       },
       "gid://shopify/ProductVariant/46529203306750": {
         "qty": 1,
@@ -36191,11 +36186,6 @@
         "product_title": "OGA-10205O-GB11-56",
         "sku": "OGA-MOREL-10205O-GB11-56"
       },
-      "gid://shopify/ProductVariant/46978959999230": {
-        "qty": 1,
-        "product_title": "OGA-10174O-RN02-50",
-        "sku": "OGA-MOREL-10174O-RN02-50"
-      },
       "gid://shopify/ProductVariant/46979080388862": {
         "qty": 5,
         "product_title": "KOALI-20071K-TM21-52",
@@ -36652,7 +36642,7 @@
         "sku": "CK-CK23542-282-49"
       },
       "gid://shopify/ProductVariant/47077726945534": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "CK23542-438-49",
         "sku": "CK-CK23542-438-49"
       },
@@ -37462,7 +37452,7 @@
         "sku": "CS-SWEET-MAMA-CV257.02-09"
       },
       "gid://shopify/ProductVariant/47272819491070": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "SWEET-MAMA-CV257.03-09",
         "sku": "CS-SWEET-MAMA-CV257.03-09"
       },
@@ -62696,6 +62686,11 @@
         "product_title": "DB-1067-0TI7-54",
         "sku": "DB-DB-1067-0TI7-54"
       },
+      "gid://shopify/ProductVariant/46529202815230": {
+        "qty": 0,
+        "product_title": "DB-1108-0086-55",
+        "sku": "DB-DB-1108-0086-55"
+      },
       "gid://shopify/ProductVariant/46529202847998": {
         "qty": 0,
         "product_title": "DB-1109/G-0J5G-52",
@@ -65910,6 +65905,11 @@
         "qty": 0,
         "product_title": "OGA-10174O-NG01-50",
         "sku": "OGA-MOREL-10174O-NG01-50"
+      },
+      "gid://shopify/ProductVariant/46978959999230": {
+        "qty": 0,
+        "product_title": "OGA-10174O-RN02-50",
+        "sku": "OGA-MOREL-10174O-RN02-50"
       },
       "gid://shopify/ProductVariant/46978960097534": {
         "qty": 0,
