@@ -31790,13 +31790,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-13T14:44:51.719442+00:00",
+    "updated_at": "2026-08-13T15:40:12.832803+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 62386,
+        "total_qty": 62384,
         "sku_count": 2153,
         "product_count": 2153
       },
@@ -31812,7 +31812,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 83568,
+        "total_qty": 83563,
         "sku_count": 3157,
         "product_count": 3157
       },
@@ -31820,7 +31820,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 83568,
+        "total_qty": 83563,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31836,7 +31836,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 83568,
+        "total_qty": 83563,
         "sku_count": 4015,
         "product_count": 4015
       },
@@ -31876,7 +31876,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 83121,
+        "total_qty": 83116,
         "sku_count": 2710,
         "product_count": 2710
       },
@@ -31884,7 +31884,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3778,
+        "total_qty": 3776,
         "sku_count": 483,
         "product_count": 483
       },
@@ -31948,7 +31948,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11528,
+        "total_qty": 11525,
         "sku_count": 996,
         "product_count": 996
       },
@@ -31980,7 +31980,7 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 708,
+        "total_qty": 706,
         "sku_count": 85,
         "product_count": 85
       },
@@ -31988,7 +31988,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5851,
+        "total_qty": 5848,
         "sku_count": 490,
         "product_count": 490
       },
@@ -32212,7 +32212,7 @@
         "title": "QUAY",
         "handle": "quay",
         "legacy_id": "472482939134",
-        "total_qty": 639,
+        "total_qty": 636,
         "sku_count": 57,
         "product_count": 57
       },
@@ -36712,7 +36712,7 @@
         "sku": "SF-SF2988-050-54"
       },
       "gid://shopify/ProductVariant/47111140442366": {
-        "qty": 4,
+        "qty": 2,
         "product_title": "SF2988-232-54",
         "sku": "SF-SF2988-232-54"
       },
@@ -46812,7 +46812,7 @@
         "sku": "QUAY-QU-000602-MTBLK/SMKGRN"
       },
       "gid://shopify/ProductVariant/48314439696638": {
-        "qty": 19,
+        "qty": 18,
         "product_title": "IT\u2019S MY WAY-2272",
         "sku": "QUAY-QW-000144-BLK/SMK"
       },
@@ -46822,12 +46822,12 @@
         "sku": "QUAY-QW-000869-GLD/BRNFD"
       },
       "gid://shopify/ProductVariant/48314439827710": {
-        "qty": 14,
+        "qty": 13,
         "product_title": "TOTAL VIBE-68777",
         "sku": "QUAY-NO-NS-1581-BRN/BRN"
       },
       "gid://shopify/ProductVariant/48314439926014": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "TOTAL VIBE-55796",
         "sku": "QUAY-QW-001060-BLK/SMKGRN"
       },
