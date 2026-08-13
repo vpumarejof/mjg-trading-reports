@@ -31790,7 +31790,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-13T05:05:01.065716+00:00",
+    "updated_at": "2026-08-13T06:43:01.260314+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
@@ -31812,15 +31812,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 83573,
-        "sku_count": 3160,
-        "product_count": 3160
+        "total_qty": 83571,
+        "sku_count": 3159,
+        "product_count": 3159
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 83573,
+        "total_qty": 83571,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31836,9 +31836,9 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 83573,
-        "sku_count": 4016,
-        "product_count": 4016
+        "total_qty": 83571,
+        "sku_count": 4015,
+        "product_count": 4015
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
@@ -31876,7 +31876,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 83124,
+        "total_qty": 83123,
         "sku_count": 2711,
         "product_count": 2711
       },
@@ -31884,9 +31884,9 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3780,
-        "sku_count": 484,
-        "product_count": 484
+        "total_qty": 3778,
+        "sku_count": 483,
+        "product_count": 483
       },
       "gid://shopify/Collection/391854031102": {
         "title": "Women's",
@@ -31948,9 +31948,9 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11528,
-        "sku_count": 997,
-        "product_count": 997
+        "total_qty": 11526,
+        "sku_count": 996,
+        "product_count": 996
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -31964,9 +31964,9 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 3030,
-        "sku_count": 304,
-        "product_count": 304
+        "total_qty": 3029,
+        "sku_count": 303,
+        "product_count": 303
       },
       "gid://shopify/Collection/391774109950": {
         "title": "DRAGON",
@@ -31988,7 +31988,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5852,
+        "total_qty": 5851,
         "sku_count": 490,
         "product_count": 490
       },
@@ -32556,9 +32556,9 @@
         "title": "CARTIER",
         "handle": "cartier",
         "legacy_id": "411443298558",
-        "total_qty": 23,
-        "sku_count": 19,
-        "product_count": 19
+        "total_qty": 22,
+        "sku_count": 18,
+        "product_count": 18
       },
       "gid://shopify/Collection/474031259902": {
         "title": "QUIKSILVER",
@@ -32804,7 +32804,7 @@
         "title": "ANNA-KARIN KARLSSON",
         "handle": "anna-karin-karlsson",
         "legacy_id": "485871059198",
-        "total_qty": 1384,
+        "total_qty": 1383,
         "sku_count": 22,
         "product_count": 22
       },
@@ -44426,11 +44426,6 @@
         "product_title": "CT0334S-004",
         "sku": "CARTIER-CT0334S-004"
       },
-      "gid://shopify/ProductVariant/47448055185662": {
-        "qty": 1,
-        "product_title": "CT0425S-003",
-        "sku": "CARTIER-CT0425S-003"
-      },
       "gid://shopify/ProductVariant/47448055283966": {
         "qty": 1,
         "product_title": "CT0476S-004",
@@ -47182,7 +47177,7 @@
         "sku": "AKK-LUCKY-GOES-TO-VEGAS-ICE CRYSTAL"
       },
       "gid://shopify/ProductVariant/48406939599102": {
-        "qty": 15,
+        "qty": 14,
         "product_title": "LUCKY-GOES-TO-VEGAS-LEOPARD",
         "sku": "AKK-LUCKY-GOES-TO-VEGAS-LEOPARD"
       },
@@ -72390,6 +72385,11 @@
         "qty": 0,
         "product_title": "CT0296S-004",
         "sku": "CARTIER-CT0296S-004"
+      },
+      "gid://shopify/ProductVariant/47448055185662": {
+        "qty": 0,
+        "product_title": "CT0425S-003",
+        "sku": "CARTIER-CT0425S-003"
       },
       "gid://shopify/ProductVariant/47448055218430": {
         "qty": 0,
