@@ -31790,15 +31790,15 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-14T14:37:02.487266+00:00",
+    "updated_at": "2026-08-14T15:28:41.814015+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 62331,
-        "sku_count": 2139,
-        "product_count": 2139
+        "total_qty": 62316,
+        "sku_count": 2134,
+        "product_count": 2134
       },
       "gid://shopify/Collection/391774208254": {
         "title": "ELIE SAAB",
@@ -31812,15 +31812,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 83486,
-        "sku_count": 3141,
-        "product_count": 3141
+        "total_qty": 83471,
+        "sku_count": 3136,
+        "product_count": 3136
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 83486,
+        "total_qty": 83471,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31828,25 +31828,25 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12512,
-        "sku_count": 882,
-        "product_count": 882
+        "total_qty": 12505,
+        "sku_count": 878,
+        "product_count": 878
       },
       "gid://shopify/Collection/410150142206": {
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 83486,
-        "sku_count": 4004,
-        "product_count": 4004
+        "total_qty": 83471,
+        "sku_count": 4000,
+        "product_count": 4000
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12512,
-        "sku_count": 882,
-        "product_count": 882
+        "total_qty": 12505,
+        "sku_count": 878,
+        "product_count": 878
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
@@ -31860,7 +31860,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 1101,
+        "total_qty": 1100,
         "sku_count": 911,
         "product_count": 911
       },
@@ -31876,9 +31876,9 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 83043,
-        "sku_count": 2698,
-        "product_count": 2698
+        "total_qty": 83031,
+        "sku_count": 2696,
+        "product_count": 2696
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
@@ -32004,7 +32004,7 @@
         "title": "LACOSTE",
         "handle": "lacoste",
         "legacy_id": "393068577022",
-        "total_qty": 177,
+        "total_qty": 176,
         "sku_count": 24,
         "product_count": 24
       },
@@ -32220,9 +32220,9 @@
         "title": "DAVID BECKHAM",
         "handle": "david-beckham",
         "legacy_id": "397089702142",
-        "total_qty": 609,
-        "sku_count": 77,
-        "product_count": 77
+        "total_qty": 602,
+        "sku_count": 76,
+        "product_count": 76
       },
       "gid://shopify/Collection/422907576574": {
         "title": "KARL LAGERFELD",
@@ -32468,9 +32468,9 @@
         "title": "COCO SONG",
         "handle": "coco-song",
         "legacy_id": "467688259838",
-        "total_qty": 207,
-        "sku_count": 53,
-        "product_count": 53
+        "total_qty": 200,
+        "sku_count": 49,
+        "product_count": 49
       },
       "gid://shopify/Collection/391771324670": {
         "title": "BURBERRY",
@@ -36212,7 +36212,7 @@
         "sku": "CHESTERFIELD-CH-113XL-0FRE-55"
       },
       "gid://shopify/ProductVariant/47010179121406": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "DB-1050-0EX4-49",
         "sku": "DB-DB-1050-0EX4-49"
       },
@@ -36622,7 +36622,7 @@
         "sku": "CK-CK23542-438-49"
       },
       "gid://shopify/ProductVariant/47077727764734": {
-        "qty": 25,
+        "qty": 24,
         "product_title": "L2908-240-55",
         "sku": "LACOSTE-L2908-240-55"
       },
@@ -37307,7 +37307,7 @@
         "sku": "CS-WITHOUT-ME-CV242.02-09"
       },
       "gid://shopify/ProductVariant/47272817131774": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "YORK-BLUES-CV243.01-09",
         "sku": "CS-YORK-BLUES-CV243.01-09"
       },
@@ -37322,12 +37322,12 @@
         "sku": "CS-YORK-BLUES-CV243.04-09"
       },
       "gid://shopify/ProductVariant/47272817262846": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "NELSONS-DREAM-CV244.02-09",
         "sku": "CS-NELSONS-DREAM-CV244.02-09"
       },
       "gid://shopify/ProductVariant/47272817492222": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "NOBODY-KNOWS-CV245.02-09",
         "sku": "CS-NOBODY-KNOWS-CV245.02-09"
       },
@@ -37376,16 +37376,6 @@
         "product_title": "RUNNING-JEANS-CV253.03-09",
         "sku": "CS-RUNNING-JEANS-CV253.03-09"
       },
-      "gid://shopify/ProductVariant/47272819294462": {
-        "qty": 1,
-        "product_title": "SOMETHING-COOL-CV255.03-09",
-        "sku": "CS-SOMETHING-COOL-CV255.03-09"
-      },
-      "gid://shopify/ProductVariant/47272819359998": {
-        "qty": 1,
-        "product_title": "SWING-ALONE-CV256.02-09",
-        "sku": "CS-SWING-ALONE-CV256.02-09"
-      },
       "gid://shopify/ProductVariant/47272819425534": {
         "qty": 6,
         "product_title": "SWEET-MAMA-CV257.01-09",
@@ -37400,16 +37390,6 @@
         "qty": 3,
         "product_title": "SWEET-MAMA-CV257.03-09",
         "sku": "CS-SWEET-MAMA-CV257.03-09"
-      },
-      "gid://shopify/ProductVariant/47272819654910": {
-        "qty": 1,
-        "product_title": "MONA-ROCK-CV258.02-09",
-        "sku": "CS-MONA-ROCK-CV258.02-09"
-      },
-      "gid://shopify/ProductVariant/47272819851518": {
-        "qty": 1,
-        "product_title": "TEXAS-DREAM-CV259.04-09",
-        "sku": "CS-TEXAS-DREAM-CV259.04-09"
       },
       "gid://shopify/ProductVariant/47273048015102": {
         "qty": 7,
@@ -39886,11 +39866,6 @@
         "product_title": "IGNACIO-E-55",
         "sku": "AW-IGNACIO-E-55"
       },
-      "gid://shopify/ProductVariant/47670252273918": {
-        "qty": 1,
-        "product_title": "DB-1049-0086",
-        "sku": "DB-1049-0086"
-      },
       "gid://shopify/ProductVariant/47694030242046": {
         "qty": 1,
         "product_title": "0HC5106934152",
@@ -41247,7 +41222,7 @@
         "sku": "DB-1073/BB-2M2-54"
       },
       "gid://shopify/ProductVariant/48121212764414": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "1096-003-57",
         "sku": "DB-1096-003-57"
       },
@@ -43187,7 +43162,7 @@
         "sku": "CARRERA-8888-003-58"
       },
       "gid://shopify/ProductVariant/48648025473278": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "DB 1020-086-56",
         "sku": "DB-DB 1020-086-56"
       },
@@ -43202,7 +43177,7 @@
         "sku": "DB-DB 1020-KB7-56"
       },
       "gid://shopify/ProductVariant/48648025735422": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "DB 1110/G-9RQ-55",
         "sku": "DB-DB 1110/G-9RQ-55"
       },
@@ -43217,7 +43192,7 @@
         "sku": "DB-DB-1019-807-57"
       },
       "gid://shopify/ProductVariant/48648026030334": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "DB-1063-807-55",
         "sku": "DB-DB-1063-807-55"
       },
@@ -43232,7 +43207,7 @@
         "sku": "DB-DB-1170/F-KB7-53"
       },
       "gid://shopify/ProductVariant/48648026423550": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "DB-7020/FLAT-TX7-51",
         "sku": "DB-DB-7020/FLAT-TX7-51"
       },
@@ -70501,10 +70476,25 @@
         "product_title": "SOMETHING-COOL-CV255.02-09",
         "sku": "CS-SOMETHING-COOL-CV255.02-09"
       },
+      "gid://shopify/ProductVariant/47272819294462": {
+        "qty": 0,
+        "product_title": "SOMETHING-COOL-CV255.03-09",
+        "sku": "CS-SOMETHING-COOL-CV255.03-09"
+      },
+      "gid://shopify/ProductVariant/47272819359998": {
+        "qty": 0,
+        "product_title": "SWING-ALONE-CV256.02-09",
+        "sku": "CS-SWING-ALONE-CV256.02-09"
+      },
       "gid://shopify/ProductVariant/47272819392766": {
         "qty": 0,
         "product_title": "SWING-ALONE-CV256.03-09",
         "sku": "CS-SWING-ALONE-CV256.03-09"
+      },
+      "gid://shopify/ProductVariant/47272819654910": {
+        "qty": 0,
+        "product_title": "MONA-ROCK-CV258.02-09",
+        "sku": "CS-MONA-ROCK-CV258.02-09"
       },
       "gid://shopify/ProductVariant/47272819785982": {
         "qty": 0,
@@ -70515,6 +70505,11 @@
         "qty": 0,
         "product_title": "TEXAS-DREAM-CV259.02-09",
         "sku": "CS-TEXAS-DREAM-CV259.02-09"
+      },
+      "gid://shopify/ProductVariant/47272819851518": {
+        "qty": 0,
+        "product_title": "TEXAS-DREAM-CV259.04-09",
+        "sku": "CS-TEXAS-DREAM-CV259.04-09"
       },
       "gid://shopify/ProductVariant/47273047097598": {
         "qty": 0,
@@ -76045,6 +76040,11 @@
         "qty": 0,
         "product_title": "JAC58C1SUN",
         "sku": "JACQUEMUS-JAC58C1SUN"
+      },
+      "gid://shopify/ProductVariant/47670252273918": {
+        "qty": 0,
+        "product_title": "DB-1049-0086",
+        "sku": "DB-1049-0086"
       },
       "gid://shopify/ProductVariant/47678150279422": {
         "qty": 0,
