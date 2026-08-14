@@ -31790,13 +31790,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-14T03:12:14.780356+00:00",
+    "updated_at": "2026-08-14T05:00:57.323322+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 62342,
+        "total_qty": 62340,
         "sku_count": 2142,
         "product_count": 2142
       },
@@ -31812,7 +31812,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 83506,
+        "total_qty": 83504,
         "sku_count": 3145,
         "product_count": 3145
       },
@@ -31820,7 +31820,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 83506,
+        "total_qty": 83504,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31836,7 +31836,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 83506,
+        "total_qty": 83504,
         "sku_count": 4007,
         "product_count": 4007
       },
@@ -31876,15 +31876,15 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 83065,
-        "sku_count": 2704,
-        "product_count": 2704
+        "total_qty": 83061,
+        "sku_count": 2702,
+        "product_count": 2702
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3767,
+        "total_qty": 3765,
         "sku_count": 481,
         "product_count": 481
       },
@@ -32708,7 +32708,7 @@
         "title": "BUGATTI",
         "handle": "bugatti",
         "legacy_id": "480545439998",
-        "total_qty": 199,
+        "total_qty": 197,
         "sku_count": 42,
         "product_count": 42
       },
@@ -32716,7 +32716,7 @@
         "title": "ClipOn Frames",
         "handle": "clipon-frames",
         "legacy_id": "473333039358",
-        "total_qty": 6,
+        "total_qty": 4,
         "sku_count": 3,
         "product_count": 3
       },
@@ -40787,12 +40787,12 @@
         "sku": "ELASTA-E-7246-09Q-56"
       },
       "gid://shopify/ProductVariant/47998569513214": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "01BRX-RG",
         "sku": "BUGATTI-01BRX-RG"
       },
       "gid://shopify/ProductVariant/47998574461182": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "01BRX-WG",
         "sku": "BUGATTI-01BRX-WG"
       },
