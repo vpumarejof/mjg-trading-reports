@@ -31790,7 +31790,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-14T13:38:27.380952+00:00",
+    "updated_at": "2026-08-14T14:37:02.487266+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
@@ -31812,15 +31812,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 83491,
-        "sku_count": 3142,
-        "product_count": 3142
+        "total_qty": 83486,
+        "sku_count": 3141,
+        "product_count": 3141
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 83491,
+        "total_qty": 83486,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31836,9 +31836,9 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 83491,
-        "sku_count": 4005,
-        "product_count": 4005
+        "total_qty": 83486,
+        "sku_count": 4004,
+        "product_count": 4004
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
@@ -31852,7 +31852,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22546,
+        "total_qty": 22545,
         "sku_count": 2485,
         "product_count": 2485
       },
@@ -31876,7 +31876,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 83047,
+        "total_qty": 83043,
         "sku_count": 2698,
         "product_count": 2698
       },
@@ -31884,7 +31884,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3764,
+        "total_qty": 3763,
         "sku_count": 481,
         "product_count": 481
       },
@@ -31948,9 +31948,9 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11509,
-        "sku_count": 995,
-        "product_count": 995
+        "total_qty": 11504,
+        "sku_count": 994,
+        "product_count": 994
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -31964,15 +31964,15 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 3023,
-        "sku_count": 303,
-        "product_count": 303
+        "total_qty": 3021,
+        "sku_count": 302,
+        "product_count": 302
       },
       "gid://shopify/Collection/391774109950": {
         "title": "DRAGON",
         "handle": "dragon",
         "legacy_id": "391774109950",
-        "total_qty": 284,
+        "total_qty": 283,
         "sku_count": 7,
         "product_count": 7
       },
@@ -31988,7 +31988,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5840,
+        "total_qty": 5838,
         "sku_count": 489,
         "product_count": 489
       },
@@ -32012,7 +32012,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2726,
+        "total_qty": 2725,
         "sku_count": 207,
         "product_count": 207
       },
@@ -32228,7 +32228,7 @@
         "title": "KARL LAGERFELD",
         "handle": "karl-lagerfeld",
         "legacy_id": "422907576574",
-        "total_qty": 362,
+        "total_qty": 361,
         "sku_count": 38,
         "product_count": 38
       },
@@ -32668,9 +32668,9 @@
         "title": "COLUMBIA",
         "handle": "columbia",
         "legacy_id": "395943805182",
-        "total_qty": 203,
-        "sku_count": 41,
-        "product_count": 41
+        "total_qty": 202,
+        "sku_count": 40,
+        "product_count": 40
       },
       "gid://shopify/Collection/391773978878": {
         "title": "CONVERSE",
@@ -32732,7 +32732,7 @@
         "title": "ELTON JOHN",
         "handle": "elton-john",
         "legacy_id": "482187051262",
-        "total_qty": 1533,
+        "total_qty": 1532,
         "sku_count": 97,
         "product_count": 97
       },
@@ -32804,7 +32804,7 @@
         "title": "ANNA-KARIN KARLSSON",
         "handle": "anna-karin-karlsson",
         "legacy_id": "485871059198",
-        "total_qty": 1379,
+        "total_qty": 1378,
         "sku_count": 21,
         "product_count": 21
       },
@@ -43527,7 +43527,7 @@
         "sku": "TOMMYHILFIGERTH1506FS008670"
       },
       "gid://shopify/ProductVariant/42500364173566": {
-        "qty": 55,
+        "qty": 54,
         "product_title": "DR-RUNE-003",
         "sku": "DRAGONDRRUNE003"
       },
@@ -44182,7 +44182,7 @@
         "sku": "MISSONI-MIS-0170/S-0JR9/9O"
       },
       "gid://shopify/ProductVariant/47180586254590": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "KL6145S-020",
         "sku": "KL-KL6145S-020"
       },
@@ -45801,11 +45801,6 @@
         "product_title": "C117S-002",
         "sku": "COLUMBIA-C117S-002"
       },
-      "gid://shopify/ProductVariant/48094645321982": {
-        "qty": 1,
-        "product_title": "UNPARALLELED-020",
-        "sku": "COLUMBIA-C519SP-020"
-      },
       "gid://shopify/ProductVariant/48094645354750": {
         "qty": 7,
         "product_title": "EASTERN CAPE-001",
@@ -46667,7 +46662,7 @@
         "sku": "EJ-LEMANS1-SHYGD"
       },
       "gid://shopify/ProductVariant/48305154392318": {
-        "qty": 16,
+        "qty": 15,
         "product_title": "LEMANS2-MTBLK",
         "sku": "EJ-LEMANS2-MTBLK"
       },
@@ -47092,7 +47087,7 @@
         "sku": "AKK-LUCKY-GOES-TO-VEGAS-ICE CRYSTAL"
       },
       "gid://shopify/ProductVariant/48406939599102": {
-        "qty": 14,
+        "qty": 13,
         "product_title": "LUCKY-GOES-TO-VEGAS-LEOPARD",
         "sku": "AKK-LUCKY-GOES-TO-VEGAS-LEOPARD"
       },
@@ -81265,6 +81260,11 @@
         "qty": 0,
         "product_title": "C3031-N-410-57",
         "sku": "COLUMBIA-C3031-N-410-57"
+      },
+      "gid://shopify/ProductVariant/48094645321982": {
+        "qty": 0,
+        "product_title": "UNPARALLELED-020",
+        "sku": "COLUMBIA-C519SP-020"
       },
       "gid://shopify/ProductVariant/48094645387518": {
         "qty": 0,
