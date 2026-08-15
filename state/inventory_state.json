@@ -31790,15 +31790,15 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-15T17:13:32.369398+00:00",
+    "updated_at": "2026-08-15T17:34:45.294982+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 62225,
-        "sku_count": 2123,
-        "product_count": 2123
+        "total_qty": 62224,
+        "sku_count": 2122,
+        "product_count": 2122
       },
       "gid://shopify/Collection/391774208254": {
         "title": "ELIE SAAB",
@@ -31812,15 +31812,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 83342,
-        "sku_count": 3118,
-        "product_count": 3118
+        "total_qty": 83341,
+        "sku_count": 3117,
+        "product_count": 3117
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 83342,
+        "total_qty": 83341,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31828,25 +31828,25 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12445,
-        "sku_count": 870,
-        "product_count": 870
+        "total_qty": 12444,
+        "sku_count": 869,
+        "product_count": 869
       },
       "gid://shopify/Collection/410150142206": {
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 83342,
-        "sku_count": 3985,
-        "product_count": 3985
+        "total_qty": 83341,
+        "sku_count": 3984,
+        "product_count": 3984
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12445,
-        "sku_count": 870,
-        "product_count": 870
+        "total_qty": 12444,
+        "sku_count": 869,
+        "product_count": 869
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
@@ -36290,11 +36290,6 @@
         "qty": 19,
         "product_title": "MIS-0091-0WR7-52",
         "sku": "MISSONI-MIS-0091-0WR7-52"
-      },
-      "gid://shopify/ProductVariant/47010185511166": {
-        "qty": 1,
-        "product_title": "MIS-0093/N-033Z-56",
-        "sku": "MISSONI-MIS-0093/N-033Z-56"
       },
       "gid://shopify/ProductVariant/47010185642238": {
         "qty": 24,
@@ -66130,6 +66125,11 @@
         "qty": 0,
         "product_title": "MJ-1072-0WR9-51",
         "sku": "MJ-MJ-1072-0WR9-51"
+      },
+      "gid://shopify/ProductVariant/47010185511166": {
+        "qty": 0,
+        "product_title": "MIS-0093/N-033Z-56",
+        "sku": "MISSONI-MIS-0093/N-033Z-56"
       },
       "gid://shopify/ProductVariant/47010187935998": {
         "qty": 0,
