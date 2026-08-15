@@ -31790,15 +31790,15 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-15T03:53:58.761416+00:00",
+    "updated_at": "2026-08-15T04:21:41.459507+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 62270,
-        "sku_count": 2131,
-        "product_count": 2131
+        "total_qty": 62266,
+        "sku_count": 2130,
+        "product_count": 2130
       },
       "gid://shopify/Collection/391774208254": {
         "title": "ELIE SAAB",
@@ -31812,15 +31812,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 83416,
-        "sku_count": 3133,
-        "product_count": 3133
+        "total_qty": 83411,
+        "sku_count": 3131,
+        "product_count": 3131
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 83416,
+        "total_qty": 83411,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31836,9 +31836,9 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 83416,
-        "sku_count": 3998,
-        "product_count": 3998
+        "total_qty": 83411,
+        "sku_count": 3997,
+        "product_count": 3997
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
@@ -31860,7 +31860,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 1098,
+        "total_qty": 1094,
         "sku_count": 911,
         "product_count": 911
       },
@@ -31876,9 +31876,9 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 82975,
-        "sku_count": 2692,
-        "product_count": 2692
+        "total_qty": 82971,
+        "sku_count": 2691,
+        "product_count": 2691
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
@@ -31948,9 +31948,9 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11495,
-        "sku_count": 994,
-        "product_count": 994
+        "total_qty": 11494,
+        "sku_count": 993,
+        "product_count": 993
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -31988,9 +31988,9 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5832,
-        "sku_count": 489,
-        "product_count": 489
+        "total_qty": 5831,
+        "sku_count": 488,
+        "product_count": 488
       },
       "gid://shopify/Collection/391853998334": {
         "title": "Men's",
@@ -32308,9 +32308,9 @@
         "title": "PIERRE CARDIN",
         "handle": "pierre-cardin",
         "legacy_id": "408975540478",
-        "total_qty": 41,
-        "sku_count": 17,
-        "product_count": 17
+        "total_qty": 37,
+        "sku_count": 16,
+        "product_count": 16
       },
       "gid://shopify/Collection/466217926910": {
         "title": "LIGHTEC-MOREL",
@@ -32484,9 +32484,9 @@
         "title": "ANDY WOLF",
         "handle": "andy-wolf-1",
         "legacy_id": "469566619902",
-        "total_qty": 1087,
-        "sku_count": 282,
-        "product_count": 282
+        "total_qty": 1086,
+        "sku_count": 281,
+        "product_count": 281
       },
       "gid://shopify/Collection/470247014654": {
         "title": "DENIM",
@@ -34335,11 +34335,6 @@
         "qty": 1,
         "product_title": "6144-0807-54",
         "sku": "PC-6144-0807-54"
-      },
-      "gid://shopify/ProductVariant/46529204584702": {
-        "qty": 4,
-        "product_title": "6162-05MI-55",
-        "sku": "PC-6162-05MI-55"
       },
       "gid://shopify/ProductVariant/46529204650238": {
         "qty": 1,
@@ -44750,11 +44745,6 @@
         "qty": 4,
         "product_title": "ONE-HEART-SUN-COL-E",
         "sku": "AW-ONE-HEART-E"
-      },
-      "gid://shopify/ProductVariant/47655190495486": {
-        "qty": 1,
-        "product_title": "POWER-SUN-COL-D",
-        "sku": "AW-POWER-D"
       },
       "gid://shopify/ProductVariant/47655190659326": {
         "qty": 7,
@@ -62636,6 +62626,11 @@
         "product_title": "REGINE-0DH4-52",
         "sku": "KS-REGINE-0DH4-52"
       },
+      "gid://shopify/ProductVariant/46529204584702": {
+        "qty": 0,
+        "product_title": "6162-05MI-55",
+        "sku": "PC-6162-05MI-55"
+      },
       "gid://shopify/ProductVariant/46529204617470": {
         "qty": 0,
         "product_title": "6168-0GLK-54",
@@ -75865,6 +75860,11 @@
         "qty": 0,
         "product_title": "OREGANO-SUN-COL-D",
         "sku": "AW-OREGANO-D"
+      },
+      "gid://shopify/ProductVariant/47655190495486": {
+        "qty": 0,
+        "product_title": "POWER-SUN-COL-D",
+        "sku": "AW-POWER-D"
       },
       "gid://shopify/ProductVariant/47655190528254": {
         "qty": 0,
