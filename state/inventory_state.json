@@ -31790,15 +31790,15 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-15T20:57:44.832178+00:00",
+    "updated_at": "2026-08-15T21:18:16.215604+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 62224,
-        "sku_count": 2122,
-        "product_count": 2122
+        "total_qty": 62222,
+        "sku_count": 2120,
+        "product_count": 2120
       },
       "gid://shopify/Collection/391774208254": {
         "title": "ELIE SAAB",
@@ -31812,15 +31812,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 83341,
-        "sku_count": 3117,
-        "product_count": 3117
+        "total_qty": 83335,
+        "sku_count": 3115,
+        "product_count": 3115
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 83341,
+        "total_qty": 83335,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31828,25 +31828,25 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12444,
-        "sku_count": 869,
-        "product_count": 869
+        "total_qty": 12442,
+        "sku_count": 867,
+        "product_count": 867
       },
       "gid://shopify/Collection/410150142206": {
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 83341,
-        "sku_count": 3984,
-        "product_count": 3984
+        "total_qty": 83335,
+        "sku_count": 3982,
+        "product_count": 3982
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12444,
-        "sku_count": 869,
-        "product_count": 869
+        "total_qty": 12442,
+        "sku_count": 867,
+        "product_count": 867
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
@@ -31868,7 +31868,7 @@
         "title": "PRADA",
         "handle": "prada",
         "legacy_id": "391775289598",
-        "total_qty": 187,
+        "total_qty": 186,
         "sku_count": 32,
         "product_count": 32
       },
@@ -31876,7 +31876,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 82904,
+        "total_qty": 82900,
         "sku_count": 2680,
         "product_count": 2680
       },
@@ -31884,7 +31884,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3735,
+        "total_qty": 3734,
         "sku_count": 473,
         "product_count": 473
       },
@@ -31948,7 +31948,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11466,
+        "total_qty": 11462,
         "sku_count": 987,
         "product_count": 987
       },
@@ -31964,7 +31964,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 3013,
+        "total_qty": 3012,
         "sku_count": 301,
         "product_count": 301
       },
@@ -31988,7 +31988,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5815,
+        "total_qty": 5812,
         "sku_count": 485,
         "product_count": 485
       },
@@ -32124,9 +32124,9 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 896,
-        "sku_count": 143,
-        "product_count": 143
+        "total_qty": 892,
+        "sku_count": 142,
+        "product_count": 142
       },
       "gid://shopify/Collection/454431080702": {
         "title": "Kids",
@@ -32172,7 +32172,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 1130,
+        "total_qty": 1128,
         "sku_count": 126,
         "product_count": 126
       },
@@ -32204,9 +32204,9 @@
         "title": "MARC JACOBS",
         "handle": "marc-jacobs",
         "legacy_id": "391774732542",
-        "total_qty": 378,
-        "sku_count": 69,
-        "product_count": 69
+        "total_qty": 377,
+        "sku_count": 68,
+        "product_count": 68
       },
       "gid://shopify/Collection/472482939134": {
         "title": "QUAY",
@@ -34321,11 +34321,6 @@
         "product_title": "BELEN-0807-53",
         "sku": "KS-BELEN-0807-53"
       },
-      "gid://shopify/ProductVariant/46529204322558": {
-        "qty": 1,
-        "product_title": "MARC-649-0807-53",
-        "sku": "MJ-MARC-649-0807-53"
-      },
       "gid://shopify/ProductVariant/46529204388094": {
         "qty": 22,
         "product_title": "MARC-651-080S-49",
@@ -36230,11 +36225,6 @@
         "qty": 4,
         "product_title": "NATALIA-0KB7-50",
         "sku": "KS-NATALIA-0KB7-50"
-      },
-      "gid://shopify/ProductVariant/47010181611774": {
-        "qty": 1,
-        "product_title": "SELINE-0C9A-53",
-        "sku": "KS-SELINE-0C9A-53"
       },
       "gid://shopify/ProductVariant/47010181808382": {
         "qty": 17,
@@ -47107,7 +47097,7 @@
         "sku": "KS-NAVY/G/S-KTV/9O"
       },
       "gid://shopify/ProductVariant/48493129531646": {
-        "qty": 13,
+        "qty": 11,
         "product_title": "VARESE/O/S-010/9O",
         "sku": "KS-VARESE/O/S-010/9O"
       },
@@ -48002,7 +47992,7 @@
         "sku": "PRADA-PS-54TS-1AB5Z1"
       },
       "gid://shopify/ProductVariant/48683421630718": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "PS-A51S-18X80I",
         "sku": "PRADA-PS-A51S-18X80I"
       },
@@ -48272,7 +48262,7 @@
         "sku": "KS-HAILEY/G/S-J5G/NQ"
       },
       "gid://shopify/ProductVariant/48683730469118": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "JANECE/G/S-3YG/GB",
         "sku": "KS-JANECE/G/S-3YG/GB"
       },
@@ -62556,6 +62546,11 @@
         "product_title": "REGINE-0DH4-52",
         "sku": "KS-REGINE-0DH4-52"
       },
+      "gid://shopify/ProductVariant/46529204322558": {
+        "qty": 0,
+        "product_title": "MARC-649-0807-53",
+        "sku": "MJ-MARC-649-0807-53"
+      },
       "gid://shopify/ProductVariant/46529204584702": {
         "qty": 0,
         "product_title": "6162-05MI-55",
@@ -66095,6 +66090,11 @@
         "qty": 0,
         "product_title": "MARSEILLE/F-0807-53",
         "sku": "KS-MARSEILLE/F-0807-53"
+      },
+      "gid://shopify/ProductVariant/47010181611774": {
+        "qty": 0,
+        "product_title": "SELINE-0C9A-53",
+        "sku": "KS-SELINE-0C9A-53"
       },
       "gid://shopify/ProductVariant/47010181677310": {
         "qty": 0,
