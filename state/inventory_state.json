@@ -31790,15 +31790,15 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-16T00:46:26.192739+00:00",
+    "updated_at": "2026-08-16T02:17:07.780363+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 62205,
-        "sku_count": 2120,
-        "product_count": 2120
+        "total_qty": 62203,
+        "sku_count": 2119,
+        "product_count": 2119
       },
       "gid://shopify/Collection/391774208254": {
         "title": "ELIE SAAB",
@@ -31812,15 +31812,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 83318,
-        "sku_count": 3115,
-        "product_count": 3115
+        "total_qty": 83315,
+        "sku_count": 3114,
+        "product_count": 3114
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 83318,
+        "total_qty": 83315,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31828,25 +31828,25 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12442,
-        "sku_count": 867,
-        "product_count": 867
+        "total_qty": 12441,
+        "sku_count": 866,
+        "product_count": 866
       },
       "gid://shopify/Collection/410150142206": {
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 83318,
-        "sku_count": 3982,
-        "product_count": 3982
+        "total_qty": 83315,
+        "sku_count": 3981,
+        "product_count": 3981
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12442,
-        "sku_count": 867,
-        "product_count": 867
+        "total_qty": 12441,
+        "sku_count": 866,
+        "product_count": 866
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
@@ -31876,17 +31876,17 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 82883,
-        "sku_count": 2680,
-        "product_count": 2680
+        "total_qty": 82879,
+        "sku_count": 2678,
+        "product_count": 2678
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3734,
-        "sku_count": 473,
-        "product_count": 473
+        "total_qty": 3731,
+        "sku_count": 472,
+        "product_count": 472
       },
       "gid://shopify/Collection/391854031102": {
         "title": "Women's",
@@ -31948,7 +31948,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11462,
+        "total_qty": 11461,
         "sku_count": 987,
         "product_count": 987
       },
@@ -31988,7 +31988,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5812,
+        "total_qty": 5811,
         "sku_count": 485,
         "product_count": 485
       },
@@ -32276,7 +32276,7 @@
         "title": "VERSACE",
         "handle": "versace",
         "legacy_id": "391776010494",
-        "total_qty": 219,
+        "total_qty": 218,
         "sku_count": 66,
         "product_count": 66
       },
@@ -32740,9 +32740,9 @@
         "title": "TIFFANY & CO",
         "handle": "tiffany-co",
         "legacy_id": "483397370110",
-        "total_qty": 145,
-        "sku_count": 25,
-        "product_count": 25
+        "total_qty": 143,
+        "sku_count": 24,
+        "product_count": 24
       },
       "gid://shopify/Collection/391775027454": {
         "title": "MONTBLANC",
@@ -41421,11 +41421,6 @@
         "product_title": "TF2258BU-8240-54",
         "sku": "TF-TF2258BU-8240-54"
       },
-      "gid://shopify/ProductVariant/48223291539710": {
-        "qty": 1,
-        "product_title": "TF2270B-8389-55",
-        "sku": "TF-TF2270B-8389-55"
-      },
       "gid://shopify/ProductVariant/48288327696638": {
         "qty": 1,
         "product_title": "BB0062O-007-53",
@@ -42812,7 +42807,7 @@
         "sku": "VERSACE-0VE3312-5339-53"
       },
       "gid://shopify/ProductVariant/48567756390654": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "0VE3328-5450-58",
         "sku": "VERSACE-0VE3328-5450-58"
       },
@@ -47072,7 +47067,7 @@
         "sku": "TF-TF4232-80553C"
       },
       "gid://shopify/ProductVariant/48493052133630": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "TF4232-83429S",
         "sku": "TF-TF4232-83429S"
       },
@@ -82860,6 +82855,11 @@
         "qty": 0,
         "product_title": "TF2267-8047-54",
         "sku": "TF-TF2267-8047-54"
+      },
+      "gid://shopify/ProductVariant/48223291539710": {
+        "qty": 0,
+        "product_title": "TF2270B-8389-55",
+        "sku": "TF-TF2270B-8389-55"
       },
       "gid://shopify/ProductVariant/48223291572478": {
         "qty": 0,
