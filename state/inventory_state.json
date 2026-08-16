@@ -31790,7 +31790,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-16T04:06:21.700193+00:00",
+    "updated_at": "2026-08-16T04:48:34.563058+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
@@ -31812,7 +31812,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 83312,
+        "total_qty": 83311,
         "sku_count": 3112,
         "product_count": 3112
       },
@@ -31820,7 +31820,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 83312,
+        "total_qty": 83311,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31836,7 +31836,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 83312,
+        "total_qty": 83311,
         "sku_count": 3979,
         "product_count": 3979
       },
@@ -31876,9 +31876,9 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 82878,
-        "sku_count": 2678,
-        "product_count": 2678
+        "total_qty": 82876,
+        "sku_count": 2677,
+        "product_count": 2677
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
@@ -31948,7 +31948,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11458,
+        "total_qty": 11457,
         "sku_count": 985,
         "product_count": 985
       },
@@ -31964,7 +31964,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 3012,
+        "total_qty": 3011,
         "sku_count": 301,
         "product_count": 301
       },
@@ -32220,7 +32220,7 @@
         "title": "DAVID BECKHAM",
         "handle": "david-beckham",
         "legacy_id": "397089702142",
-        "total_qty": 602,
+        "total_qty": 601,
         "sku_count": 76,
         "product_count": 76
       },
@@ -47557,7 +47557,7 @@
         "sku": "DB-DB-1163/F/S-EX4/70"
       },
       "gid://shopify/ProductVariant/48648016691454": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "DB-7002/S-RHL/FQ",
         "sku": "DB-DB-7002/S-RHL/FQ"
       },
