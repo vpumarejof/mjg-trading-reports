@@ -31790,13 +31790,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-16T15:13:07.566689+00:00",
+    "updated_at": "2026-08-16T15:35:20.945112+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 62202,
+        "total_qty": 62199,
         "sku_count": 2119,
         "product_count": 2119
       },
@@ -31812,7 +31812,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 83305,
+        "total_qty": 83298,
         "sku_count": 3111,
         "product_count": 3111
       },
@@ -31820,7 +31820,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 83305,
+        "total_qty": 83298,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31828,7 +31828,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12440,
+        "total_qty": 12437,
         "sku_count": 866,
         "product_count": 866
       },
@@ -31836,7 +31836,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 83305,
+        "total_qty": 83298,
         "sku_count": 3978,
         "product_count": 3978
       },
@@ -31844,7 +31844,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12440,
+        "total_qty": 12437,
         "sku_count": 866,
         "product_count": 866
       },
@@ -31852,7 +31852,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22531,
+        "total_qty": 22530,
         "sku_count": 2485,
         "product_count": 2485
       },
@@ -31876,15 +31876,15 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 82869,
-        "sku_count": 2675,
-        "product_count": 2675
+        "total_qty": 82861,
+        "sku_count": 2674,
+        "product_count": 2674
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3729,
+        "total_qty": 3728,
         "sku_count": 472,
         "product_count": 472
       },
@@ -31948,7 +31948,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11452,
+        "total_qty": 11448,
         "sku_count": 984,
         "product_count": 984
       },
@@ -31964,7 +31964,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 3010,
+        "total_qty": 3008,
         "sku_count": 301,
         "product_count": 301
       },
@@ -31972,7 +31972,7 @@
         "title": "DRAGON",
         "handle": "dragon",
         "legacy_id": "391774109950",
-        "total_qty": 281,
+        "total_qty": 280,
         "sku_count": 7,
         "product_count": 7
       },
@@ -31980,7 +31980,7 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 697,
+        "total_qty": 696,
         "sku_count": 83,
         "product_count": 83
       },
@@ -31988,7 +31988,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5806,
+        "total_qty": 5805,
         "sku_count": 484,
         "product_count": 484
       },
@@ -32012,7 +32012,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2716,
+        "total_qty": 2715,
         "sku_count": 203,
         "product_count": 203
       },
@@ -32052,7 +32052,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1928,
+        "total_qty": 1926,
         "sku_count": 113,
         "product_count": 113
       },
@@ -32164,7 +32164,7 @@
         "title": "CAROLINA HERRERA",
         "handle": "carolina-herrera",
         "legacy_id": "395943936254",
-        "total_qty": 136,
+        "total_qty": 134,
         "sku_count": 12,
         "product_count": 12
       },
@@ -32500,7 +32500,7 @@
         "title": "DKNY",
         "handle": "dkny",
         "legacy_id": "395943870718",
-        "total_qty": 389,
+        "total_qty": 388,
         "sku_count": 43,
         "product_count": 43
       },
@@ -34967,7 +34967,7 @@
         "sku": "SF-SF2970-414-53"
       },
       "gid://shopify/ProductVariant/46663413498110": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "SF2970-601-53",
         "sku": "SF-SF2970-601-53"
       },
@@ -38802,7 +38802,7 @@
         "sku": "JAGUAR-JG33624-6500-53"
       },
       "gid://shopify/ProductVariant/47605988917502": {
-        "qty": 14,
+        "qty": 13,
         "product_title": "CH0057-0C1H-53",
         "sku": "CH-CH-0057-0C1H-53"
       },
@@ -40652,7 +40652,7 @@
         "sku": "CH-HER-0166-WR7-51"
       },
       "gid://shopify/ProductVariant/47845513429246": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "HER-0166-XLT-51",
         "sku": "CH-HER-0166-XLT-51"
       },
@@ -43432,7 +43432,7 @@
         "sku": "DRAGONDRRUNE003"
       },
       "gid://shopify/ProductVariant/42500364370174": {
-        "qty": 23,
+        "qty": 22,
         "product_title": "DR-RUNE-246",
         "sku": "DRAGONDRRUNE246"
       },
@@ -43532,7 +43532,7 @@
         "sku": "CARRERA-FLAGLAB-13-0086/HA"
       },
       "gid://shopify/ProductVariant/45606140641534": {
-        "qty": 131,
+        "qty": 130,
         "product_title": "CARDUC-003-S-00A4-UZ",
         "sku": "CARRERA-CARDUC-003/S-00A4/UZ"
       },
@@ -43552,7 +43552,7 @@
         "sku": "CARRERA-CARDUC-012/S-0OIT/UZ"
       },
       "gid://shopify/ProductVariant/45606141264126": {
-        "qty": 95,
+        "qty": 94,
         "product_title": "FLAGLAB-13-040G-9O",
         "sku": "CARRERA-FLAGLAB-13-040G/9O"
       },
@@ -47682,7 +47682,7 @@
         "sku": "DKNY-DK547S-425"
       },
       "gid://shopify/ProductVariant/48648154546430": {
-        "qty": 16,
+        "qty": 15,
         "product_title": "DK548S-248",
         "sku": "DKNY-DK548S-248"
       },
