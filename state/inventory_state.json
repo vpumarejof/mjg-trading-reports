@@ -31790,7 +31790,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-16T03:25:20.631534+00:00",
+    "updated_at": "2026-08-16T04:06:21.700193+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
@@ -31812,15 +31812,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 83315,
-        "sku_count": 3114,
-        "product_count": 3114
+        "total_qty": 83312,
+        "sku_count": 3112,
+        "product_count": 3112
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 83315,
+        "total_qty": 83312,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31836,9 +31836,9 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 83315,
-        "sku_count": 3981,
-        "product_count": 3981
+        "total_qty": 83312,
+        "sku_count": 3979,
+        "product_count": 3979
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
@@ -31852,7 +31852,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22533,
+        "total_qty": 22531,
         "sku_count": 2485,
         "product_count": 2485
       },
@@ -31876,7 +31876,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 82879,
+        "total_qty": 82878,
         "sku_count": 2678,
         "product_count": 2678
       },
@@ -31948,9 +31948,9 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11461,
-        "sku_count": 987,
-        "product_count": 987
+        "total_qty": 11458,
+        "sku_count": 985,
+        "product_count": 985
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -31988,7 +31988,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5811,
+        "total_qty": 5810,
         "sku_count": 485,
         "product_count": 485
       },
@@ -32012,9 +32012,9 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2718,
-        "sku_count": 205,
-        "product_count": 205
+        "total_qty": 2716,
+        "sku_count": 203,
+        "product_count": 203
       },
       "gid://shopify/Collection/391775125758": {
         "title": "NIKE",
@@ -32356,9 +32356,9 @@
         "title": "CALVIN KLEIN JEANS",
         "handle": "calvin-klein-jeans",
         "legacy_id": "464057172222",
-        "total_qty": 412,
-        "sku_count": 57,
-        "product_count": 57
+        "total_qty": 409,
+        "sku_count": 55,
+        "product_count": 55
       },
       "gid://shopify/Collection/466401853694": {
         "title": "FLEXON",
@@ -43807,7 +43807,7 @@
         "sku": "CKJ-CKJ23603S-600"
       },
       "gid://shopify/ProductVariant/46670757593342": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "CKJ23608S-238",
         "sku": "CKJ-CKJ23608S-238"
       },
@@ -45180,16 +45180,6 @@
         "qty": 1,
         "product_title": "CK22532S-444",
         "sku": "CK-CK22532S-444"
-      },
-      "gid://shopify/ProductVariant/47845509988606": {
-        "qty": 1,
-        "product_title": "CKJ24609S-246",
-        "sku": "CKJ-CKJ24609S-246"
-      },
-      "gid://shopify/ProductVariant/47845510054142": {
-        "qty": 1,
-        "product_title": "CKJ24625S-N-242",
-        "sku": "CKJ-CKJ24625S-N-242"
       },
       "gid://shopify/ProductVariant/47845510349054": {
         "qty": 2,
@@ -79091,10 +79081,20 @@
         "product_title": "CK24534S-970",
         "sku": "CK-CK24534S-970"
       },
+      "gid://shopify/ProductVariant/47845509988606": {
+        "qty": 0,
+        "product_title": "CKJ24609S-246",
+        "sku": "CKJ-CKJ24609S-246"
+      },
       "gid://shopify/ProductVariant/47845510021374": {
         "qty": 0,
         "product_title": "CKJ24620S-001",
         "sku": "CKJ-CKJ24620S-001"
+      },
+      "gid://shopify/ProductVariant/47845510054142": {
+        "qty": 0,
+        "product_title": "CKJ24625S-N-242",
+        "sku": "CKJ-CKJ24625S-N-242"
       },
       "gid://shopify/ProductVariant/47845510119678": {
         "qty": 0,
