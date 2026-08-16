@@ -31790,13 +31790,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-16T04:48:34.563058+00:00",
+    "updated_at": "2026-08-16T05:20:35.538360+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 62203,
+        "total_qty": 62202,
         "sku_count": 2119,
         "product_count": 2119
       },
@@ -31812,15 +31812,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 83311,
-        "sku_count": 3112,
-        "product_count": 3112
+        "total_qty": 83307,
+        "sku_count": 3111,
+        "product_count": 3111
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 83311,
+        "total_qty": 83307,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31828,7 +31828,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12441,
+        "total_qty": 12440,
         "sku_count": 866,
         "product_count": 866
       },
@@ -31836,15 +31836,15 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 83311,
-        "sku_count": 3979,
-        "product_count": 3979
+        "total_qty": 83307,
+        "sku_count": 3978,
+        "product_count": 3978
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12441,
+        "total_qty": 12440,
         "sku_count": 866,
         "product_count": 866
       },
@@ -31876,15 +31876,15 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 82876,
-        "sku_count": 2677,
-        "product_count": 2677
+        "total_qty": 82871,
+        "sku_count": 2675,
+        "product_count": 2675
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3731,
+        "total_qty": 3730,
         "sku_count": 472,
         "product_count": 472
       },
@@ -31948,9 +31948,9 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11457,
-        "sku_count": 985,
-        "product_count": 985
+        "total_qty": 11454,
+        "sku_count": 984,
+        "product_count": 984
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -31964,7 +31964,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 3011,
+        "total_qty": 3010,
         "sku_count": 301,
         "product_count": 301
       },
@@ -31988,9 +31988,9 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5810,
-        "sku_count": 485,
-        "product_count": 485
+        "total_qty": 5808,
+        "sku_count": 484,
+        "product_count": 484
       },
       "gid://shopify/Collection/391853998334": {
         "title": "Men's",
@@ -32172,7 +32172,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 1114,
+        "total_qty": 1113,
         "sku_count": 126,
         "product_count": 126
       },
@@ -32204,7 +32204,7 @@
         "title": "MARC JACOBS",
         "handle": "marc-jacobs",
         "legacy_id": "391774732542",
-        "total_qty": 377,
+        "total_qty": 376,
         "sku_count": 68,
         "product_count": 68
       },
@@ -32644,9 +32644,9 @@
         "title": "LONGCHAMP",
         "handle": "longchamp",
         "legacy_id": "476032958718",
-        "total_qty": 385,
-        "sku_count": 46,
-        "product_count": 46
+        "total_qty": 384,
+        "sku_count": 45,
+        "product_count": 45
       },
       "gid://shopify/Collection/476563603710": {
         "title": "CHARRIOL",
@@ -32668,7 +32668,7 @@
         "title": "COLUMBIA",
         "handle": "columbia",
         "legacy_id": "395943805182",
-        "total_qty": 201,
+        "total_qty": 200,
         "sku_count": 40,
         "product_count": 40
       },
@@ -32740,7 +32740,7 @@
         "title": "TIFFANY & CO",
         "handle": "tiffany-co",
         "legacy_id": "483397370110",
-        "total_qty": 143,
+        "total_qty": 142,
         "sku_count": 24,
         "product_count": 24
       },
@@ -40767,7 +40767,7 @@
         "sku": "MJ-MARC-708-2M2-54"
       },
       "gid://shopify/ProductVariant/48011619238142": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "MARC-710-807-51",
         "sku": "MJ-MARC-710-807-51"
       },
@@ -45672,7 +45672,7 @@
         "sku": "COLUMBIA-C116SP-070"
       },
       "gid://shopify/ProductVariant/48094645256446": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "C117S-002",
         "sku": "COLUMBIA-C117S-002"
       },
@@ -46185,11 +46185,6 @@
         "qty": 7,
         "product_title": "DIONNA/S-807/WJ",
         "sku": "KS-DIONNA/S-807/WJ"
-      },
-      "gid://shopify/ProductVariant/48175301198078": {
-        "qty": 1,
-        "product_title": "LO659S-001",
-        "sku": "LONGCHAMP-LO659S-001"
       },
       "gid://shopify/ProductVariant/48175301263614": {
         "qty": 3,
@@ -47982,7 +47977,7 @@
         "sku": "PRADA-PS-A51S-18X80I"
       },
       "gid://shopify/ProductVariant/48683421663486": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "TF4105HB-81939S",
         "sku": "TF-TF4105HB-81939S"
       },
@@ -82410,6 +82405,11 @@
         "qty": 0,
         "product_title": "LO164S-714",
         "sku": "LONGCHAMP-LO164S-714"
+      },
+      "gid://shopify/ProductVariant/48175301198078": {
+        "qty": 0,
+        "product_title": "LO659S-001",
+        "sku": "LONGCHAMP-LO659S-001"
       },
       "gid://shopify/ProductVariant/48175301230846": {
         "qty": 0,
