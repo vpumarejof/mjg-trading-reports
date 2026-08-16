@@ -31790,13 +31790,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-16T18:16:07.061793+00:00",
+    "updated_at": "2026-08-16T18:53:04.775977+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 62199,
+        "total_qty": 62198,
         "sku_count": 2119,
         "product_count": 2119
       },
@@ -31812,7 +31812,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 83297,
+        "total_qty": 83295,
         "sku_count": 3111,
         "product_count": 3111
       },
@@ -31820,7 +31820,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 83297,
+        "total_qty": 83295,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31836,7 +31836,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 83297,
+        "total_qty": 83295,
         "sku_count": 3978,
         "product_count": 3978
       },
@@ -31876,7 +31876,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 82860,
+        "total_qty": 82858,
         "sku_count": 2674,
         "product_count": 2674
       },
@@ -31948,7 +31948,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11447,
+        "total_qty": 11446,
         "sku_count": 984,
         "product_count": 984
       },
@@ -31988,7 +31988,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5804,
+        "total_qty": 5803,
         "sku_count": 484,
         "product_count": 484
       },
@@ -32284,7 +32284,7 @@
         "title": "PRIMARY",
         "handle": "primary",
         "legacy_id": "460628721918",
-        "total_qty": 37552,
+        "total_qty": 37551,
         "sku_count": 256,
         "product_count": 256
       },
@@ -32300,7 +32300,7 @@
         "title": "Tariff Busters",
         "handle": "tariff-busters",
         "legacy_id": "463834087678",
-        "total_qty": 47201,
+        "total_qty": 47200,
         "sku_count": 350,
         "product_count": 350
       },
@@ -32668,7 +32668,7 @@
         "title": "COLUMBIA",
         "handle": "columbia",
         "legacy_id": "395943805182",
-        "total_qty": 200,
+        "total_qty": 199,
         "sku_count": 40,
         "product_count": 40
       },
@@ -33677,7 +33677,7 @@
         "sku": "Primary-1058-Gunmetal-55"
       },
       "gid://shopify/ProductVariant/46371979067646": {
-        "qty": 129,
+        "qty": 128,
         "product_title": "1058-NAVY-55",
         "sku": "Primary-1058-Navy-55"
       },
@@ -45677,7 +45677,7 @@
         "sku": "COLUMBIA-C117S-002"
       },
       "gid://shopify/ProductVariant/48094645354750": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "EASTERN CAPE-001",
         "sku": "COLUMBIA-C521S-001"
       },
