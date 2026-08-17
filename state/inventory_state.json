@@ -31790,15 +31790,15 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-17T21:17:36.580952+00:00",
+    "updated_at": "2026-08-17T21:47:27.158202+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61952,
-        "sku_count": 2111,
-        "product_count": 2111
+        "total_qty": 61944,
+        "sku_count": 2108,
+        "product_count": 2108
       },
       "gid://shopify/Collection/391774208254": {
         "title": "ELIE SAAB",
@@ -31812,15 +31812,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82848,
-        "sku_count": 3105,
-        "product_count": 3105
+        "total_qty": 82840,
+        "sku_count": 3102,
+        "product_count": 3102
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82848,
+        "total_qty": 82840,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31828,25 +31828,25 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12422,
-        "sku_count": 862,
-        "product_count": 862
+        "total_qty": 12414,
+        "sku_count": 859,
+        "product_count": 859
       },
       "gid://shopify/Collection/410150142206": {
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82848,
-        "sku_count": 3974,
-        "product_count": 3974
+        "total_qty": 82840,
+        "sku_count": 3971,
+        "product_count": 3971
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12422,
-        "sku_count": 862,
-        "product_count": 862
+        "total_qty": 12414,
+        "sku_count": 859,
+        "product_count": 859
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
@@ -31876,9 +31876,9 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 82401,
-        "sku_count": 2658,
-        "product_count": 2658
+        "total_qty": 82394,
+        "sku_count": 2656,
+        "product_count": 2656
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
@@ -32116,9 +32116,9 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 883,
-        "sku_count": 142,
-        "product_count": 142
+        "total_qty": 875,
+        "sku_count": 139,
+        "product_count": 139
       },
       "gid://shopify/Collection/454431080702": {
         "title": "Kids",
@@ -33088,11 +33088,6 @@
         "product_title": "E-7251-0TUI-57",
         "sku": "ELASTA-E-7251-0TUI-57"
       },
-      "gid://shopify/ProductVariant/46022778159358": {
-        "qty": 1,
-        "product_title": "TALULAH-02F7-52",
-        "sku": "KS-TALULAH-02F7-52"
-      },
       "gid://shopify/ProductVariant/46102653272318": {
         "qty": 4,
         "product_title": "SF2974-103-52",
@@ -33152,11 +33147,6 @@
         "qty": 25,
         "product_title": "DB-7022/BB-0086-49",
         "sku": "DB-7022/BB-0086-49"
-      },
-      "gid://shopify/ProductVariant/46226005852414": {
-        "qty": 1,
-        "product_title": "ALESSANDRIA-0807-51",
-        "sku": "KS-ALESSANDRIA-0807-51"
       },
       "gid://shopify/ProductVariant/46226006212862": {
         "qty": 7,
@@ -36339,7 +36329,7 @@
         "sku": "KS-LAUREL-01ED-50"
       },
       "gid://shopify/ProductVariant/47010388902142": {
-        "qty": 14,
+        "qty": 12,
         "product_title": "RENNE-0807-52",
         "sku": "KS-RENNE-0807-52"
       },
@@ -37119,7 +37109,7 @@
         "sku": "KS-TAYA-0086-52"
       },
       "gid://shopify/ProductVariant/47180872319230": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "WANDA-0PJP-53",
         "sku": "KS-WANDA-0PJP-53"
       },
@@ -37474,7 +37464,7 @@
         "sku": "KS-HALLIE/G-59I-52"
       },
       "gid://shopify/ProductVariant/47377632461054": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "KARIANE/F-305-55",
         "sku": "KS-KARIANE/F-305-55"
       },
@@ -40769,7 +40759,7 @@
         "sku": "KS-ANAYA-10A-53"
       },
       "gid://shopify/ProductVariant/48011977392382": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "CAILYE-7J2-53",
         "sku": "KS-CAILYE-7J2-53"
       },
@@ -40782,11 +40772,6 @@
         "qty": 3,
         "product_title": "HAISLEY/F-086-53",
         "sku": "KS-HAISLEY/F-086-53"
-      },
-      "gid://shopify/ProductVariant/48011978080510": {
-        "qty": 1,
-        "product_title": "HAISLEY/F-807-53",
-        "sku": "KS-HAISLEY/F-807-53"
       },
       "gid://shopify/ProductVariant/48011978703102": {
         "qty": 14,
@@ -59528,6 +59513,11 @@
         "product_title": "MARC-668/G-0807-53",
         "sku": "MJ-MARC-668/G-0807-53"
       },
+      "gid://shopify/ProductVariant/46022778159358": {
+        "qty": 0,
+        "product_title": "TALULAH-02F7-52",
+        "sku": "KS-TALULAH-02F7-52"
+      },
       "gid://shopify/ProductVariant/46023280263422": {
         "qty": 0,
         "product_title": "MARC-512-0733-50",
@@ -61182,6 +61172,11 @@
         "qty": 0,
         "product_title": "DB-7105-0EX4-51",
         "sku": "DB-7105-0EX4-51"
+      },
+      "gid://shopify/ProductVariant/46226005852414": {
+        "qty": 0,
+        "product_title": "ALESSANDRIA-0807-51",
+        "sku": "KS-ALESSANDRIA-0807-51"
       },
       "gid://shopify/ProductVariant/46226005917950": {
         "qty": 0,
@@ -80197,6 +80192,11 @@
         "qty": 0,
         "product_title": "FAY/G/S-HT8/HA",
         "sku": "KS-FAY/G/S-HT8/HA"
+      },
+      "gid://shopify/ProductVariant/48011978080510": {
+        "qty": 0,
+        "product_title": "HAISLEY/F-807-53",
+        "sku": "KS-HAISLEY/F-807-53"
       },
       "gid://shopify/ProductVariant/48011978408190": {
         "qty": 0,
