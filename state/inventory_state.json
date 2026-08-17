@@ -31790,15 +31790,15 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-17T15:47:18.654229+00:00",
+    "updated_at": "2026-08-17T16:17:32.988930+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61947,
-        "sku_count": 2113,
-        "product_count": 2113
+        "total_qty": 61972,
+        "sku_count": 2114,
+        "product_count": 2114
       },
       "gid://shopify/Collection/391774208254": {
         "title": "ELIE SAAB",
@@ -31812,15 +31812,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82793,
-        "sku_count": 3092,
-        "product_count": 3092
+        "total_qty": 82801,
+        "sku_count": 3093,
+        "product_count": 3093
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82793,
+        "total_qty": 82801,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31828,31 +31828,31 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12400,
-        "sku_count": 863,
-        "product_count": 863
+        "total_qty": 12427,
+        "sku_count": 864,
+        "product_count": 864
       },
       "gid://shopify/Collection/410150142206": {
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82793,
-        "sku_count": 3960,
-        "product_count": 3960
+        "total_qty": 82801,
+        "sku_count": 3961,
+        "product_count": 3961
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12400,
-        "sku_count": 863,
-        "product_count": 863
+        "total_qty": 12427,
+        "sku_count": 864,
+        "product_count": 864
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22452,
+        "total_qty": 22451,
         "sku_count": 2485,
         "product_count": 2485
       },
@@ -31876,7 +31876,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 82345,
+        "total_qty": 82352,
         "sku_count": 2644,
         "product_count": 2644
       },
@@ -31916,7 +31916,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 19763,
+        "total_qty": 19762,
         "sku_count": 478,
         "product_count": 478
       },
@@ -31948,7 +31948,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11196,
+        "total_qty": 11179,
         "sku_count": 971,
         "product_count": 971
       },
@@ -31988,7 +31988,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5645,
+        "total_qty": 5628,
         "sku_count": 475,
         "product_count": 475
       },
@@ -32308,7 +32308,7 @@
         "title": "LIGHTEC-MOREL",
         "handle": "lightec-morel",
         "legacy_id": "466217926910",
-        "total_qty": 2337,
+        "total_qty": 2336,
         "sku_count": 98,
         "product_count": 98
       },
@@ -32332,9 +32332,9 @@
         "title": "MISSONI",
         "handle": "missoni",
         "legacy_id": "408673911038",
-        "total_qty": 784,
-        "sku_count": 65,
-        "product_count": 65
+        "total_qty": 794,
+        "sku_count": 66,
+        "product_count": 66
       },
       "gid://shopify/Collection/393476997374": {
         "title": "CALVIN KLEIN",
@@ -32476,7 +32476,7 @@
         "title": "ANDY WOLF",
         "handle": "andy-wolf-1",
         "legacy_id": "469566619902",
-        "total_qty": 1078,
+        "total_qty": 1077,
         "sku_count": 281,
         "product_count": 281
       },
@@ -33117,6 +33117,11 @@
         "qty": 2,
         "product_title": "IM 0028 0BSC-56",
         "sku": "ISABEL MARANT IM 0028 0BSC - 56"
+      },
+      "gid://shopify/ProductVariant/46182077694206": {
+        "qty": 27,
+        "product_title": "QT-000747-TORT-CLRRX",
+        "sku": "QUAY-QT-000747-TORT/CLRRX"
       },
       "gid://shopify/ProductVariant/46199703666942": {
         "qty": 20,
@@ -38354,7 +38359,7 @@
         "sku": "LIGHTEC-MOREL-30219L-GB08-52"
       },
       "gid://shopify/ProductVariant/47558958219518": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "30219L-NN07-52",
         "sku": "LIGHTEC-MOREL-30219L-NN07-52"
       },
@@ -39639,7 +39644,7 @@
         "sku": "AW-IGNACIO-A-55"
       },
       "gid://shopify/ProductVariant/47655184564478": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "IGNACIO-D-55",
         "sku": "AW-IGNACIO-D-55"
       },
@@ -43638,11 +43643,6 @@
         "product_title": "0VO5294S-27647C55",
         "sku": "VOGUE-0VO5294S-27647C55"
       },
-      "gid://shopify/ProductVariant/46182077694206": {
-        "qty": 27,
-        "product_title": "QT-000747-TORT-CLRRX",
-        "sku": "QUAY-QT-000747-TORT/CLRRX"
-      },
       "gid://shopify/ProductVariant/46236280324350": {
         "qty": 6,
         "product_title": "SF-SF958S-214",
@@ -44002,6 +44002,11 @@
         "qty": 19,
         "product_title": "DB-7117/S-0807/KU",
         "sku": "DB-DB-7117/S-0807/KU"
+      },
+      "gid://shopify/ProductVariant/47078456230142": {
+        "qty": 10,
+        "product_title": "MIS-0153/S-0LHF/3X",
+        "sku": "MISSONI-MIS-0153/S-0LHF/3X"
       },
       "gid://shopify/ProductVariant/47078456262910": {
         "qty": 5,
@@ -67517,11 +67522,6 @@
         "qty": 0,
         "product_title": "MIS-0153/S-0C9B/HA",
         "sku": "MISSONI-MIS-0153/S-0C9B/HA"
-      },
-      "gid://shopify/ProductVariant/47078456230142": {
-        "qty": 0,
-        "product_title": "MIS-0153/S-0LHF/3X",
-        "sku": "MISSONI-MIS-0153/S-0LHF/3X"
       },
       "gid://shopify/ProductVariant/47095531340030": {
         "qty": 0,
