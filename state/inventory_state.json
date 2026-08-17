@@ -31790,7 +31790,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-17T17:19:00.049965+00:00",
+    "updated_at": "2026-08-17T17:52:53.259145+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
@@ -31812,15 +31812,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82776,
-        "sku_count": 3092,
-        "product_count": 3092
+        "total_qty": 82858,
+        "sku_count": 3107,
+        "product_count": 3107
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82776,
+        "total_qty": 82858,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31836,9 +31836,9 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82776,
-        "sku_count": 3961,
-        "product_count": 3961
+        "total_qty": 82858,
+        "sku_count": 3976,
+        "product_count": 3976
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
@@ -31852,7 +31852,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22448,
+        "total_qty": 22498,
         "sku_count": 2485,
         "product_count": 2485
       },
@@ -31860,7 +31860,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 1089,
+        "total_qty": 1091,
         "sku_count": 911,
         "product_count": 911
       },
@@ -31876,17 +31876,17 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 82325,
-        "sku_count": 2641,
-        "product_count": 2641
+        "total_qty": 82409,
+        "sku_count": 2658,
+        "product_count": 2658
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3691,
-        "sku_count": 471,
-        "product_count": 471
+        "total_qty": 3773,
+        "sku_count": 486,
+        "product_count": 486
       },
       "gid://shopify/Collection/391854031102": {
         "title": "Women's",
@@ -31948,9 +31948,9 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11171,
-        "sku_count": 971,
-        "product_count": 971
+        "total_qty": 11253,
+        "sku_count": 986,
+        "product_count": 986
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -31964,9 +31964,9 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2985,
-        "sku_count": 300,
-        "product_count": 300
+        "total_qty": 3017,
+        "sku_count": 308,
+        "product_count": 308
       },
       "gid://shopify/Collection/391774109950": {
         "title": "DRAGON",
@@ -32012,9 +32012,9 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2644,
-        "sku_count": 200,
-        "product_count": 200
+        "total_qty": 2694,
+        "sku_count": 207,
+        "product_count": 207
       },
       "gid://shopify/Collection/391775125758": {
         "title": "NIKE",
@@ -32700,9 +32700,9 @@
         "title": "BUGATTI",
         "handle": "bugatti",
         "legacy_id": "480545439998",
-        "total_qty": 195,
-        "sku_count": 42,
-        "product_count": 42
+        "total_qty": 277,
+        "sku_count": 57,
+        "product_count": 57
       },
       "gid://shopify/Collection/473333039358": {
         "title": "ClipOn Frames",
@@ -45199,7 +45199,7 @@
         "sku": "BUGATTI-03-RD"
       },
       "gid://shopify/ProductVariant/47931242971390": {
-        "qty": 4,
+        "qty": 5,
         "product_title": "06-BK",
         "sku": "BUGATTI-06-BK"
       },
@@ -45209,7 +45209,7 @@
         "sku": "BUGATTI-06-DT"
       },
       "gid://shopify/ProductVariant/47931243036926": {
-        "qty": 6,
+        "qty": 7,
         "product_title": "06-GRY",
         "sku": "BUGATTI-06-GRY"
       },
@@ -45227,6 +45227,16 @@
         "qty": 13,
         "product_title": "11-SS",
         "sku": "BUGATTI-11-SS"
+      },
+      "gid://shopify/ProductVariant/47931243200766": {
+        "qty": 3,
+        "product_title": "12-BK",
+        "sku": "BUGATTI-12-BK"
+      },
+      "gid://shopify/ProductVariant/47931243299070": {
+        "qty": 3,
+        "product_title": "29-GRY",
+        "sku": "BUGATTI-29-GRY"
       },
       "gid://shopify/ProductVariant/47931243331838": {
         "qty": 2,
@@ -45249,12 +45259,12 @@
         "sku": "BUGATTI-43C-DT"
       },
       "gid://shopify/ProductVariant/47931243495678": {
-        "qty": 1,
+        "qty": 6,
         "product_title": "48M-GRY",
         "sku": "BUGATTI-48M-GRY"
       },
       "gid://shopify/ProductVariant/47931243528446": {
-        "qty": 1,
+        "qty": 3,
         "product_title": "48M-HAV",
         "sku": "BUGATTI-48M-HAV"
       },
@@ -45313,23 +45323,63 @@
         "product_title": "SRC095M-0C36",
         "sku": "RC-SRC095M-0C36"
       },
-      "gid://shopify/ProductVariant/47998569152766": {
+      "gid://shopify/ProductVariant/47998569054462": {
         "qty": 1,
+        "product_title": "10-DT/WG",
+        "sku": "BUGATTI-10-DT/WG"
+      },
+      "gid://shopify/ProductVariant/47998569087230": {
+        "qty": 2,
+        "product_title": "10-BKTT/GM",
+        "sku": "BUGATTI-10-BKTT/GM"
+      },
+      "gid://shopify/ProductVariant/47998569152766": {
+        "qty": 2,
         "product_title": "10-DBT/AG",
         "sku": "BUGATTI-10-DBT/AG"
       },
+      "gid://shopify/ProductVariant/47998569218302": {
+        "qty": 3,
+        "product_title": "10-BK/WG",
+        "sku": "BUGATTI-10-BK/WG"
+      },
+      "gid://shopify/ProductVariant/47998569251070": {
+        "qty": 2,
+        "product_title": "10-MBK/RG",
+        "sku": "BUGATTI-10-MBK/RG"
+      },
+      "gid://shopify/ProductVariant/47998569283838": {
+        "qty": 1,
+        "product_title": "11-BGM",
+        "sku": "BUGATTI-11-BGM"
+      },
       "gid://shopify/ProductVariant/47998569316606": {
-        "qty": 4,
+        "qty": 7,
         "product_title": "11-BK/WG",
         "sku": "BUGATTI-11-BK/WG"
       },
+      "gid://shopify/ProductVariant/47998569382142": {
+        "qty": 4,
+        "product_title": "12-CRY",
+        "sku": "BUGATTI-12-CRY"
+      },
+      "gid://shopify/ProductVariant/47998569447678": {
+        "qty": 4,
+        "product_title": "29-BK",
+        "sku": "BUGATTI-29-BK"
+      },
+      "gid://shopify/ProductVariant/47998569480446": {
+        "qty": 4,
+        "product_title": "29-BK-LS",
+        "sku": "BUGATTI-29-BK-LS"
+      },
       "gid://shopify/ProductVariant/47998576034046": {
-        "qty": 5,
+        "qty": 8,
         "product_title": "07-DK.BLU/BK",
         "sku": "BUGATTI-07-DK.BLU/BK"
       },
       "gid://shopify/ProductVariant/47998576066814": {
-        "qty": 3,
+        "qty": 5,
         "product_title": "07-GRY/BK",
         "sku": "BUGATTI-07-GRY/BK"
       },
@@ -46019,17 +46069,17 @@
         "sku": "CARRERA-4017/S-807/TE"
       },
       "gid://shopify/ProductVariant/48130605678846": {
-        "qty": 4,
+        "qty": 8,
         "product_title": "05-BK",
         "sku": "BUGATTI-05-BK"
       },
       "gid://shopify/ProductVariant/48130605711614": {
-        "qty": 2,
+        "qty": 8,
         "product_title": "05-WG/BK",
         "sku": "BUGATTI-05-WG/BK"
       },
       "gid://shopify/ProductVariant/48130605744382": {
-        "qty": 1,
+        "qty": 6,
         "product_title": "05-AS/GM",
         "sku": "BUGATTI-05-AS/GM"
       },
@@ -46039,9 +46089,24 @@
         "sku": "BUGATTI-05-GM"
       },
       "gid://shopify/ProductVariant/48130605842686": {
-        "qty": 2,
+        "qty": 4,
         "product_title": "06-MBK",
         "sku": "BUGATTI-06-MBK"
+      },
+      "gid://shopify/ProductVariant/48130605908222": {
+        "qty": 2,
+        "product_title": "07-MBK/RG",
+        "sku": "BUGATTI-07-MBK/RG"
+      },
+      "gid://shopify/ProductVariant/48130605973758": {
+        "qty": 4,
+        "product_title": "48M-MBK",
+        "sku": "BUGATTI-48M-MBK"
+      },
+      "gid://shopify/ProductVariant/48130606039294": {
+        "qty": 4,
+        "product_title": "48M-GS",
+        "sku": "BUGATTI-48M-GS"
       },
       "gid://shopify/ProductVariant/48130606072062": {
         "qty": 5,
@@ -46057,6 +46122,16 @@
         "qty": 8,
         "product_title": "48L-BGN",
         "sku": "BUGATTI-48L-BGN"
+      },
+      "gid://shopify/ProductVariant/48130606268670": {
+        "qty": 5,
+        "product_title": "48M-BK",
+        "sku": "BUGATTI-48M-BK"
+      },
+      "gid://shopify/ProductVariant/48130606301438": {
+        "qty": 5,
+        "product_title": "48M-BNE/BK",
+        "sku": "BUGATTI-48M-BNE/BK"
       },
       "gid://shopify/ProductVariant/48145121345790": {
         "qty": 6,
@@ -79723,20 +79798,10 @@
         "product_title": "03-BK/WG",
         "sku": "BUGATTI-03-BK/WG"
       },
-      "gid://shopify/ProductVariant/47931243200766": {
-        "qty": 0,
-        "product_title": "12-BK",
-        "sku": "BUGATTI-12-BK"
-      },
       "gid://shopify/ProductVariant/47931243266302": {
         "qty": 0,
         "product_title": "29-GRN",
         "sku": "BUGATTI-29-GRN"
-      },
-      "gid://shopify/ProductVariant/47931243299070": {
-        "qty": 0,
-        "product_title": "29-GRY",
-        "sku": "BUGATTI-29-GRY"
       },
       "gid://shopify/ProductVariant/47931243462910": {
         "qty": 0,
@@ -79912,46 +79977,6 @@
         "qty": 0,
         "product_title": "SRC057M-0777",
         "sku": "RC-SRC057M-0777"
-      },
-      "gid://shopify/ProductVariant/47998569054462": {
-        "qty": 0,
-        "product_title": "10-DT/WG",
-        "sku": "BUGATTI-10-DT/WG"
-      },
-      "gid://shopify/ProductVariant/47998569087230": {
-        "qty": 0,
-        "product_title": "10-BKTT/GM",
-        "sku": "BUGATTI-10-BKTT/GM"
-      },
-      "gid://shopify/ProductVariant/47998569218302": {
-        "qty": 0,
-        "product_title": "10-BK/WG",
-        "sku": "BUGATTI-10-BK/WG"
-      },
-      "gid://shopify/ProductVariant/47998569251070": {
-        "qty": 0,
-        "product_title": "10-MBK/RG",
-        "sku": "BUGATTI-10-MBK/RG"
-      },
-      "gid://shopify/ProductVariant/47998569283838": {
-        "qty": 0,
-        "product_title": "11-BGM",
-        "sku": "BUGATTI-11-BGM"
-      },
-      "gid://shopify/ProductVariant/47998569382142": {
-        "qty": 0,
-        "product_title": "12-CRY",
-        "sku": "BUGATTI-12-CRY"
-      },
-      "gid://shopify/ProductVariant/47998569447678": {
-        "qty": 0,
-        "product_title": "29-BK",
-        "sku": "BUGATTI-29-BK"
-      },
-      "gid://shopify/ProductVariant/47998569480446": {
-        "qty": 0,
-        "product_title": "29-BK-LS",
-        "sku": "BUGATTI-29-BK-LS"
       },
       "gid://shopify/ProductVariant/47998767005950": {
         "qty": 0,
@@ -81568,35 +81593,10 @@
         "product_title": "1124-WR7-55",
         "sku": "DB-1124-WR7-55"
       },
-      "gid://shopify/ProductVariant/48130605908222": {
-        "qty": 0,
-        "product_title": "07-MBK/RG",
-        "sku": "BUGATTI-07-MBK/RG"
-      },
-      "gid://shopify/ProductVariant/48130605973758": {
-        "qty": 0,
-        "product_title": "48M-MBK",
-        "sku": "BUGATTI-48M-MBK"
-      },
-      "gid://shopify/ProductVariant/48130606039294": {
-        "qty": 0,
-        "product_title": "48M-GS",
-        "sku": "BUGATTI-48M-GS"
-      },
       "gid://shopify/ProductVariant/48130606104830": {
         "qty": 0,
         "product_title": "48L-HAV",
         "sku": "BUGATTI-48L-HAV"
-      },
-      "gid://shopify/ProductVariant/48130606268670": {
-        "qty": 0,
-        "product_title": "48M-BK",
-        "sku": "BUGATTI-48M-BK"
-      },
-      "gid://shopify/ProductVariant/48130606301438": {
-        "qty": 0,
-        "product_title": "48M-BNE/BK",
-        "sku": "BUGATTI-48M-BNE/BK"
       },
       "gid://shopify/ProductVariant/48145121050878": {
         "qty": 0,
