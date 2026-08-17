@@ -31790,15 +31790,15 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-17T13:14:14.500929+00:00",
+    "updated_at": "2026-08-17T13:52:54.688339+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 62187,
-        "sku_count": 2118,
-        "product_count": 2118
+        "total_qty": 62162,
+        "sku_count": 2116,
+        "product_count": 2116
       },
       "gid://shopify/Collection/391774208254": {
         "title": "ELIE SAAB",
@@ -31812,15 +31812,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 83219,
-        "sku_count": 3109,
-        "product_count": 3109
+        "total_qty": 83181,
+        "sku_count": 3107,
+        "product_count": 3107
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 83219,
+        "total_qty": 83181,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31828,31 +31828,31 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12431,
-        "sku_count": 865,
-        "product_count": 865
+        "total_qty": 12420,
+        "sku_count": 864,
+        "product_count": 864
       },
       "gid://shopify/Collection/410150142206": {
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 83219,
-        "sku_count": 3976,
-        "product_count": 3976
+        "total_qty": 83181,
+        "sku_count": 3975,
+        "product_count": 3975
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12431,
-        "sku_count": 865,
-        "product_count": 865
+        "total_qty": 12420,
+        "sku_count": 864,
+        "product_count": 864
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22519,
+        "total_qty": 22513,
         "sku_count": 2485,
         "product_count": 2485
       },
@@ -31876,15 +31876,15 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 82774,
-        "sku_count": 2664,
-        "product_count": 2664
+        "total_qty": 82731,
+        "sku_count": 2657,
+        "product_count": 2657
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3708,
+        "total_qty": 3704,
         "sku_count": 472,
         "product_count": 472
       },
@@ -31916,7 +31916,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 19769,
+        "total_qty": 19764,
         "sku_count": 478,
         "product_count": 478
       },
@@ -31948,7 +31948,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11382,
+        "total_qty": 11369,
         "sku_count": 983,
         "product_count": 983
       },
@@ -31956,7 +31956,7 @@
         "title": "TOMMY HILFIGER",
         "handle": "tommy-hilfiger",
         "legacy_id": "391775912190",
-        "total_qty": 332,
+        "total_qty": 330,
         "sku_count": 65,
         "product_count": 65
       },
@@ -31964,7 +31964,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 3001,
+        "total_qty": 2993,
         "sku_count": 301,
         "product_count": 301
       },
@@ -31980,7 +31980,7 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 694,
+        "total_qty": 693,
         "sku_count": 83,
         "product_count": 83
       },
@@ -31988,7 +31988,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5755,
+        "total_qty": 5751,
         "sku_count": 483,
         "product_count": 483
       },
@@ -32012,7 +32012,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2706,
+        "total_qty": 2705,
         "sku_count": 203,
         "product_count": 203
       },
@@ -32020,7 +32020,7 @@
         "title": "NIKE",
         "handle": "nike",
         "legacy_id": "391775125758",
-        "total_qty": 258,
+        "total_qty": 257,
         "sku_count": 27,
         "product_count": 27
       },
@@ -32052,7 +32052,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1926,
+        "total_qty": 1924,
         "sku_count": 113,
         "product_count": 113
       },
@@ -32164,9 +32164,9 @@
         "title": "CAROLINA HERRERA",
         "handle": "carolina-herrera",
         "legacy_id": "395943936254",
-        "total_qty": 134,
-        "sku_count": 12,
-        "product_count": 12
+        "total_qty": 132,
+        "sku_count": 11,
+        "product_count": 11
       },
       "gid://shopify/Collection/407946952958": {
         "title": "New Arrivals",
@@ -32204,7 +32204,7 @@
         "title": "MARC JACOBS",
         "handle": "marc-jacobs",
         "legacy_id": "391774732542",
-        "total_qty": 375,
+        "total_qty": 374,
         "sku_count": 68,
         "product_count": 68
       },
@@ -32220,7 +32220,7 @@
         "title": "DAVID BECKHAM",
         "handle": "david-beckham",
         "legacy_id": "397089702142",
-        "total_qty": 601,
+        "total_qty": 600,
         "sku_count": 76,
         "product_count": 76
       },
@@ -32228,7 +32228,7 @@
         "title": "KARL LAGERFELD",
         "handle": "karl-lagerfeld",
         "legacy_id": "422907576574",
-        "total_qty": 360,
+        "total_qty": 359,
         "sku_count": 38,
         "product_count": 38
       },
@@ -32276,7 +32276,7 @@
         "title": "VERSACE",
         "handle": "versace",
         "legacy_id": "391776010494",
-        "total_qty": 218,
+        "total_qty": 217,
         "sku_count": 66,
         "product_count": 66
       },
@@ -32300,7 +32300,7 @@
         "title": "Tariff Busters",
         "handle": "tariff-busters",
         "legacy_id": "463834087678",
-        "total_qty": 47200,
+        "total_qty": 47198,
         "sku_count": 350,
         "product_count": 350
       },
@@ -32308,9 +32308,9 @@
         "title": "PIERRE CARDIN",
         "handle": "pierre-cardin",
         "legacy_id": "408975540478",
-        "total_qty": 34,
-        "sku_count": 16,
-        "product_count": 16
+        "total_qty": 32,
+        "sku_count": 15,
+        "product_count": 15
       },
       "gid://shopify/Collection/466217926910": {
         "title": "LIGHTEC-MOREL",
@@ -32324,7 +32324,7 @@
         "title": "VALENTINO",
         "handle": "valentino",
         "legacy_id": "462679113982",
-        "total_qty": 117,
+        "total_qty": 116,
         "sku_count": 21,
         "product_count": 21
       },
@@ -32356,7 +32356,7 @@
         "title": "CALVIN KLEIN JEANS",
         "handle": "calvin-klein-jeans",
         "legacy_id": "464057172222",
-        "total_qty": 405,
+        "total_qty": 403,
         "sku_count": 55,
         "product_count": 55
       },
@@ -32380,7 +32380,7 @@
         "title": "SIGNATURE",
         "handle": "signature",
         "legacy_id": "464260399358",
-        "total_qty": 9656,
+        "total_qty": 9654,
         "sku_count": 95,
         "product_count": 95
       },
@@ -32420,7 +32420,7 @@
         "title": "LEVI'S",
         "handle": "levi",
         "legacy_id": "406703735038",
-        "total_qty": 199,
+        "total_qty": 197,
         "sku_count": 27,
         "product_count": 27
       },
@@ -32468,7 +32468,7 @@
         "title": "COCO SONG",
         "handle": "coco-song",
         "legacy_id": "467688259838",
-        "total_qty": 190,
+        "total_qty": 185,
         "sku_count": 48,
         "product_count": 48
       },
@@ -32484,7 +32484,7 @@
         "title": "ANDY WOLF",
         "handle": "andy-wolf-1",
         "legacy_id": "469566619902",
-        "total_qty": 1080,
+        "total_qty": 1076,
         "sku_count": 281,
         "product_count": 281
       },
@@ -32596,7 +32596,7 @@
         "title": "COLE HAAN",
         "handle": "cole-haan",
         "legacy_id": "474673348862",
-        "total_qty": 39,
+        "total_qty": 38,
         "sku_count": 6,
         "product_count": 6
       },
@@ -32620,7 +32620,7 @@
         "title": "SPYDER",
         "handle": "spyder",
         "legacy_id": "474673479934",
-        "total_qty": 43,
+        "total_qty": 42,
         "sku_count": 10,
         "product_count": 10
       },
@@ -32636,7 +32636,7 @@
         "title": "JAGUAR",
         "handle": "jaguar",
         "legacy_id": "475760034046",
-        "total_qty": 44,
+        "total_qty": 43,
         "sku_count": 8,
         "product_count": 8
       },
@@ -32644,7 +32644,7 @@
         "title": "LONGCHAMP",
         "handle": "longchamp",
         "legacy_id": "476032958718",
-        "total_qty": 383,
+        "total_qty": 382,
         "sku_count": 45,
         "product_count": 45
       },
@@ -32668,7 +32668,7 @@
         "title": "COLUMBIA",
         "handle": "columbia",
         "legacy_id": "395943805182",
-        "total_qty": 198,
+        "total_qty": 197,
         "sku_count": 40,
         "product_count": 40
       },
@@ -32700,7 +32700,7 @@
         "title": "BALENCIAGA",
         "handle": "balenciaga",
         "legacy_id": "395973296382",
-        "total_qty": 233,
+        "total_qty": 232,
         "sku_count": 105,
         "product_count": 105
       },
@@ -32724,7 +32724,7 @@
         "title": "MODO",
         "handle": "modo",
         "legacy_id": "481959280894",
-        "total_qty": 372,
+        "total_qty": 371,
         "sku_count": 30,
         "product_count": 30
       },
@@ -32796,7 +32796,7 @@
         "title": "FOSSIL",
         "handle": "fossil",
         "legacy_id": "395943772414",
-        "total_qty": 11,
+        "total_qty": 10,
         "sku_count": 2,
         "product_count": 2
       },
@@ -34337,7 +34337,7 @@
         "sku": "PC-6172-0DGN-56"
       },
       "gid://shopify/ProductVariant/46529204879614": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "6836-0KJ1-56",
         "sku": "PC-6836-0KJ1-56"
       },
@@ -35497,12 +35497,12 @@
         "sku": "Signature-Pn107Brn-52"
       },
       "gid://shopify/ProductVariant/46684979724542": {
-        "qty": 86,
+        "qty": 85,
         "product_title": "Pn110-Pink-53",
         "sku": "Signature-Pn110-Pink-53"
       },
       "gid://shopify/ProductVariant/46684980084990": {
-        "qty": 15,
+        "qty": 14,
         "product_title": "Pn110-Purple-53",
         "sku": "Signature-Pn110-Purple-53"
       },
@@ -36316,11 +36316,6 @@
         "product_title": "MOS-629-0FWM-52",
         "sku": "MOSCHINO-MOS-629-0FWM-52"
       },
-      "gid://shopify/ProductVariant/47010188296446": {
-        "qty": 1,
-        "product_title": "6882-0003-56",
-        "sku": "PC-6882-0003-56"
-      },
       "gid://shopify/ProductVariant/47010388246782": {
         "qty": 5,
         "product_title": "284-0EX9-49",
@@ -36547,7 +36542,7 @@
         "sku": "MJ-MARC-708-0NUC-54"
       },
       "gid://shopify/ProductVariant/47070275141886": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "FOR-LAST-CV087.04-09",
         "sku": "CS-FALLING-ANGEL-CV222.02-09"
       },
@@ -36922,7 +36917,7 @@
         "sku": "AW-EREZ-E-52"
       },
       "gid://shopify/ProductVariant/47124762362110": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "EREZ-F-52",
         "sku": "AW-EREZ-F-52"
       },
@@ -37192,7 +37187,7 @@
         "sku": "CS-RISING-SUN-CV206.01-09"
       },
       "gid://shopify/ProductVariant/47272811790590": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "RISING-SUN-CV206.03-09",
         "sku": "CS-RISING-SUN-CV206.03-09"
       },
@@ -37227,7 +37222,7 @@
         "sku": "CS-SURFING-DOLPHIN-CV228.04-09"
       },
       "gid://shopify/ProductVariant/47272815231230": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "SWEET-SKY-CV229.04-09",
         "sku": "CS-SWEET-SKY-CV229.04-09"
       },
@@ -37272,7 +37267,7 @@
         "sku": "CS-YORK-BLUES-CV243.03-09"
       },
       "gid://shopify/ProductVariant/47272817197310": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "YORK-BLUES-CV243.04-09",
         "sku": "CS-YORK-BLUES-CV243.04-09"
       },
@@ -37307,7 +37302,7 @@
         "sku": "CS-LONG-NIGHT-CV249.02-09"
       },
       "gid://shopify/ProductVariant/47272818114814": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "LONG-NIGHT-CV249.03-09",
         "sku": "CS-LONG-NIGHT-CV249.03-09"
       },
@@ -37757,7 +37752,7 @@
         "sku": "CH-CH4523-001-52"
       },
       "gid://shopify/ProductVariant/47504332980478": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "CH4523-414-52",
         "sku": "CH-CH4523-414-52"
       },
@@ -37817,7 +37812,7 @@
         "sku": "SPYDER-SP4035-033-56"
       },
       "gid://shopify/ProductVariant/47504333603070": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "SP4036-400-55",
         "sku": "SPYDER-SP4036-400-55"
       },
@@ -38787,7 +38782,7 @@
         "sku": "JAGUAR-JG33623-6500-51"
       },
       "gid://shopify/ProductVariant/47589022793982": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "JG33624-4200-53",
         "sku": "JAGUAR-JG33624-4200-53"
       },
@@ -39317,7 +39312,7 @@
         "sku": "AW-4556-C-52"
       },
       "gid://shopify/ProductVariant/47655179747582": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "4556-D-52",
         "sku": "AW-4556-D-52"
       },
@@ -39707,7 +39702,7 @@
         "sku": "AW-ROBINSON-A-56"
       },
       "gid://shopify/ProductVariant/47655184990462": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "ROSS-A-46",
         "sku": "AW-ROSS-A-46"
       },
@@ -40462,7 +40457,7 @@
         "sku": "BALENCIAGA-BB0342O-006-55"
       },
       "gid://shopify/ProductVariant/47807380652286": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "BB0342O-010-55",
         "sku": "BALENCIAGA-BB0342O-010-55"
       },
@@ -40646,18 +40641,13 @@
         "product_title": "HER-0166-WR7-51",
         "sku": "CH-HER-0166-WR7-51"
       },
-      "gid://shopify/ProductVariant/47845513429246": {
-        "qty": 1,
-        "product_title": "HER-0166-XLT-51",
-        "sku": "CH-HER-0166-XLT-51"
-      },
       "gid://shopify/ProductVariant/47845513527550": {
         "qty": 6,
         "product_title": "HER-0170-C9K-51",
         "sku": "CH-HER-0170-C9K-51"
       },
       "gid://shopify/ProductVariant/47845513593086": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "HER-0171-C9K-53",
         "sku": "CH-HER-0171-C9K-53"
       },
@@ -41082,7 +41072,7 @@
         "sku": "SF-SF2971-601-53"
       },
       "gid://shopify/ProductVariant/48094649450750": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "SF3011-004-53",
         "sku": "SF-SF3011-004-53"
       },
@@ -41272,7 +41262,7 @@
         "sku": "MJ-MARC-508-FT3-53"
       },
       "gid://shopify/ProductVariant/48121215647998": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "MARC-511-1ED-53",
         "sku": "MJ-MARC-511-1ED-53"
       },
@@ -42397,7 +42387,7 @@
         "sku": "PC-8434-05L-53"
       },
       "gid://shopify/ProductVariant/48349470261502": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "TH-1637-2F7-53",
         "sku": "TH-TH-1637-2F7-53"
       },
@@ -42462,7 +42452,7 @@
         "sku": "MODO-4612-NAVY0-54"
       },
       "gid://shopify/ProductVariant/48354208547070": {
-        "qty": 13,
+        "qty": 12,
         "product_title": "4612-SIL00-54",
         "sku": "MODO-4612-SIL00-54"
       },
@@ -42572,7 +42562,7 @@
         "sku": "CKJ-CKJ25613-N-306-54"
       },
       "gid://shopify/ProductVariant/48361937076478": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "CKJ25614-002-53",
         "sku": "CKJ-CKJ25614-002-53"
       },
@@ -43122,7 +43112,7 @@
         "sku": "DB-DB-1170/F-09Q-53"
       },
       "gid://shopify/ProductVariant/48648026358014": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "DB-1170/F-KB7-53",
         "sku": "DB-DB-1170/F-KB7-53"
       },
@@ -43232,7 +43222,7 @@
         "sku": "TH-TH-1956-WIR-55"
       },
       "gid://shopify/ProductVariant/48648027603198": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "TH-1998-003-56",
         "sku": "TH-TH-1998-003-56"
       },
@@ -43652,7 +43642,7 @@
         "sku": "KS-IANNA/G/S-0000/M2"
       },
       "gid://shopify/ProductVariant/46001607835902": {
-        "qty": 86,
+        "qty": 85,
         "product_title": "NIKE-ADRENALINE-M-EVG-066",
         "sku": "NIKE-ADRENALINE-M-EVG-066"
       },
@@ -43952,7 +43942,7 @@
         "sku": "NIKE-VARIANT-II-EV24014-113"
       },
       "gid://shopify/ProductVariant/46988933955838": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "KL-6148S-433",
         "sku": "KL-KLJ6148S-433"
       },
@@ -43982,7 +43972,7 @@
         "sku": "LEVIS-LV-1026/S-005L/IR"
       },
       "gid://shopify/ProductVariant/46998479634686": {
-        "qty": 7,
+        "qty": 5,
         "product_title": "LV-5024/S-0WR7/70",
         "sku": "LEVIS-LV-5024/S-0WR7/70"
       },
@@ -44422,7 +44412,7 @@
         "sku": "VALENTINO-V - GLASSLINER-VLS-118D-55-CA"
       },
       "gid://shopify/ProductVariant/47462523306238": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "V - SOUL - II-VLS-128B",
         "sku": "VALENTINO-V - SOUL - II-VLS-128B"
       },
@@ -44642,7 +44632,7 @@
         "sku": "AW-FELICITY-B"
       },
       "gid://shopify/ProductVariant/47655188857086": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "FELICITY-SUN-COL-G",
         "sku": "AW-FELICITY-G"
       },
@@ -45782,7 +45772,7 @@
         "sku": "COLUMBIA-C571SP-N-004"
       },
       "gid://shopify/ProductVariant/48094646665470": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "FAIRBANKS-020",
         "sku": "COLUMBIA-C571SP-N-020"
       },
@@ -46202,7 +46192,7 @@
         "sku": "LONGCHAMP-LO686S-518"
       },
       "gid://shopify/ProductVariant/48175301460222": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "LO687S-001",
         "sku": "LONGCHAMP-LO687S-001"
       },
@@ -46742,7 +46732,7 @@
         "sku": "FOSSIL-FOS-3151/G/S-807/HA"
       },
       "gid://shopify/ProductVariant/48349469081854": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "FOS-3152/G/S-0OX/70",
         "sku": "FOSSIL-FOS-3152/G/S-0OX/70"
       },
@@ -46822,7 +46812,7 @@
         "sku": "CKJ-CKJ25622S-605"
       },
       "gid://shopify/ProductVariant/48361937633534": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "CKJ26600S-001",
         "sku": "CKJ-CKJ26600S-001"
       },
@@ -47277,7 +47267,7 @@
         "sku": "SMITH-HOLT-H16-HLMWMD"
       },
       "gid://shopify/ProductVariant/48621026083070": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "0VE2242-10028761",
         "sku": "VERSACE-0VE2242-10028761"
       },
@@ -47497,7 +47487,7 @@
         "sku": "CARRERA-C-FLEX-08/G/S-EX4/SP"
       },
       "gid://shopify/ProductVariant/48648016003326": {
-        "qty": 12,
+        "qty": 10,
         "product_title": "C-SPORT-03/S-A1W/IR",
         "sku": "CARRERA-C-SPORT-03/S-A1W/IR"
       },
@@ -66111,6 +66101,11 @@
         "product_title": "6854-0KJ1-56",
         "sku": "PC-6854-0KJ1-56"
       },
+      "gid://shopify/ProductVariant/47010188296446": {
+        "qty": 0,
+        "product_title": "6882-0003-56",
+        "sku": "PC-6882-0003-56"
+      },
       "gid://shopify/ProductVariant/47010387984638": {
         "qty": 0,
         "product_title": "CH-0028-0VA4-53",
@@ -79225,6 +79220,11 @@
         "qty": 0,
         "product_title": "HER-0152-807-53",
         "sku": "CH-HER-0152-807-53"
+      },
+      "gid://shopify/ProductVariant/47845513429246": {
+        "qty": 0,
+        "product_title": "HER-0166-XLT-51",
+        "sku": "CH-HER-0166-XLT-51"
       },
       "gid://shopify/ProductVariant/47845513494782": {
         "qty": 0,
