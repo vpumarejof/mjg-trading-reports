@@ -31790,15 +31790,15 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-17T15:17:27.574138+00:00",
+    "updated_at": "2026-08-17T15:47:18.654229+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61950,
-        "sku_count": 2114,
-        "product_count": 2114
+        "total_qty": 61947,
+        "sku_count": 2113,
+        "product_count": 2113
       },
       "gid://shopify/Collection/391774208254": {
         "title": "ELIE SAAB",
@@ -31812,15 +31812,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82796,
-        "sku_count": 3093,
-        "product_count": 3093
+        "total_qty": 82793,
+        "sku_count": 3092,
+        "product_count": 3092
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82796,
+        "total_qty": 82793,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31828,7 +31828,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12401,
+        "total_qty": 12400,
         "sku_count": 863,
         "product_count": 863
       },
@@ -31836,7 +31836,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82796,
+        "total_qty": 82793,
         "sku_count": 3960,
         "product_count": 3960
       },
@@ -31844,7 +31844,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12401,
+        "total_qty": 12400,
         "sku_count": 863,
         "product_count": 863
       },
@@ -31876,9 +31876,9 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 82348,
-        "sku_count": 2645,
-        "product_count": 2645
+        "total_qty": 82345,
+        "sku_count": 2644,
+        "product_count": 2644
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
@@ -32348,9 +32348,9 @@
         "title": "CALVIN KLEIN JEANS",
         "handle": "calvin-klein-jeans",
         "legacy_id": "464057172222",
-        "total_qty": 402,
-        "sku_count": 55,
-        "product_count": 55
+        "total_qty": 400,
+        "sku_count": 54,
+        "product_count": 54
       },
       "gid://shopify/Collection/466401853694": {
         "title": "FLEXON",
@@ -32716,7 +32716,7 @@
         "title": "MODO",
         "handle": "modo",
         "legacy_id": "481959280894",
-        "total_qty": 371,
+        "total_qty": 370,
         "sku_count": 30,
         "product_count": 30
       },
@@ -40884,7 +40884,7 @@
         "sku": "MODO-4633-SMK00-50"
       },
       "gid://shopify/ProductVariant/48061855236350": {
-        "qty": 15,
+        "qty": 14,
         "product_title": "4634-BURG0-52",
         "sku": "MODO-4634-BURG0-52"
       },
@@ -42542,11 +42542,6 @@
         "qty": 3,
         "product_title": "CKJ25613-N-306-54",
         "sku": "CKJ-CKJ25613-N-306-54"
-      },
-      "gid://shopify/ProductVariant/48361937076478": {
-        "qty": 2,
-        "product_title": "CKJ25614-002-53",
-        "sku": "CKJ-CKJ25614-002-53"
       },
       "gid://shopify/ProductVariant/48361937109246": {
         "qty": 5,
@@ -84257,6 +84252,11 @@
         "qty": 0,
         "product_title": "CKJ24634-N-001-56",
         "sku": "CKJ-CKJ24634-N-001-56"
+      },
+      "gid://shopify/ProductVariant/48361937076478": {
+        "qty": 0,
+        "product_title": "CKJ25614-002-53",
+        "sku": "CKJ-CKJ25614-002-53"
       },
       "gid://shopify/ProductVariant/48361937600766": {
         "qty": 0,
