@@ -31790,15 +31790,15 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-17T04:00:50.707242+00:00",
+    "updated_at": "2026-08-17T04:55:38.667634+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 62193,
-        "sku_count": 2119,
-        "product_count": 2119
+        "total_qty": 62190,
+        "sku_count": 2118,
+        "product_count": 2118
       },
       "gid://shopify/Collection/391774208254": {
         "title": "ELIE SAAB",
@@ -31812,15 +31812,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 83274,
-        "sku_count": 3111,
-        "product_count": 3111
+        "total_qty": 83231,
+        "sku_count": 3109,
+        "product_count": 3109
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 83274,
+        "total_qty": 83231,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31828,31 +31828,31 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12434,
-        "sku_count": 866,
-        "product_count": 866
+        "total_qty": 12432,
+        "sku_count": 865,
+        "product_count": 865
       },
       "gid://shopify/Collection/410150142206": {
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 83274,
-        "sku_count": 3978,
-        "product_count": 3978
+        "total_qty": 83231,
+        "sku_count": 3976,
+        "product_count": 3976
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12434,
-        "sku_count": 866,
-        "product_count": 866
+        "total_qty": 12432,
+        "sku_count": 865,
+        "product_count": 865
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22528,
+        "total_qty": 22521,
         "sku_count": 2485,
         "product_count": 2485
       },
@@ -31876,15 +31876,15 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 82833,
-        "sku_count": 2670,
-        "product_count": 2670
+        "total_qty": 82787,
+        "sku_count": 2665,
+        "product_count": 2665
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3719,
+        "total_qty": 3715,
         "sku_count": 472,
         "product_count": 472
       },
@@ -31916,7 +31916,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 19770,
+        "total_qty": 19769,
         "sku_count": 478,
         "product_count": 478
       },
@@ -31948,9 +31948,9 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11430,
-        "sku_count": 984,
-        "product_count": 984
+        "total_qty": 11390,
+        "sku_count": 983,
+        "product_count": 983
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -31988,9 +31988,9 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5794,
-        "sku_count": 484,
-        "product_count": 484
+        "total_qty": 5760,
+        "sku_count": 483,
+        "product_count": 483
       },
       "gid://shopify/Collection/391853998334": {
         "title": "Men's",
@@ -32012,7 +32012,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2713,
+        "total_qty": 2707,
         "sku_count": 203,
         "product_count": 203
       },
@@ -32212,9 +32212,9 @@
         "title": "QUAY",
         "handle": "quay",
         "legacy_id": "472482939134",
-        "total_qty": 628,
-        "sku_count": 56,
-        "product_count": 56
+        "total_qty": 598,
+        "sku_count": 55,
+        "product_count": 55
       },
       "gid://shopify/Collection/397089702142": {
         "title": "DAVID BECKHAM",
@@ -32228,7 +32228,7 @@
         "title": "KARL LAGERFELD",
         "handle": "karl-lagerfeld",
         "legacy_id": "422907576574",
-        "total_qty": 361,
+        "total_qty": 360,
         "sku_count": 38,
         "product_count": 38
       },
@@ -32468,9 +32468,9 @@
         "title": "COCO SONG",
         "handle": "coco-song",
         "legacy_id": "467688259838",
-        "total_qty": 192,
-        "sku_count": 49,
-        "product_count": 49
+        "total_qty": 190,
+        "sku_count": 48,
+        "product_count": 48
       },
       "gid://shopify/Collection/391771324670": {
         "title": "BURBERRY",
@@ -32484,7 +32484,7 @@
         "title": "ANDY WOLF",
         "handle": "andy-wolf-1",
         "legacy_id": "469566619902",
-        "total_qty": 1086,
+        "total_qty": 1080,
         "sku_count": 281,
         "product_count": 281
       },
@@ -32804,7 +32804,7 @@
         "title": "ANNA-KARIN KARLSSON",
         "handle": "anna-karin-karlsson",
         "legacy_id": "485871059198",
-        "total_qty": 1379,
+        "total_qty": 1375,
         "sku_count": 21,
         "product_count": 21
       },
@@ -35222,7 +35222,7 @@
         "sku": "KL-KL6152-400-52"
       },
       "gid://shopify/ProductVariant/46674957172990": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "KL6152-610-52",
         "sku": "KL-KL6152-610-52"
       },
@@ -37225,11 +37225,6 @@
         "qty": 7,
         "product_title": "SURFING-DOLPHIN-CV228.04-09",
         "sku": "CS-SURFING-DOLPHIN-CV228.04-09"
-      },
-      "gid://shopify/ProductVariant/47272815198462": {
-        "qty": 2,
-        "product_title": "SWEET-SKY-CV229.02-09",
-        "sku": "CS-SWEET-SKY-CV229.02-09"
       },
       "gid://shopify/ProductVariant/47272815231230": {
         "qty": 2,
@@ -44232,7 +44227,7 @@
         "sku": "AW-SOCIALIZER-E"
       },
       "gid://shopify/ProductVariant/47432869839102": {
-        "qty": 3,
+        "qty": 1,
         "product_title": "STILTENN-D",
         "sku": "AW-STILTENN-D"
       },
@@ -44607,7 +44602,7 @@
         "sku": "AW-BLISS-D"
       },
       "gid://shopify/ProductVariant/47655188103422": {
-        "qty": 4,
+        "qty": 2,
         "product_title": "BLISS-SUN-COL-G",
         "sku": "AW-BLISS-G"
       },
@@ -44672,7 +44667,7 @@
         "sku": "AW-MILLICENT-F"
       },
       "gid://shopify/ProductVariant/47655189840126": {
-        "qty": 7,
+        "qty": 5,
         "product_title": "MUKHINA-SUN-COL-F",
         "sku": "AW-MUKHINA--F"
       },
@@ -45202,7 +45197,7 @@
         "sku": "LONGCHAMP-LO669S-001"
       },
       "gid://shopify/ProductVariant/47893665644798": {
-        "qty": 8,
+        "qty": 2,
         "product_title": "CHIT CHAT-77734",
         "sku": "QUAY-NO-NS-2330-PBTRT/BRN"
       },
@@ -46592,7 +46587,7 @@
         "sku": "QUAY-NO-NS-2924-TRT/SMTP"
       },
       "gid://shopify/ProductVariant/48314439598334": {
-        "qty": 9,
+        "qty": 1,
         "product_title": "ICY-75883",
         "sku": "QUAY-NO-NS-2186-ESPR/BRN"
       },
@@ -46952,7 +46947,7 @@
         "sku": "AKK-LUCKY-GOES-TO-VEGAS-ICE CRYSTAL"
       },
       "gid://shopify/ProductVariant/48406939599102": {
-        "qty": 14,
+        "qty": 10,
         "product_title": "LUCKY-GOES-TO-VEGAS-LEOPARD",
         "sku": "AKK-LUCKY-GOES-TO-VEGAS-LEOPARD"
       },
@@ -47087,7 +47082,7 @@
         "sku": "QUAY-NO-NS-2707-DOE/CP"
       },
       "gid://shopify/ProductVariant/48560872489214": {
-        "qty": 9,
+        "qty": 3,
         "product_title": "CHIT CHAT-77724",
         "sku": "QUAY-NO-NS-2330-BLK/SMK"
       },
@@ -47140,11 +47135,6 @@
         "qty": 17,
         "product_title": "UNPLUGGED-76797",
         "sku": "QUAY-NO-NS-2293-TRTYLW/GRNPOL"
-      },
-      "gid://shopify/ProductVariant/48560873373950": {
-        "qty": 10,
-        "product_title": "VIBE CHECK-77205",
-        "sku": "QUAY-NO-NS-2363-DOE/BRNFWN"
       },
       "gid://shopify/ProductVariant/48560873406718": {
         "qty": 25,
@@ -70251,6 +70241,11 @@
         "product_title": "SURFING-DOLPHIN-CV228.02-09",
         "sku": "CS-SURFING-DOLPHIN-CV228.02-09"
       },
+      "gid://shopify/ProductVariant/47272815198462": {
+        "qty": 0,
+        "product_title": "SWEET-SKY-CV229.02-09",
+        "sku": "CS-SWEET-SKY-CV229.02-09"
+      },
       "gid://shopify/ProductVariant/47272815493374": {
         "qty": 0,
         "product_title": "BLUE-EYES-CV230.01-09",
@@ -84750,6 +84745,11 @@
         "qty": 0,
         "product_title": "IN PURSUIT-77713",
         "sku": "QUAY-NO-NS-2349-GLD/PLMTPE"
+      },
+      "gid://shopify/ProductVariant/48560873373950": {
+        "qty": 0,
+        "product_title": "VIBE CHECK-77205",
+        "sku": "QUAY-NO-NS-2363-DOE/BRNFWN"
       },
       "gid://shopify/ProductVariant/48561411883262": {
         "qty": 0,
