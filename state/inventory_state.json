@@ -31790,15 +31790,15 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-18T15:22:32.647881+00:00",
+    "updated_at": "2026-08-18T15:54:54.611870+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61927,
-        "sku_count": 2105,
-        "product_count": 2105
+        "total_qty": 61907,
+        "sku_count": 2102,
+        "product_count": 2102
       },
       "gid://shopify/Collection/391774208254": {
         "title": "ELIE SAAB",
@@ -31812,15 +31812,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82805,
-        "sku_count": 3097,
-        "product_count": 3097
+        "total_qty": 82785,
+        "sku_count": 3094,
+        "product_count": 3094
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82805,
+        "total_qty": 82785,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31828,25 +31828,25 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12407,
-        "sku_count": 858,
-        "product_count": 858
+        "total_qty": 12388,
+        "sku_count": 855,
+        "product_count": 855
       },
       "gid://shopify/Collection/410150142206": {
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82805,
-        "sku_count": 3968,
-        "product_count": 3968
+        "total_qty": 82785,
+        "sku_count": 3965,
+        "product_count": 3965
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12407,
-        "sku_count": 858,
-        "product_count": 858
+        "total_qty": 12388,
+        "sku_count": 855,
+        "product_count": 855
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
@@ -31860,7 +31860,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 1090,
+        "total_qty": 1088,
         "sku_count": 911,
         "product_count": 911
       },
@@ -31876,7 +31876,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 82362,
+        "total_qty": 82345,
         "sku_count": 2654,
         "product_count": 2654
       },
@@ -32324,9 +32324,9 @@
         "title": "MOSCHINO",
         "handle": "moschino",
         "legacy_id": "395943837950",
-        "total_qty": 383,
-        "sku_count": 45,
-        "product_count": 45
+        "total_qty": 363,
+        "sku_count": 42,
+        "product_count": 42
       },
       "gid://shopify/Collection/408673911038": {
         "title": "MISSONI",
@@ -36264,17 +36264,17 @@
         "sku": "MISSONI-MIS-0116-005L-53"
       },
       "gid://shopify/ProductVariant/47010185969918": {
-        "qty": 14,
+        "qty": 13,
         "product_title": "MOS-606-0807-53",
         "sku": "MOSCHINO-MOS-606-0807-53"
       },
       "gid://shopify/ProductVariant/47010186002686": {
-        "qty": 17,
+        "qty": 16,
         "product_title": "MOS-608-0086-51",
         "sku": "MOSCHINO-MOS-608-0086-51"
       },
       "gid://shopify/ProductVariant/47010186068222": {
-        "qty": 24,
+        "qty": 23,
         "product_title": "MOS-613-01ED-51",
         "sku": "MOSCHINO-MOS-613-01ED-51"
       },
@@ -36284,12 +36284,12 @@
         "sku": "MOSCHINO-MOS-616/F-0086-54"
       },
       "gid://shopify/ProductVariant/47010186395902": {
-        "qty": 13,
+        "qty": 12,
         "product_title": "MOS-628-0MU1-51",
         "sku": "MOSCHINO-MOS-628-0MU1-51"
       },
       "gid://shopify/ProductVariant/47010186428670": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "MOS-629-0FWM-52",
         "sku": "MOSCHINO-MOS-629-0FWM-52"
       },
@@ -38704,27 +38704,22 @@
         "sku": "MOSCHINO-MOS615/G-PEF-56"
       },
       "gid://shopify/ProductVariant/47577495240958": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "MOS630-FWM-50",
         "sku": "MOSCHINO-MOS630-FWM-50"
       },
-      "gid://shopify/ProductVariant/47577495404798": {
-        "qty": 1,
-        "product_title": "MOS630-0LHF-50",
-        "sku": "MOSCHINO-MOS630-0LHF-50"
-      },
       "gid://shopify/ProductVariant/47577495437566": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "MOS631-0FWM-52",
         "sku": "MOSCHINO-MOS631-0FWM-52"
       },
       "gid://shopify/ProductVariant/47577495470334": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "MOS631-0LHF-52",
         "sku": "MOSCHINO-MOS631-0LHF-52"
       },
       "gid://shopify/ProductVariant/47577495503102": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "MOS635-C9A-53",
         "sku": "MOSCHINO-MOS635-C9A-53"
       },
@@ -42298,11 +42293,6 @@
         "product_title": "MIS-0092-HKZ-54",
         "sku": "MISSONI-MIS-0092-HKZ-54"
       },
-      "gid://shopify/ProductVariant/48349469901054": {
-        "qty": 1,
-        "product_title": "MOS630-807-50",
-        "sku": "MOSCHINO-MOS630-807-50"
-      },
       "gid://shopify/ProductVariant/48349469966590": {
         "qty": 2,
         "product_title": "6240-0FLL-57",
@@ -43079,27 +43069,22 @@
         "sku": "MOSCHINO-MOS586-000-52"
       },
       "gid://shopify/ProductVariant/48648026751230": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "MOS603-6XQ-52",
         "sku": "MOSCHINO-MOS603-6XQ-52"
       },
       "gid://shopify/ProductVariant/48648026783998": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "MOS603-QM4-52",
         "sku": "MOSCHINO-MOS603-QM4-52"
       },
       "gid://shopify/ProductVariant/48648026849534": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "MOS608-LHF-51",
         "sku": "MOSCHINO-MOS608-LHF-51"
       },
-      "gid://shopify/ProductVariant/48648026915070": {
-        "qty": 1,
-        "product_title": "MOS609-TBO-53",
-        "sku": "MOSCHINO-MOS609-TBO-53"
-      },
       "gid://shopify/ProductVariant/48648026947838": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "MOS613-35J-51",
         "sku": "MOSCHINO-MOS613-35J-51"
       },
@@ -43109,22 +43094,22 @@
         "sku": "MOSCHINO-MOS616/F-807-54"
       },
       "gid://shopify/ProductVariant/48648027013374": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "MOS623-C9A-52",
         "sku": "MOSCHINO-MOS623-C9A-52"
       },
       "gid://shopify/ProductVariant/48648027046142": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "MOS636-807-51",
         "sku": "MOSCHINO-MOS636-807-51"
       },
       "gid://shopify/ProductVariant/48648027177214": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "MOS636-MVU-51",
         "sku": "MOSCHINO-MOS636-MVU-51"
       },
       "gid://shopify/ProductVariant/48648027209982": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "MOS646-086-52",
         "sku": "MOSCHINO-MOS646-086-52"
       },
@@ -74418,6 +74403,11 @@
         "product_title": "MOS621-DDB-54",
         "sku": "MOSCHINO-MOS621-DDB-54"
       },
+      "gid://shopify/ProductVariant/47577495404798": {
+        "qty": 0,
+        "product_title": "MOS630-0LHF-50",
+        "sku": "MOSCHINO-MOS630-0LHF-50"
+      },
       "gid://shopify/ProductVariant/47589020369150": {
         "qty": 0,
         "product_title": "JAMES-1-1199-53",
@@ -84213,6 +84203,11 @@
         "product_title": "LV-1036-YF5-48",
         "sku": "LEVIS-LV-1036-YF5-48"
       },
+      "gid://shopify/ProductVariant/48349469901054": {
+        "qty": 0,
+        "product_title": "MOS630-807-50",
+        "sku": "MOSCHINO-MOS630-807-50"
+      },
       "gid://shopify/ProductVariant/48349469933822": {
         "qty": 0,
         "product_title": "MOS632-MVU-53",
@@ -85722,6 +85717,11 @@
         "qty": 0,
         "product_title": "286-003-57",
         "sku": "CARRERA-286-003-57"
+      },
+      "gid://shopify/ProductVariant/48648026915070": {
+        "qty": 0,
+        "product_title": "MOS609-TBO-53",
+        "sku": "MOSCHINO-MOS609-TBO-53"
       },
       "gid://shopify/ProductVariant/48648155037950": {
         "qty": 0,
