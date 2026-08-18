@@ -31790,15 +31790,15 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-18T15:54:54.611870+00:00",
+    "updated_at": "2026-08-18T16:20:55.522575+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61907,
-        "sku_count": 2102,
-        "product_count": 2102
+        "total_qty": 61885,
+        "sku_count": 2101,
+        "product_count": 2101
       },
       "gid://shopify/Collection/391774208254": {
         "title": "ELIE SAAB",
@@ -31812,15 +31812,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82785,
-        "sku_count": 3094,
-        "product_count": 3094
+        "total_qty": 82763,
+        "sku_count": 3093,
+        "product_count": 3093
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82785,
+        "total_qty": 82763,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31828,25 +31828,25 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12388,
-        "sku_count": 855,
-        "product_count": 855
+        "total_qty": 12376,
+        "sku_count": 854,
+        "product_count": 854
       },
       "gid://shopify/Collection/410150142206": {
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82785,
-        "sku_count": 3965,
-        "product_count": 3965
+        "total_qty": 82763,
+        "sku_count": 3964,
+        "product_count": 3964
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12388,
-        "sku_count": 855,
-        "product_count": 855
+        "total_qty": 12376,
+        "sku_count": 854,
+        "product_count": 854
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
@@ -31876,9 +31876,9 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 82345,
-        "sku_count": 2654,
-        "product_count": 2654
+        "total_qty": 82322,
+        "sku_count": 2652,
+        "product_count": 2652
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
@@ -32004,7 +32004,7 @@
         "title": "LACOSTE",
         "handle": "lacoste",
         "legacy_id": "393068577022",
-        "total_qty": 173,
+        "total_qty": 163,
         "sku_count": 23,
         "product_count": 23
       },
@@ -32116,9 +32116,9 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 872,
-        "sku_count": 139,
-        "product_count": 139
+        "total_qty": 860,
+        "sku_count": 138,
+        "product_count": 138
       },
       "gid://shopify/Collection/454431080702": {
         "title": "Kids",
@@ -35209,7 +35209,7 @@
         "sku": "LACOSTE-L2901-230-53"
       },
       "gid://shopify/ProductVariant/46674957402366": {
-        "qty": 11,
+        "qty": 1,
         "product_title": "L2910-240-55",
         "sku": "LACOSTE-L2910-240-55"
       },
@@ -36322,11 +36322,6 @@
         "qty": 3,
         "product_title": "LAUREL-01ED-50",
         "sku": "KS-LAUREL-01ED-50"
-      },
-      "gid://shopify/ProductVariant/47010388902142": {
-        "qty": 12,
-        "product_title": "RENNE-0807-52",
-        "sku": "KS-RENNE-0807-52"
       },
       "gid://shopify/ProductVariant/47010388934910": {
         "qty": 4,
@@ -66127,6 +66122,11 @@
         "qty": 0,
         "product_title": "E-8008-0003-54",
         "sku": "ELASTA-E-8008-0003-54"
+      },
+      "gid://shopify/ProductVariant/47010388902142": {
+        "qty": 0,
+        "product_title": "RENNE-0807-52",
+        "sku": "KS-RENNE-0807-52"
       },
       "gid://shopify/ProductVariant/47010389295358": {
         "qty": 0,
