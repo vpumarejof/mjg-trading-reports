@@ -31790,13 +31790,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-18T20:59:20.116550+00:00",
+    "updated_at": "2026-08-18T21:25:34.661201+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61885,
+        "total_qty": 61881,
         "sku_count": 2101,
         "product_count": 2101
       },
@@ -31812,7 +31812,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82761,
+        "total_qty": 82757,
         "sku_count": 3093,
         "product_count": 3093
       },
@@ -31820,7 +31820,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82761,
+        "total_qty": 82757,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31828,7 +31828,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12376,
+        "total_qty": 12373,
         "sku_count": 854,
         "product_count": 854
       },
@@ -31836,7 +31836,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82761,
+        "total_qty": 82757,
         "sku_count": 3964,
         "product_count": 3964
       },
@@ -31844,7 +31844,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12376,
+        "total_qty": 12373,
         "sku_count": 854,
         "product_count": 854
       },
@@ -31876,15 +31876,15 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 82320,
-        "sku_count": 2652,
-        "product_count": 2652
+        "total_qty": 82314,
+        "sku_count": 2650,
+        "product_count": 2650
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3760,
+        "total_qty": 3759,
         "sku_count": 482,
         "product_count": 482
       },
@@ -31956,7 +31956,7 @@
         "title": "TOMMY HILFIGER",
         "handle": "tommy-hilfiger",
         "legacy_id": "391775912190",
-        "total_qty": 327,
+        "total_qty": 326,
         "sku_count": 65,
         "product_count": 65
       },
@@ -31980,7 +31980,7 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 689,
+        "total_qty": 688,
         "sku_count": 83,
         "product_count": 83
       },
@@ -32116,7 +32116,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 860,
+        "total_qty": 859,
         "sku_count": 138,
         "product_count": 138
       },
@@ -32492,7 +32492,7 @@
         "title": "DKNY",
         "handle": "dkny",
         "legacy_id": "395943870718",
-        "total_qty": 388,
+        "total_qty": 387,
         "sku_count": 43,
         "product_count": 43
       },
@@ -36484,7 +36484,7 @@
         "sku": "SF-SF2984-613-53"
       },
       "gid://shopify/ProductVariant/47027374424318": {
-        "qty": 38,
+        "qty": 37,
         "product_title": "SF2986-232-53",
         "sku": "SF-SF2986-232-53"
       },
@@ -39914,7 +39914,7 @@
         "sku": "DKNY-DK7012-011-53"
       },
       "gid://shopify/ProductVariant/47730447745278": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "DK7012-244-53",
         "sku": "DKNY-DK7012-244-53"
       },
@@ -41159,7 +41159,7 @@
         "sku": "KS-EMMALEE-PJP-49"
       },
       "gid://shopify/ProductVariant/48121214042366": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "EVANGELINE/F-C9A-53",
         "sku": "KS-EVANGELINE/F-C9A-53"
       },
@@ -43149,7 +43149,7 @@
         "sku": "TH-TH-1998-003-56"
       },
       "gid://shopify/ProductVariant/48648027799806": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "TH-2046-KB7-53",
         "sku": "TH-TH-2046-KB7-53"
       },
