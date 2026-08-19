@@ -31790,13 +31790,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-19T16:54:16.252598+00:00",
+    "updated_at": "2026-08-19T17:19:03.610451+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61808,
+        "total_qty": 61805,
         "sku_count": 2088,
         "product_count": 2088
       },
@@ -31812,7 +31812,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82605,
+        "total_qty": 82597,
         "sku_count": 3104,
         "product_count": 3104
       },
@@ -31820,7 +31820,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82605,
+        "total_qty": 82597,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31828,7 +31828,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12344,
+        "total_qty": 12342,
         "sku_count": 847,
         "product_count": 847
       },
@@ -31836,7 +31836,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82605,
+        "total_qty": 82597,
         "sku_count": 3981,
         "product_count": 3981
       },
@@ -31844,7 +31844,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12344,
+        "total_qty": 12342,
         "sku_count": 847,
         "product_count": 847
       },
@@ -31852,7 +31852,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22398,
+        "total_qty": 22397,
         "sku_count": 2485,
         "product_count": 2485
       },
@@ -31860,7 +31860,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 1081,
+        "total_qty": 1079,
         "sku_count": 911,
         "product_count": 911
       },
@@ -31868,7 +31868,7 @@
         "title": "PRADA",
         "handle": "prada",
         "legacy_id": "391775289598",
-        "total_qty": 181,
+        "total_qty": 180,
         "sku_count": 32,
         "product_count": 32
       },
@@ -31876,7 +31876,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 82171,
+        "total_qty": 82163,
         "sku_count": 2670,
         "product_count": 2670
       },
@@ -31884,7 +31884,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3923,
+        "total_qty": 3918,
         "sku_count": 511,
         "product_count": 511
       },
@@ -31908,7 +31908,7 @@
         "title": "GUCCI",
         "handle": "gucci",
         "legacy_id": "421341364478",
-        "total_qty": 533,
+        "total_qty": 532,
         "sku_count": 301,
         "product_count": 301
       },
@@ -31948,7 +31948,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11154,
+        "total_qty": 11149,
         "sku_count": 1008,
         "product_count": 1008
       },
@@ -31964,7 +31964,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 3008,
+        "total_qty": 3006,
         "sku_count": 307,
         "product_count": 307
       },
@@ -31988,7 +31988,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5609,
+        "total_qty": 5607,
         "sku_count": 496,
         "product_count": 496
       },
@@ -32012,7 +32012,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2609,
+        "total_qty": 2608,
         "sku_count": 209,
         "product_count": 209
       },
@@ -32020,7 +32020,7 @@
         "title": "NIKE",
         "handle": "nike",
         "legacy_id": "391775125758",
-        "total_qty": 256,
+        "total_qty": 255,
         "sku_count": 27,
         "product_count": 27
       },
@@ -32212,7 +32212,7 @@
         "title": "DAVID BECKHAM",
         "handle": "david-beckham",
         "legacy_id": "397089702142",
-        "total_qty": 596,
+        "total_qty": 595,
         "sku_count": 75,
         "product_count": 75
       },
@@ -32228,7 +32228,7 @@
         "title": "Gucci",
         "handle": "gucci-1",
         "legacy_id": "407282450686",
-        "total_qty": 533,
+        "total_qty": 532,
         "sku_count": 110,
         "product_count": 110
       },
@@ -32316,7 +32316,7 @@
         "title": "VALENTINO",
         "handle": "valentino",
         "legacy_id": "462679113982",
-        "total_qty": 115,
+        "total_qty": 114,
         "sku_count": 21,
         "product_count": 21
       },
@@ -32324,7 +32324,7 @@
         "title": "MOSCHINO",
         "handle": "moschino",
         "legacy_id": "395943837950",
-        "total_qty": 361,
+        "total_qty": 360,
         "sku_count": 42,
         "product_count": 42
       },
@@ -32700,7 +32700,7 @@
         "title": "BALENCIAGA",
         "handle": "balenciaga",
         "legacy_id": "395973296382",
-        "total_qty": 230,
+        "total_qty": 229,
         "sku_count": 104,
         "product_count": 104
       },
@@ -32756,7 +32756,7 @@
         "title": "TIFFANY & CO",
         "handle": "tiffany-co",
         "legacy_id": "483397370110",
-        "total_qty": 133,
+        "total_qty": 132,
         "sku_count": 22,
         "product_count": 22
       },
@@ -33144,7 +33144,7 @@
         "sku": "DB-1127-0POH-51"
       },
       "gid://shopify/ProductVariant/46226004738302": {
-        "qty": 25,
+        "qty": 24,
         "product_title": "DB-7022/BB-0086-49",
         "sku": "DB-7022/BB-0086-49"
       },
@@ -41349,7 +41349,7 @@
         "sku": "BALENCIAGA-BB0325O-009-54"
       },
       "gid://shopify/ProductVariant/48288328155390": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "BB0326O-004-53",
         "sku": "BALENCIAGA-BB0326O-004-53"
       },
@@ -41449,7 +41449,7 @@
         "sku": "GUCCI-GG0025O-016-58"
       },
       "gid://shopify/ProductVariant/48288330023166": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "GG0093O-009-53",
         "sku": "GUCCI-GG0093O-009-53"
       },
@@ -43779,7 +43779,7 @@
         "sku": "NIKE-SESSION-CT8129-010"
       },
       "gid://shopify/ProductVariant/46811490517246": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "VARIANT II EV24014",
         "sku": "NIKE-VARIANT-II-EV24014-010"
       },
@@ -44694,7 +44694,7 @@
         "sku": "MISSONI-MIS-0171/S-1ED/JP"
       },
       "gid://shopify/ProductVariant/47749756092670": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "MOS122/S-3H2/JP",
         "sku": "MOSCHINO-MOS122/S-3H2/JP"
       },
@@ -44919,7 +44919,7 @@
         "sku": "VALENTINO-V-GLASSLINER-VLS-118D-55"
       },
       "gid://shopify/ProductVariant/47769384386814": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "V-GOLD-III-VLS-138A-53",
         "sku": "VALENTINO-V-GOLD-III-VLS-138A-53"
       },
@@ -46194,7 +46194,7 @@
         "sku": "FENDI-FE40140U-52N"
       },
       "gid://shopify/ProductVariant/48223291638014": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "TF3088-610516",
         "sku": "TF-TF3088-610516"
       },
@@ -46869,7 +46869,7 @@
         "sku": "PRADA-PS-02ZSU-1BO05U"
       },
       "gid://shopify/ProductVariant/48392229617918": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "PS-02ZSU-1BO08R",
         "sku": "PRADA-PS-02ZSU-1BO08R"
       },
