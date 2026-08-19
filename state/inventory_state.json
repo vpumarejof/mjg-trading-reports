@@ -31790,13 +31790,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-19T18:21:20.503823+00:00",
+    "updated_at": "2026-08-19T19:00:57.472283+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61805,
+        "total_qty": 61804,
         "sku_count": 2088,
         "product_count": 2088
       },
@@ -31812,7 +31812,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82480,
+        "total_qty": 82477,
         "sku_count": 3099,
         "product_count": 3099
       },
@@ -31820,7 +31820,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82480,
+        "total_qty": 82477,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31836,7 +31836,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82480,
+        "total_qty": 82477,
         "sku_count": 3976,
         "product_count": 3976
       },
@@ -31852,7 +31852,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22292,
+        "total_qty": 22291,
         "sku_count": 2485,
         "product_count": 2485
       },
@@ -31876,7 +31876,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 82046,
+        "total_qty": 82043,
         "sku_count": 2665,
         "product_count": 2665
       },
@@ -31948,7 +31948,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11032,
+        "total_qty": 11030,
         "sku_count": 1003,
         "product_count": 1003
       },
@@ -31964,7 +31964,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 3006,
+        "total_qty": 3005,
         "sku_count": 307,
         "product_count": 307
       },
@@ -32012,7 +32012,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2503,
+        "total_qty": 2502,
         "sku_count": 204,
         "product_count": 204
       },
@@ -32036,7 +32036,7 @@
         "title": "Kid's Eyeglasses",
         "handle": "kids-eyeglasses",
         "legacy_id": "408131305726",
-        "total_qty": 21718,
+        "total_qty": 21717,
         "sku_count": 106,
         "product_count": 106
       },
@@ -32052,7 +32052,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1907,
+        "total_qty": 1906,
         "sku_count": 111,
         "product_count": 111
       },
@@ -32124,7 +32124,7 @@
         "title": "Kids",
         "handle": "kids",
         "legacy_id": "454431080702",
-        "total_qty": 21713,
+        "total_qty": 21712,
         "sku_count": 137,
         "product_count": 137
       },
@@ -32196,7 +32196,7 @@
         "title": "QUAY",
         "handle": "quay",
         "legacy_id": "472482939134",
-        "total_qty": 490,
+        "total_qty": 489,
         "sku_count": 46,
         "product_count": 46
       },
@@ -32348,7 +32348,7 @@
         "title": "FLEXON",
         "handle": "flexon",
         "legacy_id": "466401853694",
-        "total_qty": 194,
+        "total_qty": 193,
         "sku_count": 40,
         "product_count": 40
       },
@@ -32796,7 +32796,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 1067,
+        "total_qty": 1066,
         "sku_count": 122,
         "product_count": 122
       },
@@ -43169,7 +43169,7 @@
         "sku": "FLEXON-J4017-051-49"
       },
       "gid://shopify/ProductVariant/48698371670270": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "J4018-001-48",
         "sku": "FLEXON-J4018-001-48"
       },
@@ -45994,7 +45994,7 @@
         "sku": "QUAY-NO-NS-2710-DTRT/BRN"
       },
       "gid://shopify/ProductVariant/48145124983038": {
-        "qty": 16,
+        "qty": 15,
         "product_title": "TEXT ME-78600",
         "sku": "QUAY-NO-NS-2441-GLD/SEP"
       },
@@ -47409,7 +47409,7 @@
         "sku": "CARRERA-8039/S-003/IR"
       },
       "gid://shopify/ProductVariant/48648015446270": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "8040/S-807/XT",
         "sku": "CARRERA-8040/S-807/XT"
       },
