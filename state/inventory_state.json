@@ -31790,7 +31790,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-19T10:52:54.015958+00:00",
+    "updated_at": "2026-08-19T11:17:08.646518+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
@@ -31812,7 +31812,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82484,
+        "total_qty": 82482,
         "sku_count": 3082,
         "product_count": 3082
       },
@@ -31820,7 +31820,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82484,
+        "total_qty": 82482,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31836,7 +31836,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82484,
+        "total_qty": 82482,
         "sku_count": 3955,
         "product_count": 3955
       },
@@ -31876,7 +31876,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 82040,
+        "total_qty": 82038,
         "sku_count": 2638,
         "product_count": 2638
       },
@@ -31948,7 +31948,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 10996,
+        "total_qty": 10994,
         "sku_count": 977,
         "product_count": 977
       },
@@ -31964,7 +31964,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 3004,
+        "total_qty": 3002,
         "sku_count": 307,
         "product_count": 307
       },
@@ -32348,7 +32348,7 @@
         "title": "CALVIN KLEIN JEANS",
         "handle": "calvin-klein-jeans",
         "legacy_id": "464057172222",
-        "total_qty": 400,
+        "total_qty": 398,
         "sku_count": 54,
         "product_count": 54
       },
@@ -46664,12 +46664,12 @@
         "sku": "CKJ-CKJ25209S-770"
       },
       "gid://shopify/ProductVariant/48361936716030": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "CKJ25603S-N-002",
         "sku": "CKJ-CKJ25603S-N-002"
       },
       "gid://shopify/ProductVariant/48361936748798": {
-        "qty": 13,
+        "qty": 12,
         "product_title": "CKJ25603S-N-309",
         "sku": "CKJ-CKJ25603S-N-309"
       },
