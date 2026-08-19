@@ -31790,7 +31790,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-19T12:27:15.261086+00:00",
+    "updated_at": "2026-08-19T13:24:34.433154+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
@@ -31812,7 +31812,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82482,
+        "total_qty": 82480,
         "sku_count": 3082,
         "product_count": 3082
       },
@@ -31820,7 +31820,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82482,
+        "total_qty": 82480,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31836,7 +31836,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82482,
+        "total_qty": 82480,
         "sku_count": 3955,
         "product_count": 3955
       },
@@ -31876,7 +31876,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 82038,
+        "total_qty": 82036,
         "sku_count": 2638,
         "product_count": 2638
       },
@@ -31948,7 +31948,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 10994,
+        "total_qty": 10993,
         "sku_count": 977,
         "product_count": 977
       },
@@ -31988,7 +31988,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5463,
+        "total_qty": 5462,
         "sku_count": 469,
         "product_count": 469
       },
@@ -32148,7 +32148,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 24580,
+        "total_qty": 24579,
         "sku_count": 36,
         "product_count": 36
       },
@@ -32324,7 +32324,7 @@
         "title": "MOSCHINO",
         "handle": "moschino",
         "legacy_id": "395943837950",
-        "total_qty": 362,
+        "total_qty": 361,
         "sku_count": 42,
         "product_count": 42
       },
@@ -43544,7 +43544,7 @@
         "sku": "NIKE-ADRENALINE-M-EVG-066"
       },
       "gid://shopify/ProductVariant/46059134714110": {
-        "qty": 9630,
+        "qty": 9629,
         "product_title": "DropShip",
         "sku": "DropShip"
       },
@@ -44739,7 +44739,7 @@
         "sku": "MISSONI-MIS-0171/S-1ED/JP"
       },
       "gid://shopify/ProductVariant/47749756092670": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "MOS122/S-3H2/JP",
         "sku": "MOSCHINO-MOS122/S-3H2/JP"
       },
