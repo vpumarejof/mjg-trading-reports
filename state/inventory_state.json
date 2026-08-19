@@ -31790,15 +31790,15 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-19T21:47:49.566878+00:00",
+    "updated_at": "2026-08-19T22:15:46.729741+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61800,
-        "sku_count": 2088,
-        "product_count": 2088
+        "total_qty": 61792,
+        "sku_count": 2086,
+        "product_count": 2086
       },
       "gid://shopify/Collection/391774208254": {
         "title": "ELIE SAAB",
@@ -31812,15 +31812,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82463,
-        "sku_count": 3099,
-        "product_count": 3099
+        "total_qty": 82455,
+        "sku_count": 3097,
+        "product_count": 3097
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82463,
+        "total_qty": 82455,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31828,25 +31828,25 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12341,
-        "sku_count": 847,
-        "product_count": 847
+        "total_qty": 12337,
+        "sku_count": 846,
+        "product_count": 846
       },
       "gid://shopify/Collection/410150142206": {
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82463,
-        "sku_count": 3976,
-        "product_count": 3976
+        "total_qty": 82455,
+        "sku_count": 3975,
+        "product_count": 3975
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12341,
-        "sku_count": 847,
-        "product_count": 847
+        "total_qty": 12337,
+        "sku_count": 846,
+        "product_count": 846
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
@@ -31876,7 +31876,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 82028,
+        "total_qty": 82022,
         "sku_count": 2664,
         "product_count": 2664
       },
@@ -32300,7 +32300,7 @@
         "title": "LIGHTEC-MOREL",
         "handle": "lightec-morel",
         "legacy_id": "466217926910",
-        "total_qty": 2331,
+        "total_qty": 2329,
         "sku_count": 98,
         "product_count": 98
       },
@@ -32388,9 +32388,9 @@
         "title": "KOALI-MOREL",
         "handle": "koali-morel",
         "legacy_id": "466217861374",
-        "total_qty": 2038,
-        "sku_count": 76,
-        "product_count": 76
+        "total_qty": 2037,
+        "sku_count": 75,
+        "product_count": 75
       },
       "gid://shopify/Collection/466217992446": {
         "title": "OGA-MOREL",
@@ -32420,15 +32420,15 @@
         "title": "1880-MOREL",
         "handle": "1880-morel",
         "legacy_id": "466916376830",
-        "total_qty": 113,
-        "sku_count": 11,
-        "product_count": 11
+        "total_qty": 112,
+        "sku_count": 10,
+        "product_count": 10
       },
       "gid://shopify/Collection/466916409598": {
         "title": "NOMAD-MOREL",
         "handle": "nomad-morel",
         "legacy_id": "466916409598",
-        "total_qty": 846,
+        "total_qty": 842,
         "sku_count": 47,
         "product_count": 47
       },
@@ -36373,11 +36373,6 @@
         "product_title": "60074M-MD19-48",
         "sku": "1880-MOREL-60074M-MD19-48"
       },
-      "gid://shopify/ProductVariant/47021047251198": {
-        "qty": 1,
-        "product_title": "60123M-MG02-48",
-        "sku": "1880-MOREL-60123M-MG02-48"
-      },
       "gid://shopify/ProductVariant/47021047644414": {
         "qty": 8,
         "product_title": "60122M-DM12-49",
@@ -36414,7 +36409,7 @@
         "sku": "NOMAD-MOREL-40197N-SP03-56"
       },
       "gid://shopify/ProductVariant/47021050855678": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "40232N-RN08-53",
         "sku": "NOMAD-MOREL-40232N-RN08-53"
       },
@@ -36424,7 +36419,7 @@
         "sku": "NOMAD-MOREL-40232N-MV07-53"
       },
       "gid://shopify/ProductVariant/47021051052286": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "40232N-MB09-53",
         "sku": "NOMAD-MOREL-40232N-MB09-53"
       },
@@ -38028,11 +38023,6 @@
         "product_title": "20092K-NP01-48",
         "sku": "KOALI-MOREL-20092K-NP01-48"
       },
-      "gid://shopify/ProductVariant/47558954811646": {
-        "qty": 1,
-        "product_title": "20093K-PP06-50",
-        "sku": "KOALI-MOREL-20093K-PP06-50"
-      },
       "gid://shopify/ProductVariant/47558954877182": {
         "qty": 5,
         "product_title": "20093K-RP05-50",
@@ -38234,7 +38224,7 @@
         "sku": "LIGHTEC-MOREL-30071L-RD05-50"
       },
       "gid://shopify/ProductVariant/47558957105406": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "30074L-ND13-52",
         "sku": "LIGHTEC-MOREL-30074L-ND13-52"
       },
@@ -38284,7 +38274,7 @@
         "sku": "LIGHTEC-MOREL-30174L-NP01-50"
       },
       "gid://shopify/ProductVariant/47558957859070": {
-        "qty": 34,
+        "qty": 33,
         "product_title": "30179L-GG05-51",
         "sku": "LIGHTEC-MOREL-30179L-GG05-51"
       },
@@ -38394,7 +38384,7 @@
         "sku": "NOMAD-MOREL-2547N-BW050-55"
       },
       "gid://shopify/ProductVariant/47558958907646": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "2549N-MB063-51",
         "sku": "NOMAD-MOREL-2549N-MB063-51"
       },
@@ -38504,7 +38494,7 @@
         "sku": "NOMAD-MOREL-40048N-SP20-49"
       },
       "gid://shopify/ProductVariant/47558959923454": {
-        "qty": 11,
+        "qty": 10,
         "product_title": "40058N-MP03-54",
         "sku": "NOMAD-MOREL-40058N-MP03-54"
       },
@@ -66328,6 +66318,11 @@
         "product_title": "60144M-NG04-48",
         "sku": "1880-MOREL-60144M-NG04-48"
       },
+      "gid://shopify/ProductVariant/47021047251198": {
+        "qty": 0,
+        "product_title": "60123M-MG02-48",
+        "sku": "1880-MOREL-60123M-MG02-48"
+      },
       "gid://shopify/ProductVariant/47021047283966": {
         "qty": 0,
         "product_title": "60134M-GG11-55",
@@ -73822,6 +73817,11 @@
         "qty": 0,
         "product_title": "20064K-NP07-49",
         "sku": "KOALI-MOREL-20064K-NP07-49"
+      },
+      "gid://shopify/ProductVariant/47558954811646": {
+        "qty": 0,
+        "product_title": "20093K-PP06-50",
+        "sku": "KOALI-MOREL-20093K-PP06-50"
       },
       "gid://shopify/ProductVariant/47558955073790": {
         "qty": 0,
