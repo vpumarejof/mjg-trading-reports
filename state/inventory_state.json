@@ -31790,13 +31790,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-19T19:00:57.472283+00:00",
+    "updated_at": "2026-08-19T19:36:22.191175+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61804,
+        "total_qty": 61803,
         "sku_count": 2088,
         "product_count": 2088
       },
@@ -31812,15 +31812,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82477,
-        "sku_count": 3099,
-        "product_count": 3099
+        "total_qty": 82481,
+        "sku_count": 3102,
+        "product_count": 3102
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82477,
+        "total_qty": 82481,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31836,9 +31836,9 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82477,
-        "sku_count": 3976,
-        "product_count": 3976
+        "total_qty": 82481,
+        "sku_count": 3979,
+        "product_count": 3979
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
@@ -31852,7 +31852,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22291,
+        "total_qty": 22296,
         "sku_count": 2485,
         "product_count": 2485
       },
@@ -31876,9 +31876,9 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 82043,
-        "sku_count": 2665,
-        "product_count": 2665
+        "total_qty": 82045,
+        "sku_count": 2666,
+        "product_count": 2666
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
@@ -31948,9 +31948,9 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11030,
-        "sku_count": 1003,
-        "product_count": 1003
+        "total_qty": 11035,
+        "sku_count": 1006,
+        "product_count": 1006
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -32012,9 +32012,9 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2502,
-        "sku_count": 204,
-        "product_count": 204
+        "total_qty": 2507,
+        "sku_count": 207,
+        "product_count": 207
       },
       "gid://shopify/Collection/391775125758": {
         "title": "NIKE",
@@ -32268,9 +32268,9 @@
         "title": "PRIMARY",
         "handle": "primary",
         "legacy_id": "460628721918",
-        "total_qty": 37233,
-        "sku_count": 249,
-        "product_count": 249
+        "total_qty": 37238,
+        "sku_count": 252,
+        "product_count": 252
       },
       "gid://shopify/Collection/461664780542": {
         "title": "Primary Titanium",
@@ -32284,9 +32284,9 @@
         "title": "Tariff Busters",
         "handle": "tariff-busters",
         "legacy_id": "463834087678",
-        "total_qty": 46878,
-        "sku_count": 343,
-        "product_count": 343
+        "total_qty": 46883,
+        "sku_count": 346,
+        "product_count": 346
       },
       "gid://shopify/Collection/408975540478": {
         "title": "PIERRE CARDIN",
@@ -32476,7 +32476,7 @@
         "title": "ANDY WOLF",
         "handle": "andy-wolf-1",
         "legacy_id": "469566619902",
-        "total_qty": 1061,
+        "total_qty": 1060,
         "sku_count": 277,
         "product_count": 277
       },
@@ -32796,9 +32796,9 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 1066,
-        "sku_count": 122,
-        "product_count": 122
+        "total_qty": 1011,
+        "sku_count": 114,
+        "product_count": 114
       },
       "gid://shopify/Collection/487431995646": {
         "title": "CANADA GOOSE",
@@ -39589,7 +39589,7 @@
         "sku": "AW-IGNACIO-D-55"
       },
       "gid://shopify/ProductVariant/47655184662782": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "INGOLF-W-4718-A-55",
         "sku": "AW-INGOLF-W-4718-A-55"
       },
@@ -43548,6 +43548,11 @@
         "product_title": "PRS05-BLACK-58-SUN",
         "sku": "Prs05-Black-58-SUN"
       },
+      "gid://shopify/ProductVariant/46622544822526": {
+        "qty": 3,
+        "product_title": "PRS06-BROWN-56-SUN",
+        "sku": "Prs06-Brown-56-SUN"
+      },
       "gid://shopify/ProductVariant/46622544888062": {
         "qty": 84,
         "product_title": "PRS08-BLACK/CRYSTAL-52-SUN",
@@ -43558,10 +43563,20 @@
         "product_title": "PRS08-TORTOISE/CRYSTAL-52-SUN",
         "sku": "Prs08-Tortoise/Crystal-52-SUN"
       },
+      "gid://shopify/ProductVariant/46622544953598": {
+        "qty": 1,
+        "product_title": "PRS09-BLACK/HORN-54-SUN",
+        "sku": "Prs09-Black/Horn-54-SUN"
+      },
       "gid://shopify/ProductVariant/46622545215742": {
         "qty": 99,
         "product_title": "PRS09-BROWN/HORN-54-SUN",
         "sku": "Prs09-Brown/Horn-54-SUN"
+      },
+      "gid://shopify/ProductVariant/46622545248510": {
+        "qty": 1,
+        "product_title": "PRS09-MATTETORTOISE-54-SUN",
+        "sku": "Prs09-MatteTortoise-54-SUN"
       },
       "gid://shopify/ProductVariant/46632106262782": {
         "qty": 30,
@@ -63293,25 +63308,10 @@
         "product_title": "PRS06-BLACK-56-SUN",
         "sku": "Prs06-Black-56-SUN"
       },
-      "gid://shopify/ProductVariant/46622544822526": {
-        "qty": 0,
-        "product_title": "PRS06-BROWN-56-SUN",
-        "sku": "Prs06-Brown-56-SUN"
-      },
       "gid://shopify/ProductVariant/46622544855294": {
         "qty": 0,
         "product_title": "PRS08(HADEN)-BLACK/TORTOISE-52-SUN",
         "sku": "Prs08(Haden)-Black/Tortoise-52-SUN"
-      },
-      "gid://shopify/ProductVariant/46622544953598": {
-        "qty": 0,
-        "product_title": "PRS09-BLACK/HORN-54-SUN",
-        "sku": "Prs09-Black/Horn-54-SUN"
-      },
-      "gid://shopify/ProductVariant/46622545248510": {
-        "qty": 0,
-        "product_title": "PRS09-MATTETORTOISE-54-SUN",
-        "sku": "Prs09-MatteTortoise-54-SUN"
       },
       "gid://shopify/ProductVariant/46622545379582": {
         "qty": 0,
