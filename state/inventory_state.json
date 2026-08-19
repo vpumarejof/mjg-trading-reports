@@ -31790,15 +31790,15 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-19T16:21:01.120580+00:00",
+    "updated_at": "2026-08-19T16:54:16.252598+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61818,
-        "sku_count": 2089,
-        "product_count": 2089
+        "total_qty": 61808,
+        "sku_count": 2088,
+        "product_count": 2088
       },
       "gid://shopify/Collection/391774208254": {
         "title": "ELIE SAAB",
@@ -31812,15 +31812,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82615,
-        "sku_count": 3105,
-        "product_count": 3105
+        "total_qty": 82605,
+        "sku_count": 3104,
+        "product_count": 3104
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82615,
+        "total_qty": 82605,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31836,7 +31836,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82615,
+        "total_qty": 82605,
         "sku_count": 3981,
         "product_count": 3981
       },
@@ -31852,7 +31852,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22401,
+        "total_qty": 22398,
         "sku_count": 2485,
         "product_count": 2485
       },
@@ -31876,7 +31876,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 82180,
+        "total_qty": 82171,
         "sku_count": 2670,
         "product_count": 2670
       },
@@ -31916,7 +31916,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 19750,
+        "total_qty": 19747,
         "sku_count": 478,
         "product_count": 478
       },
@@ -32036,7 +32036,7 @@
         "title": "Kid's Eyeglasses",
         "handle": "kids-eyeglasses",
         "legacy_id": "408131305726",
-        "total_qty": 21721,
+        "total_qty": 21718,
         "sku_count": 106,
         "product_count": 106
       },
@@ -32124,7 +32124,7 @@
         "title": "Kids",
         "handle": "kids",
         "legacy_id": "454431080702",
-        "total_qty": 21716,
+        "total_qty": 21713,
         "sku_count": 137,
         "product_count": 137
       },
@@ -32164,9 +32164,9 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 1085,
-        "sku_count": 124,
-        "product_count": 124
+        "total_qty": 1077,
+        "sku_count": 123,
+        "product_count": 123
       },
       "gid://shopify/Collection/455407829246": {
         "title": "Uniisex Eyeglasses",
@@ -32356,9 +32356,9 @@
         "title": "FLEXON",
         "handle": "flexon",
         "legacy_id": "466401853694",
-        "total_qty": 204,
-        "sku_count": 41,
-        "product_count": 41
+        "total_qty": 194,
+        "sku_count": 40,
+        "product_count": 40
       },
       "gid://shopify/Collection/464259285246": {
         "title": "OPTIKA",
@@ -36124,7 +36124,7 @@
         "sku": "LIGHTEC-MOREL-30093L-NB12-50"
       },
       "gid://shopify/ProductVariant/46988923666686": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "E1130-210-55",
         "sku": "FLEXON-E1130-210-55"
       },
@@ -39884,7 +39884,7 @@
         "sku": "DKNY-DK7012-244-53"
       },
       "gid://shopify/ProductVariant/47730448007422": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "E1143-071-54",
         "sku": "FLEXON-E1143-071-54"
       },
@@ -43139,12 +43139,12 @@
         "sku": "FLEXON-E1158-042-57"
       },
       "gid://shopify/ProductVariant/48698371113214": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "EP8006-N-020-50",
         "sku": "FLEXON-EP8006-N-020-50"
       },
       "gid://shopify/ProductVariant/48698371145982": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "EP8006-N-231-50",
         "sku": "FLEXON-EP8006-N-231-50"
       },
@@ -43153,18 +43153,13 @@
         "product_title": "H6030-032-52",
         "sku": "FLEXON-H6030-032-52"
       },
-      "gid://shopify/ProductVariant/48698371277054": {
-        "qty": 1,
-        "product_title": "H6066-N-070-57",
-        "sku": "FLEXON-H6066-N-070-57"
-      },
       "gid://shopify/ProductVariant/48698371375358": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "H6077-306-57",
         "sku": "FLEXON-H6077-306-57"
       },
       "gid://shopify/ProductVariant/48698371506430": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "H6084-002-57",
         "sku": "FLEXON-H6084-002-57"
       },
@@ -43199,7 +43194,7 @@
         "sku": "FLEXON-J4020-N-318-49"
       },
       "gid://shopify/ProductVariant/48698372161790": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "J4020-N-404-49",
         "sku": "FLEXON-J4020-N-404-49"
       },
@@ -43234,7 +43229,7 @@
         "sku": "FLEXON-J4022-N-313-51"
       },
       "gid://shopify/ProductVariant/48698372686078": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "J4022-N-404-49",
         "sku": "FLEXON-J4022-N-404-49"
       },
@@ -43244,7 +43239,7 @@
         "sku": "FLEXON-J4022-N-404-51"
       },
       "gid://shopify/ProductVariant/48698372817150": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "J4026-N-070-50",
         "sku": "FLEXON-J4026-N-070-50"
       },
@@ -85787,6 +85782,11 @@
         "qty": 0,
         "product_title": "C-FLEX-02/G/S-TZ2/HA",
         "sku": "CARRERA-C-FLEX-02/G/S-TZ2/HA"
+      },
+      "gid://shopify/ProductVariant/48698371277054": {
+        "qty": 0,
+        "product_title": "H6066-N-070-57",
+        "sku": "FLEXON-H6066-N-070-57"
       },
       "gid://shopify/ProductVariant/48698371440894": {
         "qty": 0,
