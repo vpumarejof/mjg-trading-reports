@@ -31790,13 +31790,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-19T06:03:35.361914+00:00",
+    "updated_at": "2026-08-19T07:03:31.494594+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61845,
+        "total_qty": 61844,
         "sku_count": 2097,
         "product_count": 2097
       },
@@ -31812,7 +31812,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82489,
+        "total_qty": 82484,
         "sku_count": 3082,
         "product_count": 3082
       },
@@ -31820,7 +31820,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82489,
+        "total_qty": 82484,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31828,7 +31828,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12353,
+        "total_qty": 12352,
         "sku_count": 852,
         "product_count": 852
       },
@@ -31836,7 +31836,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82489,
+        "total_qty": 82484,
         "sku_count": 3955,
         "product_count": 3955
       },
@@ -31844,7 +31844,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12353,
+        "total_qty": 12352,
         "sku_count": 852,
         "product_count": 852
       },
@@ -31852,7 +31852,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22403,
+        "total_qty": 22401,
         "sku_count": 2485,
         "product_count": 2485
       },
@@ -31876,7 +31876,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 82045,
+        "total_qty": 82040,
         "sku_count": 2638,
         "product_count": 2638
       },
@@ -31948,7 +31948,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11000,
+        "total_qty": 10996,
         "sku_count": 977,
         "product_count": 977
       },
@@ -31964,7 +31964,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 3005,
+        "total_qty": 3004,
         "sku_count": 307,
         "product_count": 307
       },
@@ -31988,7 +31988,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5464,
+        "total_qty": 5463,
         "sku_count": 469,
         "product_count": 469
       },
@@ -32012,7 +32012,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2603,
+        "total_qty": 2601,
         "sku_count": 205,
         "product_count": 205
       },
@@ -32020,7 +32020,7 @@
         "title": "NIKE",
         "handle": "nike",
         "legacy_id": "391775125758",
-        "total_qty": 257,
+        "total_qty": 256,
         "sku_count": 27,
         "product_count": 27
       },
@@ -32052,7 +32052,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1917,
+        "total_qty": 1916,
         "sku_count": 113,
         "product_count": 113
       },
@@ -32164,7 +32164,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 1088,
+        "total_qty": 1087,
         "sku_count": 125,
         "product_count": 125
       },
@@ -32204,7 +32204,7 @@
         "title": "QUAY",
         "handle": "quay",
         "legacy_id": "472482939134",
-        "total_qty": 492,
+        "total_qty": 491,
         "sku_count": 46,
         "product_count": 46
       },
@@ -32412,7 +32412,7 @@
         "title": "LEVI'S",
         "handle": "levi",
         "legacy_id": "406703735038",
-        "total_qty": 197,
+        "total_qty": 196,
         "sku_count": 27,
         "product_count": 27
       },
@@ -32660,7 +32660,7 @@
         "title": "COLUMBIA",
         "handle": "columbia",
         "legacy_id": "395943805182",
-        "total_qty": 195,
+        "total_qty": 194,
         "sku_count": 39,
         "product_count": 39
       },
@@ -41249,7 +41249,7 @@
         "sku": "QUAY-OG-OF-2530-MTBLK/RX"
       },
       "gid://shopify/ProductVariant/48145126555902": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "BOW TIE RX-78100",
         "sku": "QUAY-OG-OF-2532-BLK/RX"
       },
@@ -43789,7 +43789,7 @@
         "sku": "NIKE-NV03-DZ7374-451"
       },
       "gid://shopify/ProductVariant/46811470266622": {
-        "qty": 11,
+        "qty": 10,
         "product_title": "NV04 DZ7376",
         "sku": "NIKE-NV04-DZ7376-010"
       },
@@ -43849,7 +43849,7 @@
         "sku": "LEVIS-LV-1004/S-0DDB/U1"
       },
       "gid://shopify/ProductVariant/46998478881022": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "LV-1004/S-0J5G/QT",
         "sku": "LEVIS-LV-1004/S-0J5G/QT"
       },
@@ -45604,7 +45604,7 @@
         "sku": "COLUMBIA-C525SP-011"
       },
       "gid://shopify/ProductVariant/48094645846270": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "MOUNTAINSHYRE-004",
         "sku": "COLUMBIA-C533SP-004"
       },
@@ -47844,7 +47844,7 @@
         "sku": "CARRERA-3001/S-KB7/HA"
       },
       "gid://shopify/ProductVariant/48683728175358": {
-        "qty": 19,
+        "qty": 18,
         "product_title": "3005/S-06J/LA",
         "sku": "CARRERA-3005/S-06J/LA"
       },
