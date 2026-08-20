@@ -31790,15 +31790,15 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-20T06:29:41.721526+00:00",
+    "updated_at": "2026-08-20T07:23:27.535787+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61786,
-        "sku_count": 2085,
-        "product_count": 2085
+        "total_qty": 61783,
+        "sku_count": 2084,
+        "product_count": 2084
       },
       "gid://shopify/Collection/391774208254": {
         "title": "ELIE SAAB",
@@ -31812,15 +31812,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82442,
-        "sku_count": 3096,
-        "product_count": 3096
+        "total_qty": 82439,
+        "sku_count": 3095,
+        "product_count": 3095
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82442,
+        "total_qty": 82439,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31828,7 +31828,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12336,
+        "total_qty": 12335,
         "sku_count": 845,
         "product_count": 845
       },
@@ -31836,7 +31836,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82442,
+        "total_qty": 82439,
         "sku_count": 3974,
         "product_count": 3974
       },
@@ -31844,7 +31844,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12336,
+        "total_qty": 12335,
         "sku_count": 845,
         "product_count": 845
       },
@@ -31876,7 +31876,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 82008,
+        "total_qty": 82006,
         "sku_count": 2662,
         "product_count": 2662
       },
@@ -31884,9 +31884,9 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3907,
-        "sku_count": 510,
-        "product_count": 510
+        "total_qty": 3904,
+        "sku_count": 509,
+        "product_count": 509
       },
       "gid://shopify/Collection/391854031102": {
         "title": "Women's",
@@ -31908,7 +31908,7 @@
         "title": "GUCCI",
         "handle": "gucci",
         "legacy_id": "421341364478",
-        "total_qty": 530,
+        "total_qty": 528,
         "sku_count": 301,
         "product_count": 301
       },
@@ -32220,9 +32220,9 @@
         "title": "Gucci",
         "handle": "gucci-1",
         "legacy_id": "407282450686",
-        "total_qty": 530,
-        "sku_count": 110,
-        "product_count": 110
+        "total_qty": 528,
+        "sku_count": 109,
+        "product_count": 109
       },
       "gid://shopify/Collection/373526069502": {
         "title": "Readers",
@@ -32260,7 +32260,7 @@
         "title": "VERSACE",
         "handle": "versace",
         "legacy_id": "391776010494",
-        "total_qty": 211,
+        "total_qty": 210,
         "sku_count": 62,
         "product_count": 62
       },
@@ -40439,7 +40439,7 @@
         "sku": "GUCCI-GG1429O-002-54"
       },
       "gid://shopify/ProductVariant/47807386845438": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "GG1445O-002-56",
         "sku": "GUCCI-GG1445O-002-56"
       },
@@ -40497,11 +40497,6 @@
         "qty": 8,
         "product_title": "GG1540O-008-55",
         "sku": "GUCCI-GG1540O-008-55"
-      },
-      "gid://shopify/ProductVariant/47807387533566": {
-        "qty": 1,
-        "product_title": "GG1729O-006-56",
-        "sku": "GUCCI-GG1729O-006-56"
       },
       "gid://shopify/ProductVariant/47807421284606": {
         "qty": 4,
@@ -42624,7 +42619,7 @@
         "sku": "PD-3642-9022-51_D"
       },
       "gid://shopify/ProductVariant/48567755931902": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "0VE1301-1002-55",
         "sku": "VERSACE-0VE1301-1002-55"
       },
@@ -78627,6 +78622,11 @@
         "qty": 0,
         "product_title": "GG1707O-001-54",
         "sku": "GUCCI-GG1707O-001-54"
+      },
+      "gid://shopify/ProductVariant/47807387533566": {
+        "qty": 0,
+        "product_title": "GG1729O-006-56",
+        "sku": "GUCCI-GG1729O-006-56"
       },
       "gid://shopify/ProductVariant/47807387599102": {
         "qty": 0,
