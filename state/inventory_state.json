@@ -31790,13 +31790,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-20T19:53:59.177542+00:00",
+    "updated_at": "2026-08-20T20:18:46.357838+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61486,
+        "total_qty": 61488,
         "sku_count": 2064,
         "product_count": 2064
       },
@@ -31812,7 +31812,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81949,
+        "total_qty": 81950,
         "sku_count": 3038,
         "product_count": 3038
       },
@@ -31820,7 +31820,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81949,
+        "total_qty": 81950,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31828,7 +31828,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12252,
+        "total_qty": 12254,
         "sku_count": 840,
         "product_count": 840
       },
@@ -31836,7 +31836,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81949,
+        "total_qty": 81950,
         "sku_count": 3928,
         "product_count": 3928
       },
@@ -31844,7 +31844,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12252,
+        "total_qty": 12254,
         "sku_count": 840,
         "product_count": 840
       },
@@ -31876,7 +31876,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81515,
+        "total_qty": 81516,
         "sku_count": 2604,
         "product_count": 2604
       },
@@ -31884,7 +31884,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3724,
+        "total_qty": 3723,
         "sku_count": 474,
         "product_count": 474
       },
@@ -31948,7 +31948,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 10822,
+        "total_qty": 10821,
         "sku_count": 966,
         "product_count": 966
       },
@@ -31980,7 +31980,7 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 687,
+        "total_qty": 686,
         "sku_count": 83,
         "product_count": 83
       },
@@ -31988,7 +31988,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5438,
+        "total_qty": 5437,
         "sku_count": 468,
         "product_count": 468
       },
@@ -32556,7 +32556,7 @@
         "title": "ANNE KLEIN",
         "handle": "anne-klein",
         "legacy_id": "474673250558",
-        "total_qty": 51,
+        "total_qty": 53,
         "sku_count": 9,
         "product_count": 9
       },
@@ -37594,7 +37594,7 @@
         "sku": "AK-AK5103-030-52"
       },
       "gid://shopify/ProductVariant/47504331997438": {
-        "qty": 2,
+        "qty": 4,
         "product_title": "AK5110-203-53",
         "sku": "AK-AK5110-203-53"
       },
@@ -43189,7 +43189,7 @@
         "sku": "LACOSTEL843SA024"
       },
       "gid://shopify/ProductVariant/42809985302782": {
-        "qty": 11,
+        "qty": 10,
         "product_title": "SF957S-214",
         "sku": "SALVATOREFERRAGAMOSF957S214"
       },
