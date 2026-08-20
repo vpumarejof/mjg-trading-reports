@@ -31790,15 +31790,15 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-20T19:26:09.543130+00:00",
+    "updated_at": "2026-08-20T19:53:59.177542+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61484,
-        "sku_count": 2063,
-        "product_count": 2063
+        "total_qty": 61486,
+        "sku_count": 2064,
+        "product_count": 2064
       },
       "gid://shopify/Collection/391774208254": {
         "title": "ELIE SAAB",
@@ -31812,15 +31812,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81947,
-        "sku_count": 3037,
-        "product_count": 3037
+        "total_qty": 81949,
+        "sku_count": 3038,
+        "product_count": 3038
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81947,
+        "total_qty": 81949,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31828,25 +31828,25 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12250,
-        "sku_count": 839,
-        "product_count": 839
+        "total_qty": 12252,
+        "sku_count": 840,
+        "product_count": 840
       },
       "gid://shopify/Collection/410150142206": {
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81947,
-        "sku_count": 3927,
-        "product_count": 3927
+        "total_qty": 81949,
+        "sku_count": 3928,
+        "product_count": 3928
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12250,
-        "sku_count": 839,
-        "product_count": 839
+        "total_qty": 12252,
+        "sku_count": 840,
+        "product_count": 840
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
@@ -31876,9 +31876,9 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81513,
-        "sku_count": 2603,
-        "product_count": 2603
+        "total_qty": 81515,
+        "sku_count": 2604,
+        "product_count": 2604
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
@@ -32556,9 +32556,9 @@
         "title": "ANNE KLEIN",
         "handle": "anne-klein",
         "legacy_id": "474673250558",
-        "total_qty": 49,
-        "sku_count": 8,
-        "product_count": 8
+        "total_qty": 51,
+        "sku_count": 9,
+        "product_count": 9
       },
       "gid://shopify/Collection/392547991806": {
         "title": "BEBE",
@@ -37592,6 +37592,11 @@
         "qty": 7,
         "product_title": "AK5103-030-52",
         "sku": "AK-AK5103-030-52"
+      },
+      "gid://shopify/ProductVariant/47504331997438": {
+        "qty": 2,
+        "product_title": "AK5110-203-53",
+        "sku": "AK-AK5110-203-53"
       },
       "gid://shopify/ProductVariant/47504332030206": {
         "qty": 9,
@@ -73412,11 +73417,6 @@
         "qty": 0,
         "product_title": "AK5101-770-52",
         "sku": "AK-AK5101-770-52"
-      },
-      "gid://shopify/ProductVariant/47504331997438": {
-        "qty": 0,
-        "product_title": "AK5110-203-53",
-        "sku": "AK-AK5110-203-53"
       },
       "gid://shopify/ProductVariant/47504332128510": {
         "qty": 0,
