@@ -31790,13 +31790,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-20T14:53:01.190994+00:00",
+    "updated_at": "2026-08-20T15:25:07.164839+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61493,
+        "total_qty": 61492,
         "sku_count": 2063,
         "product_count": 2063
       },
@@ -31812,7 +31812,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81964,
+        "total_qty": 81962,
         "sku_count": 3040,
         "product_count": 3040
       },
@@ -31820,7 +31820,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81964,
+        "total_qty": 81962,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31828,7 +31828,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12253,
+        "total_qty": 12252,
         "sku_count": 839,
         "product_count": 839
       },
@@ -31836,7 +31836,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81964,
+        "total_qty": 81962,
         "sku_count": 3930,
         "product_count": 3930
       },
@@ -31844,7 +31844,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12253,
+        "total_qty": 12252,
         "sku_count": 839,
         "product_count": 839
       },
@@ -31868,7 +31868,7 @@
         "title": "PRADA",
         "handle": "prada",
         "legacy_id": "391775289598",
-        "total_qty": 178,
+        "total_qty": 177,
         "sku_count": 32,
         "product_count": 32
       },
@@ -31876,7 +31876,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81527,
+        "total_qty": 81525,
         "sku_count": 2603,
         "product_count": 2603
       },
@@ -31884,7 +31884,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3732,
+        "total_qty": 3731,
         "sku_count": 476,
         "product_count": 476
       },
@@ -31948,7 +31948,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 10830,
+        "total_qty": 10829,
         "sku_count": 969,
         "product_count": 969
       },
@@ -31964,7 +31964,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2985,
+        "total_qty": 2984,
         "sku_count": 305,
         "product_count": 305
       },
@@ -32348,7 +32348,7 @@
         "title": "FLEXON",
         "handle": "flexon",
         "legacy_id": "466401853694",
-        "total_qty": 177,
+        "total_qty": 176,
         "sku_count": 36,
         "product_count": 36
       },
@@ -32796,7 +32796,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 1000,
+        "total_qty": 999,
         "sku_count": 112,
         "product_count": 112
       },
@@ -43124,7 +43124,7 @@
         "sku": "FLEXON-MAE-412-51"
       },
       "gid://shopify/ProductVariant/48698372948222": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "W3036-033-52",
         "sku": "FLEXON-W3036-033-52"
       },
@@ -46574,7 +46574,7 @@
         "sku": "PRADA-PS-05ZS-15X09U"
       },
       "gid://shopify/ProductVariant/48392230240510": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "PS-51VS-DG05Z1",
         "sku": "PRADA-PS-51VS-DG05Z1"
       },
