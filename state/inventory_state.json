@@ -31790,13 +31790,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-20T15:25:07.164839+00:00",
+    "updated_at": "2026-08-20T15:56:45.616106+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61492,
+        "total_qty": 61488,
         "sku_count": 2063,
         "product_count": 2063
       },
@@ -31812,7 +31812,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81962,
+        "total_qty": 81958,
         "sku_count": 3040,
         "product_count": 3040
       },
@@ -31820,7 +31820,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81962,
+        "total_qty": 81958,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31836,7 +31836,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81962,
+        "total_qty": 81958,
         "sku_count": 3930,
         "product_count": 3930
       },
@@ -31852,7 +31852,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22164,
+        "total_qty": 22160,
         "sku_count": 2485,
         "product_count": 2485
       },
@@ -31876,7 +31876,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81525,
+        "total_qty": 81521,
         "sku_count": 2603,
         "product_count": 2603
       },
@@ -31916,7 +31916,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 19644,
+        "total_qty": 19640,
         "sku_count": 475,
         "product_count": 475
       },
@@ -32284,7 +32284,7 @@
         "title": "Tariff Busters",
         "handle": "tariff-busters",
         "legacy_id": "463834087678",
-        "total_qty": 46712,
+        "total_qty": 46709,
         "sku_count": 341,
         "product_count": 341
       },
@@ -32364,7 +32364,7 @@
         "title": "SIGNATURE",
         "handle": "signature",
         "legacy_id": "464260399358",
-        "total_qty": 9593,
+        "total_qty": 9590,
         "sku_count": 93,
         "product_count": 93
       },
@@ -32468,7 +32468,7 @@
         "title": "DENIM",
         "handle": "denim",
         "legacy_id": "470247014654",
-        "total_qty": 29,
+        "total_qty": 28,
         "sku_count": 10,
         "product_count": 10
       },
@@ -35209,17 +35209,17 @@
         "sku": "OPTIKA-OM-119-GOLD-51"
       },
       "gid://shopify/ProductVariant/46684969304318": {
-        "qty": 164,
+        "qty": 163,
         "product_title": "1085-Black-50",
         "sku": "Signature-1085-Black-50"
       },
       "gid://shopify/ProductVariant/46684969337086": {
-        "qty": 219,
+        "qty": 218,
         "product_title": "1085-Brown-50",
         "sku": "Signature-1085-Brown-50"
       },
       "gid://shopify/ProductVariant/46684969402622": {
-        "qty": 85,
+        "qty": 84,
         "product_title": "1085-Gunmetal-50",
         "sku": "Signature-1085-Gunmetal-50"
       },
@@ -37019,7 +37019,7 @@
         "sku": "DENIM-148-0CX1-54"
       },
       "gid://shopify/ProductVariant/47180871205118": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "161-0JDD-50",
         "sku": "DENIM-161-0JDD-50"
       },
