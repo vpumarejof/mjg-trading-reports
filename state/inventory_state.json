@@ -31790,7 +31790,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-20T18:56:41.797662+00:00",
+    "updated_at": "2026-08-20T19:26:09.543130+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
@@ -31812,15 +31812,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81950,
-        "sku_count": 3038,
-        "product_count": 3038
+        "total_qty": 81947,
+        "sku_count": 3037,
+        "product_count": 3037
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81950,
+        "total_qty": 81947,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31836,9 +31836,9 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81950,
-        "sku_count": 3928,
-        "product_count": 3928
+        "total_qty": 81947,
+        "sku_count": 3927,
+        "product_count": 3927
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
@@ -31852,7 +31852,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22158,
+        "total_qty": 22157,
         "sku_count": 2485,
         "product_count": 2485
       },
@@ -31868,7 +31868,7 @@
         "title": "PRADA",
         "handle": "prada",
         "legacy_id": "391775289598",
-        "total_qty": 177,
+        "total_qty": 176,
         "sku_count": 32,
         "product_count": 32
       },
@@ -31876,7 +31876,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81515,
+        "total_qty": 81513,
         "sku_count": 2603,
         "product_count": 2603
       },
@@ -31884,7 +31884,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3726,
+        "total_qty": 3724,
         "sku_count": 474,
         "product_count": 474
       },
@@ -31948,9 +31948,9 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 10825,
-        "sku_count": 967,
-        "product_count": 967
+        "total_qty": 10822,
+        "sku_count": 966,
+        "product_count": 966
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -31964,7 +31964,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2982,
+        "total_qty": 2981,
         "sku_count": 303,
         "product_count": 303
       },
@@ -31988,7 +31988,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5439,
+        "total_qty": 5438,
         "sku_count": 468,
         "product_count": 468
       },
@@ -32012,9 +32012,9 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2476,
-        "sku_count": 200,
-        "product_count": 200
+        "total_qty": 2475,
+        "sku_count": 199,
+        "product_count": 199
       },
       "gid://shopify/Collection/391775125758": {
         "title": "NIKE",
@@ -32196,9 +32196,9 @@
         "title": "QUAY",
         "handle": "quay",
         "legacy_id": "472482939134",
-        "total_qty": 489,
-        "sku_count": 46,
-        "product_count": 46
+        "total_qty": 488,
+        "sku_count": 45,
+        "product_count": 45
       },
       "gid://shopify/Collection/397089702142": {
         "title": "DAVID BECKHAM",
@@ -32260,7 +32260,7 @@
         "title": "VERSACE",
         "handle": "versace",
         "legacy_id": "391776010494",
-        "total_qty": 210,
+        "total_qty": 209,
         "sku_count": 62,
         "product_count": 62
       },
@@ -46743,11 +46743,6 @@
         "product_title": "AURA POINTS-79934",
         "sku": "QUAY-NO-NS-2707-DOE/CP"
       },
-      "gid://shopify/ProductVariant/48560872751358": {
-        "qty": 1,
-        "product_title": "ENTOURAGE-80033",
-        "sku": "QUAY-NO-NS-2438-GNMTL/SMK"
-      },
       "gid://shopify/ProductVariant/48560872915198": {
         "qty": 17,
         "product_title": "HOT TAKE-42976",
@@ -46864,7 +46859,7 @@
         "sku": "VERSACE-0VE4452-54198755"
       },
       "gid://shopify/ProductVariant/48567759241470": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "0VE4452-GB1/8755",
         "sku": "VERSACE-0VE4452-GB1/8755"
       },
@@ -47604,7 +47599,7 @@
         "sku": "PRADA-PS-54TS-1AB5Z1"
       },
       "gid://shopify/ProductVariant/48683421630718": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "PS-A51S-18X80I",
         "sku": "PRADA-PS-A51S-18X80I"
       },
@@ -84657,6 +84652,11 @@
         "qty": 0,
         "product_title": "ENTOURAGE-79973",
         "sku": "QUAY-NO-NS-2438-BLK/TAN"
+      },
+      "gid://shopify/ProductVariant/48560872751358": {
+        "qty": 0,
+        "product_title": "ENTOURAGE-80033",
+        "sku": "QUAY-NO-NS-2438-GNMTL/SMK"
       },
       "gid://shopify/ProductVariant/48560872784126": {
         "qty": 0,
