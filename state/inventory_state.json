@@ -31790,13 +31790,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-21T17:57:38.140843+00:00",
+    "updated_at": "2026-08-21T18:31:52.892267+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61458,
+        "total_qty": 61457,
         "sku_count": 2058,
         "product_count": 2058
       },
@@ -31812,7 +31812,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81896,
+        "total_qty": 81891,
         "sku_count": 3031,
         "product_count": 3031
       },
@@ -31820,7 +31820,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81896,
+        "total_qty": 81891,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31828,7 +31828,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12231,
+        "total_qty": 12230,
         "sku_count": 834,
         "product_count": 834
       },
@@ -31836,7 +31836,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81896,
+        "total_qty": 81891,
         "sku_count": 3921,
         "product_count": 3921
       },
@@ -31844,7 +31844,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12231,
+        "total_qty": 12230,
         "sku_count": 834,
         "product_count": 834
       },
@@ -31876,7 +31876,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81463,
+        "total_qty": 81458,
         "sku_count": 2598,
         "product_count": 2598
       },
@@ -31884,7 +31884,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3713,
+        "total_qty": 3709,
         "sku_count": 473,
         "product_count": 473
       },
@@ -31948,7 +31948,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 10799,
+        "total_qty": 10795,
         "sku_count": 965,
         "product_count": 965
       },
@@ -31988,7 +31988,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5429,
+        "total_qty": 5425,
         "sku_count": 468,
         "product_count": 468
       },
@@ -32444,7 +32444,7 @@
         "title": "COCO SONG",
         "handle": "coco-song",
         "legacy_id": "467688259838",
-        "total_qty": 171,
+        "total_qty": 170,
         "sku_count": 45,
         "product_count": 45
       },
@@ -32788,7 +32788,7 @@
         "title": "ANNA-KARIN KARLSSON",
         "handle": "anna-karin-karlsson",
         "legacy_id": "485871059198",
-        "total_qty": 1361,
+        "total_qty": 1357,
         "sku_count": 21,
         "product_count": 21
       },
@@ -37224,7 +37224,7 @@
         "sku": "CS-RUNNING-JEANS-CV253.02-09"
       },
       "gid://shopify/ProductVariant/47272819032318": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "RUNNING-JEANS-CV253.03-09",
         "sku": "CS-RUNNING-JEANS-CV253.03-09"
       },
@@ -46584,12 +46584,12 @@
         "sku": "AKK-LUCKY-GOES-TO-VEGAS-LEOPARD"
       },
       "gid://shopify/ProductVariant/48406939664638": {
-        "qty": 45,
+        "qty": 43,
         "product_title": "MOTHER-BEEP-BLACK CRYSTAL",
         "sku": "AKK-MOTHER-BEEP-BLACK CRYSTAL"
       },
       "gid://shopify/ProductVariant/48406939762942": {
-        "qty": 20,
+        "qty": 19,
         "product_title": "MOTHER-BEEP-ICE CRYSTAL BLACK",
         "sku": "AKK-MOTHER-BEEP-ICE CRYSTAL BLACK"
       },
@@ -46634,7 +46634,7 @@
         "sku": "AKK-SHADY-LUV-2.0-ROSE"
       },
       "gid://shopify/ProductVariant/48406940745982": {
-        "qty": 32,
+        "qty": 31,
         "product_title": "SHADY-LUV-2.0-WHITE GOLD",
         "sku": "AKK-SHADY-LUV-2.0-WHITE GOLD"
       },
