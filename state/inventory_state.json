@@ -31790,15 +31790,15 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-21T16:22:09.018619+00:00",
+    "updated_at": "2026-08-21T16:59:26.623167+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61465,
-        "sku_count": 2059,
-        "product_count": 2059
+        "total_qty": 61458,
+        "sku_count": 2057,
+        "product_count": 2057
       },
       "gid://shopify/Collection/391774208254": {
         "title": "ELIE SAAB",
@@ -31812,15 +31812,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81895,
-        "sku_count": 3032,
-        "product_count": 3032
+        "total_qty": 81888,
+        "sku_count": 3030,
+        "product_count": 3030
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81895,
+        "total_qty": 81888,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31828,25 +31828,25 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12236,
-        "sku_count": 835,
-        "product_count": 835
+        "total_qty": 12229,
+        "sku_count": 833,
+        "product_count": 833
       },
       "gid://shopify/Collection/410150142206": {
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81895,
-        "sku_count": 3922,
-        "product_count": 3922
+        "total_qty": 81888,
+        "sku_count": 3920,
+        "product_count": 3920
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12236,
-        "sku_count": 835,
-        "product_count": 835
+        "total_qty": 12229,
+        "sku_count": 833,
+        "product_count": 833
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
@@ -31876,7 +31876,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81462,
+        "total_qty": 81457,
         "sku_count": 2599,
         "product_count": 2599
       },
@@ -31900,7 +31900,7 @@
         "title": "Plastic Metal",
         "handle": "plastic-metal",
         "legacy_id": "462599520510",
-        "total_qty": 1700,
+        "total_qty": 1698,
         "sku_count": 99,
         "product_count": 99
       },
@@ -32444,9 +32444,9 @@
         "title": "COCO SONG",
         "handle": "coco-song",
         "legacy_id": "467688259838",
-        "total_qty": 178,
-        "sku_count": 47,
-        "product_count": 47
+        "total_qty": 171,
+        "sku_count": 45,
+        "product_count": 45
       },
       "gid://shopify/Collection/391771324670": {
         "title": "BURBERRY",
@@ -36459,7 +36459,7 @@
         "sku": "MJ-MARC-708-0NUC-54"
       },
       "gid://shopify/ProductVariant/47070275141886": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "FOR-LAST-CV087.04-09",
         "sku": "CS-FALLING-ANGEL-CV222.02-09"
       },
@@ -37113,11 +37113,6 @@
         "product_title": "LIVING-TOGETHER-CV223.01-09",
         "sku": "CS-LIVING-TOGETHER-CV223.01-09"
       },
-      "gid://shopify/ProductVariant/47272814903550": {
-        "qty": 1,
-        "product_title": "RICH-GIRL-CV227.01-09",
-        "sku": "CS-RICH-GIRL-CV227.01-09"
-      },
       "gid://shopify/ProductVariant/47272815100158": {
         "qty": 2,
         "product_title": "SURFING-DOLPHIN-CV228.03-09",
@@ -37144,7 +37139,7 @@
         "sku": "CS-CALIFORNIA-DREAM-CV232.02-09"
       },
       "gid://shopify/ProductVariant/47272815657214": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "CALIFORNIA-DREAM-CV232.03-09",
         "sku": "CS-CALIFORNIA-DREAM-CV232.03-09"
       },
@@ -37154,7 +37149,7 @@
         "sku": "CS-CRUISING-NIGHT-CV234.03-09"
       },
       "gid://shopify/ProductVariant/47272817033470": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "TRUE-PRINCESS-CV240.03-09",
         "sku": "CS-TRUE-PRINCESS-CV240.03-09"
       },
@@ -37209,12 +37204,12 @@
         "sku": "CS-LONG-NIGHT-CV249.02-09"
       },
       "gid://shopify/ProductVariant/47272818114814": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "LONG-NIGHT-CV249.03-09",
         "sku": "CS-LONG-NIGHT-CV249.03-09"
       },
       "gid://shopify/ProductVariant/47272818639102": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "ROBOT-LOVE-CV252.04-09",
         "sku": "CS-ROBOT-LOVE-CV252.04-09"
       },
@@ -37267,11 +37262,6 @@
         "qty": 5,
         "product_title": "JERICHO-ROAD-CV235.02-09",
         "sku": "CS-JERICHO-ROAD-CV235.02-09"
-      },
-      "gid://shopify/ProductVariant/47273080127742": {
-        "qty": 1,
-        "product_title": "SHANTY-TOWN-CV248.04-09",
-        "sku": "CS-SHANTY-TOWN-CV248.04-09"
       },
       "gid://shopify/ProductVariant/47273091236094": {
         "qty": 1,
@@ -69943,6 +69933,11 @@
         "product_title": "RAG-DOLL-CV226.01-09",
         "sku": "CS-RAG-DOLL-CV226.01-09"
       },
+      "gid://shopify/ProductVariant/47272814903550": {
+        "qty": 0,
+        "product_title": "RICH-GIRL-CV227.01-09",
+        "sku": "CS-RICH-GIRL-CV227.01-09"
+      },
       "gid://shopify/ProductVariant/47272814936318": {
         "qty": 0,
         "product_title": "RICH-GIRL-CV227.02-09",
@@ -70192,6 +70187,11 @@
         "qty": 0,
         "product_title": "REAL-THING-CV237.01-09",
         "sku": "CS-REAL-THING-CV237.01-09"
+      },
+      "gid://shopify/ProductVariant/47273080127742": {
+        "qty": 0,
+        "product_title": "SHANTY-TOWN-CV248.04-09",
+        "sku": "CS-SHANTY-TOWN-CV248.04-09"
       },
       "gid://shopify/ProductVariant/47273087500542": {
         "qty": 0,
