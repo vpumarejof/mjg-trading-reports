@@ -31790,13 +31790,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-21T21:15:07.267083+00:00",
+    "updated_at": "2026-08-21T21:40:25.890892+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61454,
+        "total_qty": 61455,
         "sku_count": 2057,
         "product_count": 2057
       },
@@ -31812,7 +31812,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81886,
+        "total_qty": 81887,
         "sku_count": 3029,
         "product_count": 3029
       },
@@ -31820,7 +31820,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81886,
+        "total_qty": 81887,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31836,7 +31836,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81886,
+        "total_qty": 81887,
         "sku_count": 3919,
         "product_count": 3919
       },
@@ -31852,7 +31852,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22148,
+        "total_qty": 22149,
         "sku_count": 2485,
         "product_count": 2485
       },
@@ -31876,7 +31876,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81456,
+        "total_qty": 81457,
         "sku_count": 2599,
         "product_count": 2599
       },
@@ -31916,7 +31916,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 19635,
+        "total_qty": 19636,
         "sku_count": 475,
         "product_count": 475
       },
@@ -32708,7 +32708,7 @@
         "title": "MODO",
         "handle": "modo",
         "legacy_id": "481959280894",
-        "total_qty": 364,
+        "total_qty": 365,
         "sku_count": 30,
         "product_count": 30
       },
@@ -42234,7 +42234,7 @@
         "sku": "MODO-4629-LBLU0-54"
       },
       "gid://shopify/ProductVariant/48354208874750": {
-        "qty": 12,
+        "qty": 13,
         "product_title": "4632-DNAVY-58",
         "sku": "MODO-4632-DNAVY-58"
       },
