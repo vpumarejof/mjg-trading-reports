@@ -31790,7 +31790,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-22T15:23:27.815635+00:00",
+    "updated_at": "2026-08-22T15:42:59.094604+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
@@ -31812,7 +31812,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81865,
+        "total_qty": 81862,
         "sku_count": 3026,
         "product_count": 3026
       },
@@ -31820,7 +31820,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81865,
+        "total_qty": 81862,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31836,7 +31836,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81865,
+        "total_qty": 81862,
         "sku_count": 3916,
         "product_count": 3916
       },
@@ -31876,7 +31876,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81435,
+        "total_qty": 81432,
         "sku_count": 2596,
         "product_count": 2596
       },
@@ -31884,7 +31884,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3701,
+        "total_qty": 3700,
         "sku_count": 469,
         "product_count": 469
       },
@@ -31948,7 +31948,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 10782,
+        "total_qty": 10779,
         "sku_count": 961,
         "product_count": 961
       },
@@ -31988,7 +31988,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5416,
+        "total_qty": 5413,
         "sku_count": 467,
         "product_count": 467
       },
@@ -32188,7 +32188,7 @@
         "title": "MARC JACOBS",
         "handle": "marc-jacobs",
         "legacy_id": "391774732542",
-        "total_qty": 366,
+        "total_qty": 364,
         "sku_count": 66,
         "product_count": 66
       },
@@ -32756,7 +32756,7 @@
         "title": "CELINE",
         "handle": "celine",
         "legacy_id": "483191193854",
-        "total_qty": 12,
+        "total_qty": 11,
         "sku_count": 5,
         "product_count": 5
       },
@@ -45044,7 +45044,7 @@
         "sku": "BUGATTI-07-GRY/BK"
       },
       "gid://shopify/ProductVariant/48011619369214": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "MARC-773/S-807/IR",
         "sku": "MJ-MARC-773/S-807/IR"
       },
@@ -45824,7 +45824,7 @@
         "sku": "QUAY-NO-NS-2441-GNMTL/SMK"
       },
       "gid://shopify/ProductVariant/48174870626558": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "MARC-648/G/S-807/9O",
         "sku": "MJ-MARC-648/G/S-807/9O"
       },
@@ -46324,7 +46324,7 @@
         "sku": "CELINE-CL40286I-53A"
       },
       "gid://shopify/ProductVariant/48336357949694": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "CL40299U 5501B",
         "sku": "CELINE-CL40299U-01B"
       },
