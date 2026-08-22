@@ -31790,13 +31790,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-22T09:39:41.656584+00:00",
+    "updated_at": "2026-08-22T09:57:38.418033+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61452,
+        "total_qty": 61449,
         "sku_count": 2057,
         "product_count": 2057
       },
@@ -31812,7 +31812,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81877,
+        "total_qty": 81874,
         "sku_count": 3026,
         "product_count": 3026
       },
@@ -31820,7 +31820,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81877,
+        "total_qty": 81874,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31836,7 +31836,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81877,
+        "total_qty": 81874,
         "sku_count": 3916,
         "product_count": 3916
       },
@@ -31852,7 +31852,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22145,
+        "total_qty": 22143,
         "sku_count": 2485,
         "product_count": 2485
       },
@@ -31876,7 +31876,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81448,
+        "total_qty": 81445,
         "sku_count": 2597,
         "product_count": 2597
       },
@@ -31916,7 +31916,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 19635,
+        "total_qty": 19633,
         "sku_count": 475,
         "product_count": 475
       },
@@ -32268,7 +32268,7 @@
         "title": "PRIMARY",
         "handle": "primary",
         "legacy_id": "460628721918",
-        "total_qty": 37123,
+        "total_qty": 37120,
         "sku_count": 249,
         "product_count": 249
       },
@@ -32276,7 +32276,7 @@
         "title": "Primary Titanium",
         "handle": "primary-titanium",
         "legacy_id": "461664780542",
-        "total_qty": 970,
+        "total_qty": 969,
         "sku_count": 12,
         "product_count": 12
       },
@@ -32284,7 +32284,7 @@
         "title": "Tariff Busters",
         "handle": "tariff-busters",
         "legacy_id": "463834087678",
-        "total_qty": 46708,
+        "total_qty": 46705,
         "sku_count": 341,
         "product_count": 341
       },
@@ -33494,7 +33494,7 @@
         "sku": "PRIMARY-Pt104-MatteBrown-53"
       },
       "gid://shopify/ProductVariant/46371959243006": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "PT106-BLACK-52",
         "sku": "PRIMARY-Pt106-Black-52"
       },
@@ -33994,12 +33994,12 @@
         "sku": "Primary-M102-Silver-54"
       },
       "gid://shopify/ProductVariant/46372037624062": {
-        "qty": 30,
+        "qty": 29,
         "product_title": "M104-BROWN-52",
         "sku": "Primary-M104-Brown-52"
       },
       "gid://shopify/ProductVariant/46372037689598": {
-        "qty": 36,
+        "qty": 35,
         "product_title": "M104-MATTEBLACK-52",
         "sku": "Primary-M104-MatteBlack-52"
       },
