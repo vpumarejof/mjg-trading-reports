@@ -31790,7 +31790,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-22T10:47:09.122952+00:00",
+    "updated_at": "2026-08-22T11:13:18.435479+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
@@ -31812,7 +31812,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81874,
+        "total_qty": 81871,
         "sku_count": 3026,
         "product_count": 3026
       },
@@ -31820,7 +31820,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81874,
+        "total_qty": 81871,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31836,7 +31836,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81874,
+        "total_qty": 81871,
         "sku_count": 3916,
         "product_count": 3916
       },
@@ -31876,7 +31876,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81445,
+        "total_qty": 81442,
         "sku_count": 2597,
         "product_count": 2597
       },
@@ -31948,7 +31948,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 10786,
+        "total_qty": 10783,
         "sku_count": 961,
         "product_count": 961
       },
@@ -31964,7 +31964,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2971,
+        "total_qty": 2970,
         "sku_count": 302,
         "product_count": 302
       },
@@ -31988,7 +31988,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5419,
+        "total_qty": 5417,
         "sku_count": 467,
         "product_count": 467
       },
@@ -32020,7 +32020,7 @@
         "title": "NIKE",
         "handle": "nike",
         "legacy_id": "391775125758",
-        "total_qty": 254,
+        "total_qty": 253,
         "sku_count": 27,
         "product_count": 27
       },
@@ -32316,7 +32316,7 @@
         "title": "MOSCHINO",
         "handle": "moschino",
         "legacy_id": "395943837950",
-        "total_qty": 332,
+        "total_qty": 330,
         "sku_count": 40,
         "product_count": 40
       },
@@ -43539,7 +43539,7 @@
         "sku": "NIKE-LUCENT-BOOST-EV24051-601"
       },
       "gid://shopify/ProductVariant/46811454275838": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "LUCENT BOOST EV24051",
         "sku": "NIKE-LUCENT-BOOST-EV24051-010"
       },
@@ -45834,7 +45834,7 @@
         "sku": "MOSCHINO-MOS162/S-807/9O"
       },
       "gid://shopify/ProductVariant/48174871478526": {
-        "qty": 15,
+        "qty": 13,
         "product_title": "MOS180/S-C9A/9O",
         "sku": "MOSCHINO-MOS180/S-C9A/9O"
       },
