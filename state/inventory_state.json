@@ -31790,13 +31790,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-22T18:18:40.984254+00:00",
+    "updated_at": "2026-08-22T18:55:38.769226+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61442,
+        "total_qty": 61433,
         "sku_count": 2057,
         "product_count": 2057
       },
@@ -31812,7 +31812,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81857,
+        "total_qty": 81844,
         "sku_count": 3026,
         "product_count": 3026
       },
@@ -31820,7 +31820,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81857,
+        "total_qty": 81844,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31828,7 +31828,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12223,
+        "total_qty": 12219,
         "sku_count": 833,
         "product_count": 833
       },
@@ -31836,7 +31836,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81857,
+        "total_qty": 81844,
         "sku_count": 3916,
         "product_count": 3916
       },
@@ -31844,7 +31844,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12223,
+        "total_qty": 12219,
         "sku_count": 833,
         "product_count": 833
       },
@@ -31860,7 +31860,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 1071,
+        "total_qty": 1070,
         "sku_count": 911,
         "product_count": 911
       },
@@ -31876,9 +31876,9 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81427,
-        "sku_count": 2596,
-        "product_count": 2596
+        "total_qty": 81413,
+        "sku_count": 2595,
+        "product_count": 2595
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
@@ -31948,7 +31948,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 10776,
+        "total_qty": 10772,
         "sku_count": 961,
         "product_count": 961
       },
@@ -31964,7 +31964,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2968,
+        "total_qty": 2967,
         "sku_count": 302,
         "product_count": 302
       },
@@ -31988,7 +31988,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5412,
+        "total_qty": 5409,
         "sku_count": 467,
         "product_count": 467
       },
@@ -32036,7 +32036,7 @@
         "title": "Kid's Eyeglasses",
         "handle": "kids-eyeglasses",
         "legacy_id": "408131305726",
-        "total_qty": 21715,
+        "total_qty": 21713,
         "sku_count": 106,
         "product_count": 106
       },
@@ -32052,7 +32052,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1899,
+        "total_qty": 1898,
         "sku_count": 111,
         "product_count": 111
       },
@@ -32116,7 +32116,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 847,
+        "total_qty": 842,
         "sku_count": 137,
         "product_count": 137
       },
@@ -32124,7 +32124,7 @@
         "title": "Kids",
         "handle": "kids",
         "legacy_id": "454431080702",
-        "total_qty": 21710,
+        "total_qty": 21708,
         "sku_count": 137,
         "product_count": 137
       },
@@ -32172,7 +32172,7 @@
         "title": "ELASTA",
         "handle": "elasta",
         "legacy_id": "411442249982",
-        "total_qty": 74,
+        "total_qty": 71,
         "sku_count": 21,
         "product_count": 21
       },
@@ -32348,7 +32348,7 @@
         "title": "FLEXON",
         "handle": "flexon",
         "legacy_id": "466401853694",
-        "total_qty": 176,
+        "total_qty": 174,
         "sku_count": 36,
         "product_count": 36
       },
@@ -32540,7 +32540,7 @@
         "title": "QUIKSILVER",
         "handle": "quiksilver",
         "legacy_id": "474031259902",
-        "total_qty": 181,
+        "total_qty": 180,
         "sku_count": 28,
         "product_count": 28
       },
@@ -32628,7 +32628,7 @@
         "title": "LONGCHAMP",
         "handle": "longchamp",
         "legacy_id": "476032958718",
-        "total_qty": 343,
+        "total_qty": 342,
         "sku_count": 39,
         "product_count": 39
       },
@@ -32796,7 +32796,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 997,
+        "total_qty": 994,
         "sku_count": 112,
         "product_count": 112
       },
@@ -34794,7 +34794,7 @@
         "sku": "CARRERA-243-0V81-55"
       },
       "gid://shopify/ProductVariant/46632105181438": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "LAVAL-0PJP-54",
         "sku": "KS-LAVAL-0PJP-54"
       },
@@ -36144,7 +36144,7 @@
         "sku": "ELASTA-E-7247-0AB8-51"
       },
       "gid://shopify/ProductVariant/47010179809534": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "E-7253-0003-53",
         "sku": "ELASTA-E-7253-0003-53"
       },
@@ -37039,7 +37039,7 @@
         "sku": "KS-TAYA-0086-52"
       },
       "gid://shopify/ProductVariant/47180872319230": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "WANDA-0PJP-53",
         "sku": "KS-WANDA-0PJP-53"
       },
@@ -40984,7 +40984,7 @@
         "sku": "KS-GAEL-LHF-53"
       },
       "gid://shopify/ProductVariant/48121214140670": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "HADLEE-086-54",
         "sku": "KS-HADLEE-086-54"
       },
@@ -41049,12 +41049,12 @@
         "sku": "MJ-MARC-540-ZX9-53"
       },
       "gid://shopify/ProductVariant/48121229213950": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "E-3127-HWJ-55",
         "sku": "ELASTA-E-3127-HWJ-55"
       },
       "gid://shopify/ProductVariant/48121229377790": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "E-7253-HWJ-53",
         "sku": "ELASTA-E-7253-HWJ-53"
       },
@@ -42689,7 +42689,7 @@
         "sku": "LONGCHAMP-LO2741-N-001-55"
       },
       "gid://shopify/ProductVariant/48637353328894": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "LO2744-N-001-55",
         "sku": "LONGCHAMP-LO2744-N-001-55"
       },
@@ -43014,7 +43014,7 @@
         "sku": "FLEXON-J4017-051-49"
       },
       "gid://shopify/ProductVariant/48698371670270": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "J4018-001-48",
         "sku": "FLEXON-J4018-001-48"
       },
@@ -43059,7 +43059,7 @@
         "sku": "FLEXON-J4021-N-518-48"
       },
       "gid://shopify/ProductVariant/48698372489470": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "J4021-N-650-48",
         "sku": "FLEXON-J4021-N-650-48"
       },
@@ -43669,7 +43669,7 @@
         "sku": "KS-CAPRI/G/S-0B3V/DG"
       },
       "gid://shopify/ProductVariant/47056115794174": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "GOLDA/G/S-0W4A/G/3X",
         "sku": "KS-GOLDA/G/S-0W4A/3X"
       },
@@ -43984,7 +43984,7 @@
         "sku": "QUIKSILVER-QS3004-BLK"
       },
       "gid://shopify/ProductVariant/47455921635582": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "QS3004-BLU",
         "sku": "QUIKSILVER-QS3004-BLU"
       },
@@ -44474,7 +44474,7 @@
         "sku": "KS-ELLERY/F/S-PJP/9O"
       },
       "gid://shopify/ProductVariant/47749755011326": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "GOLDA/G/S-W4A/3X",
         "sku": "KS-GOLDA/G/S-W4A/3X"
       },
@@ -47594,7 +47594,7 @@
         "sku": "CARRERA-3026/S-086/HA"
       },
       "gid://shopify/ProductVariant/48683728437502": {
-        "qty": 11,
+        "qty": 10,
         "product_title": "3043/S-AHF/WJ",
         "sku": "CARRERA-3043/S-AHF/WJ"
       },
