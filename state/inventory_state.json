@@ -31790,13 +31790,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-22T14:59:41.019107+00:00",
+    "updated_at": "2026-08-22T15:23:27.815635+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61449,
+        "total_qty": 61444,
         "sku_count": 2057,
         "product_count": 2057
       },
@@ -31812,7 +31812,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81871,
+        "total_qty": 81865,
         "sku_count": 3026,
         "product_count": 3026
       },
@@ -31820,7 +31820,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81871,
+        "total_qty": 81865,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31828,7 +31828,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12227,
+        "total_qty": 12224,
         "sku_count": 833,
         "product_count": 833
       },
@@ -31836,7 +31836,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81871,
+        "total_qty": 81865,
         "sku_count": 3916,
         "product_count": 3916
       },
@@ -31844,7 +31844,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12227,
+        "total_qty": 12224,
         "sku_count": 833,
         "product_count": 833
       },
@@ -31876,9 +31876,9 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81442,
-        "sku_count": 2597,
-        "product_count": 2597
+        "total_qty": 81435,
+        "sku_count": 2596,
+        "product_count": 2596
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
@@ -31948,7 +31948,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 10783,
+        "total_qty": 10782,
         "sku_count": 961,
         "product_count": 961
       },
@@ -31956,7 +31956,7 @@
         "title": "TOMMY HILFIGER",
         "handle": "tommy-hilfiger",
         "legacy_id": "391775912190",
-        "total_qty": 321,
+        "total_qty": 319,
         "sku_count": 64,
         "product_count": 64
       },
@@ -31988,7 +31988,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5417,
+        "total_qty": 5416,
         "sku_count": 467,
         "product_count": 467
       },
@@ -32116,7 +32116,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 848,
+        "total_qty": 847,
         "sku_count": 137,
         "product_count": 137
       },
@@ -32188,7 +32188,7 @@
         "title": "MARC JACOBS",
         "handle": "marc-jacobs",
         "legacy_id": "391774732542",
-        "total_qty": 367,
+        "total_qty": 366,
         "sku_count": 66,
         "product_count": 66
       },
@@ -32204,7 +32204,7 @@
         "title": "DAVID BECKHAM",
         "handle": "david-beckham",
         "legacy_id": "397089702142",
-        "total_qty": 589,
+        "total_qty": 588,
         "sku_count": 75,
         "product_count": 75
       },
@@ -32332,7 +32332,7 @@
         "title": "CALVIN KLEIN",
         "handle": "calvin-klein",
         "legacy_id": "393476997374",
-        "total_qty": 53,
+        "total_qty": 52,
         "sku_count": 18,
         "product_count": 18
       },
@@ -36479,7 +36479,7 @@
         "sku": "CK-CK23512-538-52"
       },
       "gid://shopify/ProductVariant/47077725896958": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "CK23512-616-52",
         "sku": "CK-CK23512-616-52"
       },
@@ -40094,12 +40094,12 @@
         "sku": "TH-TH-1730-086-51"
       },
       "gid://shopify/ProductVariant/47783448445182": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "1734-KB7-50",
         "sku": "TH-TH-1734-KB7-50"
       },
       "gid://shopify/ProductVariant/47783449133310": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "1830-4C3-56",
         "sku": "TH-TH-1830-4C3-56"
       },
@@ -40539,7 +40539,7 @@
         "sku": "MJ-MARC-400-O63-54"
       },
       "gid://shopify/ProductVariant/48011618713854": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "MARC-508-FT3-51",
         "sku": "MJ-MARC-508-FT3-51"
       },
@@ -42824,7 +42824,7 @@
         "sku": "DB-DB-1019-807-57"
       },
       "gid://shopify/ProductVariant/48648026030334": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "DB-1063-807-55",
         "sku": "DB-DB-1063-807-55"
       },
@@ -43304,7 +43304,7 @@
         "sku": "KS-PAISLEIGH/S-0S6F/9O"
       },
       "gid://shopify/ProductVariant/45901595279614": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "PAISLEIGH-S-0VK6-9O",
         "sku": "KS-PAISLEIGH/S-0VK6/9O"
       },
