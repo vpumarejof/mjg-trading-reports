@@ -31790,13 +31790,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-23T18:54:53.997433+00:00",
+    "updated_at": "2026-08-23T19:16:07.637015+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61426,
+        "total_qty": 61421,
         "sku_count": 2057,
         "product_count": 2057
       },
@@ -31812,7 +31812,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81824,
+        "total_qty": 81819,
         "sku_count": 3024,
         "product_count": 3024
       },
@@ -31820,7 +31820,7 @@
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81824,
+        "total_qty": 81819,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31828,7 +31828,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12214,
+        "total_qty": 12209,
         "sku_count": 833,
         "product_count": 833
       },
@@ -31836,7 +31836,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81824,
+        "total_qty": 81819,
         "sku_count": 3914,
         "product_count": 3914
       },
@@ -31844,7 +31844,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12214,
+        "total_qty": 12209,
         "sku_count": 833,
         "product_count": 833
       },
@@ -31876,7 +31876,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81392,
+        "total_qty": 81387,
         "sku_count": 2592,
         "product_count": 2592
       },
@@ -32444,7 +32444,7 @@
         "title": "COCO SONG",
         "handle": "coco-song",
         "legacy_id": "467688259838",
-        "total_qty": 170,
+        "total_qty": 166,
         "sku_count": 45,
         "product_count": 45
       },
@@ -32628,7 +32628,7 @@
         "title": "LONGCHAMP",
         "handle": "longchamp",
         "legacy_id": "476032958718",
-        "total_qty": 342,
+        "total_qty": 341,
         "sku_count": 39,
         "product_count": 39
       },
@@ -37064,7 +37064,7 @@
         "sku": "CS-BROKEN-WINGS-CV187.01-09"
       },
       "gid://shopify/ProductVariant/47272811102462": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "BROKEN-WINGS-CV187.02-09",
         "sku": "CS-BROKEN-WINGS-CV187.02-09"
       },
@@ -37079,7 +37079,7 @@
         "sku": "CS-WAITING-SOMEONE-CV199.03-09"
       },
       "gid://shopify/ProductVariant/47272811528446": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "LAST-AFTERNOON-CV203.02-09",
         "sku": "CS-LAST-AFTERNOON-CV203.02-09"
       },
@@ -37089,7 +37089,7 @@
         "sku": "CS-LITTLE-QUEEN-CV204.02-09"
       },
       "gid://shopify/ProductVariant/47272811725054": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "RISING-SUN-CV206.01-09",
         "sku": "CS-RISING-SUN-CV206.01-09"
       },
@@ -37099,7 +37099,7 @@
         "sku": "CS-RISING-SUN-CV206.03-09"
       },
       "gid://shopify/ProductVariant/47272811823358": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "RISING-SUN-CV206.04-09",
         "sku": "CS-RISING-SUN-CV206.04-09"
       },
@@ -38744,7 +38744,7 @@
         "sku": "LONGCHAMP-LO2156-728-54"
       },
       "gid://shopify/ProductVariant/47609152930046": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "LO2712-430-53",
         "sku": "LONGCHAMP-LO2712-430-53"
       },
