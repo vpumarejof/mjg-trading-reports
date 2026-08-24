@@ -31790,13 +31790,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-24T22:17:08.021661+00:00",
+    "updated_at": "2026-08-24T22:50:42.516593+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82409,
+        "total_qty": 82407,
         "sku_count": 10685,
         "product_count": 10685
       },
@@ -31804,7 +31804,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82409,
+        "total_qty": 82407,
         "sku_count": 4032,
         "product_count": 4032
       },
@@ -31812,7 +31812,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22178,
+        "total_qty": 22177,
         "sku_count": 2486,
         "product_count": 2486
       },
@@ -31828,7 +31828,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61479,
+        "total_qty": 61478,
         "sku_count": 2082,
         "product_count": 2082
       },
@@ -31844,7 +31844,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82409,
+        "total_qty": 82407,
         "sku_count": 3141,
         "product_count": 3141
       },
@@ -31852,7 +31852,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81980,
+        "total_qty": 81978,
         "sku_count": 2712,
         "product_count": 2712
       },
@@ -32084,7 +32084,7 @@
         "title": "CAZAL",
         "handle": "cazal",
         "legacy_id": "400594534654",
-        "total_qty": 83,
+        "total_qty": 82,
         "sku_count": 12,
         "product_count": 12
       },
@@ -32092,7 +32092,7 @@
         "title": "CAZAL CURRENT",
         "handle": "cazal-current",
         "legacy_id": "437928689918",
-        "total_qty": 39,
+        "total_qty": 38,
         "sku_count": 5,
         "product_count": 5
       },
@@ -32140,7 +32140,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 24568,
+        "total_qty": 24567,
         "sku_count": 36,
         "product_count": 36
       },
@@ -44586,7 +44586,7 @@
         "sku": "MJ-MARC-463-0086-53"
       },
       "gid://shopify/ProductVariant/46059134714110": {
-        "qty": 9623,
+        "qty": 9622,
         "product_title": "DropShip",
         "sku": "DropShip"
       },
@@ -45701,7 +45701,7 @@
         "sku": "CARRERA-8060/S-0D51/Z0"
       },
       "gid://shopify/ProductVariant/46199703666942": {
-        "qty": 20,
+        "qty": 19,
         "product_title": "7095-C003-57",
         "sku": "CAZAL-7095-C003-57"
       },
