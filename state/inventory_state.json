@@ -31790,13 +31790,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-24T20:19:52.129412+00:00",
+    "updated_at": "2026-08-24T20:56:06.448242+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82414,
+        "total_qty": 82409,
         "sku_count": 10685,
         "product_count": 10685
       },
@@ -31804,15 +31804,15 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82414,
-        "sku_count": 4033,
-        "product_count": 4033
+        "total_qty": 82409,
+        "sku_count": 4032,
+        "product_count": 4032
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22180,
+        "total_qty": 22178,
         "sku_count": 2486,
         "product_count": 2486
       },
@@ -31828,9 +31828,9 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61484,
-        "sku_count": 2083,
-        "product_count": 2083
+        "total_qty": 61479,
+        "sku_count": 2082,
+        "product_count": 2082
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -31844,15 +31844,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82414,
-        "sku_count": 3142,
-        "product_count": 3142
+        "total_qty": 82409,
+        "sku_count": 3141,
+        "product_count": 3141
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81984,
+        "total_qty": 81980,
         "sku_count": 2712,
         "product_count": 2712
       },
@@ -31860,7 +31860,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12253,
+        "total_qty": 12251,
         "sku_count": 849,
         "product_count": 849
       },
@@ -31868,7 +31868,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12253,
+        "total_qty": 12251,
         "sku_count": 849,
         "product_count": 849
       },
@@ -31908,9 +31908,9 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 19629,
-        "sku_count": 475,
-        "product_count": 475
+        "total_qty": 19628,
+        "sku_count": 474,
+        "product_count": 474
       },
       "gid://shopify/Collection/463407481086": {
         "title": "OPEN BOX",
@@ -31948,7 +31948,7 @@
         "title": "TOMMY HILFIGER",
         "handle": "tommy-hilfiger",
         "legacy_id": "391775912190",
-        "total_qty": 318,
+        "total_qty": 317,
         "sku_count": 64,
         "product_count": 64
       },
@@ -32044,7 +32044,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 2024,
+        "total_qty": 2023,
         "sku_count": 117,
         "product_count": 117
       },
@@ -32148,7 +32148,7 @@
         "title": "CAROLINA HERRERA",
         "handle": "carolina-herrera",
         "legacy_id": "395943936254",
-        "total_qty": 127,
+        "total_qty": 126,
         "sku_count": 10,
         "product_count": 10
       },
@@ -32156,7 +32156,7 @@
         "title": "Uniisex Eyeglasses",
         "handle": "uniisex-eyeglasses",
         "legacy_id": "455407829246",
-        "total_qty": 5,
+        "total_qty": 4,
         "sku_count": 1,
         "product_count": 1
       },
@@ -32204,9 +32204,9 @@
         "title": "KARL LAGERFELD",
         "handle": "karl-lagerfeld",
         "legacy_id": "422907576574",
-        "total_qty": 352,
-        "sku_count": 38,
-        "product_count": 38
+        "total_qty": 351,
+        "sku_count": 37,
+        "product_count": 37
       },
       "gid://shopify/Collection/407282450686": {
         "title": "Gucci",
@@ -32308,7 +32308,7 @@
         "title": "MOSCHINO",
         "handle": "moschino",
         "legacy_id": "395943837950",
-        "total_qty": 329,
+        "total_qty": 328,
         "sku_count": 40,
         "product_count": 40
       },
@@ -44366,7 +44366,7 @@
         "sku": "NIKE-ADRENALINE-M-EVG-066"
       },
       "gid://shopify/ProductVariant/46020184867070": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "249-0807-55",
         "sku": "CARRERA-249-0807-55"
       },
@@ -65906,7 +65906,7 @@
         "sku": "MOSCHINO-MOS145/S-807/IR"
       },
       "gid://shopify/ProductVariant/47577495175422": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "MOS615/G-PEF-56",
         "sku": "MOSCHINO-MOS615/G-PEF-56"
       },
@@ -66321,7 +66321,7 @@
         "sku": "JAGUAR-JG37823-4200"
       },
       "gid://shopify/ProductVariant/47605988917502": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "CH0057-0C1H-53",
         "sku": "CH-CH-0057-0C1H-53"
       },
@@ -66631,7 +66631,7 @@
         "sku": "KL-KL351-400-50"
       },
       "gid://shopify/ProductVariant/47609149849854": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "KL353-601-56",
         "sku": "KL-KL353-601-56"
       },
@@ -84781,7 +84781,7 @@
         "sku": "TH-TH-1888-XNZ-52"
       },
       "gid://shopify/ProductVariant/48648027537662": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "TH-1956-0VK-55",
         "sku": "TH-TH-1956-0VK-55"
       },
