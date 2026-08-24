@@ -31790,13 +31790,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-24T23:15:31.750869+00:00",
+    "updated_at": "2026-08-24T23:37:57.546699+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82396,
+        "total_qty": 82394,
         "sku_count": 10685,
         "product_count": 10685
       },
@@ -31804,7 +31804,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82396,
+        "total_qty": 82394,
         "sku_count": 4029,
         "product_count": 4029
       },
@@ -31844,7 +31844,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82396,
+        "total_qty": 82394,
         "sku_count": 3138,
         "product_count": 3138
       },
@@ -31852,9 +31852,9 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81969,
-        "sku_count": 2711,
-        "product_count": 2711
+        "total_qty": 81966,
+        "sku_count": 2710,
+        "product_count": 2710
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
@@ -31876,7 +31876,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 4163,
+        "total_qty": 4162,
         "sku_count": 579,
         "product_count": 579
       },
@@ -31940,7 +31940,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11287,
+        "total_qty": 11286,
         "sku_count": 1050,
         "product_count": 1050
       },
@@ -31980,7 +31980,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5670,
+        "total_qty": 5669,
         "sku_count": 519,
         "product_count": 519
       },
@@ -32140,7 +32140,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 24567,
+        "total_qty": 24566,
         "sku_count": 36,
         "product_count": 36
       },
@@ -32724,9 +32724,9 @@
         "title": "CELINE",
         "handle": "celine",
         "legacy_id": "483191193854",
-        "total_qty": 147,
-        "sku_count": 37,
-        "product_count": 37
+        "total_qty": 145,
+        "sku_count": 36,
+        "product_count": 36
       },
       "gid://shopify/Collection/391774306558": {
         "title": "FENDI",
@@ -44586,7 +44586,7 @@
         "sku": "MJ-MARC-463-0086-53"
       },
       "gid://shopify/ProductVariant/46059134714110": {
-        "qty": 9622,
+        "qty": 9621,
         "product_title": "DropShip",
         "sku": "DropShip"
       },
@@ -81096,7 +81096,7 @@
         "sku": "CELINE-CL40285U-30N"
       },
       "gid://shopify/ProductVariant/48336357884158": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "CL40286I 5301E",
         "sku": "CELINE-CL40286I-01E"
       },
