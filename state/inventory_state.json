@@ -31790,13 +31790,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-24T19:25:30.871610+00:00",
+    "updated_at": "2026-08-24T19:51:58.248582+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82423,
+        "total_qty": 82422,
         "sku_count": 10684,
         "product_count": 10684
       },
@@ -31804,7 +31804,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82423,
+        "total_qty": 82422,
         "sku_count": 4033,
         "product_count": 4033
       },
@@ -31828,9 +31828,9 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61492,
-        "sku_count": 2084,
-        "product_count": 2084
+        "total_qty": 61491,
+        "sku_count": 2083,
+        "product_count": 2083
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -31844,9 +31844,9 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82423,
-        "sku_count": 3143,
-        "product_count": 3143
+        "total_qty": 82422,
+        "sku_count": 3142,
+        "product_count": 3142
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
@@ -31876,9 +31876,9 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 4168,
-        "sku_count": 580,
-        "product_count": 580
+        "total_qty": 4167,
+        "sku_count": 579,
+        "product_count": 579
       },
       "gid://shopify/Collection/391854031102": {
         "title": "Women's",
@@ -31972,9 +31972,9 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 677,
-        "sku_count": 82,
-        "product_count": 82
+        "total_qty": 676,
+        "sku_count": 81,
+        "product_count": 81
       },
       "gid://shopify/Collection/410149978366": {
         "title": "Women's Sunglasses",
@@ -55406,7 +55406,7 @@
         "sku": "SMITH-SHOUTOUT-0P65/UI"
       },
       "gid://shopify/ProductVariant/47027373900030": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "SF2925-420-52",
         "sku": "SF-SF2925-420-52"
       },
@@ -86183,7 +86183,7 @@
       "gid://shopify/ProductVariant/48772235133182": {
         "qty": 5,
         "product_title": "DIORXTREM MU 10B8",
-        "sku": "DIOR-DM40052I-01X"
+        "sku": "DIOR-DM40016U-01A"
       },
       "gid://shopify/ProductVariant/48772544004350": {
         "qty": 25,
