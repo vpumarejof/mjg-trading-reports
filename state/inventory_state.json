@@ -31790,13 +31790,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-24T22:50:42.516593+00:00",
+    "updated_at": "2026-08-24T23:15:31.750869+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82407,
+        "total_qty": 82396,
         "sku_count": 10685,
         "product_count": 10685
       },
@@ -31804,9 +31804,9 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82407,
-        "sku_count": 4032,
-        "product_count": 4032
+        "total_qty": 82396,
+        "sku_count": 4029,
+        "product_count": 4029
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
@@ -31828,9 +31828,9 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61478,
-        "sku_count": 2082,
-        "product_count": 2082
+        "total_qty": 61473,
+        "sku_count": 2080,
+        "product_count": 2080
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -31844,39 +31844,39 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82407,
-        "sku_count": 3141,
-        "product_count": 3141
+        "total_qty": 82396,
+        "sku_count": 3138,
+        "product_count": 3138
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81978,
-        "sku_count": 2712,
-        "product_count": 2712
+        "total_qty": 81969,
+        "sku_count": 2711,
+        "product_count": 2711
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12251,
-        "sku_count": 849,
-        "product_count": 849
+        "total_qty": 12247,
+        "sku_count": 847,
+        "product_count": 847
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12251,
-        "sku_count": 849,
-        "product_count": 849
+        "total_qty": 12247,
+        "sku_count": 847,
+        "product_count": 847
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 4166,
+        "total_qty": 4163,
         "sku_count": 579,
         "product_count": 579
       },
@@ -31940,9 +31940,9 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11293,
-        "sku_count": 1051,
-        "product_count": 1051
+        "total_qty": 11287,
+        "sku_count": 1050,
+        "product_count": 1050
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -31956,9 +31956,9 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 3181,
-        "sku_count": 335,
-        "product_count": 335
+        "total_qty": 3180,
+        "sku_count": 334,
+        "product_count": 334
       },
       "gid://shopify/Collection/391774109950": {
         "title": "DRAGON",
@@ -31980,7 +31980,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5675,
+        "total_qty": 5670,
         "sku_count": 519,
         "product_count": 519
       },
@@ -32108,7 +32108,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 833,
+        "total_qty": 832,
         "sku_count": 136,
         "product_count": 136
       },
@@ -32180,7 +32180,7 @@
         "title": "MARC JACOBS",
         "handle": "marc-jacobs",
         "legacy_id": "391774732542",
-        "total_qty": 372,
+        "total_qty": 371,
         "sku_count": 67,
         "product_count": 67
       },
@@ -32188,7 +32188,7 @@
         "title": "QUAY",
         "handle": "quay",
         "legacy_id": "472482939134",
-        "total_qty": 483,
+        "total_qty": 482,
         "sku_count": 45,
         "product_count": 45
       },
@@ -32196,9 +32196,9 @@
         "title": "DAVID BECKHAM",
         "handle": "david-beckham",
         "legacy_id": "397089702142",
-        "total_qty": 588,
-        "sku_count": 75,
-        "product_count": 75
+        "total_qty": 587,
+        "sku_count": 74,
+        "product_count": 74
       },
       "gid://shopify/Collection/422907576574": {
         "title": "KARL LAGERFELD",
@@ -32316,7 +32316,7 @@
         "title": "MISSONI",
         "handle": "missoni",
         "legacy_id": "408673911038",
-        "total_qty": 784,
+        "total_qty": 783,
         "sku_count": 66,
         "product_count": 66
       },
@@ -32412,7 +32412,7 @@
         "title": "NOMAD-MOREL",
         "handle": "nomad-morel",
         "legacy_id": "466916409598",
-        "total_qty": 842,
+        "total_qty": 841,
         "sku_count": 47,
         "product_count": 47
       },
@@ -32476,9 +32476,9 @@
         "title": "DKNY",
         "handle": "dkny",
         "legacy_id": "395943870718",
-        "total_qty": 386,
-        "sku_count": 43,
-        "product_count": 43
+        "total_qty": 385,
+        "sku_count": 42,
+        "product_count": 42
       },
       "gid://shopify/Collection/472287772926": {
         "title": "HARRY LARY",
@@ -32740,7 +32740,7 @@
         "title": "TIFFANY & CO",
         "handle": "tiffany-co",
         "legacy_id": "483397370110",
-        "total_qty": 125,
+        "total_qty": 123,
         "sku_count": 22,
         "product_count": 22
       },
@@ -32780,7 +32780,7 @@
         "title": "ANNA-KARIN KARLSSON",
         "handle": "anna-karin-karlsson",
         "legacy_id": "485871059198",
-        "total_qty": 1351,
+        "total_qty": 1350,
         "sku_count": 21,
         "product_count": 21
       },
@@ -32788,7 +32788,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 1317,
+        "total_qty": 1316,
         "sku_count": 191,
         "product_count": 191
       },
@@ -54551,7 +54551,7 @@
         "sku": "MJ-MJ-1072-0WR9-51"
       },
       "gid://shopify/ProductVariant/47010184528126": {
-        "qty": 43,
+        "qty": 42,
         "product_title": "MIS-0043-0LHF-50",
         "sku": "MISSONI-MIS-0043-0LHF-50"
       },
@@ -55056,7 +55056,7 @@
         "sku": "NOMAD-MOREL-40107N-BN05-54"
       },
       "gid://shopify/ProductVariant/47021050527998": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "40123N-TO05-50",
         "sku": "NOMAD-MOREL-40123N-TO05-50"
       },
@@ -69081,7 +69081,7 @@
         "sku": "DKNY-DK5055-275-53"
       },
       "gid://shopify/ProductVariant/47730446467326": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "DK5055-282-53",
         "sku": "DKNY-DK5055-282-53"
       },
@@ -70371,7 +70371,7 @@
         "sku": "WOOW-LOOK-UP-1-6444-50"
       },
       "gid://shopify/ProductVariant/47761814225150": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "LOOK-UP-2-0145-52",
         "sku": "WOOW-LOOK-UP-2-0145-52"
       },
@@ -74481,7 +74481,7 @@
         "sku": "MJ-MARC-400-O63-54"
       },
       "gid://shopify/ProductVariant/48011618713854": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "MARC-508-FT3-51",
         "sku": "MJ-MARC-508-FT3-51"
       },
@@ -78726,7 +78726,7 @@
         "sku": "TF-TF4231U-8055S4"
       },
       "gid://shopify/ProductVariant/48223291867390": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "TF4232-80013C",
         "sku": "TF-TF4232-80013C"
       },
@@ -80856,7 +80856,7 @@
         "sku": "QUAY-NO-NS-2429-BLK/BLK"
       },
       "gid://shopify/ProductVariant/48314439827710": {
-        "qty": 11,
+        "qty": 10,
         "product_title": "TOTAL VIBE-68777",
         "sku": "QUAY-NO-NS-1581-BRN/BRN"
       },
@@ -82231,7 +82231,7 @@
         "sku": "AKK-LUCKY-GOES-TO-VEGAS-LEOPARD"
       },
       "gid://shopify/ProductVariant/48406939664638": {
-        "qty": 42,
+        "qty": 41,
         "product_title": "MOTHER-BEEP-BLACK CRYSTAL",
         "sku": "AKK-MOTHER-BEEP-BLACK CRYSTAL"
       },
@@ -84506,7 +84506,7 @@
         "sku": "DB-DB-1163/F/S-EX4/70"
       },
       "gid://shopify/ProductVariant/48648016691454": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "DB-7002/S-RHL/FQ",
         "sku": "DB-DB-7002/S-RHL/FQ"
       },
@@ -85211,7 +85211,7 @@
         "sku": "PRADA-PS-A51S-18X80I"
       },
       "gid://shopify/ProductVariant/48683421663486": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "TF4105HB-81939S",
         "sku": "TF-TF4105HB-81939S"
       },
@@ -85446,7 +85446,7 @@
         "sku": "KS-DALIA/S-US-YB7/Y7"
       },
       "gid://shopify/ProductVariant/48683730108670": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "DALIA2/S-94R/HA",
         "sku": "KS-DALIA2/S-94R/HA"
       },
