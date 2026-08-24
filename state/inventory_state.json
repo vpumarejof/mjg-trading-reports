@@ -31790,15 +31790,15 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-24T00:59:12.615087+00:00",
+    "updated_at": "2026-08-24T02:22:47.842971+00:00",
     "collections": {
       "gid://shopify/Collection/373525971198": {
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61420,
-        "sku_count": 2057,
-        "product_count": 2057
+        "total_qty": 61416,
+        "sku_count": 2056,
+        "product_count": 2056
       },
       "gid://shopify/Collection/391774208254": {
         "title": "ELIE SAAB",
@@ -31812,15 +31812,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81816,
-        "sku_count": 3024,
-        "product_count": 3024
+        "total_qty": 81809,
+        "sku_count": 3023,
+        "product_count": 3023
       },
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81816,
+        "total_qty": 81809,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31828,25 +31828,25 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12208,
-        "sku_count": 833,
-        "product_count": 833
+        "total_qty": 12206,
+        "sku_count": 832,
+        "product_count": 832
       },
       "gid://shopify/Collection/410150142206": {
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81816,
-        "sku_count": 3914,
-        "product_count": 3914
+        "total_qty": 81809,
+        "sku_count": 3913,
+        "product_count": 3913
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12208,
-        "sku_count": 833,
-        "product_count": 833
+        "total_qty": 12206,
+        "sku_count": 832,
+        "product_count": 832
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
@@ -31876,15 +31876,15 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81384,
-        "sku_count": 2592,
-        "product_count": 2592
+        "total_qty": 81377,
+        "sku_count": 2591,
+        "product_count": 2591
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3685,
+        "total_qty": 3684,
         "sku_count": 467,
         "product_count": 467
       },
@@ -31948,7 +31948,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 10757,
+        "total_qty": 10754,
         "sku_count": 959,
         "product_count": 959
       },
@@ -31956,7 +31956,7 @@
         "title": "TOMMY HILFIGER",
         "handle": "tommy-hilfiger",
         "legacy_id": "391775912190",
-        "total_qty": 319,
+        "total_qty": 318,
         "sku_count": 64,
         "product_count": 64
       },
@@ -31988,7 +31988,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5399,
+        "total_qty": 5396,
         "sku_count": 466,
         "product_count": 466
       },
@@ -32036,7 +32036,7 @@
         "title": "Kid's Eyeglasses",
         "handle": "kids-eyeglasses",
         "legacy_id": "408131305726",
-        "total_qty": 21713,
+        "total_qty": 21712,
         "sku_count": 106,
         "product_count": 106
       },
@@ -32116,7 +32116,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 842,
+        "total_qty": 840,
         "sku_count": 137,
         "product_count": 137
       },
@@ -32124,7 +32124,7 @@
         "title": "Kids",
         "handle": "kids",
         "legacy_id": "454431080702",
-        "total_qty": 21708,
+        "total_qty": 21707,
         "sku_count": 137,
         "product_count": 137
       },
@@ -32260,7 +32260,7 @@
         "title": "VERSACE",
         "handle": "versace",
         "legacy_id": "391776010494",
-        "total_qty": 200,
+        "total_qty": 199,
         "sku_count": 61,
         "product_count": 61
       },
@@ -32548,7 +32548,7 @@
         "title": "ROXY",
         "handle": "roxy",
         "legacy_id": "474031227134",
-        "total_qty": 64,
+        "total_qty": 63,
         "sku_count": 10,
         "product_count": 10
       },
@@ -32660,7 +32660,7 @@
         "title": "CONVERSE",
         "handle": "converse",
         "legacy_id": "391773978878",
-        "total_qty": 35,
+        "total_qty": 34,
         "sku_count": 7,
         "product_count": 7
       },
@@ -32796,7 +32796,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 994,
+        "total_qty": 993,
         "sku_count": 112,
         "product_count": 112
       },
@@ -36149,7 +36149,7 @@
         "sku": "ELASTA-E-7253-0003-53"
       },
       "gid://shopify/ProductVariant/47010180301054": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "BENDALL-0LHF9-50",
         "sku": "KS-BENDALL-0LHF-50"
       },
@@ -39669,7 +39669,7 @@
         "sku": "CONVERSE-CV1022Y-046-48"
       },
       "gid://shopify/ProductVariant/47730443944190": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "CV1022Y-070-48",
         "sku": "CONVERSE-CV1022Y-070-48"
       },
@@ -40037,11 +40037,6 @@
         "qty": 1,
         "product_title": "LOOK-UP-2-0145-52",
         "sku": "WOOW-LOOK-UP-2-0145-52"
-      },
-      "gid://shopify/ProductVariant/47761814290686": {
-        "qty": 1,
-        "product_title": "LOOK-UP-2-0271-52",
-        "sku": "WOOW-LOOK-UP-2-0271-52"
       },
       "gid://shopify/ProductVariant/47761814618366": {
         "qty": 1,
@@ -42469,7 +42464,7 @@
         "sku": "TH-TH-1734-S8R-50"
       },
       "gid://shopify/ProductVariant/48493130678526": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "TH-2034-2W8-52",
         "sku": "TH-TH-2034-2W8-52"
       },
@@ -44034,7 +44029,7 @@
         "sku": "ROXY-RX7004-VER"
       },
       "gid://shopify/ProductVariant/47455923503358": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "RX7005-BLU",
         "sku": "ROXY-RX7005-BLU"
       },
@@ -46884,7 +46879,7 @@
         "sku": "VERSACE-0VE4452-55178755"
       },
       "gid://shopify/ProductVariant/48621026705662": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "0VE4476U-777/8755",
         "sku": "VERSACE-0VE4476U-777/8755"
       },
@@ -47724,7 +47719,7 @@
         "sku": "KS-AUBRIELLA/G/S-2VM/LA"
       },
       "gid://shopify/ProductVariant/48683729682686": {
-        "qty": 11,
+        "qty": 10,
         "product_title": "BEXLEY/G/S-PJP/9O",
         "sku": "KS-BEXLEY/G/S-PJP/9O"
       },
@@ -76727,6 +76722,11 @@
         "qty": 0,
         "product_title": "LOOK-UP-2-0268-52",
         "sku": "WOOW-LOOK-UP-2-0268-52"
+      },
+      "gid://shopify/ProductVariant/47761814290686": {
+        "qty": 0,
+        "product_title": "LOOK-UP-2-0271-52",
+        "sku": "WOOW-LOOK-UP-2-0271-52"
       },
       "gid://shopify/ProductVariant/47761814323454": {
         "qty": 0,
