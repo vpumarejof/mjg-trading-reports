@@ -31790,13 +31790,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-24T16:25:09.714881+00:00",
+    "updated_at": "2026-08-24T17:03:29.875266+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81765,
+        "total_qty": 81762,
         "sku_count": 10595,
         "product_count": 10595
       },
@@ -31804,7 +31804,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81765,
+        "total_qty": 81762,
         "sku_count": 3910,
         "product_count": 3910
       },
@@ -31844,7 +31844,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81765,
+        "total_qty": 81762,
         "sku_count": 3020,
         "product_count": 3020
       },
@@ -31852,7 +31852,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81333,
+        "total_qty": 81330,
         "sku_count": 2588,
         "product_count": 2588
       },
@@ -31876,7 +31876,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3671,
+        "total_qty": 3669,
         "sku_count": 467,
         "product_count": 467
       },
@@ -31940,7 +31940,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 10726,
+        "total_qty": 10724,
         "sku_count": 959,
         "product_count": 959
       },
@@ -31980,7 +31980,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5387,
+        "total_qty": 5385,
         "sku_count": 466,
         "product_count": 466
       },
@@ -32140,7 +32140,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 24569,
+        "total_qty": 24568,
         "sku_count": 36,
         "product_count": 36
       },
@@ -32780,7 +32780,7 @@
         "title": "ANNA-KARIN KARLSSON",
         "handle": "anna-karin-karlsson",
         "legacy_id": "485871059198",
-        "total_qty": 1354,
+        "total_qty": 1352,
         "sku_count": 21,
         "product_count": 21
       },
@@ -44586,7 +44586,7 @@
         "sku": "MJ-MARC-463-0086-53"
       },
       "gid://shopify/ProductVariant/46059134714110": {
-        "qty": 9624,
+        "qty": 9623,
         "product_title": "DropShip",
         "sku": "DropShip"
       },
@@ -82271,7 +82271,7 @@
         "sku": "AKK-SHADY-LUV-2.0-GOLD 24K"
       },
       "gid://shopify/ProductVariant/48406940549374": {
-        "qty": 38,
+        "qty": 37,
         "product_title": "SHADY-LUV-2.0-GOLD BLUSH MIRROR",
         "sku": "AKK-SHADY-LUV-2.0-GOLD BLUSH MIRROR"
       },
@@ -82286,7 +82286,7 @@
         "sku": "AKK-SHADY-LUV-2.0-WHITE GOLD"
       },
       "gid://shopify/ProductVariant/48406940811518": {
-        "qty": 37,
+        "qty": 36,
         "product_title": "SHADY-LUV-2.0-WHITE GOLD BLUSH MIRROR",
         "sku": "AKK-SHADY-LUV-2.0-WHITE GOLD BLUSH MIRROR"
       },
