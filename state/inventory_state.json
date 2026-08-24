@@ -31790,29 +31790,29 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-24T18:05:02.439980+00:00",
+    "updated_at": "2026-08-24T18:57:21.108643+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81924,
-        "sku_count": 10604,
-        "product_count": 10604
+        "total_qty": 82100,
+        "sku_count": 10605,
+        "product_count": 10605
       },
       "gid://shopify/Collection/410150142206": {
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81924,
-        "sku_count": 3919,
-        "product_count": 3919
+        "total_qty": 82100,
+        "sku_count": 3955,
+        "product_count": 3955
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22162,
+        "total_qty": 22181,
         "sku_count": 2486,
         "product_count": 2486
       },
@@ -31820,7 +31820,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 1069,
+        "total_qty": 1068,
         "sku_count": 911,
         "product_count": 911
       },
@@ -31828,7 +31828,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61401,
+        "total_qty": 61399,
         "sku_count": 2053,
         "product_count": 2053
       },
@@ -31844,23 +31844,23 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81924,
-        "sku_count": 3029,
-        "product_count": 3029
+        "total_qty": 82100,
+        "sku_count": 3065,
+        "product_count": 3065
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81492,
-        "sku_count": 2597,
-        "product_count": 2597
+        "total_qty": 81669,
+        "sku_count": 2634,
+        "product_count": 2634
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12197,
+        "total_qty": 12196,
         "sku_count": 829,
         "product_count": 829
       },
@@ -31868,7 +31868,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12197,
+        "total_qty": 12196,
         "sku_count": 829,
         "product_count": 829
       },
@@ -31876,9 +31876,9 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3669,
-        "sku_count": 467,
-        "product_count": 467
+        "total_qty": 3842,
+        "sku_count": 502,
+        "product_count": 502
       },
       "gid://shopify/Collection/391854031102": {
         "title": "Women's",
@@ -31900,7 +31900,7 @@
         "title": "GUCCI",
         "handle": "gucci",
         "legacy_id": "421341364478",
-        "total_qty": 523,
+        "total_qty": 522,
         "sku_count": 301,
         "product_count": 301
       },
@@ -31940,9 +31940,9 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 10886,
-        "sku_count": 968,
-        "product_count": 968
+        "total_qty": 11064,
+        "sku_count": 1004,
+        "product_count": 1004
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -31956,9 +31956,9 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 3038,
-        "sku_count": 306,
-        "product_count": 306
+        "total_qty": 3052,
+        "sku_count": 309,
+        "product_count": 309
       },
       "gid://shopify/Collection/391774109950": {
         "title": "DRAGON",
@@ -31980,9 +31980,9 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5430,
-        "sku_count": 469,
-        "product_count": 469
+        "total_qty": 5575,
+        "sku_count": 498,
+        "product_count": 498
       },
       "gid://shopify/Collection/391853998334": {
         "title": "Men's",
@@ -32004,9 +32004,9 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2490,
-        "sku_count": 197,
-        "product_count": 197
+        "total_qty": 2509,
+        "sku_count": 201,
+        "product_count": 201
       },
       "gid://shopify/Collection/391775125758": {
         "title": "NIKE",
@@ -32044,7 +32044,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 2025,
+        "total_qty": 2024,
         "sku_count": 117,
         "product_count": 117
       },
@@ -32180,7 +32180,7 @@
         "title": "MARC JACOBS",
         "handle": "marc-jacobs",
         "legacy_id": "391774732542",
-        "total_qty": 373,
+        "total_qty": 372,
         "sku_count": 67,
         "product_count": 67
       },
@@ -32212,7 +32212,7 @@
         "title": "Gucci",
         "handle": "gucci-1",
         "legacy_id": "407282450686",
-        "total_qty": 523,
+        "total_qty": 522,
         "sku_count": 109,
         "product_count": 109
       },
@@ -32431,6 +32431,14 @@
         "total_qty": 101,
         "sku_count": 3,
         "product_count": 3
+      },
+      "gid://shopify/Collection/391774077182": {
+        "title": "DIOR",
+        "handle": "dior",
+        "legacy_id": "391774077182",
+        "total_qty": 84,
+        "sku_count": 18,
+        "product_count": 18
       },
       "gid://shopify/Collection/467688259838": {
         "title": "COCO SONG",
@@ -32712,6 +32720,22 @@
         "sku_count": 92,
         "product_count": 92
       },
+      "gid://shopify/Collection/483191193854": {
+        "title": "CELINE",
+        "handle": "celine",
+        "legacy_id": "483191193854",
+        "total_qty": 41,
+        "sku_count": 11,
+        "product_count": 11
+      },
+      "gid://shopify/Collection/391774306558": {
+        "title": "FENDI",
+        "handle": "fendi",
+        "legacy_id": "391774306558",
+        "total_qty": 70,
+        "sku_count": 15,
+        "product_count": 15
+      },
       "gid://shopify/Collection/483397370110": {
         "title": "TIFFANY & CO",
         "handle": "tiffany-co",
@@ -32744,30 +32768,6 @@
         "sku_count": 3,
         "product_count": 3
       },
-      "gid://shopify/Collection/483191193854": {
-        "title": "CELINE",
-        "handle": "celine",
-        "legacy_id": "483191193854",
-        "total_qty": 11,
-        "sku_count": 5,
-        "product_count": 5
-      },
-      "gid://shopify/Collection/391774306558": {
-        "title": "FENDI",
-        "handle": "fendi",
-        "legacy_id": "391774306558",
-        "total_qty": 2,
-        "sku_count": 1,
-        "product_count": 1
-      },
-      "gid://shopify/Collection/391774077182": {
-        "title": "DIOR",
-        "handle": "dior",
-        "legacy_id": "391774077182",
-        "total_qty": 1,
-        "sku_count": 1,
-        "product_count": 1
-      },
       "gid://shopify/Collection/395943772414": {
         "title": "FOSSIL",
         "handle": "fossil",
@@ -32780,7 +32780,7 @@
         "title": "ANNA-KARIN KARLSSON",
         "handle": "anna-karin-karlsson",
         "legacy_id": "485871059198",
-        "total_qty": 1352,
+        "total_qty": 1351,
         "sku_count": 21,
         "product_count": 21
       },
@@ -32788,9 +32788,9 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 991,
-        "sku_count": 112,
-        "product_count": 112
+        "total_qty": 995,
+        "sku_count": 113,
+        "product_count": 113
       },
       "gid://shopify/Collection/487431995646": {
         "title": "CANADA GOOSE",
@@ -55506,7 +55506,7 @@
         "sku": "DIOR-DIORCANNAGE-A1U-B0C0"
       },
       "gid://shopify/ProductVariant/47045166268670": {
-        "qty": 0,
+        "qty": 5,
         "product_title": "DIORCANNAGE-S1U-B0B0",
         "sku": "DIOR-DIORCANNAGE-S1U-B0B0"
       },
@@ -77036,7 +77036,7 @@
         "sku": "MJ-MARC-462/F-CVT-53"
       },
       "gid://shopify/ProductVariant/48121215353086": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "MARC-462-CVT-51",
         "sku": "MJ-MARC-462-CVT-51"
       },
@@ -78296,12 +78296,12 @@
         "sku": "CELINE-CL40328U-53A"
       },
       "gid://shopify/ProductVariant/48196682187006": {
-        "qty": 0,
+        "qty": 5,
         "product_title": "CL40254U 5428A",
         "sku": "CELINE-CL40254U-28A"
       },
       "gid://shopify/ProductVariant/48196682252542": {
-        "qty": 0,
+        "qty": 5,
         "product_title": "CL40254U 5430N",
         "sku": "CELINE-CL40254U-30N"
       },
@@ -78336,7 +78336,7 @@
         "sku": "CELINE-CL40304U-52A"
       },
       "gid://shopify/ProductVariant/48196682645758": {
-        "qty": 0,
+        "qty": 4,
         "product_title": "CL40316U 6001A",
         "sku": "CELINE-CL40316U-01A"
       },
@@ -78346,7 +78346,7 @@
         "sku": "CELINE-CL40317U-01B"
       },
       "gid://shopify/ProductVariant/48196682711294": {
-        "qty": 0,
+        "qty": 5,
         "product_title": "CL40317U 5552F",
         "sku": "CELINE-CL40317U-52F"
       },
@@ -78361,7 +78361,7 @@
         "sku": "DIOR-DM40131I-01A"
       },
       "gid://shopify/ProductVariant/48196682875134": {
-        "qty": 0,
+        "qty": 4,
         "product_title": "CD LINK A1U H4BB",
         "sku": "DIOR-DM40026U-12X"
       },
@@ -78376,7 +78376,7 @@
         "sku": "DIOR-DM40093I-01A"
       },
       "gid://shopify/ProductVariant/48196683006206": {
-        "qty": 0,
+        "qty": 5,
         "product_title": "DIOR OBLIQUE S1I 10A1",
         "sku": "DIOR-DM40153I-01B"
       },
@@ -78476,7 +78476,7 @@
         "sku": "DIOR-CD40171I-71A"
       },
       "gid://shopify/ProductVariant/48196683923710": {
-        "qty": 0,
+        "qty": 5,
         "product_title": "DIORSIGNATURE S14I 10A0",
         "sku": "DIOR-CD40208I-01A"
       },
@@ -78486,12 +78486,12 @@
         "sku": "DIOR-CD40200I-01V"
       },
       "gid://shopify/ProductVariant/48196684022014": {
-        "qty": 0,
+        "qty": 5,
         "product_title": "VERYDIOR S1I 10A0",
         "sku": "DIOR-CD40179I-01A"
       },
       "gid://shopify/ProductVariant/48196684054782": {
-        "qty": 0,
+        "qty": 5,
         "product_title": "VERYDIOR S1I 20C0",
         "sku": "DIOR-CD40179I-52N"
       },
@@ -78516,7 +78516,7 @@
         "sku": "FENDI-FE40098I-53B"
       },
       "gid://shopify/ProductVariant/48196684284158": {
-        "qty": 0,
+        "qty": 4,
         "product_title": "FE40099I 6301B",
         "sku": "FENDI-FE40099I-01B"
       },
@@ -78526,12 +78526,12 @@
         "sku": "FENDI-FE40194I-52F"
       },
       "gid://shopify/ProductVariant/48196684349694": {
-        "qty": 0,
+        "qty": 5,
         "product_title": "FE4075US 5412A",
         "sku": "FENDI-FE4075US-12A"
       },
       "gid://shopify/ProductVariant/48196685005054": {
-        "qty": 0,
+        "qty": 5,
         "product_title": "FE4075US 5416C",
         "sku": "FENDI-FE4075US-16C"
       },
@@ -78541,12 +78541,12 @@
         "sku": "FENDI-FE4075US-28Z"
       },
       "gid://shopify/ProductVariant/48196685070590": {
-        "qty": 0,
+        "qty": 5,
         "product_title": "FE4075US 5430A",
         "sku": "FENDI-FE4075US-30A"
       },
       "gid://shopify/ProductVariant/48196685136126": {
-        "qty": 0,
+        "qty": 5,
         "product_title": "FE4075US 5430J",
         "sku": "FENDI-FE4075US-30J"
       },
@@ -78566,7 +78566,7 @@
         "sku": "FENDI-FE4082US-30T"
       },
       "gid://shopify/ProductVariant/48196685299966": {
-        "qty": 0,
+        "qty": 5,
         "product_title": "FE4172US 5414V",
         "sku": "FENDI-FE4172US-14V"
       },
@@ -78581,7 +78581,7 @@
         "sku": "FENDI-FE4172US-28U"
       },
       "gid://shopify/ProductVariant/48196685529342": {
-        "qty": 0,
+        "qty": 5,
         "product_title": "FE4172US 5432A",
         "sku": "FENDI-FE4172US-32A"
       },
@@ -78591,17 +78591,17 @@
         "sku": "FENDI-FE40100I-55E"
       },
       "gid://shopify/ProductVariant/48196685594878": {
-        "qty": 0,
+        "qty": 4,
         "product_title": "FE40101I 5001A",
         "sku": "FENDI-FE40101I-01A"
       },
       "gid://shopify/ProductVariant/48196685627646": {
-        "qty": 0,
+        "qty": 5,
         "product_title": "FE40101I 5055B",
         "sku": "FENDI-FE40101I-55B"
       },
       "gid://shopify/ProductVariant/48196685693182": {
-        "qty": 0,
+        "qty": 5,
         "product_title": "FE40125I 5201V",
         "sku": "FENDI-FE40125I-01V"
       },
@@ -78621,12 +78621,12 @@
         "sku": "FENDI-FE40174I-01X"
       },
       "gid://shopify/ProductVariant/48196685857022": {
-        "qty": 0,
+        "qty": 5,
         "product_title": "FE40180U 5530N",
         "sku": "FENDI-FE40180U-30N"
       },
       "gid://shopify/ProductVariant/48196685889790": {
-        "qty": 0,
+        "qty": 5,
         "product_title": "FE40168U 0014A",
         "sku": "FENDI-FE40168U-14A"
       },
@@ -78641,12 +78641,12 @@
         "sku": "FENDI-FE40066U-30A"
       },
       "gid://shopify/ProductVariant/48196686217470": {
-        "qty": 0,
+        "qty": 5,
         "product_title": "FE40140U 5301A",
         "sku": "FENDI-FE40140U-01A"
       },
       "gid://shopify/ProductVariant/48196686283006": {
-        "qty": 0,
+        "qty": 5,
         "product_title": "FE40140U 5352N",
         "sku": "FENDI-FE40140U-52N"
       },
@@ -78986,7 +78986,7 @@
         "sku": "GUCCI-GG1428O-009-55"
       },
       "gid://shopify/ProductVariant/48288332611838": {
-        "qty": 20,
+        "qty": 19,
         "product_title": "GG1445O-006-59",
         "sku": "GUCCI-GG1445O-006-59"
       },
@@ -81126,12 +81126,12 @@
         "sku": "CELINE-CL40319F-01Y"
       },
       "gid://shopify/ProductVariant/48336358113534": {
-        "qty": 0,
+        "qty": 5,
         "product_title": "CL40321I 5301B",
         "sku": "CELINE-CL40321I-01B"
       },
       "gid://shopify/ProductVariant/48336358146302": {
-        "qty": 1,
+        "qty": 6,
         "product_title": "CL40321I 5352A",
         "sku": "CELINE-CL40321I-52A"
       },
@@ -81151,7 +81151,7 @@
         "sku": "DIOR-CD40021U-52D"
       },
       "gid://shopify/ProductVariant/48336358277374": {
-        "qty": 0,
+        "qty": 5,
         "product_title": "DIORMIDNIGHT S1I 10A1",
         "sku": "DIOR-CD40092I-01B"
       },
@@ -81161,7 +81161,7 @@
         "sku": "DIOR-CD40139U-95F"
       },
       "gid://shopify/ProductVariant/48336358342910": {
-        "qty": 0,
+        "qty": 5,
         "product_title": "DIORPACIFIC B2I 40D2",
         "sku": "DIOR-CD40157I-72F"
       },
@@ -81181,7 +81181,7 @@
         "sku": "DIOR-CD40180U-01A"
       },
       "gid://shopify/ProductVariant/48336358473982": {
-        "qty": 0,
+        "qty": 4,
         "product_title": "VERYDIOR S2I 10A0",
         "sku": "DIOR-CD40181I-01A"
       },
@@ -81211,7 +81211,7 @@
         "sku": "DIOR-CD40188I-01B"
       },
       "gid://shopify/ProductVariant/48336358670590": {
-        "qty": 0,
+        "qty": 5,
         "product_title": "DIORCANNAGE B1U B0B0",
         "sku": "DIOR-CD40189U-10V"
       },
@@ -81236,27 +81236,27 @@
         "sku": "DIOR-CD40202F-50E"
       },
       "gid://shopify/ProductVariant/48336359031038": {
-        "qty": 0,
+        "qty": 5,
         "product_title": "DIORPACIFIC S3I 10A0",
         "sku": "DIOR-CD40205I-01A"
       },
       "gid://shopify/ProductVariant/48336359063806": {
-        "qty": 0,
+        "qty": 5,
         "product_title": "DIORSIGNATURE S15I 10A0",
         "sku": "DIOR-CD40207I-01A"
       },
       "gid://shopify/ProductVariant/48336359096574": {
-        "qty": 0,
+        "qty": 5,
         "product_title": "DIORCANNAGE R1U B0R6",
         "sku": "DIOR-CD40209U-10U"
       },
       "gid://shopify/ProductVariant/48336359227646": {
-        "qty": 0,
+        "qty": 5,
         "product_title": "DIORCANNAGE S2U B0A1",
         "sku": "DIOR-CD40210U-10B"
       },
       "gid://shopify/ProductVariant/48336359260414": {
-        "qty": 0,
+        "qty": 5,
         "product_title": "30MONTAIGNE S14I 12A0",
         "sku": "DIOR-CD40221I-01A"
       },
@@ -81271,7 +81271,7 @@
         "sku": "DIOR-CD40228I-01B"
       },
       "gid://shopify/ProductVariant/48336359424254": {
-        "qty": 0,
+        "qty": 5,
         "product_title": "CDIOR B6I 10A1",
         "sku": "DIOR-CD40229I-01B"
       },
@@ -82231,7 +82231,7 @@
         "sku": "AKK-LUCKY-GOES-TO-VEGAS-LEOPARD"
       },
       "gid://shopify/ProductVariant/48406939664638": {
-        "qty": 43,
+        "qty": 42,
         "product_title": "MOTHER-BEEP-BLACK CRYSTAL",
         "sku": "AKK-MOTHER-BEEP-BLACK CRYSTAL"
       },
@@ -85306,7 +85306,7 @@
         "sku": "CARRERA-8059/S-0D51/Z0"
       },
       "gid://shopify/ProductVariant/48683728699646": {
-        "qty": 20,
+        "qty": 19,
         "product_title": "8060/S-003/IR",
         "sku": "CARRERA-8060/S-003/IR"
       },
@@ -85784,6 +85784,11 @@
         "qty": 7,
         "product_title": "W3036-210-52",
         "sku": "FLEXON-W3036-210-52"
+      },
+      "gid://shopify/ProductVariant/48772235133182": {
+        "qty": 5,
+        "product_title": "DIORXTREM MU 10B8",
+        "sku": "DIOR-DM40052I-01X"
       },
       "gid://shopify/ProductVariant/48772544004350": {
         "qty": 25,
