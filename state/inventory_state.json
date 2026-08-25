@@ -31790,13 +31790,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-25T02:13:57.768484+00:00",
+    "updated_at": "2026-08-25T03:13:16.356992+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82379,
+        "total_qty": 82377,
         "sku_count": 10685,
         "product_count": 10685
       },
@@ -31804,9 +31804,9 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82379,
-        "sku_count": 4026,
-        "product_count": 4026
+        "total_qty": 82377,
+        "sku_count": 4025,
+        "product_count": 4025
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
@@ -31828,7 +31828,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61463,
+        "total_qty": 61462,
         "sku_count": 2077,
         "product_count": 2077
       },
@@ -31836,25 +31836,25 @@
         "title": "PRADA",
         "handle": "prada",
         "legacy_id": "391775289598",
-        "total_qty": 171,
-        "sku_count": 30,
-        "product_count": 30
+        "total_qty": 170,
+        "sku_count": 29,
+        "product_count": 29
       },
       "gid://shopify/Collection/391850787070": {
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82379,
-        "sku_count": 3135,
-        "product_count": 3135
+        "total_qty": 82377,
+        "sku_count": 3134,
+        "product_count": 3134
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81948,
-        "sku_count": 2704,
-        "product_count": 2704
+        "total_qty": 81946,
+        "sku_count": 2703,
+        "product_count": 2703
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
@@ -31876,9 +31876,9 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 4160,
-        "sku_count": 579,
-        "product_count": 579
+        "total_qty": 4159,
+        "sku_count": 578,
+        "product_count": 578
       },
       "gid://shopify/Collection/391854031102": {
         "title": "Women's",
@@ -31940,9 +31940,9 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11281,
-        "sku_count": 1050,
-        "product_count": 1050
+        "total_qty": 11280,
+        "sku_count": 1049,
+        "product_count": 1049
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -31980,9 +31980,9 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5668,
-        "sku_count": 519,
-        "product_count": 519
+        "total_qty": 5667,
+        "sku_count": 518,
+        "product_count": 518
       },
       "gid://shopify/Collection/391853998334": {
         "title": "Men's",
@@ -32196,7 +32196,7 @@
         "title": "DAVID BECKHAM",
         "handle": "david-beckham",
         "legacy_id": "397089702142",
-        "total_qty": 587,
+        "total_qty": 586,
         "sku_count": 74,
         "product_count": 74
       },
@@ -76656,7 +76656,7 @@
         "sku": "DB-1022-807-56"
       },
       "gid://shopify/ProductVariant/48121212600574": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "1050-807-49",
         "sku": "DB-1050-807-49"
       },
@@ -82046,7 +82046,7 @@
         "sku": "PRADA-PR-17WS-19X30N"
       },
       "gid://shopify/ProductVariant/48392227553534": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "PR-17WS-1AB2B0",
         "sku": "PRADA-PR-17WS-1AB2B0"
       },
