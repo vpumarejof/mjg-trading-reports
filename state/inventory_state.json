@@ -31790,13 +31790,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-25T10:47:43.050978+00:00",
+    "updated_at": "2026-08-25T11:19:08.007622+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82334,
+        "total_qty": 82333,
         "sku_count": 10685,
         "product_count": 10685
       },
@@ -31804,7 +31804,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82334,
+        "total_qty": 82333,
         "sku_count": 4018,
         "product_count": 4018
       },
@@ -31828,9 +31828,9 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61462,
-        "sku_count": 2078,
-        "product_count": 2078
+        "total_qty": 61461,
+        "sku_count": 2077,
+        "product_count": 2077
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -31844,9 +31844,9 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82334,
-        "sku_count": 3127,
-        "product_count": 3127
+        "total_qty": 82333,
+        "sku_count": 3126,
+        "product_count": 3126
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
@@ -31876,9 +31876,9 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 4121,
-        "sku_count": 571,
-        "product_count": 571
+        "total_qty": 4120,
+        "sku_count": 570,
+        "product_count": 570
       },
       "gid://shopify/Collection/391854031102": {
         "title": "Women's",
@@ -32252,9 +32252,9 @@
         "title": "VERSACE",
         "handle": "versace",
         "legacy_id": "391776010494",
-        "total_qty": 185,
-        "sku_count": 57,
-        "product_count": 57
+        "total_qty": 184,
+        "sku_count": 56,
+        "product_count": 56
       },
       "gid://shopify/Collection/460628721918": {
         "title": "PRIMARY",
@@ -83126,7 +83126,7 @@
         "sku": "VERSACE-0VE3377U-5450-55"
       },
       "gid://shopify/ProductVariant/48567757930750": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "0VE3377U-5510-53",
         "sku": "VERSACE-0VE3377U-5510-53"
       },
