@@ -31790,13 +31790,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-25T08:57:56.919673+00:00",
+    "updated_at": "2026-08-25T09:32:45.868592+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82329,
+        "total_qty": 82334,
         "sku_count": 10685,
         "product_count": 10685
       },
@@ -31804,9 +31804,9 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82329,
-        "sku_count": 4017,
-        "product_count": 4017
+        "total_qty": 82334,
+        "sku_count": 4018,
+        "product_count": 4018
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
@@ -31844,17 +31844,17 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82329,
-        "sku_count": 3126,
-        "product_count": 3126
+        "total_qty": 82334,
+        "sku_count": 3127,
+        "product_count": 3127
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81900,
-        "sku_count": 2697,
-        "product_count": 2697
+        "total_qty": 81905,
+        "sku_count": 2698,
+        "product_count": 2698
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
@@ -31876,9 +31876,9 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 4116,
-        "sku_count": 570,
-        "product_count": 570
+        "total_qty": 4121,
+        "sku_count": 571,
+        "product_count": 571
       },
       "gid://shopify/Collection/391854031102": {
         "title": "Women's",
@@ -31940,9 +31940,9 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11232,
-        "sku_count": 1040,
-        "product_count": 1040
+        "total_qty": 11237,
+        "sku_count": 1041,
+        "product_count": 1041
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -31956,9 +31956,9 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 3160,
-        "sku_count": 329,
-        "product_count": 329
+        "total_qty": 3165,
+        "sku_count": 330,
+        "product_count": 330
       },
       "gid://shopify/Collection/391774109950": {
         "title": "DRAGON",
@@ -32436,9 +32436,9 @@
         "title": "DIOR",
         "handle": "dior",
         "legacy_id": "391774077182",
-        "total_qty": 248,
-        "sku_count": 57,
-        "product_count": 57
+        "total_qty": 253,
+        "sku_count": 58,
+        "product_count": 58
       },
       "gid://shopify/Collection/467688259838": {
         "title": "COCO SONG",
@@ -32788,9 +32788,9 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 1314,
-        "sku_count": 192,
-        "product_count": 192
+        "total_qty": 1319,
+        "sku_count": 193,
+        "product_count": 193
       },
       "gid://shopify/Collection/487431995646": {
         "title": "CANADA GOOSE",
@@ -86021,7 +86021,7 @@
         "sku": "DIOR-DM40008I-01A"
       },
       "gid://shopify/ProductVariant/48772226449662": {
-        "qty": 0,
+        "qty": 5,
         "product_title": "DIORB23 S1I 10B8",
         "sku": "DIOR-DM40052I-01X"
       },
