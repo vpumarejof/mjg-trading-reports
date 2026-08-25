@@ -32060,13 +32060,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-25T16:33:52.494166+00:00",
+    "updated_at": "2026-08-25T17:14:54.117343+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82292,
+        "total_qty": 82286,
         "sku_count": 10686,
         "product_count": 10686
       },
@@ -32074,7 +32074,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82292,
+        "total_qty": 82286,
         "sku_count": 4018,
         "product_count": 4018
       },
@@ -32082,7 +32082,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22155,
+        "total_qty": 22151,
         "sku_count": 2486,
         "product_count": 2486
       },
@@ -32098,7 +32098,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61444,
+        "total_qty": 61441,
         "sku_count": 2074,
         "product_count": 2074
       },
@@ -32114,7 +32114,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82292,
+        "total_qty": 82286,
         "sku_count": 3124,
         "product_count": 3124
       },
@@ -32122,15 +32122,15 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81866,
-        "sku_count": 2698,
-        "product_count": 2698
+        "total_qty": 81859,
+        "sku_count": 2697,
+        "product_count": 2697
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12235,
+        "total_qty": 12234,
         "sku_count": 845,
         "product_count": 845
       },
@@ -32138,7 +32138,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12235,
+        "total_qty": 12234,
         "sku_count": 845,
         "product_count": 845
       },
@@ -32146,7 +32146,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 4122,
+        "total_qty": 4121,
         "sku_count": 570,
         "product_count": 570
       },
@@ -32178,7 +32178,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 19615,
+        "total_qty": 19614,
         "sku_count": 473,
         "product_count": 473
       },
@@ -32210,7 +32210,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11213,
+        "total_qty": 11210,
         "sku_count": 1042,
         "product_count": 1042
       },
@@ -32242,7 +32242,7 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 675,
+        "total_qty": 674,
         "sku_count": 81,
         "product_count": 81
       },
@@ -32274,7 +32274,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2500,
+        "total_qty": 2497,
         "sku_count": 201,
         "product_count": 201
       },
@@ -32282,7 +32282,7 @@
         "title": "NIKE",
         "handle": "nike",
         "legacy_id": "391775125758",
-        "total_qty": 251,
+        "total_qty": 249,
         "sku_count": 27,
         "product_count": 27
       },
@@ -32610,7 +32610,7 @@
         "title": "FLEXON",
         "handle": "flexon",
         "legacy_id": "466401853694",
-        "total_qty": 172,
+        "total_qty": 171,
         "sku_count": 36,
         "product_count": 36
       },
@@ -32682,7 +32682,7 @@
         "title": "NOMAD-MOREL",
         "handle": "nomad-morel",
         "legacy_id": "466916409598",
-        "total_qty": 841,
+        "total_qty": 840,
         "sku_count": 47,
         "product_count": 47
       },
@@ -32978,7 +32978,7 @@
         "title": "MODO",
         "handle": "modo",
         "legacy_id": "481959280894",
-        "total_qty": 363,
+        "total_qty": 362,
         "sku_count": 30,
         "product_count": 30
       },
@@ -53611,7 +53611,7 @@
         "sku": "NIKE-NV04-DZ7376-010"
       },
       "gid://shopify/ProductVariant/46811473510654": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "PURSUIT FLAIR IB3683X",
         "sku": "NIKE-PURSUIT-FLAIR-IB3683X-711"
       },
@@ -53626,7 +53626,7 @@
         "sku": "NIKE-PURSUIT-FLAIR-IB3683X-010"
       },
       "gid://shopify/ProductVariant/46811477115134": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "PURSUIT FLAIR IB3683X",
         "sku": "NIKE-PURSUIT-FLAIR-IB3683X-600"
       },
@@ -54341,7 +54341,7 @@
         "sku": "FLEXON-E1128-310-54"
       },
       "gid://shopify/ProductVariant/46988923666686": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "E1130-210-55",
         "sku": "FLEXON-E1130-210-55"
       },
@@ -55346,7 +55346,7 @@
         "sku": "NOMAD-MOREL-40232N-RN08-53"
       },
       "gid://shopify/ProductVariant/47021050921214": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "40232N-MV07-53",
         "sku": "NOMAD-MOREL-40232N-MV07-53"
       },
@@ -76646,7 +76646,7 @@
         "sku": "SF-SF1111SCP-242"
       },
       "gid://shopify/ProductVariant/48094648795390": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "SF2001S-001",
         "sku": "SF-SF2001S-001"
       },
@@ -81966,7 +81966,7 @@
         "sku": "MODO-4629-LBLU0-54"
       },
       "gid://shopify/ProductVariant/48354208874750": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "4632-DNAVY-58",
         "sku": "MODO-4632-DNAVY-58"
       },
