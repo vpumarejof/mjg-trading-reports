@@ -32060,13 +32060,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-26T00:45:51.125931+00:00",
+    "updated_at": "2026-08-26T02:20:24.173327+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82184,
+        "total_qty": 82182,
         "sku_count": 10686,
         "product_count": 10686
       },
@@ -32074,7 +32074,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82184,
+        "total_qty": 82182,
         "sku_count": 4027,
         "product_count": 4027
       },
@@ -32082,7 +32082,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22124,
+        "total_qty": 22123,
         "sku_count": 2486,
         "product_count": 2486
       },
@@ -32098,7 +32098,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61432,
+        "total_qty": 61430,
         "sku_count": 2087,
         "product_count": 2087
       },
@@ -32114,7 +32114,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82184,
+        "total_qty": 82182,
         "sku_count": 3134,
         "product_count": 3134
       },
@@ -32122,7 +32122,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81747,
+        "total_qty": 81745,
         "sku_count": 2697,
         "product_count": 2697
       },
@@ -32130,7 +32130,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12245,
+        "total_qty": 12244,
         "sku_count": 855,
         "product_count": 855
       },
@@ -32138,7 +32138,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12245,
+        "total_qty": 12244,
         "sku_count": 855,
         "product_count": 855
       },
@@ -32178,7 +32178,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 19598,
+        "total_qty": 19597,
         "sku_count": 475,
         "product_count": 475
       },
@@ -32586,7 +32586,7 @@
         "title": "MISSONI",
         "handle": "missoni",
         "legacy_id": "408673911038",
-        "total_qty": 782,
+        "total_qty": 781,
         "sku_count": 66,
         "product_count": 66
       },
@@ -32978,7 +32978,7 @@
         "title": "MODO",
         "handle": "modo",
         "legacy_id": "481959280894",
-        "total_qty": 362,
+        "total_qty": 361,
         "sku_count": 30,
         "product_count": 30
       },
@@ -55031,7 +55031,7 @@
         "sku": "MISSONI-MIS-0060-0807-54"
       },
       "gid://shopify/ProductVariant/47010389131518": {
-        "qty": 19,
+        "qty": 18,
         "product_title": "MIS-0108-01UK-53",
         "sku": "MISSONI-MIS-0108-01UK-53"
       },
@@ -75851,7 +75851,7 @@
         "sku": "MODO-4633-GOLD0-50"
       },
       "gid://shopify/ProductVariant/48061855105278": {
-        "qty": 13,
+        "qty": 12,
         "product_title": "4633-SMK00-50",
         "sku": "MODO-4633-SMK00-50"
       },
