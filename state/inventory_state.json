@@ -32060,13 +32060,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-26T04:22:31.054790+00:00",
+    "updated_at": "2026-08-26T05:02:59.220659+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82176,
+        "total_qty": 82175,
         "sku_count": 10686,
         "product_count": 10686
       },
@@ -32074,7 +32074,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82176,
+        "total_qty": 82175,
         "sku_count": 4026,
         "product_count": 4026
       },
@@ -32090,7 +32090,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 1057,
+        "total_qty": 1056,
         "sku_count": 911,
         "product_count": 911
       },
@@ -32098,7 +32098,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61426,
+        "total_qty": 61425,
         "sku_count": 2086,
         "product_count": 2086
       },
@@ -32114,7 +32114,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82176,
+        "total_qty": 82175,
         "sku_count": 3133,
         "product_count": 3133
       },
@@ -32122,9 +32122,9 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81739,
-        "sku_count": 2696,
-        "product_count": 2696
+        "total_qty": 81737,
+        "sku_count": 2695,
+        "product_count": 2695
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
@@ -32450,7 +32450,7 @@
         "title": "MARC JACOBS",
         "handle": "marc-jacobs",
         "legacy_id": "391774732542",
-        "total_qty": 363,
+        "total_qty": 362,
         "sku_count": 67,
         "product_count": 67
       },
@@ -50541,7 +50541,7 @@
         "sku": "KS-LAVAL-0PJP-54"
       },
       "gid://shopify/ProductVariant/46632105214206": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "MARC-547-005L-49",
         "sku": "MJ-MARC-547-005L-49"
       },
