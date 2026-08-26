@@ -32063,13 +32063,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-26T15:01:36.505896+00:00",
+    "updated_at": "2026-08-26T16:33:45.020332+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82164,
+        "total_qty": 82153,
         "sku_count": 10686,
         "product_count": 10686
       },
@@ -32077,7 +32077,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82164,
+        "total_qty": 82153,
         "sku_count": 4026,
         "product_count": 4026
       },
@@ -32085,7 +32085,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22121,
+        "total_qty": 22116,
         "sku_count": 2486,
         "product_count": 2486
       },
@@ -32101,7 +32101,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61421,
+        "total_qty": 61415,
         "sku_count": 2085,
         "product_count": 2085
       },
@@ -32117,7 +32117,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82164,
+        "total_qty": 82153,
         "sku_count": 3132,
         "product_count": 3132
       },
@@ -32125,7 +32125,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81726,
+        "total_qty": 81715,
         "sku_count": 2694,
         "product_count": 2694
       },
@@ -32133,7 +32133,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12242,
+        "total_qty": 12236,
         "sku_count": 855,
         "product_count": 855
       },
@@ -32141,7 +32141,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12242,
+        "total_qty": 12236,
         "sku_count": 855,
         "product_count": 855
       },
@@ -32213,7 +32213,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11110,
+        "total_qty": 11105,
         "sku_count": 1039,
         "product_count": 1039
       },
@@ -32277,7 +32277,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2486,
+        "total_qty": 2481,
         "sku_count": 201,
         "product_count": 201
       },
@@ -32421,7 +32421,7 @@
         "title": "CAROLINA HERRERA",
         "handle": "carolina-herrera",
         "legacy_id": "395943936254",
-        "total_qty": 126,
+        "total_qty": 120,
         "sku_count": 10,
         "product_count": 10
       },
@@ -32477,7 +32477,7 @@
         "title": "KARL LAGERFELD",
         "handle": "karl-lagerfeld",
         "legacy_id": "422907576574",
-        "total_qty": 351,
+        "total_qty": 346,
         "sku_count": 37,
         "product_count": 37
       },
@@ -53269,7 +53269,7 @@
         "sku": "CH-HER-0108-0YDC-54"
       },
       "gid://shopify/ProductVariant/46754082128126": {
-        "qty": 32,
+        "qty": 29,
         "product_title": "HER-0122-0KDX-55",
         "sku": "CH-HER-0122-0KDX-55"
       },
@@ -66594,7 +66594,7 @@
         "sku": "JAGUAR-JG37823-4200"
       },
       "gid://shopify/ProductVariant/47605988917502": {
-        "qty": 11,
+        "qty": 8,
         "product_title": "CH0057-0C1H-53",
         "sku": "CH-CH-0057-0C1H-53"
       },
@@ -76794,7 +76794,7 @@
         "sku": "KL-KL6199S-316"
       },
       "gid://shopify/ProductVariant/48113352573182": {
-        "qty": 21,
+        "qty": 16,
         "product_title": "KL6209S-601",
         "sku": "KL-KL6209S-601"
       },
