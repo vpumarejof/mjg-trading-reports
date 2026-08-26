@@ -32060,13 +32060,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-26T12:01:47.809793+00:00",
+    "updated_at": "2026-08-26T13:13:49.056256+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82170,
+        "total_qty": 82169,
         "sku_count": 10686,
         "product_count": 10686
       },
@@ -32074,7 +32074,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82170,
+        "total_qty": 82169,
         "sku_count": 4026,
         "product_count": 4026
       },
@@ -32114,7 +32114,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82170,
+        "total_qty": 82169,
         "sku_count": 3132,
         "product_count": 3132
       },
@@ -32122,7 +32122,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81733,
+        "total_qty": 81732,
         "sku_count": 2695,
         "product_count": 2695
       },
@@ -32146,7 +32146,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 4111,
+        "total_qty": 4110,
         "sku_count": 569,
         "product_count": 569
       },
@@ -32210,7 +32210,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11113,
+        "total_qty": 11112,
         "sku_count": 1039,
         "product_count": 1039
       },
@@ -32226,7 +32226,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 3143,
+        "total_qty": 3142,
         "sku_count": 330,
         "product_count": 330
       },
@@ -32994,7 +32994,7 @@
         "title": "CELINE",
         "handle": "celine",
         "legacy_id": "483191193854",
-        "total_qty": 141,
+        "total_qty": 140,
         "sku_count": 35,
         "product_count": 35
       },
@@ -33058,7 +33058,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 360,
+        "total_qty": 359,
         "sku_count": 87,
         "product_count": 87
       },
@@ -86096,7 +86096,7 @@
         "sku": "CELINE-CL40254U-16A"
       },
       "gid://shopify/ProductVariant/48772223598846": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "CL40314I 5401A",
         "sku": "CELINE-CL40314I-01A"
       },
