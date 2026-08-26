@@ -32063,13 +32063,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-26T16:33:45.020332+00:00",
+    "updated_at": "2026-08-26T18:22:49.792752+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82153,
+        "total_qty": 82150,
         "sku_count": 10686,
         "product_count": 10686
       },
@@ -32077,9 +32077,9 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82153,
-        "sku_count": 4026,
-        "product_count": 4026
+        "total_qty": 82150,
+        "sku_count": 4025,
+        "product_count": 4025
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
@@ -32117,15 +32117,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82153,
-        "sku_count": 3132,
-        "product_count": 3132
+        "total_qty": 82150,
+        "sku_count": 3131,
+        "product_count": 3131
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81715,
+        "total_qty": 81713,
         "sku_count": 2694,
         "product_count": 2694
       },
@@ -32149,9 +32149,9 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 4109,
-        "sku_count": 569,
-        "product_count": 569
+        "total_qty": 4107,
+        "sku_count": 568,
+        "product_count": 568
       },
       "gid://shopify/Collection/391854031102": {
         "title": "Women's",
@@ -32213,9 +32213,9 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11105,
-        "sku_count": 1039,
-        "product_count": 1039
+        "total_qty": 11102,
+        "sku_count": 1038,
+        "product_count": 1038
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -32229,9 +32229,9 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 3142,
-        "sku_count": 330,
-        "product_count": 330
+        "total_qty": 3140,
+        "sku_count": 329,
+        "product_count": 329
       },
       "gid://shopify/Collection/391774109950": {
         "title": "DRAGON",
@@ -32253,7 +32253,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5555,
+        "total_qty": 5554,
         "sku_count": 512,
         "product_count": 512
       },
@@ -32381,7 +32381,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 816,
+        "total_qty": 815,
         "sku_count": 135,
         "product_count": 135
       },
@@ -32805,9 +32805,9 @@
         "title": "CARTIER",
         "handle": "cartier",
         "legacy_id": "411443298558",
-        "total_qty": 17,
-        "sku_count": 14,
-        "product_count": 14
+        "total_qty": 16,
+        "sku_count": 13,
+        "product_count": 13
       },
       "gid://shopify/Collection/474031259902": {
         "title": "QUIKSILVER",
@@ -32965,7 +32965,7 @@
         "title": "BUGATTI",
         "handle": "bugatti",
         "legacy_id": "480545439998",
-        "total_qty": 264,
+        "total_qty": 263,
         "sku_count": 55,
         "product_count": 55
       },
@@ -62569,7 +62569,7 @@
         "sku": "CARTIER-CT0476S-005"
       },
       "gid://shopify/ProductVariant/47448055415038": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "CT0476S-008",
         "sku": "CARTIER-CT0476S-008"
       },
@@ -74274,7 +74274,7 @@
         "sku": "BUGATTI-48M-HAV"
       },
       "gid://shopify/ProductVariant/47931327316222": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "08-GM/WG",
         "sku": "BUGATTI-08-GM/WG"
       },
@@ -85689,7 +85689,7 @@
         "sku": "KS-AUBRIELLA/G/S-2VM/LA"
       },
       "gid://shopify/ProductVariant/48683729682686": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "BEXLEY/G/S-PJP/9O",
         "sku": "KS-BEXLEY/G/S-PJP/9O"
       },
