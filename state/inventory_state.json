@@ -32063,13 +32063,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-29T11:02:41.091288+00:00",
+    "updated_at": "2026-08-29T15:36:35.992315+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82023,
+        "total_qty": 82021,
         "sku_count": 10686,
         "product_count": 10686
       },
@@ -32077,9 +32077,9 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82023,
-        "sku_count": 4005,
-        "product_count": 4005
+        "total_qty": 82021,
+        "sku_count": 4004,
+        "product_count": 4004
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
@@ -32117,15 +32117,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82023,
-        "sku_count": 3106,
-        "product_count": 3106
+        "total_qty": 82021,
+        "sku_count": 3105,
+        "product_count": 3105
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81599,
+        "total_qty": 81598,
         "sku_count": 2682,
         "product_count": 2682
       },
@@ -32149,7 +32149,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 4032,
+        "total_qty": 4031,
         "sku_count": 559,
         "product_count": 559
       },
@@ -32213,9 +32213,9 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 10920,
-        "sku_count": 1021,
-        "product_count": 1021
+        "total_qty": 10918,
+        "sku_count": 1020,
+        "product_count": 1020
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -32229,9 +32229,9 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 3073,
-        "sku_count": 324,
-        "product_count": 324
+        "total_qty": 3072,
+        "sku_count": 323,
+        "product_count": 323
       },
       "gid://shopify/Collection/391774109950": {
         "title": "DRAGON",
@@ -32245,7 +32245,7 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 662,
+        "total_qty": 661,
         "sku_count": 78,
         "product_count": 78
       },
@@ -32253,7 +32253,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5453,
+        "total_qty": 5452,
         "sku_count": 502,
         "product_count": 502
       },
@@ -32925,9 +32925,9 @@
         "title": "COLUMBIA",
         "handle": "columbia",
         "legacy_id": "395943805182",
-        "total_qty": 191,
-        "sku_count": 39,
-        "product_count": 39
+        "total_qty": 190,
+        "sku_count": 38,
+        "product_count": 38
       },
       "gid://shopify/Collection/391773978878": {
         "title": "CONVERSE",
@@ -76399,7 +76399,7 @@
         "sku": "COLUMBIA-C525SP-008"
       },
       "gid://shopify/ProductVariant/48094645780734": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "UTILIZER-010",
         "sku": "COLUMBIA-C525SP-010"
       },
@@ -76744,7 +76744,7 @@
         "sku": "SF-SF131S-736"
       },
       "gid://shopify/ProductVariant/48112738763006": {
-        "qty": 11,
+        "qty": 10,
         "product_title": "SF955S-001",
         "sku": "SF-SF955S-001"
       },
