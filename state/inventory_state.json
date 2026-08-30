@@ -32063,13 +32063,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-30T19:49:23.796500+00:00",
+    "updated_at": "2026-08-30T22:15:19.619673+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81913,
+        "total_qty": 81907,
         "sku_count": 10686,
         "product_count": 10686
       },
@@ -32077,7 +32077,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81913,
+        "total_qty": 81907,
         "sku_count": 3992,
         "product_count": 3992
       },
@@ -32101,7 +32101,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61452,
+        "total_qty": 61449,
         "sku_count": 2071,
         "product_count": 2071
       },
@@ -32109,7 +32109,7 @@
         "title": "PRADA",
         "handle": "prada",
         "legacy_id": "391775289598",
-        "total_qty": 163,
+        "total_qty": 162,
         "sku_count": 27,
         "product_count": 27
       },
@@ -32117,7 +32117,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81913,
+        "total_qty": 81907,
         "sku_count": 3092,
         "product_count": 3092
       },
@@ -32125,15 +32125,15 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81489,
-        "sku_count": 2668,
-        "product_count": 2668
+        "total_qty": 81482,
+        "sku_count": 2667,
+        "product_count": 2667
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12202,
+        "total_qty": 12200,
         "sku_count": 846,
         "product_count": 846
       },
@@ -32141,7 +32141,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12202,
+        "total_qty": 12200,
         "sku_count": 846,
         "product_count": 846
       },
@@ -32149,7 +32149,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3977,
+        "total_qty": 3974,
         "sku_count": 552,
         "product_count": 552
       },
@@ -32213,7 +32213,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 10829,
+        "total_qty": 10826,
         "sku_count": 1013,
         "product_count": 1013
       },
@@ -32229,7 +32229,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 3034,
+        "total_qty": 3033,
         "sku_count": 320,
         "product_count": 320
       },
@@ -32245,7 +32245,7 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 656,
+        "total_qty": 655,
         "sku_count": 78,
         "product_count": 78
       },
@@ -32253,7 +32253,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5404,
+        "total_qty": 5402,
         "sku_count": 498,
         "product_count": 498
       },
@@ -32317,7 +32317,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1946,
+        "total_qty": 1945,
         "sku_count": 114,
         "product_count": 114
       },
@@ -32477,7 +32477,7 @@
         "title": "KARL LAGERFELD",
         "handle": "karl-lagerfeld",
         "legacy_id": "422907576574",
-        "total_qty": 342,
+        "total_qty": 341,
         "sku_count": 37,
         "product_count": 37
       },
@@ -32581,7 +32581,7 @@
         "title": "MOSCHINO",
         "handle": "moschino",
         "legacy_id": "395943837950",
-        "total_qty": 325,
+        "total_qty": 324,
         "sku_count": 40,
         "product_count": 40
       },
@@ -32965,7 +32965,7 @@
         "title": "BUGATTI",
         "handle": "bugatti",
         "legacy_id": "480545439998",
-        "total_qty": 244,
+        "total_qty": 243,
         "sku_count": 55,
         "product_count": 55
       },
@@ -54869,7 +54869,7 @@
         "sku": "MOSCHINO-MOS-616/F-0086-54"
       },
       "gid://shopify/ProductVariant/47010186395902": {
-        "qty": 11,
+        "qty": 10,
         "product_title": "MOS-628-0MU1-51",
         "sku": "MOSCHINO-MOS-628-0MU1-51"
       },
@@ -55684,7 +55684,7 @@
         "sku": "SF-SF2925-420-52"
       },
       "gid://shopify/ProductVariant/47027373932798": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "SF2952-001-53",
         "sku": "SF-SF2952-001-53"
       },
@@ -77534,7 +77534,7 @@
         "sku": "BUGATTI-48L-SCRY"
       },
       "gid://shopify/ProductVariant/48130606203134": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "48L-BGN",
         "sku": "BUGATTI-48L-BGN"
       },
@@ -81014,7 +81014,7 @@
         "sku": "KL-KL360S-N-040"
       },
       "gid://shopify/ProductVariant/48307063062782": {
-        "qty": 14,
+        "qty": 13,
         "product_title": "KL6098S-501",
         "sku": "KL-KL6098S-501"
       },
@@ -82334,7 +82334,7 @@
         "sku": "PRADA-PR-A13S-1AB5S0"
       },
       "gid://shopify/ProductVariant/48392229093630": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "PR-A19S-1BO40G",
         "sku": "PRADA-PR-A19S-1BO40G"
       },
@@ -84889,7 +84889,7 @@
         "sku": "CARRERA-326-807-57"
       },
       "gid://shopify/ProductVariant/48648024817918": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "345-37N-55",
         "sku": "CARRERA-345-37N-55"
       },
