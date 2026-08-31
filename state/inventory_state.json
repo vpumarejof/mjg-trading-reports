@@ -32111,13 +32111,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-08-31T19:41:11.315984+00:00",
+    "updated_at": "2026-08-31T23:24:20.549326+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82342,
+        "total_qty": 82341,
         "sku_count": 10702,
         "product_count": 10702
       },
@@ -32125,7 +32125,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82342,
+        "total_qty": 82341,
         "sku_count": 4000,
         "product_count": 4000
       },
@@ -32149,7 +32149,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61417,
+        "total_qty": 61416,
         "sku_count": 2063,
         "product_count": 2063
       },
@@ -32165,7 +32165,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82342,
+        "total_qty": 82341,
         "sku_count": 3095,
         "product_count": 3095
       },
@@ -32173,7 +32173,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81917,
+        "total_qty": 81916,
         "sku_count": 2670,
         "product_count": 2670
       },
@@ -32181,7 +32181,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12189,
+        "total_qty": 12188,
         "sku_count": 844,
         "product_count": 844
       },
@@ -32189,7 +32189,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12189,
+        "total_qty": 12188,
         "sku_count": 844,
         "product_count": 844
       },
@@ -32637,7 +32637,7 @@
         "title": "MISSONI",
         "handle": "missoni",
         "legacy_id": "408673911038",
-        "total_qty": 777,
+        "total_qty": 776,
         "sku_count": 65,
         "product_count": 65
       },
@@ -53377,7 +53377,7 @@
         "sku": "MISSONI-MIS-0099-059I-54"
       },
       "gid://shopify/ProductVariant/46754124005630": {
-        "qty": 15,
+        "qty": 14,
         "product_title": "MIS-0104-009Q-50",
         "sku": "MISSONI-MIS-0104-009Q-50"
       },
