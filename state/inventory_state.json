@@ -32108,13 +32108,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-01T16:54:57.706403+00:00",
+    "updated_at": "2026-09-01T19:42:26.042751+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82248,
+        "total_qty": 82242,
         "sku_count": 10701,
         "product_count": 10701
       },
@@ -32122,7 +32122,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82248,
+        "total_qty": 82242,
         "sku_count": 3995,
         "product_count": 3995
       },
@@ -32130,7 +32130,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22112,
+        "total_qty": 22110,
         "sku_count": 2486,
         "product_count": 2486
       },
@@ -32146,7 +32146,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61384,
+        "total_qty": 61381,
         "sku_count": 2059,
         "product_count": 2059
       },
@@ -32162,7 +32162,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82248,
+        "total_qty": 82242,
         "sku_count": 3089,
         "product_count": 3089
       },
@@ -32170,7 +32170,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81821,
+        "total_qty": 81815,
         "sku_count": 2662,
         "product_count": 2662
       },
@@ -32194,7 +32194,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3926,
+        "total_qty": 3925,
         "sku_count": 547,
         "product_count": 547
       },
@@ -32226,7 +32226,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 19615,
+        "total_qty": 19613,
         "sku_count": 473,
         "product_count": 473
       },
@@ -32258,7 +32258,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11234,
+        "total_qty": 11231,
         "sku_count": 1022,
         "product_count": 1022
       },
@@ -32298,7 +32298,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5891,
+        "total_qty": 5888,
         "sku_count": 512,
         "product_count": 512
       },
@@ -32362,7 +32362,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1906,
+        "total_qty": 1905,
         "sku_count": 112,
         "product_count": 112
       },
@@ -32426,7 +32426,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 759,
+        "total_qty": 758,
         "sku_count": 132,
         "product_count": 132
       },
@@ -32506,7 +32506,7 @@
         "title": "QUAY",
         "handle": "quay",
         "legacy_id": "472482939134",
-        "total_qty": 489,
+        "total_qty": 488,
         "sku_count": 58,
         "product_count": 58
       },
@@ -32906,7 +32906,7 @@
         "title": "JOSEPH ABBOUD",
         "handle": "joseph-abboud",
         "legacy_id": "474673447166",
-        "total_qty": 29,
+        "total_qty": 28,
         "sku_count": 5,
         "product_count": 5
       },
@@ -33026,7 +33026,7 @@
         "title": "MODO",
         "handle": "modo",
         "legacy_id": "481959280894",
-        "total_qty": 356,
+        "total_qty": 355,
         "sku_count": 30,
         "product_count": 30
       },
@@ -33098,7 +33098,7 @@
         "title": "ANNA-KARIN KARLSSON",
         "handle": "anna-karin-karlsson",
         "legacy_id": "485871059198",
-        "total_qty": 1342,
+        "total_qty": 1341,
         "sku_count": 21,
         "product_count": 21
       },
@@ -54964,7 +54964,7 @@
         "sku": "CH-HER-0151-0YHP-54"
       },
       "gid://shopify/ProductVariant/47010388246782": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "284-0EX9-49",
         "sku": "CARRERA-284-0EX4-49"
       },
@@ -64489,7 +64489,7 @@
         "sku": "JA-JA4082-400-53"
       },
       "gid://shopify/ProductVariant/47504333340926": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "JA4093-036-53",
         "sku": "JA-JA4093-036-53"
       },
@@ -75839,7 +75839,7 @@
         "sku": "MODO-4602-SMK00-54"
       },
       "gid://shopify/ProductVariant/48061854515454": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "4604-SIL00-50",
         "sku": "MODO-4604-SIL00-50"
       },
@@ -77619,7 +77619,7 @@
         "sku": "QUAY-NO-NS-2326-BLK/SMK"
       },
       "gid://shopify/ProductVariant/48145121411326": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "BUSY BUSY-77745",
         "sku": "QUAY-NO-NS-2326-DOE/BRN"
       },
@@ -82589,7 +82589,7 @@
         "sku": "AKK-SHADY-LUV-2.0-GOLD 24K"
       },
       "gid://shopify/ProductVariant/48406940549374": {
-        "qty": 36,
+        "qty": 35,
         "product_title": "SHADY-LUV-2.0-GOLD BLUSH MIRROR",
         "sku": "AKK-SHADY-LUV-2.0-GOLD BLUSH MIRROR"
       },
@@ -85749,7 +85749,7 @@
         "sku": "KS-CONSTANCE/G/S-807/9O"
       },
       "gid://shopify/ProductVariant/48683730010366": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "DAESHA/F/S-WR7/WJ",
         "sku": "KS-DAESHA/F/S-WR7/WJ"
       },
