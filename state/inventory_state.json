@@ -32108,13 +32108,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-01T19:42:26.042751+00:00",
+    "updated_at": "2026-09-01T22:02:51.162148+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82242,
+        "total_qty": 82238,
         "sku_count": 10701,
         "product_count": 10701
       },
@@ -32122,7 +32122,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82242,
+        "total_qty": 82238,
         "sku_count": 3995,
         "product_count": 3995
       },
@@ -32138,7 +32138,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 1071,
+        "total_qty": 1069,
         "sku_count": 912,
         "product_count": 912
       },
@@ -32146,7 +32146,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61381,
+        "total_qty": 61377,
         "sku_count": 2059,
         "product_count": 2059
       },
@@ -32162,7 +32162,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82242,
+        "total_qty": 82238,
         "sku_count": 3089,
         "product_count": 3089
       },
@@ -32170,7 +32170,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81815,
+        "total_qty": 81811,
         "sku_count": 2662,
         "product_count": 2662
       },
@@ -32178,7 +32178,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12162,
+        "total_qty": 12160,
         "sku_count": 842,
         "product_count": 842
       },
@@ -32186,7 +32186,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12162,
+        "total_qty": 12160,
         "sku_count": 842,
         "product_count": 842
       },
@@ -32194,7 +32194,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3925,
+        "total_qty": 3922,
         "sku_count": 547,
         "product_count": 547
       },
@@ -32498,7 +32498,7 @@
         "title": "MARC JACOBS",
         "handle": "marc-jacobs",
         "legacy_id": "391774732542",
-        "total_qty": 339,
+        "total_qty": 338,
         "sku_count": 62,
         "product_count": 62
       },
@@ -33002,7 +33002,7 @@
         "title": "BALENCIAGA",
         "handle": "balenciaga",
         "legacy_id": "395973296382",
-        "total_qty": 217,
+        "total_qty": 215,
         "sku_count": 100,
         "product_count": 100
       },
@@ -33066,7 +33066,7 @@
         "title": "MONTBLANC",
         "handle": "mont-blanc",
         "legacy_id": "391775027454",
-        "total_qty": 132,
+        "total_qty": 131,
         "sku_count": 39,
         "product_count": 39
       },
@@ -73034,7 +73034,7 @@
         "sku": "BALENCIAGA-BB0238O-006-50"
       },
       "gid://shopify/ProductVariant/47807421317374": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "BB0341O-003-56",
         "sku": "BALENCIAGA-BB0341O-003-56"
       },
@@ -75094,7 +75094,7 @@
         "sku": "MJ-MJ-1077-10A-51"
       },
       "gid://shopify/ProductVariant/48011979325694": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "MJ-1096-PJP-54",
         "sku": "MJ-MJ-1096-PJP-54"
       },
@@ -79129,7 +79129,7 @@
         "sku": "BALENCIAGA-BB0326O-005-53"
       },
       "gid://shopify/ProductVariant/48288329367806": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "BB0332O-002-54",
         "sku": "BALENCIAGA-BB0332O-002-54"
       },
@@ -79389,7 +79389,7 @@
         "sku": "MONTBLANC-MB0338O-006-54"
       },
       "gid://shopify/ProductVariant/48288333234430": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "MB0338O-007-54",
         "sku": "MONTBLANC-MB0338O-007-54"
       },
