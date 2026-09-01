@@ -32111,13 +32111,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-01T01:56:05.646640+00:00",
+    "updated_at": "2026-09-01T07:02:49.021993+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82328,
+        "total_qty": 82320,
         "sku_count": 10702,
         "product_count": 10702
       },
@@ -32125,7 +32125,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82328,
+        "total_qty": 82320,
         "sku_count": 3999,
         "product_count": 3999
       },
@@ -32133,7 +32133,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22128,
+        "total_qty": 22125,
         "sku_count": 2486,
         "product_count": 2486
       },
@@ -32149,7 +32149,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61410,
+        "total_qty": 61405,
         "sku_count": 2062,
         "product_count": 2062
       },
@@ -32165,7 +32165,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82328,
+        "total_qty": 82320,
         "sku_count": 3093,
         "product_count": 3093
       },
@@ -32173,15 +32173,15 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81903,
-        "sku_count": 2668,
-        "product_count": 2668
+        "total_qty": 81894,
+        "sku_count": 2667,
+        "product_count": 2667
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12185,
+        "total_qty": 12184,
         "sku_count": 844,
         "product_count": 844
       },
@@ -32189,7 +32189,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12185,
+        "total_qty": 12184,
         "sku_count": 844,
         "product_count": 844
       },
@@ -32229,7 +32229,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 19624,
+        "total_qty": 19622,
         "sku_count": 475,
         "product_count": 475
       },
@@ -32261,7 +32261,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11287,
+        "total_qty": 11284,
         "sku_count": 1023,
         "product_count": 1023
       },
@@ -32277,7 +32277,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 3000,
+        "total_qty": 2999,
         "sku_count": 316,
         "product_count": 316
       },
@@ -32301,7 +32301,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5900,
+        "total_qty": 5899,
         "sku_count": 512,
         "product_count": 512
       },
@@ -32325,7 +32325,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2460,
+        "total_qty": 2459,
         "sku_count": 199,
         "product_count": 199
       },
@@ -32365,7 +32365,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1922,
+        "total_qty": 1921,
         "sku_count": 112,
         "product_count": 112
       },
@@ -32405,7 +32405,7 @@
         "title": "CAZAL",
         "handle": "cazal",
         "legacy_id": "400594534654",
-        "total_qty": 82,
+        "total_qty": 81,
         "sku_count": 12,
         "product_count": 12
       },
@@ -32413,7 +32413,7 @@
         "title": "CAZAL CURRENT",
         "handle": "cazal-current",
         "legacy_id": "437928689918",
-        "total_qty": 38,
+        "total_qty": 37,
         "sku_count": 5,
         "product_count": 5
       },
@@ -32501,7 +32501,7 @@
         "title": "MARC JACOBS",
         "handle": "marc-jacobs",
         "legacy_id": "391774732542",
-        "total_qty": 343,
+        "total_qty": 342,
         "sku_count": 63,
         "product_count": 63
       },
@@ -32517,7 +32517,7 @@
         "title": "DAVID BECKHAM",
         "handle": "david-beckham",
         "legacy_id": "397089702142",
-        "total_qty": 581,
+        "total_qty": 580,
         "sku_count": 73,
         "product_count": 73
       },
@@ -32525,7 +32525,7 @@
         "title": "KARL LAGERFELD",
         "handle": "karl-lagerfeld",
         "legacy_id": "422907576574",
-        "total_qty": 340,
+        "total_qty": 339,
         "sku_count": 37,
         "product_count": 37
       },
@@ -32669,7 +32669,7 @@
         "title": "OPTIKA",
         "handle": "optika",
         "legacy_id": "464259285246",
-        "total_qty": 1749,
+        "total_qty": 1747,
         "sku_count": 18,
         "product_count": 18
       },
@@ -32949,7 +32949,7 @@
         "title": "LONGCHAMP",
         "handle": "longchamp",
         "legacy_id": "476032958718",
-        "total_qty": 898,
+        "total_qty": 897,
         "sku_count": 53,
         "product_count": 53
       },
@@ -43757,7 +43757,7 @@
         "sku": "CAZAL-6028-C003-49"
       },
       "gid://shopify/ProductVariant/45858110800126": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "7093-C003-53",
         "sku": "CAZAL-7093-C003-53"
       },
@@ -52027,7 +52027,7 @@
         "sku": "OPTIKA-OM-106-BRN-56"
       },
       "gid://shopify/ProductVariant/46673583931646": {
-        "qty": 83,
+        "qty": 82,
         "product_title": "OM-107-BRN-54",
         "sku": "OPTIKA-OM-107-BRN-54"
       },
@@ -52092,7 +52092,7 @@
         "sku": "OPTIKA-OM-127-BLK-60"
       },
       "gid://shopify/ProductVariant/46673584947454": {
-        "qty": 36,
+        "qty": 35,
         "product_title": "OM-127-BRN-60",
         "sku": "OPTIKA-OM-127-BRN-60"
       },
@@ -67107,7 +67107,7 @@
         "sku": "LONGCHAMP-LO2155-772-53"
       },
       "gid://shopify/ProductVariant/47609152307454": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "LO2156-728-54",
         "sku": "LONGCHAMP-LO2156-728-54"
       },
@@ -76822,7 +76822,7 @@
         "sku": "SF-SF1041S-238"
       },
       "gid://shopify/ProductVariant/48113352081662": {
-        "qty": 18,
+        "qty": 17,
         "product_title": "KL6144S-703",
         "sku": "KL-KL6144S-703"
       },
@@ -77452,7 +77452,7 @@
         "sku": "MOSCHINO-MOS166/S-2W8/IR"
       },
       "gid://shopify/ProductVariant/48121228787966": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "4017/S-807/TE",
         "sku": "CARRERA-4017/S-807/TE"
       },
@@ -81307,7 +81307,7 @@
         "sku": "MJ-MARC-724/S-10A/HA"
       },
       "gid://shopify/ProductVariant/48336089448702": {
-        "qty": 14,
+        "qty": 13,
         "product_title": "MARC-773/S-YB7/T4",
         "sku": "MJ-MARC-773/S-YB7/T4"
       },
@@ -84977,7 +84977,7 @@
         "sku": "DB-DB 1020-KB7-56"
       },
       "gid://shopify/ProductVariant/48648025735422": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "DB 1110/G-9RQ-55",
         "sku": "DB-DB 1110/G-9RQ-55"
       },
