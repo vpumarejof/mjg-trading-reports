@@ -32108,13 +32108,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-02T17:09:27.210896+00:00",
+    "updated_at": "2026-09-02T19:46:38.100677+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82049,
+        "total_qty": 82406,
         "sku_count": 10701,
         "product_count": 10701
       },
@@ -32122,15 +32122,15 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82049,
-        "sku_count": 3986,
-        "product_count": 3986
+        "total_qty": 82406,
+        "sku_count": 4000,
+        "product_count": 4000
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22075,
+        "total_qty": 22114,
         "sku_count": 2486,
         "product_count": 2486
       },
@@ -32138,7 +32138,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 1059,
+        "total_qty": 1062,
         "sku_count": 912,
         "product_count": 912
       },
@@ -32154,7 +32154,7 @@
         "title": "PRADA",
         "handle": "prada",
         "legacy_id": "391775289598",
-        "total_qty": 154,
+        "total_qty": 153,
         "sku_count": 26,
         "product_count": 26
       },
@@ -32162,17 +32162,17 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82049,
-        "sku_count": 3077,
-        "product_count": 3077
+        "total_qty": 82406,
+        "sku_count": 3091,
+        "product_count": 3091
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81619,
-        "sku_count": 2647,
-        "product_count": 2647
+        "total_qty": 81976,
+        "sku_count": 2661,
+        "product_count": 2661
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
@@ -32194,7 +32194,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3901,
+        "total_qty": 3899,
         "sku_count": 543,
         "product_count": 543
       },
@@ -32258,9 +32258,9 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11137,
-        "sku_count": 1016,
-        "product_count": 1016
+        "total_qty": 11495,
+        "sku_count": 1030,
+        "product_count": 1030
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -32274,9 +32274,9 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2956,
-        "sku_count": 315,
-        "product_count": 315
+        "total_qty": 3015,
+        "sku_count": 318,
+        "product_count": 318
       },
       "gid://shopify/Collection/391774109950": {
         "title": "DRAGON",
@@ -32298,9 +32298,9 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5850,
-        "sku_count": 510,
-        "product_count": 510
+        "total_qty": 6110,
+        "sku_count": 520,
+        "product_count": 520
       },
       "gid://shopify/Collection/391853998334": {
         "title": "Men's",
@@ -32322,9 +32322,9 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2420,
-        "sku_count": 196,
-        "product_count": 196
+        "total_qty": 2459,
+        "sku_count": 197,
+        "product_count": 197
       },
       "gid://shopify/Collection/391775125758": {
         "title": "NIKE",
@@ -32458,7 +32458,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 24551,
+        "total_qty": 24550,
         "sku_count": 36,
         "product_count": 36
       },
@@ -32506,9 +32506,9 @@
         "title": "QUAY",
         "handle": "quay",
         "legacy_id": "472482939134",
-        "total_qty": 483,
-        "sku_count": 58,
-        "product_count": 58
+        "total_qty": 843,
+        "sku_count": 72,
+        "product_count": 72
       },
       "gid://shopify/Collection/397089702142": {
         "title": "DAVID BECKHAM",
@@ -32618,7 +32618,7 @@
         "title": "VALENTINO",
         "handle": "valentino",
         "legacy_id": "462679113982",
-        "total_qty": 100,
+        "total_qty": 99,
         "sku_count": 19,
         "product_count": 19
       },
@@ -44904,7 +44904,7 @@
         "sku": "MJ-MARC-463-0086-53"
       },
       "gid://shopify/ProductVariant/46059134714110": {
-        "qty": 9611,
+        "qty": 9610,
         "product_title": "DropShip",
         "sku": "DropShip"
       },
@@ -67254,7 +67254,7 @@
         "sku": "LONGCHAMP-LO2743-259-52"
       },
       "gid://shopify/ProductVariant/47609153814782": {
-        "qty": 5,
+        "qty": 8,
         "product_title": "LO2755-230-53",
         "sku": "LONGCHAMP-LO2755-230-53"
       },
@@ -71739,7 +71739,7 @@
         "sku": "VALENTINO-V-GOLD-I-VLS-162C-51"
       },
       "gid://shopify/ProductVariant/47769427476734": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "V-GOLD-III-VLS-138B-53",
         "sku": "VALENTINO-V-GOLD-III-VLS-138B-53"
       },
@@ -73794,7 +73794,7 @@
         "sku": "QUAY-NO-NS-2515-BONE/DKFN"
       },
       "gid://shopify/ProductVariant/47893659189502": {
-        "qty": 0,
+        "qty": 20,
         "product_title": "ANYWAYS-77742",
         "sku": "QUAY-NO-NS-2322-SLV/MSS"
       },
@@ -73884,7 +73884,7 @@
         "sku": "QUAY-NO-NS-2323-DTRT/BRN"
       },
       "gid://shopify/ProductVariant/47893665644798": {
-        "qty": 0,
+        "qty": 20,
         "product_title": "CHIT CHAT-77734",
         "sku": "QUAY-NO-NS-2330-PBTRT/BRN"
       },
@@ -74024,7 +74024,7 @@
         "sku": "QUAY-NO-NS-2558-CFTRT/BRN"
       },
       "gid://shopify/ProductVariant/47893671248126": {
-        "qty": 0,
+        "qty": 20,
         "product_title": "IMPROMPTU-77723",
         "sku": "QUAY-NO-NS-2328-BLK/SMK"
       },
@@ -74034,7 +74034,7 @@
         "sku": "QUAY-NO-NS-2328-BLKYL/SMK"
       },
       "gid://shopify/ProductVariant/47893671411966": {
-        "qty": 0,
+        "qty": 20,
         "product_title": "IMPROMPTU-77746",
         "sku": "QUAY-NO-NS-2328-NEUTRT/BRN"
       },
@@ -74119,17 +74119,17 @@
         "sku": "QUAY-NO-NS-2344-MSS/BRN"
       },
       "gid://shopify/ProductVariant/47893674885374": {
-        "qty": 0,
+        "qty": 20,
         "product_title": "OPEN TAB-76809",
         "sku": "QUAY-NO-NS-2236-GLDDOE/TAN"
       },
       "gid://shopify/ProductVariant/47893674950910": {
-        "qty": 0,
+        "qty": 20,
         "product_title": "PLAYBACK-77725",
         "sku": "QUAY-NO-NS-2337-BLK/SMK"
       },
       "gid://shopify/ProductVariant/47893675016446": {
-        "qty": 0,
+        "qty": 20,
         "product_title": "PLAYBACK-77741",
         "sku": "QUAY-NO-NS-2337-CLR/SEP"
       },
@@ -74169,12 +74169,12 @@
         "sku": "QUAY-NO-NS-2301-HAZTRT/AMET"
       },
       "gid://shopify/ProductVariant/47893675540734": {
-        "qty": 0,
+        "qty": 20,
         "product_title": "TELL ME MORE-77104",
         "sku": "QUAY-NO-NS-2309-DOE/TAN"
       },
       "gid://shopify/ProductVariant/47893676425470": {
-        "qty": 0,
+        "qty": 20,
         "product_title": "UNPLUGGED-78614",
         "sku": "QUAY-NO-NS-2570-OAT/BPOL"
       },
@@ -77699,7 +77699,7 @@
         "sku": "QUAY-NO-NS-2182-BLK/BLK"
       },
       "gid://shopify/ProductVariant/48145122525438": {
-        "qty": 0,
+        "qty": 20,
         "product_title": "GOOD TIME-77108",
         "sku": "QUAY-NO-NS-2182-MTBLK/DRKAPR"
       },
@@ -81139,17 +81139,17 @@
         "sku": "QUAY-NO-NS-2593-BLK/SMK"
       },
       "gid://shopify/ProductVariant/48314439500030": {
-        "qty": 0,
+        "qty": 20,
         "product_title": "ICY-78296",
         "sku": "QUAY-NO-NS-2572-GRN/BRN"
       },
       "gid://shopify/ProductVariant/48314439598334": {
-        "qty": 0,
+        "qty": 20,
         "product_title": "ICY-75883",
         "sku": "QUAY-NO-NS-2186-ESPR/BRN"
       },
       "gid://shopify/ProductVariant/48314439663870": {
-        "qty": 2,
+        "qty": 22,
         "product_title": "ICY-59297",
         "sku": "QUAY-QU-000602-MTBLK/SMKGRN"
       },
@@ -81189,12 +81189,12 @@
         "sku": "QUAY-QW-001060-BLK/SMKGRN"
       },
       "gid://shopify/ProductVariant/48314440024318": {
-        "qty": 36,
+        "qty": 56,
         "product_title": "VIVIENNE-1515",
         "sku": "QUAY-QC-000098-BLK/SMK"
       },
       "gid://shopify/ProductVariant/48314440057086": {
-        "qty": 29,
+        "qty": 49,
         "product_title": "VIVIENNE-35583",
         "sku": "QUAY-QC-000098-GLD/BRN"
       },
@@ -82444,7 +82444,7 @@
         "sku": "PRADA-PS-07YS-DG010A"
       },
       "gid://shopify/ProductVariant/48392230240510": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "PS-51VS-DG05Z1",
         "sku": "PRADA-PS-51VS-DG05Z1"
       },
@@ -83109,7 +83109,7 @@
         "sku": "QUAY-QU-000772-GLD/SMKPNK"
       },
       "gid://shopify/ProductVariant/48560872980734": {
-        "qty": 0,
+        "qty": 20,
         "product_title": "ICY-37390",
         "sku": "QUAY-QU-000602-BLK/FADE"
       },
@@ -83124,7 +83124,7 @@
         "sku": "QUAY-NO-NS-2578-BLK/BPLPK"
       },
       "gid://shopify/ProductVariant/48560873079038": {
-        "qty": 0,
+        "qty": 20,
         "product_title": "IT\u2019S MY WAY-57495",
         "sku": "QUAY-QW-000144-MLKTORT/SMK"
       },
@@ -83164,7 +83164,7 @@
         "sku": "QUAY-NO-NS-2363-DOE/BRNFWN"
       },
       "gid://shopify/ProductVariant/48560873406718": {
-        "qty": 25,
+        "qty": 45,
         "product_title": "VIVIENNE-10332",
         "sku": "QUAY-QC-000098-GLD/SMK"
       },
@@ -84559,7 +84559,7 @@
         "sku": "LONGCHAMP-LO2754-N-306-53"
       },
       "gid://shopify/ProductVariant/48637353623806": {
-        "qty": 9,
+        "qty": 6,
         "product_title": "LO2755-001-53",
         "sku": "LONGCHAMP-LO2755-001-53"
       },
