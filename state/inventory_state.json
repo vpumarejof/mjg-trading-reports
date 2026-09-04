@@ -32108,13 +32108,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-04T21:30:03.233286+00:00",
+    "updated_at": "2026-09-04T23:12:31.211291+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81938,
+        "total_qty": 81937,
         "sku_count": 10701,
         "product_count": 10701
       },
@@ -32122,7 +32122,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81938,
+        "total_qty": 81937,
         "sku_count": 3918,
         "product_count": 3918
       },
@@ -32146,7 +32146,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61094,
+        "total_qty": 61093,
         "sku_count": 1990,
         "product_count": 1990
       },
@@ -32162,7 +32162,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81938,
+        "total_qty": 81937,
         "sku_count": 2989,
         "product_count": 2989
       },
@@ -32170,7 +32170,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81522,
+        "total_qty": 81521,
         "sku_count": 2573,
         "product_count": 2573
       },
@@ -32178,7 +32178,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12015,
+        "total_qty": 12014,
         "sku_count": 799,
         "product_count": 799
       },
@@ -32186,7 +32186,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12015,
+        "total_qty": 12014,
         "sku_count": 799,
         "product_count": 799
       },
@@ -32650,7 +32650,7 @@
         "title": "CALVIN KLEIN JEANS",
         "handle": "calvin-klein-jeans",
         "legacy_id": "464057172222",
-        "total_qty": 382,
+        "total_qty": 381,
         "sku_count": 51,
         "product_count": 51
       },
@@ -51784,7 +51784,7 @@
         "sku": "CKJ-CKJ23624S-620"
       },
       "gid://shopify/ProductVariant/46670758314238": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "CKJ23644-600-52",
         "sku": "CKJ-CKJ23644-600-52"
       },
