@@ -32108,13 +32108,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-04T13:07:55.654025+00:00",
+    "updated_at": "2026-09-04T16:51:15.675275+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81994,
+        "total_qty": 81972,
         "sku_count": 10701,
         "product_count": 10701
       },
@@ -32122,15 +32122,15 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81994,
-        "sku_count": 3923,
-        "product_count": 3923
+        "total_qty": 81972,
+        "sku_count": 3921,
+        "product_count": 3921
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22078,
+        "total_qty": 22071,
         "sku_count": 2486,
         "product_count": 2486
       },
@@ -32138,7 +32138,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 1048,
+        "total_qty": 1045,
         "sku_count": 912,
         "product_count": 912
       },
@@ -32146,9 +32146,9 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61117,
-        "sku_count": 1994,
-        "product_count": 1994
+        "total_qty": 61097,
+        "sku_count": 1990,
+        "product_count": 1990
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -32162,41 +32162,41 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81994,
-        "sku_count": 2997,
-        "product_count": 2997
+        "total_qty": 81972,
+        "sku_count": 2992,
+        "product_count": 2992
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81581,
-        "sku_count": 2584,
-        "product_count": 2584
+        "total_qty": 81558,
+        "sku_count": 2578,
+        "product_count": 2578
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
         "total_qty": 12016,
-        "sku_count": 800,
-        "product_count": 800
+        "sku_count": 799,
+        "product_count": 799
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
         "total_qty": 12016,
-        "sku_count": 800,
-        "product_count": 800
+        "sku_count": 799,
+        "product_count": 799
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3589,
-        "sku_count": 466,
-        "product_count": 466
+        "total_qty": 3588,
+        "sku_count": 465,
+        "product_count": 465
       },
       "gid://shopify/Collection/391854031102": {
         "title": "Women's",
@@ -32226,7 +32226,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 19593,
+        "total_qty": 19587,
         "sku_count": 470,
         "product_count": 470
       },
@@ -32258,9 +32258,9 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11253,
-        "sku_count": 995,
-        "product_count": 995
+        "total_qty": 11251,
+        "sku_count": 994,
+        "product_count": 994
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -32274,9 +32274,9 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2966,
-        "sku_count": 311,
-        "product_count": 311
+        "total_qty": 2965,
+        "sku_count": 310,
+        "product_count": 310
       },
       "gid://shopify/Collection/391774109950": {
         "title": "DRAGON",
@@ -32298,7 +32298,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5941,
+        "total_qty": 5940,
         "sku_count": 496,
         "product_count": 496
       },
@@ -32362,9 +32362,9 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1873,
-        "sku_count": 109,
-        "product_count": 109
+        "total_qty": 1857,
+        "sku_count": 106,
+        "product_count": 106
       },
       "gid://shopify/Collection/400740516094": {
         "title": "SPY",
@@ -32426,7 +32426,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 754,
+        "total_qty": 753,
         "sku_count": 131,
         "product_count": 131
       },
@@ -32458,7 +32458,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 24550,
+        "total_qty": 24549,
         "sku_count": 36,
         "product_count": 36
       },
@@ -32474,7 +32474,7 @@
         "title": "Uniisex Eyeglasses",
         "handle": "uniisex-eyeglasses",
         "legacy_id": "455407829246",
-        "total_qty": 4,
+        "total_qty": 3,
         "sku_count": 1,
         "product_count": 1
       },
@@ -32594,7 +32594,7 @@
         "title": "Tariff Busters",
         "handle": "tariff-busters",
         "legacy_id": "463834087678",
-        "total_qty": 46615,
+        "total_qty": 46610,
         "sku_count": 340,
         "product_count": 340
       },
@@ -32602,7 +32602,7 @@
         "title": "PIERRE CARDIN",
         "handle": "pierre-cardin",
         "legacy_id": "408975540478",
-        "total_qty": 31,
+        "total_qty": 30,
         "sku_count": 15,
         "product_count": 15
       },
@@ -32658,7 +32658,7 @@
         "title": "FLEXON",
         "handle": "flexon",
         "legacy_id": "466401853694",
-        "total_qty": 151,
+        "total_qty": 149,
         "sku_count": 31,
         "product_count": 31
       },
@@ -32674,7 +32674,7 @@
         "title": "SIGNATURE",
         "handle": "signature",
         "legacy_id": "464260399358",
-        "total_qty": 9557,
+        "total_qty": 9552,
         "sku_count": 92,
         "product_count": 92
       },
@@ -32762,9 +32762,9 @@
         "title": "COCO SONG",
         "handle": "coco-song",
         "legacy_id": "467688259838",
-        "total_qty": 141,
-        "sku_count": 40,
-        "product_count": 40
+        "total_qty": 140,
+        "sku_count": 39,
+        "product_count": 39
       },
       "gid://shopify/Collection/391771324670": {
         "title": "BURBERRY",
@@ -33010,9 +33010,9 @@
         "title": "BUGATTI",
         "handle": "bugatti",
         "legacy_id": "480545439998",
-        "total_qty": 210,
-        "sku_count": 50,
-        "product_count": 50
+        "total_qty": 209,
+        "sku_count": 49,
+        "product_count": 49
       },
       "gid://shopify/Collection/473333039358": {
         "title": "ClipOn Frames",
@@ -33026,7 +33026,7 @@
         "title": "MODO",
         "handle": "modo",
         "legacy_id": "481959280894",
-        "total_qty": 346,
+        "total_qty": 351,
         "sku_count": 30,
         "product_count": 30
       },
@@ -44684,7 +44684,7 @@
         "sku": "NIKE-ADRENALINE-M-EVG-066"
       },
       "gid://shopify/ProductVariant/46020184867070": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "249-0807-55",
         "sku": "CARRERA-249-0807-55"
       },
@@ -49119,7 +49119,7 @@
         "sku": "PC-6868-0R80-58"
       },
       "gid://shopify/ProductVariant/46539117789438": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "6877-0J5G-52",
         "sku": "PC-6877-0J5G-52"
       },
@@ -52804,17 +52804,17 @@
         "sku": "Signature-1123-Black-53"
       },
       "gid://shopify/ProductVariant/46684973826302": {
-        "qty": 411,
+        "qty": 410,
         "product_title": "1124-Black-57",
         "sku": "Signature-1124-Black-57"
       },
       "gid://shopify/ProductVariant/46684973924606": {
-        "qty": 272,
+        "qty": 271,
         "product_title": "1124-Brown-57",
         "sku": "Signature-1124-Brown-57"
       },
       "gid://shopify/ProductVariant/46684974121214": {
-        "qty": 96,
+        "qty": 95,
         "product_title": "1124-Gunmetal-57",
         "sku": "Signature-1124-Gunmetal-57"
       },
@@ -53154,7 +53154,7 @@
         "sku": "Signature-S7022-MatteTort-52"
       },
       "gid://shopify/ProductVariant/46684990603518": {
-        "qty": 25,
+        "qty": 23,
         "product_title": "S7023-BrownFade-51",
         "sku": "Signature-S7023-BrownFade-51"
       },
@@ -54389,7 +54389,7 @@
         "sku": "FLEXON-E1128-310-54"
       },
       "gid://shopify/ProductVariant/46988923666686": {
-        "qty": 3,
+        "qty": 1,
         "product_title": "E1130-210-55",
         "sku": "FLEXON-E1130-210-55"
       },
@@ -54689,12 +54689,12 @@
         "sku": "CARRERA-249-0KB7-55"
       },
       "gid://shopify/ProductVariant/47010178269438": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "3021-0DLN9-52",
         "sku": "CARRERA-3021-0DLN-52"
       },
       "gid://shopify/ProductVariant/47010178367742": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "308-0M4P9-53",
         "sku": "CARRERA-308-0M4P-53"
       },
@@ -60179,7 +60179,7 @@
         "sku": "CS-YORK-BLUES-CV243.04-09"
       },
       "gid://shopify/ProductVariant/47272817262846": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "NELSONS-DREAM-CV244.02-09",
         "sku": "CS-NELSONS-DREAM-CV244.02-09"
       },
@@ -61094,7 +61094,7 @@
         "sku": "VERSACE-VE4405-GB1/87"
       },
       "gid://shopify/ProductVariant/47377630757118": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "3021-1ED-52",
         "sku": "CARRERA-3021-1ED-52"
       },
@@ -65794,7 +65794,7 @@
         "sku": "CARRERA-263-003-55"
       },
       "gid://shopify/ProductVariant/47577488359678": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "292-807-55",
         "sku": "CARRERA-292-807-55"
       },
@@ -65814,7 +65814,7 @@
         "sku": "CARRERA-3033-807-54"
       },
       "gid://shopify/ProductVariant/47577488490750": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "308-086-53",
         "sku": "CARRERA-308-086-53"
       },
@@ -65859,7 +65859,7 @@
         "sku": "CARRERA-8892-BLX-55"
       },
       "gid://shopify/ProductVariant/47577488851198": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "8892-N9P-55",
         "sku": "CARRERA-8892-N9P-55"
       },
@@ -65979,7 +65979,7 @@
         "sku": "KS-JERI-KB7-54"
       },
       "gid://shopify/ProductVariant/47577491177726": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "KRISTINA/G/S-IWB/FF",
         "sku": "KS-KRISTINA/G/S-IWB/FF"
       },
@@ -69979,17 +69979,17 @@
         "sku": "CARRERA-288-003-57"
       },
       "gid://shopify/ProductVariant/47749749407998": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "292-086-53",
         "sku": "CARRERA-292-086-53"
       },
       "gid://shopify/ProductVariant/47749749440766": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "292-807-53",
         "sku": "CARRERA-292-807-53"
       },
       "gid://shopify/ProductVariant/47749749473534": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "292-PJP-53",
         "sku": "CARRERA-292-PJP-53"
       },
@@ -74579,7 +74579,7 @@
         "sku": "BUGATTI-11-BK/WG"
       },
       "gid://shopify/ProductVariant/47998569382142": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "12-CRY",
         "sku": "BUGATTI-12-CRY"
       },
@@ -75814,12 +75814,12 @@
         "sku": "MODO-4600-GYBLU-52"
       },
       "gid://shopify/ProductVariant/48061854089470": {
-        "qty": 10,
+        "qty": 11,
         "product_title": "4601-GOLD0-54",
         "sku": "MODO-4601-GOLD0-54"
       },
       "gid://shopify/ProductVariant/48061854286078": {
-        "qty": 8,
+        "qty": 9,
         "product_title": "4601-SIL00-54",
         "sku": "MODO-4601-SIL00-54"
       },
@@ -75894,7 +75894,7 @@
         "sku": "MODO-4632-SMK00-58"
       },
       "gid://shopify/ProductVariant/48061855072510": {
-        "qty": 10,
+        "qty": 11,
         "product_title": "4633-GOLD0-50",
         "sku": "MODO-4633-GOLD0-50"
       },
@@ -75934,7 +75934,7 @@
         "sku": "MODO-4638-PUR00-50"
       },
       "gid://shopify/ProductVariant/48061855662334": {
-        "qty": 13,
+        "qty": 14,
         "product_title": "4638-RGOLD-50",
         "sku": "MODO-4638-RGOLD-50"
       },
@@ -75969,7 +75969,7 @@
         "sku": "CARRERA-8886-PJP-50"
       },
       "gid://shopify/ProductVariant/48094137024766": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "8897-BLX-55",
         "sku": "CARRERA-8897-BLX-55"
       },
@@ -81689,7 +81689,7 @@
         "sku": "FENDI-FE40067U-30S"
       },
       "gid://shopify/ProductVariant/48349468393726": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "2018T-KB7-51",
         "sku": "CARRERA-2018T-KB7-51"
       },
@@ -82019,7 +82019,7 @@
         "sku": "MODO-4632-DNAVY-58"
       },
       "gid://shopify/ProductVariant/48354208907518": {
-        "qty": 13,
+        "qty": 14,
         "product_title": "4633-GRYBL-50",
         "sku": "MODO-4633-GRYBL-50"
       },
@@ -82839,7 +82839,7 @@
         "sku": "CARRERA-3040-KB7-53"
       },
       "gid://shopify/ProductVariant/48493136937214": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "8897-7C5-55",
         "sku": "CARRERA-8897-7C5-55"
       },
@@ -84924,7 +84924,7 @@
         "sku": "CARRERA-287-EX4-49"
       },
       "gid://shopify/ProductVariant/48648024686846": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "292/US-086-55",
         "sku": "CARRERA-292/US-086-55"
       },
@@ -84944,7 +84944,7 @@
         "sku": "CARRERA-347-KB7-53"
       },
       "gid://shopify/ProductVariant/48648024883454": {
-        "qty": 2,
+        "qty": 0,
         "product_title": "4413-08A-55",
         "sku": "CARRERA-4413-08A-55"
       },
