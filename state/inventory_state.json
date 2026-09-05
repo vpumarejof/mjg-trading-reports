@@ -32108,13 +32108,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-05T05:11:44.735735+00:00",
+    "updated_at": "2026-09-05T09:03:51.984448+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81924,
+        "total_qty": 81923,
         "sku_count": 10701,
         "product_count": 10701
       },
@@ -32122,9 +32122,9 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81924,
-        "sku_count": 3914,
-        "product_count": 3914
+        "total_qty": 81923,
+        "sku_count": 3913,
+        "product_count": 3913
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
@@ -32138,7 +32138,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 1042,
+        "total_qty": 1041,
         "sku_count": 912,
         "product_count": 912
       },
@@ -32146,9 +32146,9 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61086,
-        "sku_count": 1989,
-        "product_count": 1989
+        "total_qty": 61084,
+        "sku_count": 1988,
+        "product_count": 1988
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -32162,9 +32162,9 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81924,
-        "sku_count": 2985,
-        "product_count": 2985
+        "total_qty": 81923,
+        "sku_count": 2984,
+        "product_count": 2984
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
@@ -32178,7 +32178,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12010,
+        "total_qty": 12009,
         "sku_count": 798,
         "product_count": 798
       },
@@ -32186,7 +32186,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12010,
+        "total_qty": 12009,
         "sku_count": 798,
         "product_count": 798
       },
@@ -32194,7 +32194,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3579,
+        "total_qty": 3580,
         "sku_count": 462,
         "product_count": 462
       },
@@ -32226,9 +32226,9 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 19584,
-        "sku_count": 470,
-        "product_count": 470
+        "total_qty": 19583,
+        "sku_count": 469,
+        "product_count": 469
       },
       "gid://shopify/Collection/463407481086": {
         "title": "OPEN BOX",
@@ -32258,7 +32258,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11217,
+        "total_qty": 11218,
         "sku_count": 988,
         "product_count": 988
       },
@@ -32266,7 +32266,7 @@
         "title": "TOMMY HILFIGER",
         "handle": "tommy-hilfiger",
         "legacy_id": "391775912190",
-        "total_qty": 290,
+        "total_qty": 289,
         "sku_count": 58,
         "product_count": 58
       },
@@ -32322,7 +32322,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2433,
+        "total_qty": 2434,
         "sku_count": 192,
         "product_count": 192
       },
@@ -32642,9 +32642,9 @@
         "title": "CALVIN KLEIN",
         "handle": "calvin-klein",
         "legacy_id": "393476997374",
-        "total_qty": 47,
-        "sku_count": 16,
-        "product_count": 16
+        "total_qty": 46,
+        "sku_count": 15,
+        "product_count": 15
       },
       "gid://shopify/Collection/464057172222": {
         "title": "CALVIN KLEIN JEANS",
@@ -33058,7 +33058,7 @@
         "title": "TIFFANY & CO",
         "handle": "tiffany-co",
         "legacy_id": "483397370110",
-        "total_qty": 77,
+        "total_qty": 78,
         "sku_count": 15,
         "product_count": 15
       },
@@ -66929,7 +66929,7 @@
         "sku": "CK-CK24521-231-52"
       },
       "gid://shopify/ProductVariant/47609149554942": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "CK24522-001-52",
         "sku": "CK-CK24522-001-52"
       },
@@ -72099,7 +72099,7 @@
         "sku": "TH-TH-2057-HAM-53"
       },
       "gid://shopify/ProductVariant/47783450837246": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "2058-05L-54",
         "sku": "TH-TH-2058-05L-54"
       },
@@ -82694,7 +82694,7 @@
         "sku": "TF-TF3088-618978"
       },
       "gid://shopify/ProductVariant/48493052035326": {
-        "qty": 4,
+        "qty": 5,
         "product_title": "TF3111-62029S",
         "sku": "TF-TF3111-62029S"
       },
