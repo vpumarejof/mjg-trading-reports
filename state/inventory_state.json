@@ -32108,13 +32108,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-05T17:37:58.084225+00:00",
+    "updated_at": "2026-09-05T19:29:02.051687+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81919,
+        "total_qty": 81917,
         "sku_count": 10701,
         "product_count": 10701
       },
@@ -32122,15 +32122,15 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81919,
-        "sku_count": 3913,
-        "product_count": 3913
+        "total_qty": 81917,
+        "sku_count": 3912,
+        "product_count": 3912
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22064,
+        "total_qty": 22063,
         "sku_count": 2486,
         "product_count": 2486
       },
@@ -32162,15 +32162,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81919,
-        "sku_count": 2984,
-        "product_count": 2984
+        "total_qty": 81917,
+        "sku_count": 2983,
+        "product_count": 2983
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81506,
+        "total_qty": 81505,
         "sku_count": 2571,
         "product_count": 2571
       },
@@ -32194,9 +32194,9 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3580,
-        "sku_count": 462,
-        "product_count": 462
+        "total_qty": 3578,
+        "sku_count": 461,
+        "product_count": 461
       },
       "gid://shopify/Collection/391854031102": {
         "title": "Women's",
@@ -32258,9 +32258,9 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11216,
-        "sku_count": 988,
-        "product_count": 988
+        "total_qty": 11214,
+        "sku_count": 987,
+        "product_count": 987
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -32290,7 +32290,7 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 593,
+        "total_qty": 592,
         "sku_count": 68,
         "product_count": 68
       },
@@ -32298,7 +32298,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5926,
+        "total_qty": 5925,
         "sku_count": 494,
         "product_count": 494
       },
@@ -32322,9 +32322,9 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2433,
-        "sku_count": 192,
-        "product_count": 192
+        "total_qty": 2432,
+        "sku_count": 191,
+        "product_count": 191
       },
       "gid://shopify/Collection/391775125758": {
         "title": "NIKE",
@@ -32618,9 +32618,9 @@
         "title": "VALENTINO",
         "handle": "valentino",
         "legacy_id": "462679113982",
-        "total_qty": 98,
-        "sku_count": 19,
-        "product_count": 19
+        "total_qty": 97,
+        "sku_count": 18,
+        "product_count": 18
       },
       "gid://shopify/Collection/395943837950": {
         "title": "MOSCHINO",
@@ -71594,7 +71594,7 @@
         "sku": "VALENTINO-V-GOLD-III-VLS-138A-53"
       },
       "gid://shopify/ProductVariant/47769384419582": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "V-GOLD-III-VLS-138C-53",
         "sku": "VALENTINO-V-GOLD-III-VLS-138C-53"
       },
@@ -76719,7 +76719,7 @@
         "sku": "SF-SF2068SE-242"
       },
       "gid://shopify/ProductVariant/48094649057534": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "SF2068SE-259",
         "sku": "SF-SF2068SE-259"
       },
