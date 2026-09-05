@@ -32108,13 +32108,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-05T09:03:51.984448+00:00",
+    "updated_at": "2026-09-05T12:40:13.746349+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81923,
+        "total_qty": 81920,
         "sku_count": 10701,
         "product_count": 10701
       },
@@ -32122,7 +32122,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81923,
+        "total_qty": 81920,
         "sku_count": 3913,
         "product_count": 3913
       },
@@ -32130,7 +32130,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22065,
+        "total_qty": 22064,
         "sku_count": 2486,
         "product_count": 2486
       },
@@ -32146,7 +32146,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61084,
+        "total_qty": 61083,
         "sku_count": 1988,
         "product_count": 1988
       },
@@ -32162,7 +32162,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81923,
+        "total_qty": 81920,
         "sku_count": 2984,
         "product_count": 2984
       },
@@ -32170,7 +32170,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81511,
+        "total_qty": 81508,
         "sku_count": 2572,
         "product_count": 2572
       },
@@ -32258,7 +32258,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11218,
+        "total_qty": 11217,
         "sku_count": 988,
         "product_count": 988
       },
@@ -32322,7 +32322,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2434,
+        "total_qty": 2433,
         "sku_count": 192,
         "product_count": 192
       },
@@ -32458,7 +32458,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 24546,
+        "total_qty": 24545,
         "sku_count": 36,
         "product_count": 36
       },
@@ -32522,7 +32522,7 @@
         "title": "KARL LAGERFELD",
         "handle": "karl-lagerfeld",
         "legacy_id": "422907576574",
-        "total_qty": 331,
+        "total_qty": 330,
         "sku_count": 37,
         "product_count": 37
       },
@@ -32778,7 +32778,7 @@
         "title": "ANDY WOLF",
         "handle": "andy-wolf-1",
         "legacy_id": "469566619902",
-        "total_qty": 1017,
+        "total_qty": 1016,
         "sku_count": 268,
         "product_count": 268
       },
@@ -44904,7 +44904,7 @@
         "sku": "MJ-MARC-463-0086-53"
       },
       "gid://shopify/ProductVariant/46059134714110": {
-        "qty": 9607,
+        "qty": 9606,
         "product_title": "DropShip",
         "sku": "DropShip"
       },
@@ -67739,7 +67739,7 @@
         "sku": "AW-4525-I-57"
       },
       "gid://shopify/ProductVariant/47655176929534": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "4525-K-57",
         "sku": "AW-4525-K-57"
       },
@@ -76839,7 +76839,7 @@
         "sku": "KL-KL6199S-316"
       },
       "gid://shopify/ProductVariant/48113352573182": {
-        "qty": 16,
+        "qty": 15,
         "product_title": "KL6209S-601",
         "sku": "KL-KL6209S-601"
       },
