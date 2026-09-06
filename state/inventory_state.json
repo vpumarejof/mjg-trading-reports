@@ -32108,13 +32108,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-06T09:58:05.056137+00:00",
+    "updated_at": "2026-09-06T13:24:06.065549+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81896,
+        "total_qty": 81895,
         "sku_count": 10701,
         "product_count": 10701
       },
@@ -32122,7 +32122,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81896,
+        "total_qty": 81895,
         "sku_count": 3908,
         "product_count": 3908
       },
@@ -32146,7 +32146,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61076,
+        "total_qty": 61075,
         "sku_count": 1984,
         "product_count": 1984
       },
@@ -32162,7 +32162,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81896,
+        "total_qty": 81895,
         "sku_count": 2978,
         "product_count": 2978
       },
@@ -32170,7 +32170,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81489,
+        "total_qty": 81488,
         "sku_count": 2571,
         "product_count": 2571
       },
@@ -32346,7 +32346,7 @@
         "title": "Kid's Eyeglasses",
         "handle": "kids-eyeglasses",
         "legacy_id": "408131305726",
-        "total_qty": 21672,
+        "total_qty": 21671,
         "sku_count": 105,
         "product_count": 105
       },
@@ -32434,7 +32434,7 @@
         "title": "Kids",
         "handle": "kids",
         "legacy_id": "454431080702",
-        "total_qty": 21667,
+        "total_qty": 21666,
         "sku_count": 137,
         "product_count": 137
       },
@@ -32658,7 +32658,7 @@
         "title": "FLEXON",
         "handle": "flexon",
         "legacy_id": "466401853694",
-        "total_qty": 148,
+        "total_qty": 147,
         "sku_count": 31,
         "product_count": 31
       },
@@ -86069,7 +86069,7 @@
         "sku": "FLEXON-J4022-N-313-51"
       },
       "gid://shopify/ProductVariant/48698372686078": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "J4022-N-404-49",
         "sku": "FLEXON-J4022-N-404-49"
       },
