@@ -32108,13 +32108,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-06T13:24:06.065549+00:00",
+    "updated_at": "2026-09-06T16:21:51.914929+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81895,
+        "total_qty": 81893,
         "sku_count": 10701,
         "product_count": 10701
       },
@@ -32122,7 +32122,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81895,
+        "total_qty": 81893,
         "sku_count": 3908,
         "product_count": 3908
       },
@@ -32130,7 +32130,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22063,
+        "total_qty": 22061,
         "sku_count": 2486,
         "product_count": 2486
       },
@@ -32162,7 +32162,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81895,
+        "total_qty": 81893,
         "sku_count": 2978,
         "product_count": 2978
       },
@@ -32170,7 +32170,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81488,
+        "total_qty": 81486,
         "sku_count": 2571,
         "product_count": 2571
       },
@@ -32258,7 +32258,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11200,
+        "total_qty": 11198,
         "sku_count": 986,
         "product_count": 986
       },
@@ -32322,7 +32322,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2432,
+        "total_qty": 2430,
         "sku_count": 191,
         "product_count": 191
       },
@@ -32506,7 +32506,7 @@
         "title": "QUAY",
         "handle": "quay",
         "legacy_id": "472482939134",
-        "total_qty": 837,
+        "total_qty": 835,
         "sku_count": 70,
         "product_count": 70
       },
@@ -77709,7 +77709,7 @@
         "sku": "QUAY-NO-NS-2575-BLK/BPLPK"
       },
       "gid://shopify/ProductVariant/48145123082494": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "HIGH KEY TWIST-79960",
         "sku": "QUAY-NO-NS-2696-DTRT/GRN"
       },
@@ -83104,7 +83104,7 @@
         "sku": "QUAY-NO-NS-2486-BLK/PLMTPE"
       },
       "gid://shopify/ProductVariant/48560872915198": {
-        "qty": 17,
+        "qty": 16,
         "product_title": "HOT TAKE-42976",
         "sku": "QUAY-QU-000772-GLD/SMKPNK"
       },
