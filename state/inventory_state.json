@@ -32108,13 +32108,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-06T01:09:01.892718+00:00",
+    "updated_at": "2026-09-06T05:54:50.731572+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81903,
+        "total_qty": 81897,
         "sku_count": 10701,
         "product_count": 10701
       },
@@ -32122,9 +32122,9 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81903,
-        "sku_count": 3910,
-        "product_count": 3910
+        "total_qty": 81897,
+        "sku_count": 3908,
+        "product_count": 3908
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
@@ -32146,9 +32146,9 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61078,
-        "sku_count": 1985,
-        "product_count": 1985
+        "total_qty": 61076,
+        "sku_count": 1984,
+        "product_count": 1984
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -32162,15 +32162,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81903,
-        "sku_count": 2980,
-        "product_count": 2980
+        "total_qty": 81897,
+        "sku_count": 2978,
+        "product_count": 2978
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81494,
+        "total_qty": 81490,
         "sku_count": 2571,
         "product_count": 2571
       },
@@ -32178,23 +32178,23 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12006,
-        "sku_count": 796,
-        "product_count": 796
+        "total_qty": 12005,
+        "sku_count": 795,
+        "product_count": 795
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12006,
-        "sku_count": 796,
-        "product_count": 796
+        "total_qty": 12005,
+        "sku_count": 795,
+        "product_count": 795
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3572,
+        "total_qty": 3570,
         "sku_count": 460,
         "product_count": 460
       },
@@ -32258,9 +32258,9 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11205,
-        "sku_count": 987,
-        "product_count": 987
+        "total_qty": 11201,
+        "sku_count": 986,
+        "product_count": 986
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -32274,9 +32274,9 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2943,
-        "sku_count": 308,
-        "product_count": 308
+        "total_qty": 2941,
+        "sku_count": 307,
+        "product_count": 307
       },
       "gid://shopify/Collection/391774109950": {
         "title": "DRAGON",
@@ -32290,7 +32290,7 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 591,
+        "total_qty": 589,
         "sku_count": 68,
         "product_count": 68
       },
@@ -32298,7 +32298,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5920,
+        "total_qty": 5918,
         "sku_count": 494,
         "product_count": 494
       },
@@ -32514,9 +32514,9 @@
         "title": "DAVID BECKHAM",
         "handle": "david-beckham",
         "legacy_id": "397089702142",
-        "total_qty": 558,
-        "sku_count": 70,
-        "product_count": 70
+        "total_qty": 556,
+        "sku_count": 69,
+        "product_count": 69
       },
       "gid://shopify/Collection/422907576574": {
         "title": "KARL LAGERFELD",
@@ -32794,9 +32794,9 @@
         "title": "DKNY",
         "handle": "dkny",
         "legacy_id": "395943870718",
-        "total_qty": 359,
-        "sku_count": 41,
-        "product_count": 41
+        "total_qty": 358,
+        "sku_count": 40,
+        "product_count": 40
       },
       "gid://shopify/Collection/472287772926": {
         "title": "HARRY LARY",
@@ -33026,7 +33026,7 @@
         "title": "MODO",
         "handle": "modo",
         "legacy_id": "481959280894",
-        "total_qty": 351,
+        "total_qty": 350,
         "sku_count": 30,
         "product_count": 30
       },
@@ -69434,7 +69434,7 @@
         "sku": "DKNY-DK5063-237-54"
       },
       "gid://shopify/ProductVariant/47730447220990": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "DK5063-244-54",
         "sku": "DKNY-DK5063-244-54"
       },
@@ -76724,7 +76724,7 @@
         "sku": "SF-SF2068SE-259"
       },
       "gid://shopify/ProductVariant/48094649123070": {
-        "qty": 4,
+        "qty": 2,
         "product_title": "SF2068SE-606",
         "sku": "SF-SF2068SE-606"
       },
@@ -77079,7 +77079,7 @@
         "sku": "DB-99/VISOR-2M2/99"
       },
       "gid://shopify/ProductVariant/48121213321470": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "99/VISOR-WR7/W7",
         "sku": "DB-99/VISOR-WR7/W7"
       },
@@ -81984,7 +81984,7 @@
         "sku": "MODO-4609-SPUR0-52"
       },
       "gid://shopify/ProductVariant/48354208448766": {
-        "qty": 13,
+        "qty": 12,
         "product_title": "4612-NAVY0-54",
         "sku": "MODO-4612-NAVY0-54"
       },
@@ -84844,7 +84844,7 @@
         "sku": "DB-DB-7100/S-807/IR"
       },
       "gid://shopify/ProductVariant/48648016953598": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "DB-7102/S-LOJ/HA",
         "sku": "DB-DB-7102/S-LOJ/HA"
       },
