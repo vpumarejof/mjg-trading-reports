@@ -32108,13 +32108,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-05T23:17:17.692102+00:00",
+    "updated_at": "2026-09-06T01:09:01.892718+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81904,
+        "total_qty": 81903,
         "sku_count": 10701,
         "product_count": 10701
       },
@@ -32122,7 +32122,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81904,
+        "total_qty": 81903,
         "sku_count": 3910,
         "product_count": 3910
       },
@@ -32138,7 +32138,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 1040,
+        "total_qty": 1039,
         "sku_count": 912,
         "product_count": 912
       },
@@ -32146,7 +32146,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61079,
+        "total_qty": 61078,
         "sku_count": 1985,
         "product_count": 1985
       },
@@ -32162,7 +32162,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81904,
+        "total_qty": 81903,
         "sku_count": 2980,
         "product_count": 2980
       },
@@ -32170,7 +32170,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81495,
+        "total_qty": 81494,
         "sku_count": 2571,
         "product_count": 2571
       },
@@ -32178,7 +32178,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12007,
+        "total_qty": 12006,
         "sku_count": 796,
         "product_count": 796
       },
@@ -32186,7 +32186,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12007,
+        "total_qty": 12006,
         "sku_count": 796,
         "product_count": 796
       },
@@ -32194,7 +32194,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3573,
+        "total_qty": 3572,
         "sku_count": 460,
         "product_count": 460
       },
@@ -32218,7 +32218,7 @@
         "title": "GUCCI",
         "handle": "gucci",
         "legacy_id": "421341364478",
-        "total_qty": 492,
+        "total_qty": 491,
         "sku_count": 301,
         "product_count": 301
       },
@@ -32530,7 +32530,7 @@
         "title": "Gucci",
         "handle": "gucci-1",
         "legacy_id": "407282450686",
-        "total_qty": 492,
+        "total_qty": 491,
         "sku_count": 98,
         "product_count": 98
       },
@@ -79209,7 +79209,7 @@
         "sku": "GUCCI-GG0025O-013-56"
       },
       "gid://shopify/ProductVariant/48288329924862": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "GG0025O-014-56",
         "sku": "GUCCI-GG0025O-014-56"
       },
