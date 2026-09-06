@@ -32108,13 +32108,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-06T20:37:50.267880+00:00",
+    "updated_at": "2026-09-06T22:20:43.325854+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81885,
+        "total_qty": 81884,
         "sku_count": 10701,
         "product_count": 10701
       },
@@ -32122,7 +32122,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81885,
+        "total_qty": 81884,
         "sku_count": 3908,
         "product_count": 3908
       },
@@ -32162,7 +32162,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81885,
+        "total_qty": 81884,
         "sku_count": 2978,
         "product_count": 2978
       },
@@ -32170,7 +32170,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81478,
+        "total_qty": 81477,
         "sku_count": 2571,
         "product_count": 2571
       },
@@ -32194,7 +32194,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3568,
+        "total_qty": 3567,
         "sku_count": 460,
         "product_count": 460
       },
@@ -32258,7 +32258,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11193,
+        "total_qty": 11192,
         "sku_count": 986,
         "product_count": 986
       },
@@ -32274,7 +32274,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2941,
+        "total_qty": 2940,
         "sku_count": 307,
         "product_count": 307
       },
@@ -33010,7 +33010,7 @@
         "title": "BUGATTI",
         "handle": "bugatti",
         "legacy_id": "480545439998",
-        "total_qty": 209,
+        "total_qty": 208,
         "sku_count": 49,
         "product_count": 49
       },
@@ -74204,7 +74204,7 @@
         "sku": "BUGATTI-02-BK"
       },
       "gid://shopify/ProductVariant/47931242742014": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "02-DK.BLUE",
         "sku": "BUGATTI-02-DK_BLUE"
       },
