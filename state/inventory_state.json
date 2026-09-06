@@ -32108,13 +32108,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-06T05:54:50.731572+00:00",
+    "updated_at": "2026-09-06T09:58:05.056137+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81897,
+        "total_qty": 81896,
         "sku_count": 10701,
         "product_count": 10701
       },
@@ -32122,7 +32122,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81897,
+        "total_qty": 81896,
         "sku_count": 3908,
         "product_count": 3908
       },
@@ -32162,7 +32162,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81897,
+        "total_qty": 81896,
         "sku_count": 2978,
         "product_count": 2978
       },
@@ -32170,7 +32170,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81490,
+        "total_qty": 81489,
         "sku_count": 2571,
         "product_count": 2571
       },
@@ -32258,7 +32258,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11201,
+        "total_qty": 11200,
         "sku_count": 986,
         "product_count": 986
       },
@@ -32298,7 +32298,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5918,
+        "total_qty": 5917,
         "sku_count": 494,
         "product_count": 494
       },
@@ -32794,7 +32794,7 @@
         "title": "DKNY",
         "handle": "dkny",
         "legacy_id": "395943870718",
-        "total_qty": 358,
+        "total_qty": 357,
         "sku_count": 40,
         "product_count": 40
       },
@@ -85174,7 +85174,7 @@
         "sku": "DKNY-DK119S-070"
       },
       "gid://shopify/ProductVariant/48648154415358": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "DK547S-237",
         "sku": "DKNY-DK547S-237"
       },
