@@ -32108,13 +32108,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-08T04:56:22.104946+00:00",
+    "updated_at": "2026-09-08T09:17:40.016030+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81829,
+        "total_qty": 81825,
         "sku_count": 10701,
         "product_count": 10701
       },
@@ -32122,7 +32122,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81829,
+        "total_qty": 81825,
         "sku_count": 3906,
         "product_count": 3906
       },
@@ -32138,7 +32138,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 1037,
+        "total_qty": 1036,
         "sku_count": 912,
         "product_count": 912
       },
@@ -32146,7 +32146,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61043,
+        "total_qty": 61042,
         "sku_count": 1983,
         "product_count": 1983
       },
@@ -32162,7 +32162,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81829,
+        "total_qty": 81825,
         "sku_count": 2976,
         "product_count": 2976
       },
@@ -32170,9 +32170,9 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81412,
-        "sku_count": 2559,
-        "product_count": 2559
+        "total_qty": 81407,
+        "sku_count": 2558,
+        "product_count": 2558
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
@@ -32258,7 +32258,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11170,
+        "total_qty": 11167,
         "sku_count": 985,
         "product_count": 985
       },
@@ -32298,7 +32298,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5904,
+        "total_qty": 5901,
         "sku_count": 493,
         "product_count": 493
       },
@@ -32346,7 +32346,7 @@
         "title": "Kid's Eyeglasses",
         "handle": "kids-eyeglasses",
         "legacy_id": "408131305726",
-        "total_qty": 21669,
+        "total_qty": 21668,
         "sku_count": 105,
         "product_count": 105
       },
@@ -32426,7 +32426,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 745,
+        "total_qty": 744,
         "sku_count": 131,
         "product_count": 131
       },
@@ -32434,7 +32434,7 @@
         "title": "Kids",
         "handle": "kids",
         "legacy_id": "454431080702",
-        "total_qty": 21664,
+        "total_qty": 21663,
         "sku_count": 137,
         "product_count": 137
       },
@@ -32522,7 +32522,7 @@
         "title": "KARL LAGERFELD",
         "handle": "karl-lagerfeld",
         "legacy_id": "422907576574",
-        "total_qty": 328,
+        "total_qty": 326,
         "sku_count": 37,
         "product_count": 37
       },
@@ -32978,7 +32978,7 @@
         "title": "CONVERSE",
         "handle": "converse",
         "legacy_id": "391773978878",
-        "total_qty": 33,
+        "total_qty": 32,
         "sku_count": 7,
         "product_count": 7
       },
@@ -44339,7 +44339,7 @@
         "sku": "KS-PAISLEIGH/S-0S6F/9O"
       },
       "gid://shopify/ProductVariant/45901595279614": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "PAISLEIGH-S-0VK6-9O",
         "sku": "KS-PAISLEIGH/S-0VK6/9O"
       },
@@ -69284,7 +69284,7 @@
         "sku": "CONVERSE-CV1022Y-046-48"
       },
       "gid://shopify/ProductVariant/47730443944190": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "CV1022Y-070-48",
         "sku": "CONVERSE-CV1022Y-070-48"
       },
@@ -73444,7 +73444,7 @@
         "sku": "KL-KL6208S-001"
       },
       "gid://shopify/ProductVariant/47845510349054": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "KL6208S-242",
         "sku": "KL-KL6208S-242"
       },
@@ -81069,7 +81069,7 @@
         "sku": "KL-KL6139S-240"
       },
       "gid://shopify/ProductVariant/48307063128318": {
-        "qty": 29,
+        "qty": 28,
         "product_title": "KL6180S-N-232",
         "sku": "KL-KL6180S-N-232"
       },
