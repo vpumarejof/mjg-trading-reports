@@ -32321,13 +32321,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-08T20:17:16.650306+00:00",
+    "updated_at": "2026-09-08T22:49:19.790359+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82582,
+        "total_qty": 82553,
         "sku_count": 10772,
         "product_count": 10772
       },
@@ -32335,7 +32335,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82582,
+        "total_qty": 82553,
         "sku_count": 3977,
         "product_count": 3977
       },
@@ -32351,7 +32351,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 1036,
+        "total_qty": 1035,
         "sku_count": 912,
         "product_count": 912
       },
@@ -32359,7 +32359,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61599,
+        "total_qty": 61596,
         "sku_count": 2043,
         "product_count": 2043
       },
@@ -32375,7 +32375,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82582,
+        "total_qty": 82553,
         "sku_count": 3046,
         "product_count": 3046
       },
@@ -32383,9 +32383,9 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 82161,
-        "sku_count": 2625,
-        "product_count": 2625
+        "total_qty": 82130,
+        "sku_count": 2623,
+        "product_count": 2623
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
@@ -32471,7 +32471,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11367,
+        "total_qty": 11341,
         "sku_count": 995,
         "product_count": 995
       },
@@ -32487,7 +32487,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2935,
+        "total_qty": 2933,
         "sku_count": 307,
         "product_count": 307
       },
@@ -32511,7 +32511,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 6033,
+        "total_qty": 6006,
         "sku_count": 500,
         "product_count": 500
       },
@@ -32639,7 +32639,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 743,
+        "total_qty": 734,
         "sku_count": 131,
         "product_count": 131
       },
@@ -32711,7 +32711,7 @@
         "title": "MARC JACOBS",
         "handle": "marc-jacobs",
         "legacy_id": "391774732542",
-        "total_qty": 312,
+        "total_qty": 307,
         "sku_count": 58,
         "product_count": 58
       },
@@ -32847,9 +32847,9 @@
         "title": "MISSONI",
         "handle": "missoni",
         "legacy_id": "408673911038",
-        "total_qty": 769,
-        "sku_count": 65,
-        "product_count": 65
+        "total_qty": 764,
+        "sku_count": 64,
+        "product_count": 64
       },
       "gid://shopify/Collection/393476997374": {
         "title": "CALVIN KLEIN",
@@ -33159,7 +33159,7 @@
         "title": "LONGCHAMP",
         "handle": "longchamp",
         "legacy_id": "476032958718",
-        "total_qty": 888,
+        "total_qty": 877,
         "sku_count": 53,
         "product_count": 53
       },
@@ -33319,7 +33319,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 1500,
+        "total_qty": 1496,
         "sku_count": 102,
         "product_count": 102
       },
@@ -51228,7 +51228,7 @@
         "sku": "MISSONI-MIS-0107/S-0X19/3X"
       },
       "gid://shopify/ProductVariant/46646963306750": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "MIS-0107/S-0Z9K/HA",
         "sku": "MISSONI-MIS-0107/S-0Z9K/HA"
       },
@@ -66398,7 +66398,7 @@
         "sku": "MISSONI-MIS-0088/S-MQE/GA"
       },
       "gid://shopify/ProductVariant/47577493995774": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "MIS-0089/S-1EI/9O",
         "sku": "MISSONI-MIS-0089/S-1EI/9O"
       },
@@ -66408,7 +66408,7 @@
         "sku": "MISSONI-MIS-0096/S-J5G/BC"
       },
       "gid://shopify/ProductVariant/47577494716670": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "MIS-0112/S-L7W/O9",
         "sku": "MISSONI-MIS-0112/S-L7W/O9"
       },
@@ -70358,7 +70358,7 @@
         "sku": "MISSONI-MIS-0083/S-S68/3X"
       },
       "gid://shopify/ProductVariant/47749755175166": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "MIS-0086/S-MQE/GA",
         "sku": "MISSONI-MIS-0086/S-MQE/GA"
       },
@@ -75133,7 +75133,7 @@
         "sku": "MJ-MARC-797/S-C9A/O2"
       },
       "gid://shopify/ProductVariant/48011619500286": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "MARC-803/S-8KJ/IR",
         "sku": "MJ-MARC-803/S-8KJ/IR"
       },
@@ -76858,7 +76858,7 @@
         "sku": "LONGCHAMP-LO2766-690-53"
       },
       "gid://shopify/ProductVariant/48094647943422": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "LO712S-N-011",
         "sku": "LONGCHAMP-LO712S-N-011"
       },
@@ -77648,7 +77648,7 @@
         "sku": "MJ-MARC-561-RHL-56"
       },
       "gid://shopify/ProductVariant/48121215877374": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "MARC-646/S/US-WR9/LA",
         "sku": "MJ-MARC-646/S/US-WR9/LA"
       },
@@ -78763,7 +78763,7 @@
         "sku": "LONGCHAMP-LO686S-221"
       },
       "gid://shopify/ProductVariant/48175301460222": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "LO687S-001",
         "sku": "LONGCHAMP-LO687S-001"
       },
@@ -78773,12 +78773,12 @@
         "sku": "LONGCHAMP-LO687S-214"
       },
       "gid://shopify/ProductVariant/48175301558526": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "LO727S-239",
         "sku": "LONGCHAMP-LO727S-239"
       },
       "gid://shopify/ProductVariant/48175301591294": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "LO729S-525",
         "sku": "LONGCHAMP-LO729S-525"
       },
@@ -81548,7 +81548,7 @@
         "sku": "MJ-MJ-1105/S-YQL/HA"
       },
       "gid://shopify/ProductVariant/48336089645310": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "MJ-1112/S-EPZ/9O",
         "sku": "MJ-MJ-1112/S-EPZ/9O"
       },
@@ -84813,17 +84813,17 @@
         "sku": "LONGCHAMP-LO777S-N-211"
       },
       "gid://shopify/ProductVariant/48637353787646": {
-        "qty": 21,
+        "qty": 20,
         "product_title": "LO779S-N-234",
         "sku": "LONGCHAMP-LO779S-N-234"
       },
       "gid://shopify/ProductVariant/48637353820414": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "LO793S-200",
         "sku": "LONGCHAMP-LO793S-200"
       },
       "gid://shopify/ProductVariant/48637353918718": {
-        "qty": 17,
+        "qty": 16,
         "product_title": "LO796S-001",
         "sku": "LONGCHAMP-LO796S-001"
       },
@@ -85098,12 +85098,12 @@
         "sku": "MJ-MARC-646/S/US-XLT/9O"
       },
       "gid://shopify/ProductVariant/48648017182974": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "MARC-647/S/US-XLT/9O",
         "sku": "MJ-MARC-647/S/US-XLT/9O"
       },
       "gid://shopify/ProductVariant/48648017215742": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "MJ-1110/S-086/HA",
         "sku": "MJ-MJ-1110/S-086/HA"
       },
@@ -85998,7 +85998,7 @@
         "sku": "KS-DESI/F/S/US-807/9O"
       },
       "gid://shopify/ProductVariant/48683730206974": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "DESI/F/S/US-HT8/HA",
         "sku": "KS-DESI/F/S/US-HT8/HA"
       },
@@ -86018,7 +86018,7 @@
         "sku": "KS-DOMINICA/S-8CQ/9O"
       },
       "gid://shopify/ProductVariant/48683730338046": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "FLYNNIE/G/S-0B0/HA",
         "sku": "KS-FLYNNIE/G/S-0B0/HA"
       },
@@ -86038,7 +86038,7 @@
         "sku": "KS-JANECE/G/S-3YG/GB"
       },
       "gid://shopify/ProductVariant/48683730501886": {
-        "qty": 5,
+        "qty": 3,
         "product_title": "JAYDA/G/S-305/HA",
         "sku": "KS-JAYDA/G/S-305/HA"
       },
@@ -86053,7 +86053,7 @@
         "sku": "KS-JOSI/S-HMW/9O"
       },
       "gid://shopify/ProductVariant/48683730632958": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "JOSI/S-SK4/3X",
         "sku": "KS-JOSI/S-SK4/3X"
       },
@@ -86063,7 +86063,7 @@
         "sku": "KS-KIYA2/G/S/US-086/HA"
       },
       "gid://shopify/ProductVariant/48683730698494": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "MARIGOLD/S-2TB/WJ",
         "sku": "KS-MARIGOLD/S-2TB/WJ"
       },
@@ -86073,7 +86073,7 @@
         "sku": "KS-MELANIE/S-PJP/08"
       },
       "gid://shopify/ProductVariant/48683730764030": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "NAOMI/S-807/9O",
         "sku": "KS-NAOMI/S-807/9O"
       },
@@ -86088,12 +86088,12 @@
         "sku": "KS-NATHALIE/G/S/US-807/FF"
       },
       "gid://shopify/ProductVariant/48683730862334": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "NAVY/G/S-000/HA",
         "sku": "KS-NAVY/G/S-000/HA"
       },
       "gid://shopify/ProductVariant/48683730895102": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "WINSLET/G/S-PJP/GB",
         "sku": "KS-WINSLET/G/S-PJP/GB"
       },
@@ -86798,12 +86798,12 @@
         "sku": "LONGCHAMP-LO158S-N-713"
       },
       "gid://shopify/ProductVariant/48840665628926": {
-        "qty": 35,
+        "qty": 34,
         "product_title": "LO158S-N-721",
         "sku": "LONGCHAMP-LO158S-N-721"
       },
       "gid://shopify/ProductVariant/48840665661694": {
-        "qty": 35,
+        "qty": 34,
         "product_title": "LO158S-N-728",
         "sku": "LONGCHAMP-LO158S-N-728"
       },
@@ -86813,12 +86813,12 @@
         "sku": "LONGCHAMP-LO158S-N-729"
       },
       "gid://shopify/ProductVariant/48840666185982": {
-        "qty": 35,
+        "qty": 34,
         "product_title": "LO162S-N-719",
         "sku": "LONGCHAMP-LO162S-N-719"
       },
       "gid://shopify/ProductVariant/48840666218750": {
-        "qty": 35,
+        "qty": 34,
         "product_title": "LO162S-N-750",
         "sku": "LONGCHAMP-LO162S-N-750"
       },
