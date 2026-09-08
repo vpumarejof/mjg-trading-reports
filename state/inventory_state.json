@@ -32108,13 +32108,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-08T00:22:27.042969+00:00",
+    "updated_at": "2026-09-08T04:56:22.104946+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81835,
+        "total_qty": 81829,
         "sku_count": 10701,
         "product_count": 10701
       },
@@ -32122,7 +32122,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81835,
+        "total_qty": 81829,
         "sku_count": 3906,
         "product_count": 3906
       },
@@ -32146,7 +32146,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61049,
+        "total_qty": 61043,
         "sku_count": 1983,
         "product_count": 1983
       },
@@ -32162,7 +32162,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81835,
+        "total_qty": 81829,
         "sku_count": 2976,
         "product_count": 2976
       },
@@ -32170,15 +32170,15 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81420,
-        "sku_count": 2561,
-        "product_count": 2561
+        "total_qty": 81412,
+        "sku_count": 2559,
+        "product_count": 2559
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 11987,
+        "total_qty": 11981,
         "sku_count": 794,
         "product_count": 794
       },
@@ -32186,7 +32186,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 11987,
+        "total_qty": 11981,
         "sku_count": 794,
         "product_count": 794
       },
@@ -32402,7 +32402,7 @@
         "title": "CAZAL",
         "handle": "cazal",
         "legacy_id": "400594534654",
-        "total_qty": 70,
+        "total_qty": 64,
         "sku_count": 12,
         "product_count": 12
       },
@@ -40409,7 +40409,7 @@
         "sku": "CAZAL-1255-C002-55"
       },
       "gid://shopify/ProductVariant/44246156869886": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "4279-C002-54",
         "sku": "CAZAL-4279-C002-54"
       },
@@ -41184,17 +41184,17 @@
         "sku": "CAZAL-4284-C003-53"
       },
       "gid://shopify/ProductVariant/44821343174910": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "4284-C002-53",
         "sku": "CAZAL-4284-C002-53"
       },
       "gid://shopify/ProductVariant/44821343207678": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "4284-C004-53",
         "sku": "CAZAL-4284-C004-53"
       },
       "gid://shopify/ProductVariant/44821349564670": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "4294-C001-53",
         "sku": "CAZAL-4294-C001-53"
       },
@@ -41204,7 +41204,7 @@
         "sku": "CAZAL-4294-C002-53"
       },
       "gid://shopify/ProductVariant/44821350514942": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "4294-C003-53",
         "sku": "CAZAL-4294-C003-53"
       },
@@ -45564,7 +45564,7 @@
         "sku": "CAZAL-4258-C001-52"
       },
       "gid://shopify/ProductVariant/46131582370046": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "4256-C003-53",
         "sku": "CAZAL-4256-C003-53"
       },
