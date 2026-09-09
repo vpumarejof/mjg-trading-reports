@@ -32321,13 +32321,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-09T17:59:23.974951+00:00",
+    "updated_at": "2026-09-09T20:35:56.765564+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82470,
+        "total_qty": 82465,
         "sku_count": 10772,
         "product_count": 10772
       },
@@ -32335,15 +32335,15 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82470,
-        "sku_count": 3973,
-        "product_count": 3973
+        "total_qty": 82465,
+        "sku_count": 3974,
+        "product_count": 3974
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22252,
+        "total_qty": 22250,
         "sku_count": 2506,
         "product_count": 2506
       },
@@ -32359,9 +32359,9 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61534,
-        "sku_count": 2035,
-        "product_count": 2035
+        "total_qty": 61532,
+        "sku_count": 2036,
+        "product_count": 2036
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -32375,33 +32375,33 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82470,
-        "sku_count": 3038,
-        "product_count": 3038
+        "total_qty": 82465,
+        "sku_count": 3039,
+        "product_count": 3039
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 82050,
-        "sku_count": 2618,
-        "product_count": 2618
+        "total_qty": 82042,
+        "sku_count": 2616,
+        "product_count": 2616
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
         "total_qty": 12202,
-        "sku_count": 815,
-        "product_count": 815
+        "sku_count": 816,
+        "product_count": 816
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
         "total_qty": 12202,
-        "sku_count": 815,
-        "product_count": 815
+        "sku_count": 816,
+        "product_count": 816
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
@@ -32439,7 +32439,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 19718,
+        "total_qty": 19716,
         "sku_count": 486,
         "product_count": 486
       },
@@ -32471,7 +32471,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11321,
+        "total_qty": 11318,
         "sku_count": 995,
         "product_count": 995
       },
@@ -32511,7 +32511,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5997,
+        "total_qty": 5994,
         "sku_count": 500,
         "product_count": 500
       },
@@ -32639,7 +32639,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 731,
+        "total_qty": 728,
         "sku_count": 131,
         "product_count": 131
       },
@@ -32871,7 +32871,7 @@
         "title": "FLEXON",
         "handle": "flexon",
         "legacy_id": "466401853694",
-        "total_qty": 146,
+        "total_qty": 145,
         "sku_count": 32,
         "product_count": 32
       },
@@ -32975,9 +32975,9 @@
         "title": "COCO SONG",
         "handle": "coco-song",
         "legacy_id": "467688259838",
-        "total_qty": 133,
-        "sku_count": 37,
-        "product_count": 37
+        "total_qty": 134,
+        "sku_count": 38,
+        "product_count": 38
       },
       "gid://shopify/Collection/391771324670": {
         "title": "BURBERRY",
@@ -32991,7 +32991,7 @@
         "title": "ANDY WOLF",
         "handle": "andy-wolf-1",
         "legacy_id": "469566619902",
-        "total_qty": 1010,
+        "total_qty": 1009,
         "sku_count": 268,
         "product_count": 268
       },
@@ -32999,7 +32999,7 @@
         "title": "DENIM",
         "handle": "denim",
         "legacy_id": "470247014654",
-        "total_qty": 28,
+        "total_qty": 27,
         "sku_count": 10,
         "product_count": 10
       },
@@ -59688,7 +59688,7 @@
         "sku": "DENIM-136-0003-52"
       },
       "gid://shopify/ProductVariant/47180867600638": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "136-01D1-52",
         "sku": "DENIM-136-01D1-52"
       },
@@ -60408,7 +60408,7 @@
         "sku": "CS-YORK-BLUES-CV243.04-09"
       },
       "gid://shopify/ProductVariant/47272817262846": {
-        "qty": 0,
+        "qty": 1,
         "product_title": "NELSONS-DREAM-CV244.02-09",
         "sku": "CS-NELSONS-DREAM-CV244.02-09"
       },
@@ -67878,7 +67878,7 @@
         "sku": "AW-4515-H-51"
       },
       "gid://shopify/ProductVariant/47655176241406": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "4515-I-51",
         "sku": "AW-4515-I-51"
       },
@@ -77368,7 +77368,7 @@
         "sku": "KS-BRYNNE/G/S-40G/HA"
       },
       "gid://shopify/ProductVariant/48121213747454": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "BRYNNE/G/S-GF5/9O",
         "sku": "KS-BRYNNE/G/S-GF5/9O"
       },
@@ -78698,7 +78698,7 @@
         "sku": "MJ-MARC-659/S-086/08"
       },
       "gid://shopify/ProductVariant/48174871773438": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "DIONNA/S-807/WJ",
         "sku": "KS-DIONNA/S-807/WJ"
       },
@@ -86053,7 +86053,7 @@
         "sku": "KS-JOSI/S-HMW/9O"
       },
       "gid://shopify/ProductVariant/48683730632958": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "JOSI/S-SK4/3X",
         "sku": "KS-JOSI/S-SK4/3X"
       },
@@ -86313,7 +86313,7 @@
         "sku": "FLEXON-J4026-N-070-50"
       },
       "gid://shopify/ProductVariant/48698372882686": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "MAE-412-51",
         "sku": "FLEXON-MAE-412-51"
       },
