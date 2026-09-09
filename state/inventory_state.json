@@ -32321,13 +32321,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-09T10:06:47.562184+00:00",
+    "updated_at": "2026-09-09T14:33:10.210858+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82483,
+        "total_qty": 82479,
         "sku_count": 10772,
         "product_count": 10772
       },
@@ -32335,9 +32335,9 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82483,
-        "sku_count": 3972,
-        "product_count": 3972
+        "total_qty": 82479,
+        "sku_count": 3973,
+        "product_count": 3973
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
@@ -32359,9 +32359,9 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61536,
-        "sku_count": 2034,
-        "product_count": 2034
+        "total_qty": 61534,
+        "sku_count": 2035,
+        "product_count": 2035
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -32375,33 +32375,33 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82483,
-        "sku_count": 3037,
-        "product_count": 3037
+        "total_qty": 82479,
+        "sku_count": 3038,
+        "product_count": 3038
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 82064,
-        "sku_count": 2618,
-        "product_count": 2618
+        "total_qty": 82060,
+        "sku_count": 2619,
+        "product_count": 2619
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
         "total_qty": 12202,
-        "sku_count": 814,
-        "product_count": 814
+        "sku_count": 815,
+        "product_count": 815
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
         "total_qty": 12202,
-        "sku_count": 814,
-        "product_count": 814
+        "sku_count": 815,
+        "product_count": 815
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
@@ -32471,7 +32471,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11332,
+        "total_qty": 11330,
         "sku_count": 995,
         "product_count": 995
       },
@@ -32511,7 +32511,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 6002,
+        "total_qty": 6000,
         "sku_count": 500,
         "product_count": 500
       },
@@ -32616,16 +32616,16 @@
         "handle": "cazal",
         "legacy_id": "400594534654",
         "total_qty": 56,
-        "sku_count": 10,
-        "product_count": 10
+        "sku_count": 11,
+        "product_count": 11
       },
       "gid://shopify/Collection/437928689918": {
         "title": "CAZAL CURRENT",
         "handle": "cazal-current",
         "legacy_id": "437928689918",
-        "total_qty": 29,
-        "sku_count": 4,
-        "product_count": 4
+        "total_qty": 30,
+        "sku_count": 5,
+        "product_count": 5
       },
       "gid://shopify/Collection/413250781438": {
         "title": "ISABEL MARANT",
@@ -32735,7 +32735,7 @@
         "title": "KARL LAGERFELD",
         "handle": "karl-lagerfeld",
         "legacy_id": "422907576574",
-        "total_qty": 323,
+        "total_qty": 320,
         "sku_count": 37,
         "product_count": 37
       },
@@ -33111,7 +33111,7 @@
         "title": "JOE",
         "handle": "joe",
         "legacy_id": "474673381630",
-        "total_qty": 20,
+        "total_qty": 19,
         "sku_count": 5,
         "product_count": 5
       },
@@ -40638,7 +40638,7 @@
         "sku": "CAZAL-1255-C002-55"
       },
       "gid://shopify/ProductVariant/44246156869886": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "4279-C002-54",
         "sku": "CAZAL-4279-C002-54"
       },
@@ -41418,12 +41418,12 @@
         "sku": "CAZAL-4284-C002-53"
       },
       "gid://shopify/ProductVariant/44821343207678": {
-        "qty": 0,
+        "qty": 2,
         "product_title": "4284-C004-53",
         "sku": "CAZAL-4284-C004-53"
       },
       "gid://shopify/ProductVariant/44821349564670": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "4294-C001-53",
         "sku": "CAZAL-4294-C001-53"
       },
@@ -42013,7 +42013,7 @@
         "sku": "CH-CH-0074-02M2-53"
       },
       "gid://shopify/ProductVariant/45504801964286": {
-        "qty": 1,
+        "qty": 2,
         "product_title": "8505-C003",
         "sku": "CAZAL-8505-C003"
       },
@@ -43983,7 +43983,7 @@
         "sku": "CAZAL-6028-C003-49"
       },
       "gid://shopify/ProductVariant/45858110800126": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "7093-C003-53",
         "sku": "CAZAL-7093-C003-53"
       },
@@ -64793,7 +64793,7 @@
         "sku": "CH-CH4522-033-53"
       },
       "gid://shopify/ProductVariant/47504336421118": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "JOE4049-033-51",
         "sku": "JOE-JOE4049-033-51"
       },
@@ -81298,7 +81298,7 @@
         "sku": "KL-KL6139S-240"
       },
       "gid://shopify/ProductVariant/48307063128318": {
-        "qty": 28,
+        "qty": 25,
         "product_title": "KL6180S-N-232",
         "sku": "KL-KL6180S-N-232"
       },
