@@ -32321,13 +32321,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-09T14:33:10.210858+00:00",
+    "updated_at": "2026-09-09T17:59:23.974951+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82479,
+        "total_qty": 82470,
         "sku_count": 10772,
         "product_count": 10772
       },
@@ -32335,7 +32335,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82479,
+        "total_qty": 82470,
         "sku_count": 3973,
         "product_count": 3973
       },
@@ -32375,7 +32375,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82479,
+        "total_qty": 82470,
         "sku_count": 3038,
         "product_count": 3038
       },
@@ -32383,9 +32383,9 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 82060,
-        "sku_count": 2619,
-        "product_count": 2619
+        "total_qty": 82050,
+        "sku_count": 2618,
+        "product_count": 2618
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
@@ -32407,7 +32407,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3538,
+        "total_qty": 3535,
         "sku_count": 454,
         "product_count": 454
       },
@@ -32471,7 +32471,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11330,
+        "total_qty": 11321,
         "sku_count": 995,
         "product_count": 995
       },
@@ -32487,7 +32487,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2931,
+        "total_qty": 2925,
         "sku_count": 307,
         "product_count": 307
       },
@@ -32511,7 +32511,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 6000,
+        "total_qty": 5997,
         "sku_count": 500,
         "product_count": 500
       },
@@ -32575,7 +32575,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1829,
+        "total_qty": 1823,
         "sku_count": 103,
         "product_count": 103
       },
@@ -33255,9 +33255,9 @@
         "title": "CELINE",
         "handle": "celine",
         "legacy_id": "483191193854",
-        "total_qty": 99,
-        "sku_count": 26,
-        "product_count": 26
+        "total_qty": 97,
+        "sku_count": 25,
+        "product_count": 25
       },
       "gid://shopify/Collection/391774306558": {
         "title": "FENDI",
@@ -33271,7 +33271,7 @@
         "title": "TIFFANY & CO",
         "handle": "tiffany-co",
         "legacy_id": "483397370110",
-        "total_qty": 74,
+        "total_qty": 73,
         "sku_count": 14,
         "product_count": 14
       },
@@ -33311,7 +33311,7 @@
         "title": "ANNA-KARIN KARLSSON",
         "handle": "anna-karin-karlsson",
         "legacy_id": "485871059198",
-        "total_qty": 1313,
+        "total_qty": 1312,
         "sku_count": 21,
         "product_count": 21
       },
@@ -78848,7 +78848,7 @@
         "sku": "CELINE-CL40254U-28A"
       },
       "gid://shopify/ProductVariant/48196682252542": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "CL40254U 5430N",
         "sku": "CELINE-CL40254U-30N"
       },
@@ -79278,7 +79278,7 @@
         "sku": "TF-TF4232-80013C"
       },
       "gid://shopify/ProductVariant/48223291900158": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "TF4253-80013C",
         "sku": "TF-TF4253-80013C"
       },
@@ -82843,7 +82843,7 @@
         "sku": "AKK-COCO-STORIES-SUMMER"
       },
       "gid://shopify/ProductVariant/48406955688190": {
-        "qty": 101,
+        "qty": 100,
         "product_title": "COCO-STORIES-WINTER",
         "sku": "AKK-COCO-STORIES-WINTER"
       },
@@ -85833,7 +85833,7 @@
         "sku": "CARRERA-4017/S-003/IR"
       },
       "gid://shopify/ProductVariant/48683728568574": {
-        "qty": 16,
+        "qty": 10,
         "product_title": "4017/S-807/9O",
         "sku": "CARRERA-4017/S-807/9O"
       },
