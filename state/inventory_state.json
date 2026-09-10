@@ -32306,15 +32306,15 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-10T17:29:41.090000+00:00",
+    "updated_at": "2026-09-10T19:57:55.165702+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
         "total_qty": 82331,
-        "sku_count": 10767,
-        "product_count": 10767
+        "sku_count": 10766,
+        "product_count": 10766
       },
       "gid://shopify/Collection/410150142206": {
         "title": "Men's Eyeglasses",
@@ -32635,14 +32635,6 @@
         "total_qty": 21662,
         "sku_count": 137,
         "product_count": 137
-      },
-      "gid://shopify/Collection/416213041406": {
-        "title": "Male Sunglasses",
-        "handle": "male-sunglasses",
-        "legacy_id": "416213041406",
-        "total_qty": 0,
-        "sku_count": 1,
-        "product_count": 1
       },
       "gid://shopify/Collection/429417660670": {
         "title": "JONES NY",
@@ -33153,14 +33145,6 @@
         "handle": "charriol",
         "legacy_id": "476563603710",
         "total_qty": 1,
-        "sku_count": 1,
-        "product_count": 1
-      },
-      "gid://shopify/Collection/477204414718": {
-        "title": "Watches",
-        "handle": "watches",
-        "legacy_id": "477204414718",
-        "total_qty": 0,
         "sku_count": 1,
         "product_count": 1
       },
@@ -69246,11 +69230,6 @@
         "qty": 0,
         "product_title": "DB-1049-0086",
         "sku": "DB-1049-0086"
-      },
-      "gid://shopify/ProductVariant/47678150279422": {
-        "qty": 0,
-        "product_title": "Adee Kaye Men's Chameleon",
-        "sku": "AK1177G"
       },
       "gid://shopify/ProductVariant/47680658243838": {
         "qty": 0,
