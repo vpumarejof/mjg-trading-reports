@@ -32321,13 +32321,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-09T22:45:18.517607+00:00",
+    "updated_at": "2026-09-10T00:37:52.686707+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82465,
+        "total_qty": 82454,
         "sku_count": 10772,
         "product_count": 10772
       },
@@ -32335,15 +32335,15 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82465,
-        "sku_count": 3974,
-        "product_count": 3974
+        "total_qty": 82454,
+        "sku_count": 3972,
+        "product_count": 3972
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22250,
+        "total_qty": 22248,
         "sku_count": 2506,
         "product_count": 2506
       },
@@ -32351,7 +32351,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 1034,
+        "total_qty": 1033,
         "sku_count": 912,
         "product_count": 912
       },
@@ -32359,9 +32359,9 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61532,
-        "sku_count": 2036,
-        "product_count": 2036
+        "total_qty": 61525,
+        "sku_count": 2034,
+        "product_count": 2034
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -32375,39 +32375,39 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82465,
-        "sku_count": 3039,
-        "product_count": 3039
+        "total_qty": 82454,
+        "sku_count": 3037,
+        "product_count": 3037
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 82042,
-        "sku_count": 2616,
-        "product_count": 2616
+        "total_qty": 82032,
+        "sku_count": 2615,
+        "product_count": 2615
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12202,
-        "sku_count": 816,
-        "product_count": 816
+        "total_qty": 12199,
+        "sku_count": 814,
+        "product_count": 814
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12202,
-        "sku_count": 816,
-        "product_count": 816
+        "total_qty": 12199,
+        "sku_count": 814,
+        "product_count": 814
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3535,
+        "total_qty": 3531,
         "sku_count": 454,
         "product_count": 454
       },
@@ -32431,7 +32431,7 @@
         "title": "GUCCI",
         "handle": "gucci",
         "legacy_id": "421341364478",
-        "total_qty": 490,
+        "total_qty": 488,
         "sku_count": 301,
         "product_count": 301
       },
@@ -32471,7 +32471,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11318,
+        "total_qty": 11314,
         "sku_count": 995,
         "product_count": 995
       },
@@ -32487,7 +32487,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2925,
+        "total_qty": 2924,
         "sku_count": 307,
         "product_count": 307
       },
@@ -32511,7 +32511,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5994,
+        "total_qty": 5993,
         "sku_count": 500,
         "product_count": 500
       },
@@ -32535,7 +32535,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2486,
+        "total_qty": 2484,
         "sku_count": 194,
         "product_count": 194
       },
@@ -32559,7 +32559,7 @@
         "title": "Kid's Eyeglasses",
         "handle": "kids-eyeglasses",
         "legacy_id": "408131305726",
-        "total_qty": 21668,
+        "total_qty": 21667,
         "sku_count": 105,
         "product_count": 105
       },
@@ -32615,7 +32615,7 @@
         "title": "CAZAL",
         "handle": "cazal",
         "legacy_id": "400594534654",
-        "total_qty": 56,
+        "total_qty": 55,
         "sku_count": 11,
         "product_count": 11
       },
@@ -32639,15 +32639,15 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 728,
-        "sku_count": 131,
-        "product_count": 131
+        "total_qty": 726,
+        "sku_count": 130,
+        "product_count": 130
       },
       "gid://shopify/Collection/454431080702": {
         "title": "Kids",
         "handle": "kids",
         "legacy_id": "454431080702",
-        "total_qty": 21663,
+        "total_qty": 21662,
         "sku_count": 137,
         "product_count": 137
       },
@@ -32743,7 +32743,7 @@
         "title": "Gucci",
         "handle": "gucci-1",
         "legacy_id": "407282450686",
-        "total_qty": 490,
+        "total_qty": 488,
         "sku_count": 98,
         "product_count": 98
       },
@@ -32783,7 +32783,7 @@
         "title": "VERSACE",
         "handle": "versace",
         "legacy_id": "391776010494",
-        "total_qty": 121,
+        "total_qty": 120,
         "sku_count": 33,
         "product_count": 33
       },
@@ -32871,7 +32871,7 @@
         "title": "FLEXON",
         "handle": "flexon",
         "legacy_id": "466401853694",
-        "total_qty": 145,
+        "total_qty": 144,
         "sku_count": 32,
         "product_count": 32
       },
@@ -33199,7 +33199,7 @@
         "title": "PRODESIGN",
         "handle": "prodesign",
         "legacy_id": "478388125950",
-        "total_qty": 919,
+        "total_qty": 918,
         "sku_count": 109,
         "product_count": 109
       },
@@ -33223,7 +33223,7 @@
         "title": "BUGATTI",
         "handle": "bugatti",
         "legacy_id": "480545439998",
-        "total_qty": 229,
+        "total_qty": 228,
         "sku_count": 51,
         "product_count": 51
       },
@@ -33319,7 +33319,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 1473,
+        "total_qty": 1472,
         "sku_count": 102,
         "product_count": 102
       },
@@ -33343,7 +33343,7 @@
         "title": "POLAROID",
         "handle": "polaroid",
         "legacy_id": "396440076542",
-        "total_qty": 58,
+        "total_qty": 57,
         "sku_count": 7,
         "product_count": 7
       },
@@ -45793,7 +45793,7 @@
         "sku": "CAZAL-4258-C001-52"
       },
       "gid://shopify/ProductVariant/46131582370046": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "4256-C003-53",
         "sku": "CAZAL-4256-C003-53"
       },
@@ -70983,7 +70983,7 @@
         "sku": "WOOW-RISE-UP-1-956M-51"
       },
       "gid://shopify/ProductVariant/47761814749438": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "RISE-UP-2-9122-51",
         "sku": "WOOW-RISE-UP-2-9122-51"
       },
@@ -72958,7 +72958,7 @@
         "sku": "GUCCI-GG1429O-001-54"
       },
       "gid://shopify/ProductVariant/47807386812670": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "GG1429O-002-54",
         "sku": "GUCCI-GG1429O-002-54"
       },
@@ -72973,7 +72973,7 @@
         "sku": "GUCCI-GG1446O-001-56"
       },
       "gid://shopify/ProductVariant/47807386910974": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "GG1446O-002-56",
         "sku": "GUCCI-GG1446O-002-56"
       },
@@ -82998,7 +82998,7 @@
         "sku": "KS-NAVY/G/S-KTV/9O"
       },
       "gid://shopify/ProductVariant/48493129498878": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "RAELYNN-807-53",
         "sku": "KS-RAELYNN-807-53"
       },
@@ -83423,7 +83423,7 @@
         "sku": "BUGATTI-47-BK"
       },
       "gid://shopify/ProductVariant/48561412112638": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "47-CAR",
         "sku": "BUGATTI-47-CAR"
       },
@@ -83868,7 +83868,7 @@
         "sku": "VERSACE-0VE4476U-GB1/8755"
       },
       "gid://shopify/ProductVariant/48567760388350": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "0VE4490U-54508755",
         "sku": "VERSACE-0VE4490U-54508755"
       },
@@ -86068,7 +86068,7 @@
         "sku": "KS-MARIGOLD/S-2TB/WJ"
       },
       "gid://shopify/ProductVariant/48683730731262": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "MELANIE/S-PJP/08",
         "sku": "KS-MELANIE/S-PJP/08"
       },
@@ -86153,7 +86153,7 @@
         "sku": "POLAROID-PLD-6222/S-MU1/JQ"
       },
       "gid://shopify/ProductVariant/48683731321086": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "PLD-6223/S/X-VK6/M9",
         "sku": "POLAROID-PLD-6223/S/X-VK6/M9"
       },
@@ -86258,7 +86258,7 @@
         "sku": "FLEXON-J4020-N-036-49"
       },
       "gid://shopify/ProductVariant/48698371965182": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "J4020-N-318-49",
         "sku": "FLEXON-J4020-N-318-49"
       },
@@ -87068,7 +87068,7 @@
         "sku": "PD-DISC-1-5525-52"
       },
       "gid://shopify/ProductVariant/48913522098430": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "DISC-3-6031-54",
         "sku": "PD-DISC-3-6031-54"
       },
