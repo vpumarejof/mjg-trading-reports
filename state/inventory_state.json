@@ -32321,13 +32321,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-10T09:54:48.358065+00:00",
+    "updated_at": "2026-09-10T13:58:22.535808+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82355,
+        "total_qty": 82351,
         "sku_count": 10772,
         "product_count": 10772
       },
@@ -32335,7 +32335,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82355,
+        "total_qty": 82351,
         "sku_count": 3965,
         "product_count": 3965
       },
@@ -32359,7 +32359,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61513,
+        "total_qty": 61512,
         "sku_count": 2030,
         "product_count": 2030
       },
@@ -32375,7 +32375,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82355,
+        "total_qty": 82351,
         "sku_count": 3030,
         "product_count": 3030
       },
@@ -32383,7 +32383,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81936,
+        "total_qty": 81932,
         "sku_count": 2611,
         "product_count": 2611
       },
@@ -32391,7 +32391,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12189,
+        "total_qty": 12188,
         "sku_count": 811,
         "product_count": 811
       },
@@ -32399,7 +32399,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12189,
+        "total_qty": 12188,
         "sku_count": 811,
         "product_count": 811
       },
@@ -32407,7 +32407,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3523,
+        "total_qty": 3522,
         "sku_count": 454,
         "product_count": 454
       },
@@ -32471,7 +32471,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11228,
+        "total_qty": 11225,
         "sku_count": 992,
         "product_count": 992
       },
@@ -32487,7 +32487,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2909,
+        "total_qty": 2908,
         "sku_count": 306,
         "product_count": 306
       },
@@ -32511,7 +32511,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5952,
+        "total_qty": 5950,
         "sku_count": 499,
         "product_count": 499
       },
@@ -32719,7 +32719,7 @@
         "title": "QUAY",
         "handle": "quay",
         "legacy_id": "472482939134",
-        "total_qty": 1023,
+        "total_qty": 1022,
         "sku_count": 81,
         "product_count": 81
       },
@@ -32727,7 +32727,7 @@
         "title": "DAVID BECKHAM",
         "handle": "david-beckham",
         "legacy_id": "397089702142",
-        "total_qty": 553,
+        "total_qty": 552,
         "sku_count": 68,
         "product_count": 68
       },
@@ -32783,7 +32783,7 @@
         "title": "VERSACE",
         "handle": "versace",
         "legacy_id": "391776010494",
-        "total_qty": 120,
+        "total_qty": 119,
         "sku_count": 33,
         "product_count": 33
       },
@@ -32823,7 +32823,7 @@
         "title": "LIGHTEC-MOREL",
         "handle": "lightec-morel",
         "legacy_id": "466217926910",
-        "total_qty": 2292,
+        "total_qty": 2291,
         "sku_count": 94,
         "product_count": 94
       },
@@ -33319,7 +33319,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 1462,
+        "total_qty": 1461,
         "sku_count": 102,
         "product_count": 102
       },
@@ -54293,7 +54293,7 @@
         "sku": "LIGHTEC-MOREL-30200L-RM07-52"
       },
       "gid://shopify/ProductVariant/46978955804926": {
-        "qty": 55,
+        "qty": 54,
         "product_title": "LIGHTEC-30199L-ND05-51",
         "sku": "LIGHTEC-MOREL-30199L-ND05-51"
       },
@@ -69288,7 +69288,7 @@
         "sku": "CAROLINA HERRERA HER 0078/G/S 0ZX9/GB"
       },
       "gid://shopify/ProductVariant/47694028570878": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "DB-7000/S-0807/T4",
         "sku": "DB-DB-7000/S-0807/T4"
       },
@@ -83863,7 +83863,7 @@
         "sku": "VERSACE-0VE4476U-GB1/2 55"
       },
       "gid://shopify/ProductVariant/48567760191742": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "0VE4476U-GB1/8755",
         "sku": "VERSACE-0VE4476U-GB1/8755"
       },
@@ -86873,7 +86873,7 @@
         "sku": "QUAY-NO-NS-2282-MTBLK/GRNPOL"
       },
       "gid://shopify/ProductVariant/48913138057470": {
-        "qty": 20,
+        "qty": 19,
         "product_title": "RENT FREE-77743",
         "sku": "QUAY-NO-NS-2324-DOE/BRNFWN"
       },
