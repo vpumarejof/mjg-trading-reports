@@ -32321,13 +32321,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-10T00:37:52.686707+00:00",
+    "updated_at": "2026-09-10T05:16:37.306953+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82454,
+        "total_qty": 82446,
         "sku_count": 10772,
         "product_count": 10772
       },
@@ -32335,9 +32335,9 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82454,
-        "sku_count": 3972,
-        "product_count": 3972
+        "total_qty": 82446,
+        "sku_count": 3970,
+        "product_count": 3970
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
@@ -32359,9 +32359,9 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61525,
-        "sku_count": 2034,
-        "product_count": 2034
+        "total_qty": 61518,
+        "sku_count": 2032,
+        "product_count": 2032
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -32375,33 +32375,33 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82454,
-        "sku_count": 3037,
-        "product_count": 3037
+        "total_qty": 82446,
+        "sku_count": 3035,
+        "product_count": 3035
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 82032,
-        "sku_count": 2615,
-        "product_count": 2615
+        "total_qty": 82024,
+        "sku_count": 2613,
+        "product_count": 2613
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12199,
-        "sku_count": 814,
-        "product_count": 814
+        "total_qty": 12192,
+        "sku_count": 812,
+        "product_count": 812
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12199,
-        "sku_count": 814,
-        "product_count": 814
+        "total_qty": 12192,
+        "sku_count": 812,
+        "product_count": 812
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
@@ -32423,7 +32423,7 @@
         "title": "Plastic Metal",
         "handle": "plastic-metal",
         "legacy_id": "462599520510",
-        "total_qty": 1686,
+        "total_qty": 1685,
         "sku_count": 99,
         "product_count": 99
       },
@@ -32471,7 +32471,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11314,
+        "total_qty": 11313,
         "sku_count": 995,
         "product_count": 995
       },
@@ -32511,7 +32511,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5993,
+        "total_qty": 5992,
         "sku_count": 500,
         "product_count": 500
       },
@@ -32615,7 +32615,7 @@
         "title": "CAZAL",
         "handle": "cazal",
         "legacy_id": "400594534654",
-        "total_qty": 55,
+        "total_qty": 54,
         "sku_count": 11,
         "product_count": 11
       },
@@ -32639,7 +32639,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 726,
+        "total_qty": 725,
         "sku_count": 130,
         "product_count": 130
       },
@@ -32971,14 +32971,6 @@
         "sku_count": 43,
         "product_count": 43
       },
-      "gid://shopify/Collection/467688259838": {
-        "title": "COCO SONG",
-        "handle": "coco-song",
-        "legacy_id": "467688259838",
-        "total_qty": 134,
-        "sku_count": 38,
-        "product_count": 38
-      },
       "gid://shopify/Collection/391771324670": {
         "title": "BURBERRY",
         "handle": "burberry",
@@ -33010,6 +33002,14 @@
         "total_qty": 357,
         "sku_count": 40,
         "product_count": 40
+      },
+      "gid://shopify/Collection/467688259838": {
+        "title": "COCO SONG",
+        "handle": "coco-song",
+        "legacy_id": "467688259838",
+        "total_qty": 128,
+        "sku_count": 36,
+        "product_count": 36
       },
       "gid://shopify/Collection/472287772926": {
         "title": "HARRY LARY",
@@ -41413,7 +41413,7 @@
         "sku": "CAZAL-4284-C003-53"
       },
       "gid://shopify/ProductVariant/44821343174910": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "4284-C002-53",
         "sku": "CAZAL-4284-C002-53"
       },
@@ -56643,7 +56643,7 @@
         "sku": "CS-CLEAR-WATER-CV210.04-09"
       },
       "gid://shopify/ProductVariant/47070275141886": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "FOR-LAST-CV087.04-09",
         "sku": "CS-FALLING-ANGEL-CV222.02-09"
       },
@@ -60378,7 +60378,7 @@
         "sku": "CS-JUST-JULIET-CV236.04-09"
       },
       "gid://shopify/ProductVariant/47272817033470": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "TRUE-PRINCESS-CV240.03-09",
         "sku": "CS-TRUE-PRINCESS-CV240.03-09"
       },
@@ -60513,7 +60513,7 @@
         "sku": "CS-ROBOT-LOVE-CV252.02-09"
       },
       "gid://shopify/ProductVariant/47272818639102": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "ROBOT-LOVE-CV252.04-09",
         "sku": "CS-ROBOT-LOVE-CV252.04-09"
       },
@@ -60523,7 +60523,7 @@
         "sku": "CS-RUNNING-JEANS-CV253.01-09"
       },
       "gid://shopify/ProductVariant/47272818999550": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "RUNNING-JEANS-CV253.02-09",
         "sku": "CS-RUNNING-JEANS-CV253.02-09"
       },
@@ -60568,7 +60568,7 @@
         "sku": "CS-SWING-ALONE-CV256.03-09"
       },
       "gid://shopify/ProductVariant/47272819425534": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "SWEET-MAMA-CV257.01-09",
         "sku": "CS-SWEET-MAMA-CV257.01-09"
       },
@@ -60618,7 +60618,7 @@
         "sku": "CS-SUN-TOUCH-CV186.01-09"
       },
       "gid://shopify/ProductVariant/47273048047870": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "SUN-TOUCH-CV186.02-09",
         "sku": "CS-SUN-TOUCH-CV186.02-09"
       },
@@ -62128,7 +62128,7 @@
         "sku": "KS-AUBRIELLA/G/S-086/HA"
       },
       "gid://shopify/ProductVariant/47432858763518": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "AVAH/F/S-807/9O",
         "sku": "KS-AVAH/F/S-807/9O"
       },
