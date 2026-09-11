@@ -32306,13 +32306,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-11T09:09:05.084664+00:00",
+    "updated_at": "2026-09-11T13:33:16.984646+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82314,
+        "total_qty": 82313,
         "sku_count": 10766,
         "product_count": 10766
       },
@@ -32320,7 +32320,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82314,
+        "total_qty": 82313,
         "sku_count": 3955,
         "product_count": 3955
       },
@@ -32345,8 +32345,8 @@
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
         "total_qty": 61486,
-        "sku_count": 2025,
-        "product_count": 2025
+        "sku_count": 2024,
+        "product_count": 2024
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -32360,9 +32360,9 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82314,
-        "sku_count": 3024,
-        "product_count": 3024
+        "total_qty": 82313,
+        "sku_count": 3023,
+        "product_count": 3023
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
@@ -32376,7 +32376,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12171,
+        "total_qty": 12172,
         "sku_count": 808,
         "product_count": 808
       },
@@ -32384,7 +32384,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12171,
+        "total_qty": 12172,
         "sku_count": 808,
         "product_count": 808
       },
@@ -32392,9 +32392,9 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3518,
-        "sku_count": 453,
-        "product_count": 453
+        "total_qty": 3517,
+        "sku_count": 452,
+        "product_count": 452
       },
       "gid://shopify/Collection/391854031102": {
         "title": "Women's",
@@ -32456,7 +32456,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11214,
+        "total_qty": 11213,
         "sku_count": 991,
         "product_count": 991
       },
@@ -32488,15 +32488,15 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 563,
-        "sku_count": 64,
-        "product_count": 64
+        "total_qty": 562,
+        "sku_count": 63,
+        "product_count": 63
       },
       "gid://shopify/Collection/410149978366": {
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5942,
+        "total_qty": 5941,
         "sku_count": 499,
         "product_count": 499
       },
@@ -32712,7 +32712,7 @@
         "title": "KARL LAGERFELD",
         "handle": "karl-lagerfeld",
         "legacy_id": "422907576574",
-        "total_qty": 319,
+        "total_qty": 318,
         "sku_count": 37,
         "product_count": 37
       },
@@ -32848,7 +32848,7 @@
         "title": "FLEXON",
         "handle": "flexon",
         "legacy_id": "466401853694",
-        "total_qty": 143,
+        "total_qty": 144,
         "sku_count": 32,
         "product_count": 32
       },
@@ -57462,7 +57462,7 @@
         "sku": "SF-SF2988-050-54"
       },
       "gid://shopify/ProductVariant/47111140442366": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "SF2988-232-54",
         "sku": "SF-SF2988-232-54"
       },
@@ -77012,7 +77012,7 @@
         "sku": "KL-KL6209S-601"
       },
       "gid://shopify/ProductVariant/48113356210430": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "KL6165S-N-602",
         "sku": "KL-KL6165S-N-602"
       },
@@ -86252,7 +86252,7 @@
         "sku": "FLEXON-J4026-N-070-50"
       },
       "gid://shopify/ProductVariant/48698372882686": {
-        "qty": 4,
+        "qty": 5,
         "product_title": "MAE-412-51",
         "sku": "FLEXON-MAE-412-51"
       },
