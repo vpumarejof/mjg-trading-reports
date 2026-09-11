@@ -2,6 +2,11 @@
 """
 MJG Trading — Daily Inventory Report
 Runs at 8 AM EST every day via GitHub Actions.
+
+Redesigned 2026-09-11 from Michael's feedback (Teams chat + "Catching Up"
+call, 2026-09-10): bestsellers/trending grouped by BRAND instead of
+collection, plus per-brand reorder and overstock alerts so the report tells
+him what to act on instead of just describing inventory.
 """
 
 import base64
@@ -12,7 +17,7 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 sys.path.insert(0, str(Path(__file__).parent))
-from shopify_client import ShopifyClient, group_products_by_collection
+from shopify_client import ShopifyClient
 from email_utils import send_email
 
 STATE_FILE = Path(__file__).parent.parent / "state" / "inventory_state.json"
@@ -26,6 +31,15 @@ VENDOR_ALIASES = {
     "YVES SAINT LAURENT": "SAINT LAURENT",
     "JUICY":              "JUICY COUTURE",
 }
+
+# Confirmed with Valentina (2026-09-11): a brand counts as "fast-moving" /
+# rotating if it sold at least this many units in the trailing 7 days.
+# LOW_STOCK_THRESHOLD and OVERSTOCK_THRESHOLD are still placeholders —
+# Michael gave a range ("150 to 200 pieces") for low stock but no exact
+# number yet, and never gave one for overstock. Confirm both with him.
+LOW_STOCK_THRESHOLD = 150
+OVERSTOCK_THRESHOLD = 500
+ROTATION_MIN_UNITS_7D = 5
 
 CSS = """
   body{font-family:'Segoe UI',Arial,sans-serif;color:#1f2937;max-width:860px;margin:0 auto;padding:0;background:#f3f4f6}
@@ -51,6 +65,8 @@ CSS = """
   a:hover{text-decoration:underline}
   .footer{background:#f8fafc;border-top:1px solid #e5e7eb;padding:16px 32px;font-size:11px;color:#9ca3af;text-align:center}
   .ok{color:#9ca3af;font-style:italic;font-size:13px}
+  .tag-reorder{background:#fef2f2;color:#b91c1c;font-weight:700;font-size:11px;padding:3px 8px;border-radius:4px}
+  .tag-overstock{background:#fffbeb;color:#b45309;font-weight:700;font-size:11px;padding:3px 8px;border-radius:4px}
 
   @media only screen and (max-width:600px){
     .body{padding:16px 14px}
@@ -98,14 +114,6 @@ def save_state(state):
         json.dump(state, f, indent=2)
 
 
-def collection_url(handle):
-    return f"https://business.mjgtrading.com/collections/{handle}"
-
-
-def admin_url(legacy_id):
-    return f"https://business-mjgtrading.myshopify.com/admin/collections/{legacy_id}"
-
-
 def product_admin_url(legacy_id):
     return f"https://business-mjgtrading.myshopify.com/admin/products/{legacy_id}"
 
@@ -126,36 +134,12 @@ def daily_sales_summary(orders):
     }
 
 
-def build_collections_summary(collections):
-    empty_collections = []
-
-    for col in collections:
-        active = [p for p in col["products"]["nodes"] if p["status"] == "ACTIVE"]
-        if not active:
-            continue
-
-        all_variants = [v for p in active for v in p["variants"]["nodes"]]
-        all_zero = all((v["inventoryQuantity"] or 0) <= 0 for v in all_variants)
-
-        if all_zero:
-            empty_collections.append({
-                "title": col["title"],
-                "handle": col["handle"],
-                "legacy_id": col["legacyResourceId"],
-                "sku_count": len(all_variants),
-                "product_count": len(active),
-            })
-
-    return empty_collections
-
-
 def build_product_events(products, state):
     prev_variants = state.get("daily_snapshot", {}).get("variants", {})
     now_utc = datetime.now(timezone.utc)
     yesterday = now_utc - timedelta(hours=24)
 
     out_of_stock_24h = []
-    new_products = []
     total_active_skus = 0
     total_zero_skus = 0
 
@@ -164,15 +148,6 @@ def build_product_events(products, state):
             continue
 
         vendor = normalize_vendor(product["vendor"])
-
-        created_at = datetime.fromisoformat(product["createdAt"].replace("Z", "+00:00"))
-        if created_at > yesterday:
-            new_products.append({
-                "title": product["title"],
-                "vendor": vendor,
-                "legacy_id": product["legacyResourceId"],
-                "sku_count": len(product["variants"]["nodes"]),
-            })
 
         for variant in product["variants"]["nodes"]:
             qty = max(0, variant["inventoryQuantity"] or 0)
@@ -191,29 +166,102 @@ def build_product_events(products, state):
                     })
 
     out_of_stock_24h.sort(key=lambda x: (x["vendor"], x["product_title"]))
-    new_products.sort(key=lambda x: (x["vendor"], x["title"]))
 
     return {
         "out_of_stock_24h": out_of_stock_24h,
-        "new_products": new_products,
         "total_active_skus": total_active_skus,
         "total_zero_skus": total_zero_skus,
     }
 
 
-def build_email(collections, products, sales, state):
+def product_vendor_map(products):
+    return {p["id"]: normalize_vendor(p["vendor"]) for p in products}
+
+
+def stock_by_brand(products):
+    stock = {}
+    for p in products:
+        if p["status"] != "ACTIVE":
+            continue
+        vendor = normalize_vendor(p["vendor"])
+        total = sum(max(0, v["inventoryQuantity"] or 0) for v in p["variants"]["nodes"])
+        stock[vendor] = stock.get(vendor, 0) + total
+    return stock
+
+
+def sales_by_brand(orders, vendor_map):
+    out = {}
+    for o in orders:
+        for li in o["lineItems"]["nodes"]:
+            product = li.get("product")
+            if not product:
+                continue
+            vendor = vendor_map.get(product["id"])
+            if not vendor:
+                continue
+            qty = li.get("currentQuantity") or 0
+            if qty <= 0:
+                continue
+            price_set = li.get("discountedUnitPriceSet") or {}
+            price = (price_set.get("shopMoney") or {}).get("amount")
+            revenue = qty * float(price) if price else 0.0
+            row = out.setdefault(vendor, {"units": 0, "revenue": 0.0})
+            row["units"] += qty
+            row["revenue"] += revenue
+    return out
+
+
+def build_brand_rows(stock, this_week, prior_week, month):
+    brands = set(stock) | set(this_week) | set(prior_week) | set(month)
+    rows = []
+    for brand in brands:
+        cur = this_week.get(brand, {"units": 0, "revenue": 0.0})
+        prev = prior_week.get(brand, {"units": 0, "revenue": 0.0})
+        mo = month.get(brand, {"units": 0, "revenue": 0.0})
+        rows.append({
+            "brand": brand,
+            "stock": stock.get(brand, 0),
+            "units_7d": cur["units"],
+            "revenue_7d": cur["revenue"],
+            "units_prev_7d": prev["units"],
+            "trend": cur["units"] - prev["units"],
+            "units_30d": mo["units"],
+            "revenue_30d": mo["revenue"],
+        })
+    return rows
+
+
+def trend_badge(trend):
+    if trend > 0:
+        return f'<span style="color:#059669;font-weight:600">▲ +{trend}</span>'
+    if trend < 0:
+        return f'<span style="color:#dc2626;font-weight:600">▼ {trend}</span>'
+    return '<span style="color:#9ca3af">— 0</span>'
+
+
+def build_email(products, sales, brand_rows, state):
     logo_b64 = load_logo_b64()
     logo_tag = (
         f'<img src="data:image/jpeg;base64,{logo_b64}" alt="MJG Trading" class="logo-img">'
         if logo_b64 else '<span style="font-size:20px;font-weight:700;color:#0f172a">MJG Trading</span>'
     )
 
-    empty_collections = build_collections_summary(collections)
     events = build_product_events(products, state)
     out_of_stock_24h = events["out_of_stock_24h"]
-    new_products = events["new_products"]
 
     date_str = datetime.now(NY_TZ).strftime("%A, %B %d, %Y")
+
+    bestsellers_week = sorted(brand_rows, key=lambda r: r["units_7d"], reverse=True)[:12]
+    bestsellers_month = sorted(brand_rows, key=lambda r: r["units_30d"], reverse=True)[:12]
+    reorder_alerts = sorted(
+        [r for r in brand_rows if r["stock"] < LOW_STOCK_THRESHOLD and r["units_7d"] >= ROTATION_MIN_UNITS_7D],
+        key=lambda r: r["stock"],
+    )
+    overstock_alerts = sorted(
+        [r for r in brand_rows if r["stock"] > OVERSTOCK_THRESHOLD and r["units_7d"] < ROTATION_MIN_UNITS_7D],
+        key=lambda r: r["stock"],
+        reverse=True,
+    )
 
     html = f"""<!DOCTYPE html>
 <html>
@@ -230,32 +278,6 @@ def build_email(collections, products, sales, state):
 </div>
 
 <div class="body">
-
-<h2>Inventory Summary</h2>
-<div class="kpi-row">
-  <div class="kpi">
-    <div class="kpi-num">{events['total_active_skus']:,}</div>
-    <div class="kpi-label">SKUs In Stock</div>
-  </div>
-  <div class="kpi">
-    <div class="kpi-num">{events['total_zero_skus']:,}</div>
-    <div class="kpi-label">SKUs Out of Stock</div>
-  </div>
-  <div class="kpi">
-    <div class="kpi-num">{len(empty_collections)}</div>
-    <div class="kpi-label">Empty Collections</div>
-  </div>
-</div>
-<div class="kpi-row">
-  <div class="kpi">
-    <div class="kpi-num">{len(out_of_stock_24h)}</div>
-    <div class="kpi-label">Went OOS Today</div>
-  </div>
-  <div class="kpi">
-    <div class="kpi-num">{len(new_products)}</div>
-    <div class="kpi-label">New Products Today</div>
-  </div>
-</div>
 
 <h2>Yesterday's Sales</h2>
 <div class="kpi-row">
@@ -278,20 +300,63 @@ def build_email(collections, products, sales, state):
 </div>
 """
 
-    html += "<h2>Collections Completely Empty — consider hiding them</h2>"
-    if empty_collections:
-        html += '<div class="table-scroll"><table><tr><th>Collection</th><th>Products</th><th>SKUs</th><th>Storefront</th><th>Admin</th></tr>'
-        for col in sorted(empty_collections, key=lambda x: x["title"]):
+    html += "<h2>Brand Performance — Last 7 Days (bestsellers, by brand)</h2>"
+    if bestsellers_week:
+        html += '<div class="table-scroll"><table><tr><th>Brand</th><th>Units Sold (7d)</th><th>Revenue (7d)</th><th>Current Stock</th><th>vs Prior 7d</th></tr>'
+        for r in bestsellers_week:
             html += f"""<tr>
-  <td style="font-weight:600">{col['title']}</td>
-  <td>{col['product_count']}</td>
-  <td>{col['sku_count']}</td>
-  <td><a href="{collection_url(col['handle'])}">View</a></td>
-  <td><a href="{admin_url(col['legacy_id'])}">Hide</a></td>
+  <td style="font-weight:600">{r['brand']}</td>
+  <td>{r['units_7d']:,}</td>
+  <td>{fmt_money(r['revenue_7d'])}</td>
+  <td>{r['stock']:,}</td>
+  <td>{trend_badge(r['trend'])}</td>
 </tr>"""
         html += "</table></div>"
     else:
-        html += '<p class="ok">No completely empty collections.</p>'
+        html += '<p class="ok">No brand sales in the last 7 days.</p>'
+
+    html += "<h2>Brand Performance — Last 30 Days (bestsellers, by brand)</h2>"
+    if bestsellers_month:
+        html += '<div class="table-scroll"><table><tr><th>Brand</th><th>Units Sold (30d)</th><th>Revenue (30d)</th><th>Current Stock</th></tr>'
+        for r in bestsellers_month:
+            html += f"""<tr>
+  <td style="font-weight:600">{r['brand']}</td>
+  <td>{r['units_30d']:,}</td>
+  <td>{fmt_money(r['revenue_30d'])}</td>
+  <td>{r['stock']:,}</td>
+</tr>"""
+        html += "</table></div>"
+    else:
+        html += '<p class="ok">No brand sales in the last 30 days.</p>'
+
+    html += f"<h2>Reorder Alerts — Low Stock on Fast-Moving Brands (below {LOW_STOCK_THRESHOLD} units)</h2>"
+    if reorder_alerts:
+        html += '<div class="table-scroll"><table><tr><th>Brand</th><th>Current Stock</th><th>Units Sold (7d)</th><th>Units Sold (30d)</th><th>Action</th></tr>'
+        for r in reorder_alerts:
+            html += f"""<tr>
+  <td style="font-weight:600">{r['brand']}</td>
+  <td>{r['stock']:,}</td>
+  <td>{r['units_7d']:,}</td>
+  <td>{r['units_30d']:,}</td>
+  <td><span class="tag-reorder">REORDER</span></td>
+</tr>"""
+        html += "</table></div>"
+    else:
+        html += '<p class="ok">No fast-moving brands are currently below the low-stock threshold.</p>'
+
+    html += f"<h2>Overstock Watch — Slow-Moving Brands (above {OVERSTOCK_THRESHOLD} units, barely selling)</h2>"
+    if overstock_alerts:
+        html += '<div class="table-scroll"><table><tr><th>Brand</th><th>Current Stock</th><th>Units Sold (7d)</th><th>Action</th></tr>'
+        for r in overstock_alerts:
+            html += f"""<tr>
+  <td style="font-weight:600">{r['brand']}</td>
+  <td>{r['stock']:,}</td>
+  <td>{r['units_7d']:,}</td>
+  <td><span class="tag-overstock">HOLD OFF</span></td>
+</tr>"""
+        html += "</table></div>"
+    else:
+        html += '<p class="ok">No brands currently flagged as overstocked and slow-moving.</p>'
 
     html += "<h2>Products That Went Out of Stock in the Last 24h</h2>"
     if out_of_stock_24h:
@@ -306,20 +371,6 @@ def build_email(collections, products, sales, state):
         html += "</table></div>"
     else:
         html += '<p class="ok">No products went out of stock in the last 24h.</p>'
-
-    html += "<h2>New Products Added in the Last 24h</h2>"
-    if new_products:
-        html += '<div class="table-scroll"><table><tr><th>Brand</th><th>Product</th><th>SKUs</th><th>Admin</th></tr>'
-        for item in new_products:
-            html += f"""<tr>
-  <td style="color:#6b7280;font-size:12px">{item['vendor']}</td>
-  <td style="font-weight:600">{item['title']}</td>
-  <td>{item['sku_count']}</td>
-  <td><a href="{product_admin_url(item['legacy_id'])}">View</a></td>
-</tr>"""
-        html += "</table></div>"
-    else:
-        html += '<p class="ok">No new products added in the last 24h.</p>'
 
     html += f"""
 </div>
@@ -336,6 +387,8 @@ def build_email(collections, products, sales, state):
 
 
 def main():
+    dry_run = "--dry-run" in sys.argv
+
     print("Starting MJG Trading daily inventory report...")
 
     client = ShopifyClient()
@@ -345,24 +398,45 @@ def main():
     today_local_midnight = now_local.replace(hour=0, minute=0, second=0, microsecond=0)
     yesterday_start = today_local_midnight - timedelta(days=1)
     yesterday_end = today_local_midnight
+    week_start = today_local_midnight - timedelta(days=7)
+    prior_week_start = today_local_midnight - timedelta(days=14)
+    month_start = today_local_midnight - timedelta(days=30)
 
     print("Fetching products...")
     products = client.get_all_products()
     print(f"  {len(products)} products found")
-
-    print("Grouping products by collection...")
-    collections = group_products_by_collection(products)
-    print(f"  {len(collections)} collections found")
 
     print("Fetching yesterday's orders...")
     orders_yesterday = client.get_orders_in_range(yesterday_start, yesterday_end)
     print(f"  {len(orders_yesterday)} orders yesterday")
     sales = daily_sales_summary(orders_yesterday)
 
-    html = build_email(collections, products, sales, state)
+    print("Fetching last 30 days of orders (for brand trending + monthly bestsellers)...")
+    orders_30d = client.get_orders_in_range(month_start, today_local_midnight)
+    orders_this_week = [o for o in orders_30d if o["createdAt"] >= week_start.isoformat()]
+    orders_prior_week = [
+        o for o in orders_30d
+        if prior_week_start.isoformat() <= o["createdAt"] < week_start.isoformat()
+    ]
+
+    vendor_map = product_vendor_map(products)
+    stock = stock_by_brand(products)
+    this_week_sales = sales_by_brand(orders_this_week, vendor_map)
+    prior_week_sales = sales_by_brand(orders_prior_week, vendor_map)
+    month_sales = sales_by_brand(orders_30d, vendor_map)
+    brand_rows = build_brand_rows(stock, this_week_sales, prior_week_sales, month_sales)
+
+    html = build_email(products, sales, brand_rows, state)
 
     now_est = datetime.now(NY_TZ)
     subject = f"MJG Trading Inventory Report — {now_est.strftime('%m/%d/%Y')}"
+
+    if dry_run:
+        out_path = Path(__file__).parent / "daily_report_preview.html"
+        out_path.write_text(html, encoding="utf-8")
+        print(f"Dry run — HTML written to {out_path}, no email sent, state not updated.")
+        return
+
     send_email(subject, html)
 
     # Update daily snapshot for tomorrow's "out of stock 24h" detection
