@@ -32258,13 +32258,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-12T14:22:08.412982+00:00",
+    "updated_at": "2026-09-12T17:19:32.642845+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82042,
+        "total_qty": 82037,
         "sku_count": 10751,
         "product_count": 10751
       },
@@ -32272,7 +32272,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82042,
+        "total_qty": 82037,
         "sku_count": 3938,
         "product_count": 3938
       },
@@ -32280,7 +32280,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22212,
+        "total_qty": 22211,
         "sku_count": 2506,
         "product_count": 2506
       },
@@ -32296,7 +32296,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61233,
+        "total_qty": 61232,
         "sku_count": 2011,
         "product_count": 2011
       },
@@ -32312,7 +32312,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82042,
+        "total_qty": 82037,
         "sku_count": 3007,
         "product_count": 3007
       },
@@ -32320,7 +32320,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81631,
+        "total_qty": 81626,
         "sku_count": 2596,
         "product_count": 2596
       },
@@ -32328,7 +32328,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12154,
+        "total_qty": 12153,
         "sku_count": 803,
         "product_count": 803
       },
@@ -32336,7 +32336,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12154,
+        "total_qty": 12153,
         "sku_count": 803,
         "product_count": 803
       },
@@ -32344,7 +32344,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3513,
+        "total_qty": 3512,
         "sku_count": 451,
         "product_count": 451
       },
@@ -32360,7 +32360,7 @@
         "title": "Plastic Metal",
         "handle": "plastic-metal",
         "legacy_id": "462599520510",
-        "total_qty": 1685,
+        "total_qty": 1684,
         "sku_count": 99,
         "product_count": 99
       },
@@ -32408,7 +32408,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11195,
+        "total_qty": 11191,
         "sku_count": 988,
         "product_count": 988
       },
@@ -32448,7 +32448,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5932,
+        "total_qty": 5929,
         "sku_count": 496,
         "product_count": 496
       },
@@ -32472,7 +32472,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2453,
+        "total_qty": 2452,
         "sku_count": 193,
         "product_count": 193
       },
@@ -32512,7 +32512,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1808,
+        "total_qty": 1807,
         "sku_count": 102,
         "product_count": 102
       },
@@ -32664,7 +32664,7 @@
         "title": "KARL LAGERFELD",
         "handle": "karl-lagerfeld",
         "legacy_id": "422907576574",
-        "total_qty": 317,
+        "total_qty": 316,
         "sku_count": 37,
         "product_count": 37
       },
@@ -32760,7 +32760,7 @@
         "title": "VALENTINO",
         "handle": "valentino",
         "legacy_id": "462679113982",
-        "total_qty": 93,
+        "total_qty": 92,
         "sku_count": 18,
         "product_count": 18
       },
@@ -32768,7 +32768,7 @@
         "title": "MOSCHINO",
         "handle": "moschino",
         "legacy_id": "395943837950",
-        "total_qty": 312,
+        "total_qty": 310,
         "sku_count": 40,
         "product_count": 40
       },
@@ -50354,7 +50354,7 @@
         "sku": "VALENTINO-V-SOUL-VLS-127A-53"
       },
       "gid://shopify/ProductVariant/46622348771582": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "V-SOUL-VLS-127B-53",
         "sku": "VALENTINO-V-SOUL-VLS-127B-53"
       },
@@ -61214,7 +61214,7 @@
         "sku": "CARRERA-3021-1ED-52"
       },
       "gid://shopify/ProductVariant/47377630822654": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "3038-1ED-55",
         "sku": "CARRERA-3038-1ED-55"
       },
@@ -76864,7 +76864,7 @@
         "sku": "SF-SF1041S-238"
       },
       "gid://shopify/ProductVariant/48113352081662": {
-        "qty": 14,
+        "qty": 13,
         "product_title": "KL6144S-703",
         "sku": "KL-KL6144S-703"
       },
@@ -78479,7 +78479,7 @@
         "sku": "TH-TH-2126/S-PJP/70"
       },
       "gid://shopify/ProductVariant/48174871478526": {
-        "qty": 11,
+        "qty": 10,
         "product_title": "MOS180/S-C9A/9O",
         "sku": "MOSCHINO-MOS180/S-C9A/9O"
       },
@@ -85939,7 +85939,7 @@
         "sku": "MOSCHINO-MOS166/S-003/IR"
       },
       "gid://shopify/ProductVariant/48683731124478": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "MOS181/S-PJP/9O",
         "sku": "MOSCHINO-MOS181/S-PJP/9O"
       },
