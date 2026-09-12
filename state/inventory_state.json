@@ -32258,13 +32258,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-12T17:19:32.642845+00:00",
+    "updated_at": "2026-09-12T21:38:38.701070+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82037,
+        "total_qty": 82032,
         "sku_count": 10751,
         "product_count": 10751
       },
@@ -32272,9 +32272,9 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82037,
-        "sku_count": 3938,
-        "product_count": 3938
+        "total_qty": 82032,
+        "sku_count": 3937,
+        "product_count": 3937
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
@@ -32288,7 +32288,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 1024,
+        "total_qty": 1023,
         "sku_count": 912,
         "product_count": 912
       },
@@ -32296,9 +32296,9 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61232,
-        "sku_count": 2011,
-        "product_count": 2011
+        "total_qty": 61228,
+        "sku_count": 2009,
+        "product_count": 2009
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -32312,15 +32312,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82037,
-        "sku_count": 3007,
-        "product_count": 3007
+        "total_qty": 82032,
+        "sku_count": 3005,
+        "product_count": 3005
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81626,
+        "total_qty": 81623,
         "sku_count": 2596,
         "product_count": 2596
       },
@@ -32328,25 +32328,25 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12153,
-        "sku_count": 803,
-        "product_count": 803
+        "total_qty": 12151,
+        "sku_count": 802,
+        "product_count": 802
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12153,
-        "sku_count": 803,
-        "product_count": 803
+        "total_qty": 12151,
+        "sku_count": 802,
+        "product_count": 802
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3512,
-        "sku_count": 451,
-        "product_count": 451
+        "total_qty": 3511,
+        "sku_count": 450,
+        "product_count": 450
       },
       "gid://shopify/Collection/391854031102": {
         "title": "Women's",
@@ -32384,9 +32384,9 @@
         "title": "OPEN BOX",
         "handle": "shelf-pulls",
         "legacy_id": "463407481086",
-        "total_qty": 79,
-        "sku_count": 30,
-        "product_count": 30
+        "total_qty": 78,
+        "sku_count": 29,
+        "product_count": 29
       },
       "gid://shopify/Collection/463674867966": {
         "title": "Open Box",
@@ -32408,7 +32408,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11191,
+        "total_qty": 11190,
         "sku_count": 988,
         "product_count": 988
       },
@@ -32448,7 +32448,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5929,
+        "total_qty": 5928,
         "sku_count": 496,
         "product_count": 496
       },
@@ -32648,7 +32648,7 @@
         "title": "QUAY",
         "handle": "quay",
         "legacy_id": "472482939134",
-        "total_qty": 1021,
+        "total_qty": 1020,
         "sku_count": 81,
         "product_count": 81
       },
@@ -32712,9 +32712,9 @@
         "title": "VERSACE",
         "handle": "versace",
         "legacy_id": "391776010494",
-        "total_qty": 117,
-        "sku_count": 31,
-        "product_count": 31
+        "total_qty": 116,
+        "sku_count": 30,
+        "product_count": 30
       },
       "gid://shopify/Collection/460628721918": {
         "title": "PRIMARY",
@@ -32776,7 +32776,7 @@
         "title": "MISSONI",
         "handle": "missoni",
         "legacy_id": "408673911038",
-        "total_qty": 761,
+        "total_qty": 760,
         "sku_count": 64,
         "product_count": 64
       },
@@ -33168,7 +33168,7 @@
         "title": "MODO",
         "handle": "modo",
         "legacy_id": "481959280894",
-        "total_qty": 347,
+        "total_qty": 346,
         "sku_count": 30,
         "product_count": 30
       },
@@ -40724,7 +40724,7 @@
         "sku": "GUCCI GG1194OA 003 - 55"
       },
       "gid://shopify/ProductVariant/44587868029182": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "GG1056OA 001-56",
         "sku": "GUCCI GG1056OA 001 - 56"
       },
@@ -53494,7 +53494,7 @@
         "sku": "MISSONI-MIS-0099-059I-54"
       },
       "gid://shopify/ProductVariant/46754124005630": {
-        "qty": 14,
+        "qty": 13,
         "product_title": "MIS-0104-009Q-50",
         "sku": "MISSONI-MIS-0104-009Q-50"
       },
@@ -74099,7 +74099,7 @@
         "sku": "QUAY-NO-NS-2558-CFTRT/BRN"
       },
       "gid://shopify/ProductVariant/47893671248126": {
-        "qty": 20,
+        "qty": 19,
         "product_title": "IMPROMPTU-77723",
         "sku": "QUAY-NO-NS-2328-BLK/SMK"
       },
@@ -82049,7 +82049,7 @@
         "sku": "MODO-4627-SMK00-51"
       },
       "gid://shopify/ProductVariant/48354208809214": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "4628-DNAVY-52",
         "sku": "MODO-4628-DNAVY-52"
       },
@@ -83414,7 +83414,7 @@
         "sku": "VERSACE-0VE3363U-5496-50"
       },
       "gid://shopify/ProductVariant/48567757406462": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "0VE3364U-108-52",
         "sku": "VERSACE-0VE3364U-108-52"
       },
