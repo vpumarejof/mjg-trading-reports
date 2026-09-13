@@ -32258,13 +32258,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-13T20:59:43.810821+00:00",
+    "updated_at": "2026-09-13T22:58:29.168491+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82013,
+        "total_qty": 82011,
         "sku_count": 10751,
         "product_count": 10751
       },
@@ -32272,7 +32272,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82013,
+        "total_qty": 82011,
         "sku_count": 3936,
         "product_count": 3936
       },
@@ -32312,7 +32312,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82013,
+        "total_qty": 82011,
         "sku_count": 3004,
         "product_count": 3004
       },
@@ -32320,7 +32320,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81602,
+        "total_qty": 81600,
         "sku_count": 2593,
         "product_count": 2593
       },
@@ -32344,7 +32344,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3507,
+        "total_qty": 3506,
         "sku_count": 450,
         "product_count": 450
       },
@@ -32408,7 +32408,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11181,
+        "total_qty": 11179,
         "sku_count": 987,
         "product_count": 987
       },
@@ -32448,7 +32448,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5923,
+        "total_qty": 5921,
         "sku_count": 495,
         "product_count": 495
       },
@@ -32512,7 +32512,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1805,
+        "total_qty": 1804,
         "sku_count": 102,
         "product_count": 102
       },
@@ -33240,7 +33240,7 @@
         "title": "ANNA-KARIN KARLSSON",
         "handle": "anna-karin-karlsson",
         "legacy_id": "485871059198",
-        "total_qty": 1311,
+        "total_qty": 1310,
         "sku_count": 21,
         "product_count": 21
       },
@@ -82634,7 +82634,7 @@
         "sku": "AKK-SHADY-LUV-2.0-GOLD 24K"
       },
       "gid://shopify/ProductVariant/48406940549374": {
-        "qty": 32,
+        "qty": 31,
         "product_title": "SHADY-LUV-2.0-GOLD BLUSH MIRROR",
         "sku": "AKK-SHADY-LUV-2.0-GOLD BLUSH MIRROR"
       },
@@ -85604,7 +85604,7 @@
         "sku": "CARRERA-3005/S-LKS/GB"
       },
       "gid://shopify/ProductVariant/48683728240894": {
-        "qty": 18,
+        "qty": 17,
         "product_title": "3005/S-RHL/9O",
         "sku": "CARRERA-3005/S-RHL/9O"
       },
