@@ -32258,13 +32258,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-13T01:15:23.166665+00:00",
+    "updated_at": "2026-09-13T06:12:50.803893+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82031,
+        "total_qty": 82026,
         "sku_count": 10751,
         "product_count": 10751
       },
@@ -32272,9 +32272,9 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82031,
-        "sku_count": 3937,
-        "product_count": 3937
+        "total_qty": 82026,
+        "sku_count": 3936,
+        "product_count": 3936
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
@@ -32288,7 +32288,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 1023,
+        "total_qty": 1022,
         "sku_count": 912,
         "product_count": 912
       },
@@ -32296,7 +32296,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61228,
+        "total_qty": 61225,
         "sku_count": 2009,
         "product_count": 2009
       },
@@ -32312,15 +32312,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82031,
-        "sku_count": 3005,
-        "product_count": 3005
+        "total_qty": 82026,
+        "sku_count": 3004,
+        "product_count": 3004
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81622,
+        "total_qty": 81618,
         "sku_count": 2596,
         "product_count": 2596
       },
@@ -32328,7 +32328,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12151,
+        "total_qty": 12149,
         "sku_count": 802,
         "product_count": 802
       },
@@ -32336,7 +32336,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12151,
+        "total_qty": 12149,
         "sku_count": 802,
         "product_count": 802
       },
@@ -32408,15 +32408,15 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11189,
-        "sku_count": 988,
-        "product_count": 988
+        "total_qty": 11187,
+        "sku_count": 987,
+        "product_count": 987
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
         "handle": "tommy-hilfiger",
         "legacy_id": "391775912190",
-        "total_qty": 281,
+        "total_qty": 280,
         "sku_count": 57,
         "product_count": 57
       },
@@ -32448,9 +32448,9 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5927,
-        "sku_count": 496,
-        "product_count": 496
+        "total_qty": 5925,
+        "sku_count": 495,
+        "product_count": 495
       },
       "gid://shopify/Collection/391853998334": {
         "title": "Men's",
@@ -32552,7 +32552,7 @@
         "title": "CAZAL",
         "handle": "cazal",
         "legacy_id": "400594534654",
-        "total_qty": 48,
+        "total_qty": 47,
         "sku_count": 11,
         "product_count": 11
       },
@@ -32560,7 +32560,7 @@
         "title": "CAZAL CURRENT",
         "handle": "cazal-current",
         "legacy_id": "437928689918",
-        "total_qty": 30,
+        "total_qty": 29,
         "sku_count": 5,
         "product_count": 5
       },
@@ -32664,9 +32664,9 @@
         "title": "KARL LAGERFELD",
         "handle": "karl-lagerfeld",
         "legacy_id": "422907576574",
-        "total_qty": 316,
-        "sku_count": 37,
-        "product_count": 37
+        "total_qty": 315,
+        "sku_count": 36,
+        "product_count": 36
       },
       "gid://shopify/Collection/407282450686": {
         "title": "Gucci",
@@ -32768,7 +32768,7 @@
         "title": "MOSCHINO",
         "handle": "moschino",
         "legacy_id": "395943837950",
-        "total_qty": 310,
+        "total_qty": 309,
         "sku_count": 40,
         "product_count": 40
       },
@@ -32944,7 +32944,7 @@
         "title": "COCO SONG",
         "handle": "coco-song",
         "legacy_id": "467688259838",
-        "total_qty": 126,
+        "total_qty": 125,
         "sku_count": 36,
         "product_count": 36
       },
@@ -33724,7 +33724,7 @@
         "sku": "CARRERAHYPERFIT19S0QK0IH"
       },
       "gid://shopify/ProductVariant/42532188815614": {
-        "qty": 38,
+        "qty": 37,
         "product_title": "TH-1807-S-0J5G-9O",
         "sku": "TOMMYHILFIGERTH1807S0J5G9O"
       },
@@ -43894,7 +43894,7 @@
         "sku": "CAZAL-6028-C003-49"
       },
       "gid://shopify/ProductVariant/45858110800126": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "7093-C003-53",
         "sku": "CAZAL-7093-C003-53"
       },
@@ -55034,7 +55034,7 @@
         "sku": "MOSCHINO-MOS-616/F-0086-54"
       },
       "gid://shopify/ProductVariant/47010186395902": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "MOS-628-0MU1-51",
         "sku": "MOSCHINO-MOS-628-0MU1-51"
       },
@@ -60184,7 +60184,7 @@
         "sku": "CS-SURFING-DOLPHIN-CV228.03-09"
       },
       "gid://shopify/ProductVariant/47272815132926": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "SURFING-DOLPHIN-CV228.04-09",
         "sku": "CS-SURFING-DOLPHIN-CV228.04-09"
       },
@@ -73519,7 +73519,7 @@
         "sku": "KL-KL6208S-001"
       },
       "gid://shopify/ProductVariant/47845510349054": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "KL6208S-242",
         "sku": "KL-KL6208S-242"
       },
