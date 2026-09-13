@@ -32258,13 +32258,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-13T06:12:50.803893+00:00",
+    "updated_at": "2026-09-13T11:51:03.448673+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82026,
+        "total_qty": 82024,
         "sku_count": 10751,
         "product_count": 10751
       },
@@ -32272,7 +32272,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82026,
+        "total_qty": 82024,
         "sku_count": 3936,
         "product_count": 3936
       },
@@ -32312,7 +32312,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82026,
+        "total_qty": 82024,
         "sku_count": 3004,
         "product_count": 3004
       },
@@ -32320,7 +32320,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81618,
+        "total_qty": 81616,
         "sku_count": 2596,
         "product_count": 2596
       },
@@ -32344,7 +32344,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3510,
+        "total_qty": 3508,
         "sku_count": 450,
         "product_count": 450
       },
@@ -32408,7 +32408,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11187,
+        "total_qty": 11185,
         "sku_count": 987,
         "product_count": 987
       },
@@ -32424,7 +32424,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2898,
+        "total_qty": 2897,
         "sku_count": 305,
         "product_count": 305
       },
@@ -32448,7 +32448,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5925,
+        "total_qty": 5924,
         "sku_count": 495,
         "product_count": 495
       },
@@ -32896,7 +32896,7 @@
         "title": "DIOR",
         "handle": "dior",
         "legacy_id": "391774077182",
-        "total_qty": 154,
+        "total_qty": 153,
         "sku_count": 43,
         "product_count": 43
       },
@@ -33240,7 +33240,7 @@
         "title": "ANNA-KARIN KARLSSON",
         "handle": "anna-karin-karlsson",
         "legacy_id": "485871059198",
-        "total_qty": 1312,
+        "total_qty": 1311,
         "sku_count": 21,
         "product_count": 21
       },
@@ -82589,7 +82589,7 @@
         "sku": "AKK-LUCKY-GOES-TO-VEGAS-ICE CRYSTAL"
       },
       "gid://shopify/ProductVariant/48406939599102": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "LUCKY-GOES-TO-VEGAS-LEOPARD",
         "sku": "AKK-LUCKY-GOES-TO-VEGAS-LEOPARD"
       },
@@ -86379,7 +86379,7 @@
         "sku": "DIOR-DM40008I-01A"
       },
       "gid://shopify/ProductVariant/48772226449662": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "DIORB23 S1I 10B8",
         "sku": "DIOR-DM40052I-01X"
       },
