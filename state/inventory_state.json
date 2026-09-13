@@ -32258,13 +32258,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-12T23:21:15.465491+00:00",
+    "updated_at": "2026-09-13T01:15:23.166665+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82032,
+        "total_qty": 82031,
         "sku_count": 10751,
         "product_count": 10751
       },
@@ -32272,7 +32272,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82032,
+        "total_qty": 82031,
         "sku_count": 3937,
         "product_count": 3937
       },
@@ -32312,7 +32312,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82032,
+        "total_qty": 82031,
         "sku_count": 3005,
         "product_count": 3005
       },
@@ -32320,7 +32320,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81623,
+        "total_qty": 81622,
         "sku_count": 2596,
         "product_count": 2596
       },
@@ -32344,7 +32344,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3511,
+        "total_qty": 3510,
         "sku_count": 450,
         "product_count": 450
       },
@@ -32408,7 +32408,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11190,
+        "total_qty": 11189,
         "sku_count": 988,
         "product_count": 988
       },
@@ -32440,7 +32440,7 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 561,
+        "total_qty": 560,
         "sku_count": 63,
         "product_count": 63
       },
@@ -32448,7 +32448,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5928,
+        "total_qty": 5927,
         "sku_count": 496,
         "product_count": 496
       },
@@ -76749,7 +76749,7 @@
         "sku": "SF-SF2010S-242"
       },
       "gid://shopify/ProductVariant/48094648860926": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "SF2039SE-001",
         "sku": "SF-SF2039SE-001"
       },
