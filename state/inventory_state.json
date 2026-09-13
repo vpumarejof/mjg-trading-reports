@@ -32258,13 +32258,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-13T18:16:38.953793+00:00",
+    "updated_at": "2026-09-13T20:59:43.810821+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82016,
+        "total_qty": 82013,
         "sku_count": 10751,
         "product_count": 10751
       },
@@ -32272,7 +32272,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82016,
+        "total_qty": 82013,
         "sku_count": 3936,
         "product_count": 3936
       },
@@ -32296,7 +32296,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61220,
+        "total_qty": 61218,
         "sku_count": 2009,
         "product_count": 2009
       },
@@ -32312,7 +32312,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82016,
+        "total_qty": 82013,
         "sku_count": 3004,
         "product_count": 3004
       },
@@ -32320,7 +32320,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81605,
+        "total_qty": 81602,
         "sku_count": 2593,
         "product_count": 2593
       },
@@ -32328,7 +32328,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12145,
+        "total_qty": 12143,
         "sku_count": 802,
         "product_count": 802
       },
@@ -32336,7 +32336,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12145,
+        "total_qty": 12143,
         "sku_count": 802,
         "product_count": 802
       },
@@ -32408,7 +32408,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11182,
+        "total_qty": 11181,
         "sku_count": 987,
         "product_count": 987
       },
@@ -32448,7 +32448,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5924,
+        "total_qty": 5923,
         "sku_count": 495,
         "product_count": 495
       },
@@ -32648,7 +32648,7 @@
         "title": "QUAY",
         "handle": "quay",
         "legacy_id": "472482939134",
-        "total_qty": 1020,
+        "total_qty": 1019,
         "sku_count": 81,
         "product_count": 81
       },
@@ -32768,7 +32768,7 @@
         "title": "MOSCHINO",
         "handle": "moschino",
         "legacy_id": "395943837950",
-        "total_qty": 309,
+        "total_qty": 308,
         "sku_count": 40,
         "product_count": 40
       },
@@ -33096,7 +33096,7 @@
         "title": "LONGCHAMP",
         "handle": "longchamp",
         "legacy_id": "476032958718",
-        "total_qty": 873,
+        "total_qty": 872,
         "sku_count": 53,
         "product_count": 53
       },
@@ -76634,7 +76634,7 @@
         "sku": "LONGCHAMP-LO2728-242-53"
       },
       "gid://shopify/ProductVariant/48094647386366": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "LO2728-306-53",
         "sku": "LONGCHAMP-LO2728-306-53"
       },
@@ -83179,7 +83179,7 @@
         "sku": "QUAY-QW-000869-BLK/BLK"
       },
       "gid://shopify/ProductVariant/48560873177342": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "NOT MY FAULT-77095",
         "sku": "QUAY-NO-NS-2245-BLK/SMK"
       },
@@ -85059,7 +85059,7 @@
         "sku": "MOSCHINO-MOS558-3VJ-55"
       },
       "gid://shopify/ProductVariant/48648026685694": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "MOS583-807-54",
         "sku": "MOSCHINO-MOS583-807-54"
       },
