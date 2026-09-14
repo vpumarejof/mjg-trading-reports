@@ -32258,13 +32258,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-14T20:41:56.707083+00:00",
+    "updated_at": "2026-09-14T23:29:04.819427+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82140,
+        "total_qty": 82127,
         "sku_count": 10751,
         "product_count": 10751
       },
@@ -32272,7 +32272,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82140,
+        "total_qty": 82127,
         "sku_count": 3915,
         "product_count": 3915
       },
@@ -32296,9 +32296,9 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61184,
-        "sku_count": 1996,
-        "product_count": 1996
+        "total_qty": 61176,
+        "sku_count": 1995,
+        "product_count": 1995
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -32312,23 +32312,23 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82140,
-        "sku_count": 2983,
-        "product_count": 2983
+        "total_qty": 82127,
+        "sku_count": 2982,
+        "product_count": 2982
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81737,
-        "sku_count": 2580,
-        "product_count": 2580
+        "total_qty": 81724,
+        "sku_count": 2579,
+        "product_count": 2579
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12122,
+        "total_qty": 12119,
         "sku_count": 791,
         "product_count": 791
       },
@@ -32336,7 +32336,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12122,
+        "total_qty": 12119,
         "sku_count": 791,
         "product_count": 791
       },
@@ -32360,7 +32360,7 @@
         "title": "Plastic Metal",
         "handle": "plastic-metal",
         "legacy_id": "462599520510",
-        "total_qty": 1682,
+        "total_qty": 1681,
         "sku_count": 99,
         "product_count": 99
       },
@@ -32408,7 +32408,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11343,
+        "total_qty": 11338,
         "sku_count": 979,
         "product_count": 979
       },
@@ -32424,7 +32424,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2841,
+        "total_qty": 2840,
         "sku_count": 299,
         "product_count": 299
       },
@@ -32448,7 +32448,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 6061,
+        "total_qty": 6057,
         "sku_count": 492,
         "product_count": 492
       },
@@ -32512,7 +32512,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1770,
+        "total_qty": 1767,
         "sku_count": 101,
         "product_count": 101
       },
@@ -32576,7 +32576,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 694,
+        "total_qty": 692,
         "sku_count": 123,
         "product_count": 123
       },
@@ -32624,7 +32624,7 @@
         "title": "ELASTA",
         "handle": "elasta",
         "legacy_id": "411442249982",
-        "total_qty": 65,
+        "total_qty": 64,
         "sku_count": 19,
         "product_count": 19
       },
@@ -32640,7 +32640,7 @@
         "title": "MARC JACOBS",
         "handle": "marc-jacobs",
         "legacy_id": "391774732542",
-        "total_qty": 298,
+        "total_qty": 297,
         "sku_count": 58,
         "product_count": 58
       },
@@ -32664,7 +32664,7 @@
         "title": "KARL LAGERFELD",
         "handle": "karl-lagerfeld",
         "legacy_id": "422907576574",
-        "total_qty": 309,
+        "total_qty": 307,
         "sku_count": 36,
         "product_count": 36
       },
@@ -32904,7 +32904,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 1475,
+        "total_qty": 1474,
         "sku_count": 101,
         "product_count": 101
       },
@@ -33056,7 +33056,7 @@
         "title": "JOSEPH ABBOUD",
         "handle": "joseph-abboud",
         "legacy_id": "474673447166",
-        "total_qty": 27,
+        "total_qty": 26,
         "sku_count": 5,
         "product_count": 5
       },
@@ -33168,7 +33168,7 @@
         "title": "MODO",
         "handle": "modo",
         "legacy_id": "481959280894",
-        "total_qty": 345,
+        "total_qty": 343,
         "sku_count": 30,
         "product_count": 30
       },
@@ -44889,7 +44889,7 @@
         "sku": "CARRERA-GRAND-PRIX-2-0086/HA"
       },
       "gid://shopify/ProductVariant/46022774161662": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "E-1545/N-0YL3-58",
         "sku": "ELASTA-E-1545/N-0YL3-58"
       },
@@ -61214,7 +61214,7 @@
         "sku": "CARRERA-3021-1ED-52"
       },
       "gid://shopify/ProductVariant/47377630822654": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "3038-1ED-55",
         "sku": "CARRERA-3038-1ED-55"
       },
@@ -64599,7 +64599,7 @@
         "sku": "JOE-JOE4110-036-53"
       },
       "gid://shopify/ProductVariant/47504333275390": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "JA4082-400-53",
         "sku": "JA-JA4082-400-53"
       },
@@ -70119,7 +70119,7 @@
         "sku": "CARRERA-8886-7ZJ-50"
       },
       "gid://shopify/ProductVariant/47749754388734": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "8886-OIT-50",
         "sku": "CARRERA-8886-OIT-50"
       },
@@ -70894,7 +70894,7 @@
         "sku": "WOOW-RUSH-HOUR-2-0007-54"
       },
       "gid://shopify/ProductVariant/47761815666942": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "RUSH-HOUR-2-0907-54",
         "sku": "WOOW-RUSH-HOUR-2-0907-54"
       },
@@ -74939,7 +74939,7 @@
         "sku": "MJ-MARC-707-807-53"
       },
       "gid://shopify/ProductVariant/48011619205374": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "MARC-708-2M2-54",
         "sku": "MJ-MARC-708-2M2-54"
       },
@@ -76889,7 +76889,7 @@
         "sku": "KL-KL6209S-601"
       },
       "gid://shopify/ProductVariant/48113356210430": {
-        "qty": 4,
+        "qty": 2,
         "product_title": "KL6165S-N-602",
         "sku": "KL-KL6165S-N-602"
       },
@@ -82039,7 +82039,7 @@
         "sku": "MODO-4612-SIL00-54"
       },
       "gid://shopify/ProductVariant/48354208579838": {
-        "qty": 14,
+        "qty": 13,
         "product_title": "4627-DNAVY-51",
         "sku": "MODO-4627-DNAVY-51"
       },
@@ -82054,7 +82054,7 @@
         "sku": "MODO-4628-DNAVY-52"
       },
       "gid://shopify/ProductVariant/48354208841982": {
-        "qty": 14,
+        "qty": 13,
         "product_title": "4629-LBLU0-54",
         "sku": "MODO-4629-LBLU0-54"
       },
@@ -85809,7 +85809,7 @@
         "sku": "KS-DALIA2/S-94R/HA"
       },
       "gid://shopify/ProductVariant/48683730174206": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "DESI/F/S/US-807/9O",
         "sku": "KS-DESI/F/S/US-807/9O"
       },
@@ -85819,7 +85819,7 @@
         "sku": "KS-DESI/F/S/US-HT8/HA"
       },
       "gid://shopify/ProductVariant/48683730239742": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "DESI/S-807/9O",
         "sku": "KS-DESI/S-807/9O"
       },
@@ -86554,7 +86554,7 @@
         "sku": "CARRERA-1060/S-08A/IR"
       },
       "gid://shopify/ProductVariant/48772544037118": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "1067/S-2F7/HA",
         "sku": "CARRERA-1067/S-2F7/HA"
       },
