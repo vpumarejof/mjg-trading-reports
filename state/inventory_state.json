@@ -32258,13 +32258,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-14T05:35:29.846297+00:00",
+    "updated_at": "2026-09-14T10:58:30.402323+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81997,
+        "total_qty": 81999,
         "sku_count": 10751,
         "product_count": 10751
       },
@@ -32272,7 +32272,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81997,
+        "total_qty": 81999,
         "sku_count": 3935,
         "product_count": 3935
       },
@@ -32312,7 +32312,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81997,
+        "total_qty": 81999,
         "sku_count": 3003,
         "product_count": 3003
       },
@@ -32320,7 +32320,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81586,
+        "total_qty": 81588,
         "sku_count": 2592,
         "product_count": 2592
       },
@@ -32344,7 +32344,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3501,
+        "total_qty": 3504,
         "sku_count": 449,
         "product_count": 449
       },
@@ -32408,7 +32408,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11171,
+        "total_qty": 11173,
         "sku_count": 986,
         "product_count": 986
       },
@@ -32448,7 +32448,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 5917,
+        "total_qty": 5919,
         "sku_count": 494,
         "product_count": 494
       },
@@ -32768,7 +32768,7 @@
         "title": "MOSCHINO",
         "handle": "moschino",
         "legacy_id": "395943837950",
-        "total_qty": 308,
+        "total_qty": 307,
         "sku_count": 40,
         "product_count": 40
       },
@@ -32896,7 +32896,7 @@
         "title": "DIOR",
         "handle": "dior",
         "legacy_id": "391774077182",
-        "total_qty": 153,
+        "total_qty": 154,
         "sku_count": 43,
         "product_count": 43
       },
@@ -33240,7 +33240,7 @@
         "title": "ANNA-KARIN KARLSSON",
         "handle": "anna-karin-karlsson",
         "legacy_id": "485871059198",
-        "total_qty": 1310,
+        "total_qty": 1312,
         "sku_count": 21,
         "product_count": 21
       },
@@ -82589,7 +82589,7 @@
         "sku": "AKK-LUCKY-GOES-TO-VEGAS-ICE CRYSTAL"
       },
       "gid://shopify/ProductVariant/48406939599102": {
-        "qty": 4,
+        "qty": 5,
         "product_title": "LUCKY-GOES-TO-VEGAS-LEOPARD",
         "sku": "AKK-LUCKY-GOES-TO-VEGAS-LEOPARD"
       },
@@ -82634,7 +82634,7 @@
         "sku": "AKK-SHADY-LUV-2.0-GOLD 24K"
       },
       "gid://shopify/ProductVariant/48406940549374": {
-        "qty": 31,
+        "qty": 32,
         "product_title": "SHADY-LUV-2.0-GOLD BLUSH MIRROR",
         "sku": "AKK-SHADY-LUV-2.0-GOLD BLUSH MIRROR"
       },
@@ -85934,7 +85934,7 @@
         "sku": "MISSONI-MIS-0206/G/S-LHF/3X"
       },
       "gid://shopify/ProductVariant/48683731091710": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "MOS166/S-003/IR",
         "sku": "MOSCHINO-MOS166/S-003/IR"
       },
@@ -86379,7 +86379,7 @@
         "sku": "DIOR-DM40008I-01A"
       },
       "gid://shopify/ProductVariant/48772226449662": {
-        "qty": 4,
+        "qty": 5,
         "product_title": "DIORB23 S1I 10B8",
         "sku": "DIOR-DM40052I-01X"
       },
