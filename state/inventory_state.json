@@ -32258,13 +32258,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-15T19:56:34.371937+00:00",
+    "updated_at": "2026-09-15T22:37:40.664939+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 84524,
+        "total_qty": 84522,
         "sku_count": 10751,
         "product_count": 10751
       },
@@ -32272,9 +32272,9 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 84524,
-        "sku_count": 4063,
-        "product_count": 4063
+        "total_qty": 84522,
+        "sku_count": 4064,
+        "product_count": 4064
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
@@ -32296,9 +32296,9 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61940,
-        "sku_count": 2093,
-        "product_count": 2093
+        "total_qty": 61939,
+        "sku_count": 2094,
+        "product_count": 2094
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -32312,39 +32312,39 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 84524,
-        "sku_count": 3178,
-        "product_count": 3178
+        "total_qty": 84522,
+        "sku_count": 3179,
+        "product_count": 3179
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 84115,
-        "sku_count": 2769,
-        "product_count": 2769
+        "total_qty": 84110,
+        "sku_count": 2767,
+        "product_count": 2767
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
         "total_qty": 12497,
-        "sku_count": 843,
-        "product_count": 843
+        "sku_count": 844,
+        "product_count": 844
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
         "total_qty": 12497,
-        "sku_count": 843,
-        "product_count": 843
+        "sku_count": 844,
+        "product_count": 844
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3411,
+        "total_qty": 3410,
         "sku_count": 436,
         "product_count": 436
       },
@@ -32408,7 +32408,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 12974,
+        "total_qty": 12973,
         "sku_count": 1077,
         "product_count": 1077
       },
@@ -32448,7 +32448,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 7060,
+        "total_qty": 7059,
         "sku_count": 560,
         "product_count": 560
       },
@@ -32513,8 +32513,8 @@
         "handle": "carrera",
         "legacy_id": "391773749502",
         "total_qty": 1724,
-        "sku_count": 97,
-        "product_count": 97
+        "sku_count": 98,
+        "product_count": 98
       },
       "gid://shopify/Collection/400740516094": {
         "title": "SPY",
@@ -32576,7 +32576,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 692,
+        "total_qty": 691,
         "sku_count": 123,
         "product_count": 123
       },
@@ -32896,7 +32896,7 @@
         "title": "DIOR",
         "handle": "dior",
         "legacy_id": "391774077182",
-        "total_qty": 147,
+        "total_qty": 146,
         "sku_count": 43,
         "product_count": 43
       },
@@ -70182,7 +70182,7 @@
         "sku": "KS-AGLAIA/S-C9A/3X"
       },
       "gid://shopify/ProductVariant/47749754913022": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "AMIYAH/G/S-807/9O",
         "sku": "KS-AMIYAH/G/S-807/9O"
       },
@@ -76917,7 +76917,7 @@
         "sku": "CARRERA-3022-RHL-55"
       },
       "gid://shopify/ProductVariant/48121211683070": {
-        "qty": 0,
+        "qty": 1,
         "product_title": "3025-690-54",
         "sku": "CARRERA-3025-690-54"
       },
@@ -81747,7 +81747,7 @@
         "sku": "CARRERA-2018T-KB7-51"
       },
       "gid://shopify/ProductVariant/48349468459262": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "2043T-O63-49",
         "sku": "CARRERA-2043T-O63-49"
       },
@@ -86342,7 +86342,7 @@
         "sku": "DIOR-CD50123U-010-54"
       },
       "gid://shopify/ProductVariant/48772226154750": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "DIORGLOWO B1I 1000",
         "sku": "DIOR-CD50127I-001-53"
       },
