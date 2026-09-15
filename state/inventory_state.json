@@ -32258,13 +32258,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-14T23:29:04.819427+00:00",
+    "updated_at": "2026-09-15T01:44:47.849691+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 82127,
+        "total_qty": 82124,
         "sku_count": 10751,
         "product_count": 10751
       },
@@ -32272,7 +32272,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 82127,
+        "total_qty": 82124,
         "sku_count": 3915,
         "product_count": 3915
       },
@@ -32296,9 +32296,9 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61176,
-        "sku_count": 1995,
-        "product_count": 1995
+        "total_qty": 61175,
+        "sku_count": 1994,
+        "product_count": 1994
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -32312,15 +32312,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 82127,
-        "sku_count": 2982,
-        "product_count": 2982
+        "total_qty": 82124,
+        "sku_count": 2981,
+        "product_count": 2981
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81724,
+        "total_qty": 81722,
         "sku_count": 2579,
         "product_count": 2579
       },
@@ -32408,7 +32408,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 11338,
+        "total_qty": 11337,
         "sku_count": 979,
         "product_count": 979
       },
@@ -32424,7 +32424,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 2840,
+        "total_qty": 2839,
         "sku_count": 299,
         "product_count": 299
       },
@@ -32512,7 +32512,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1767,
+        "total_qty": 1766,
         "sku_count": 101,
         "product_count": 101
       },
@@ -32600,7 +32600,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 24537,
+        "total_qty": 24536,
         "sku_count": 39,
         "product_count": 39
       },
@@ -32824,17 +32824,17 @@
         "title": "TED BAKER",
         "handle": "ted-baker-1",
         "legacy_id": "466205999358",
-        "total_qty": 70,
-        "sku_count": 11,
-        "product_count": 11
+        "total_qty": 69,
+        "sku_count": 10,
+        "product_count": 10
       },
       "gid://shopify/Collection/466212126974": {
         "title": "TED BAKER",
         "handle": "ted-baker",
         "legacy_id": "466212126974",
-        "total_qty": 70,
-        "sku_count": 11,
-        "product_count": 11
+        "total_qty": 69,
+        "sku_count": 10,
+        "product_count": 10
       },
       "gid://shopify/Collection/466217861374": {
         "title": "KOALI-MOREL",
@@ -32904,7 +32904,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 1474,
+        "total_qty": 1473,
         "sku_count": 101,
         "product_count": 101
       },
@@ -45044,7 +45044,7 @@
         "sku": "MJ-MARC-463-0086-53"
       },
       "gid://shopify/ProductVariant/46059134714110": {
-        "qty": 9599,
+        "qty": 9598,
         "product_title": "DropShip",
         "sku": "DropShip"
       },
@@ -53969,7 +53969,7 @@
         "sku": "TB-TFW008-BLU-53"
       },
       "gid://shopify/ProductVariant/46978333343998": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "TM506-BLK-55",
         "sku": "TB-TM506-BLK-55"
       },
@@ -86554,7 +86554,7 @@
         "sku": "CARRERA-1060/S-08A/IR"
       },
       "gid://shopify/ProductVariant/48772544037118": {
-        "qty": 11,
+        "qty": 10,
         "product_title": "1067/S-2F7/HA",
         "sku": "CARRERA-1067/S-2F7/HA"
       },
