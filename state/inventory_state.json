@@ -32999,13 +32999,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-16T18:52:49.484005+00:00",
+    "updated_at": "2026-09-16T21:49:25.774597+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 87217,
+        "total_qty": 87211,
         "sku_count": 10998,
         "product_count": 10998
       },
@@ -33013,7 +33013,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 87217,
+        "total_qty": 87211,
         "sku_count": 4309,
         "product_count": 4309
       },
@@ -33021,7 +33021,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22230,
+        "total_qty": 22229,
         "sku_count": 2506,
         "product_count": 2506
       },
@@ -33037,7 +33037,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63162,
+        "total_qty": 63156,
         "sku_count": 2246,
         "product_count": 2246
       },
@@ -33053,7 +33053,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 87217,
+        "total_qty": 87211,
         "sku_count": 3422,
         "product_count": 3422
       },
@@ -33061,15 +33061,15 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 86805,
-        "sku_count": 3010,
-        "product_count": 3010
+        "total_qty": 86798,
+        "sku_count": 3009,
+        "product_count": 3009
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12896,
+        "total_qty": 12893,
         "sku_count": 895,
         "product_count": 895
       },
@@ -33077,7 +33077,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12896,
+        "total_qty": 12893,
         "sku_count": 895,
         "product_count": 895
       },
@@ -33117,7 +33117,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 19689,
+        "total_qty": 19688,
         "sku_count": 482,
         "product_count": 482
       },
@@ -33333,7 +33333,7 @@
         "title": "JONES NY",
         "handle": "jones-ny",
         "legacy_id": "429417660670",
-        "total_qty": 1024,
+        "total_qty": 1023,
         "sku_count": 6,
         "product_count": 6
       },
@@ -33461,7 +33461,7 @@
         "title": "PRIMARY",
         "handle": "primary",
         "legacy_id": "460628721918",
-        "total_qty": 37055,
+        "total_qty": 37054,
         "sku_count": 249,
         "product_count": 249
       },
@@ -33477,7 +33477,7 @@
         "title": "Tariff Busters",
         "handle": "tariff-busters",
         "legacy_id": "463834087678",
-        "total_qty": 46602,
+        "total_qty": 46601,
         "sku_count": 340,
         "product_count": 340
       },
@@ -33509,7 +33509,7 @@
         "title": "MOSCHINO",
         "handle": "moschino",
         "legacy_id": "395943837950",
-        "total_qty": 287,
+        "total_qty": 286,
         "sku_count": 38,
         "product_count": 38
       },
@@ -33645,7 +33645,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 4230,
+        "total_qty": 4229,
         "sku_count": 348,
         "product_count": 348
       },
@@ -33797,7 +33797,7 @@
         "title": "JOSEPH ABBOUD",
         "handle": "joseph-abboud",
         "legacy_id": "474673447166",
-        "total_qty": 26,
+        "total_qty": 25,
         "sku_count": 5,
         "product_count": 5
       },
@@ -33829,7 +33829,7 @@
         "title": "FACE A FACE",
         "handle": "face-a-face",
         "legacy_id": "475759968510",
-        "total_qty": 2920,
+        "total_qty": 2919,
         "sku_count": 279,
         "product_count": 279
       },
@@ -33917,7 +33917,7 @@
         "title": "MODO",
         "handle": "modo",
         "legacy_id": "481959280894",
-        "total_qty": 298,
+        "total_qty": 297,
         "sku_count": 29,
         "product_count": 29
       },
@@ -42298,7 +42298,7 @@
         "sku": "JONES NY J234 BLA - 47"
       },
       "gid://shopify/ProductVariant/44922448183550": {
-        "qty": 77,
+        "qty": 76,
         "product_title": "J234 PUR-47",
         "sku": "JONES NY J234 PUR - 47"
       },
@@ -49328,7 +49328,7 @@
         "sku": "Primary-C107BRN/TORT-52"
       },
       "gid://shopify/ProductVariant/46372034773246": {
-        "qty": 81,
+        "qty": 80,
         "product_title": "M102-BROWN-54",
         "sku": "Primary-M102-Brown-54"
       },
@@ -55783,7 +55783,7 @@
         "sku": "MOSCHINO-MOS-616/F-0086-54"
       },
       "gid://shopify/ProductVariant/47010186395902": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "MOS-628-0MU1-51",
         "sku": "MOSCHINO-MOS-628-0MU1-51"
       },
@@ -65348,7 +65348,7 @@
         "sku": "JOE-JOE4110-036-53"
       },
       "gid://shopify/ProductVariant/47504333275390": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "JA4082-400-53",
         "sku": "JA-JA4082-400-53"
       },
@@ -76613,7 +76613,7 @@
         "sku": "MODO-4601-GOLD0-54"
       },
       "gid://shopify/ProductVariant/48061854286078": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "4601-SIL00-54",
         "sku": "MODO-4601-SIL00-54"
       },
@@ -87958,7 +87958,7 @@
         "sku": "FF-CLOUD-2-1732-55"
       },
       "gid://shopify/ProductVariant/48932965908734": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "CLOUD-2-1733-55",
         "sku": "FF-CLOUD-2-1733-55"
       },
