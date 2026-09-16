@@ -32258,13 +32258,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-15T22:37:40.664939+00:00",
+    "updated_at": "2026-09-16T00:48:26.414292+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 84522,
+        "total_qty": 84511,
         "sku_count": 10751,
         "product_count": 10751
       },
@@ -32272,7 +32272,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 84522,
+        "total_qty": 84511,
         "sku_count": 4064,
         "product_count": 4064
       },
@@ -32280,7 +32280,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22243,
+        "total_qty": 22240,
         "sku_count": 2506,
         "product_count": 2506
       },
@@ -32296,7 +32296,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61939,
+        "total_qty": 61932,
         "sku_count": 2094,
         "product_count": 2094
       },
@@ -32304,7 +32304,7 @@
         "title": "PRADA",
         "handle": "prada",
         "legacy_id": "391775289598",
-        "total_qty": 111,
+        "total_qty": 110,
         "sku_count": 20,
         "product_count": 20
       },
@@ -32312,7 +32312,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 84522,
+        "total_qty": 84511,
         "sku_count": 3179,
         "product_count": 3179
       },
@@ -32320,7 +32320,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 84110,
+        "total_qty": 84099,
         "sku_count": 2767,
         "product_count": 2767
       },
@@ -32344,7 +32344,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3410,
+        "total_qty": 3409,
         "sku_count": 436,
         "product_count": 436
       },
@@ -32376,7 +32376,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 19695,
+        "total_qty": 19692,
         "sku_count": 482,
         "product_count": 482
       },
@@ -32408,7 +32408,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 12973,
+        "total_qty": 12969,
         "sku_count": 1077,
         "product_count": 1077
       },
@@ -32416,7 +32416,7 @@
         "title": "TOMMY HILFIGER",
         "handle": "tommy-hilfiger",
         "legacy_id": "391775912190",
-        "total_qty": 273,
+        "total_qty": 272,
         "sku_count": 57,
         "product_count": 57
       },
@@ -32424,7 +32424,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 3490,
+        "total_qty": 3488,
         "sku_count": 331,
         "product_count": 331
       },
@@ -32448,7 +32448,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 7059,
+        "total_qty": 7057,
         "sku_count": 560,
         "product_count": 560
       },
@@ -32512,7 +32512,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1724,
+        "total_qty": 1723,
         "sku_count": 98,
         "product_count": 98
       },
@@ -32792,7 +32792,7 @@
         "title": "CALVIN KLEIN JEANS",
         "handle": "calvin-klein-jeans",
         "legacy_id": "464057172222",
-        "total_qty": 375,
+        "total_qty": 374,
         "sku_count": 51,
         "product_count": 51
       },
@@ -32904,7 +32904,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 1467,
+        "total_qty": 1466,
         "sku_count": 101,
         "product_count": 101
       },
@@ -32920,7 +32920,7 @@
         "title": "ANDY WOLF",
         "handle": "andy-wolf-1",
         "legacy_id": "469566619902",
-        "total_qty": 990,
+        "total_qty": 989,
         "sku_count": 265,
         "product_count": 265
       },
@@ -33176,7 +33176,7 @@
         "title": "MODO",
         "handle": "modo",
         "legacy_id": "481959280894",
-        "total_qty": 303,
+        "total_qty": 298,
         "sku_count": 29,
         "product_count": 29
       },
@@ -33184,7 +33184,7 @@
         "title": "ELTON JOHN",
         "handle": "elton-john",
         "legacy_id": "482187051262",
-        "total_qty": 1084,
+        "total_qty": 1083,
         "sku_count": 91,
         "product_count": 91
       },
@@ -68492,7 +68492,7 @@
         "sku": "AW-TRISTAN-A-52"
       },
       "gid://shopify/ProductVariant/47655187218686": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "TRISTAN-B-52",
         "sku": "AW-TRISTAN-B-52"
       },
@@ -75947,12 +75947,12 @@
         "sku": "MODO-4632-SMK00-58"
       },
       "gid://shopify/ProductVariant/48061855072510": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "4633-GOLD0-50",
         "sku": "MODO-4633-GOLD0-50"
       },
       "gid://shopify/ProductVariant/48061855105278": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "4633-SMK00-50",
         "sku": "MODO-4633-SMK00-50"
       },
@@ -81087,7 +81087,7 @@
         "sku": "EJ-STARLIGHT2-NYYCR"
       },
       "gid://shopify/ProductVariant/48305154588926": {
-        "qty": 18,
+        "qty": 17,
         "product_title": "TRIO-HRMNY",
         "sku": "EJ-TRIO-HRMNY"
       },
@@ -82037,12 +82037,12 @@
         "sku": "MODO-4609-SPUR0-52"
       },
       "gid://shopify/ProductVariant/48354208448766": {
-        "qty": 12,
+        "qty": 10,
         "product_title": "4612-NAVY0-54",
         "sku": "MODO-4612-NAVY0-54"
       },
       "gid://shopify/ProductVariant/48354208547070": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "4612-SIL00-54",
         "sku": "MODO-4612-SIL00-54"
       },
@@ -82257,7 +82257,7 @@
         "sku": "CKJ-CKJ25622S-432"
       },
       "gid://shopify/ProductVariant/48361937436926": {
-        "qty": 20,
+        "qty": 19,
         "product_title": "CKJ25622S-605",
         "sku": "CKJ-CKJ25622S-605"
       },
@@ -82432,7 +82432,7 @@
         "sku": "PRADA-PR-A13S-1AB5S0"
       },
       "gid://shopify/ProductVariant/48392229093630": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "PR-A19S-1BO40G",
         "sku": "PRADA-PR-A19S-1BO40G"
       },
@@ -85177,7 +85177,7 @@
         "sku": "TH-TH-2049-SE8-53"
       },
       "gid://shopify/ProductVariant/48648027963646": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "TH-2115/F-807-53",
         "sku": "TH-TH-2115/F-807-53"
       },
@@ -86562,7 +86562,7 @@
         "sku": "CARRERA-1060/S-08A/IR"
       },
       "gid://shopify/ProductVariant/48772544037118": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "1067/S-2F7/HA",
         "sku": "CARRERA-1067/S-2F7/HA"
       },
