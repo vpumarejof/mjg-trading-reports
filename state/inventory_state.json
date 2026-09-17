@@ -33167,13 +33167,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-17T21:33:49.550498+00:00",
+    "updated_at": "2026-09-17T23:40:52.105682+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 87760,
+        "total_qty": 87758,
         "sku_count": 11054,
         "product_count": 11054
       },
@@ -33181,7 +33181,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 87760,
+        "total_qty": 87758,
         "sku_count": 4353,
         "product_count": 4353
       },
@@ -33205,7 +33205,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63021,
+        "total_qty": 63020,
         "sku_count": 2230,
         "product_count": 2230
       },
@@ -33221,7 +33221,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 87760,
+        "total_qty": 87758,
         "sku_count": 3460,
         "product_count": 3460
       },
@@ -33229,15 +33229,15 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 87349,
-        "sku_count": 3049,
-        "product_count": 3049
+        "total_qty": 87346,
+        "sku_count": 3048,
+        "product_count": 3048
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12855,
+        "total_qty": 12854,
         "sku_count": 893,
         "product_count": 893
       },
@@ -33245,7 +33245,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12855,
+        "total_qty": 12854,
         "sku_count": 893,
         "product_count": 893
       },
@@ -33501,7 +33501,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 24528,
+        "total_qty": 24527,
         "sku_count": 39,
         "product_count": 39
       },
@@ -33685,7 +33685,7 @@
         "title": "MOSCHINO",
         "handle": "moschino",
         "legacy_id": "395943837950",
-        "total_qty": 285,
+        "total_qty": 284,
         "sku_count": 38,
         "product_count": 38
       },
@@ -45985,7 +45985,7 @@
         "sku": "MJ-MARC-463-0086-53"
       },
       "gid://shopify/ProductVariant/46059134714110": {
-        "qty": 9590,
+        "qty": 9589,
         "product_title": "DropShip",
         "sku": "DropShip"
       },
@@ -86005,7 +86005,7 @@
         "sku": "MOSCHINO-MOS558-3VJ-55"
       },
       "gid://shopify/ProductVariant/48648026685694": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "MOS583-807-54",
         "sku": "MOSCHINO-MOS583-807-54"
       },
