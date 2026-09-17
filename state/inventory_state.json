@@ -32999,23 +32999,23 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-17T03:57:17.543379+00:00",
+    "updated_at": "2026-09-17T14:16:41.269775+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 87201,
-        "sku_count": 10998,
-        "product_count": 10998
+        "total_qty": 87127,
+        "sku_count": 11001,
+        "product_count": 11001
       },
       "gid://shopify/Collection/410150142206": {
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 87201,
-        "sku_count": 4308,
-        "product_count": 4308
+        "total_qty": 87127,
+        "sku_count": 4310,
+        "product_count": 4310
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
@@ -33037,9 +33037,9 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63156,
-        "sku_count": 2246,
-        "product_count": 2246
+        "total_qty": 63087,
+        "sku_count": 2244,
+        "product_count": 2244
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -33053,39 +33053,39 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 87201,
-        "sku_count": 3421,
-        "product_count": 3421
+        "total_qty": 87127,
+        "sku_count": 3422,
+        "product_count": 3422
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 86789,
-        "sku_count": 3009,
-        "product_count": 3009
+        "total_qty": 86711,
+        "sku_count": 3006,
+        "product_count": 3006
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12893,
-        "sku_count": 895,
-        "product_count": 895
+        "total_qty": 12867,
+        "sku_count": 894,
+        "product_count": 894
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12893,
-        "sku_count": 895,
-        "product_count": 895
+        "total_qty": 12867,
+        "sku_count": 894,
+        "product_count": 894
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3402,
+        "total_qty": 3399,
         "sku_count": 435,
         "product_count": 435
       },
@@ -33149,9 +33149,9 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 14440,
-        "sku_count": 1167,
-        "product_count": 1167
+        "total_qty": 14435,
+        "sku_count": 1170,
+        "product_count": 1170
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -33166,8 +33166,8 @@
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
         "total_qty": 4861,
-        "sku_count": 411,
-        "product_count": 411
+        "sku_count": 414,
+        "product_count": 414
       },
       "gid://shopify/Collection/391774109950": {
         "title": "DRAGON",
@@ -33189,7 +33189,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 7160,
+        "total_qty": 7155,
         "sku_count": 570,
         "product_count": 570
       },
@@ -33645,9 +33645,9 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 4227,
-        "sku_count": 348,
-        "product_count": 348
+        "total_qty": 4188,
+        "sku_count": 350,
+        "product_count": 350
       },
       "gid://shopify/Collection/391771324670": {
         "title": "BURBERRY",
@@ -33685,9 +33685,9 @@
         "title": "COCO SONG",
         "handle": "coco-song",
         "legacy_id": "467688259838",
-        "total_qty": 123,
-        "sku_count": 36,
-        "product_count": 36
+        "total_qty": 120,
+        "sku_count": 35,
+        "product_count": 35
       },
       "gid://shopify/Collection/472287772926": {
         "title": "HARRY LARY",
@@ -33765,7 +33765,7 @@
         "title": "ANNE KLEIN",
         "handle": "anne-klein",
         "legacy_id": "474673250558",
-        "total_qty": 50,
+        "total_qty": 48,
         "sku_count": 9,
         "product_count": 9
       },
@@ -33829,9 +33829,9 @@
         "title": "FACE A FACE",
         "handle": "face-a-face",
         "legacy_id": "475759968510",
-        "total_qty": 2913,
-        "sku_count": 279,
-        "product_count": 279
+        "total_qty": 2844,
+        "sku_count": 278,
+        "product_count": 278
       },
       "gid://shopify/Collection/475760034046": {
         "title": "JAGUAR",
@@ -33901,9 +33901,9 @@
         "title": "BUGATTI",
         "handle": "bugatti",
         "legacy_id": "480545439998",
-        "total_qty": 191,
-        "sku_count": 47,
-        "product_count": 47
+        "total_qty": 194,
+        "sku_count": 50,
+        "product_count": 50
       },
       "gid://shopify/Collection/473333039358": {
         "title": "ClipOn Frames",
@@ -33989,7 +33989,7 @@
         "title": "ANNA-KARIN KARLSSON",
         "handle": "anna-karin-karlsson",
         "legacy_id": "485871059198",
-        "total_qty": 1307,
+        "total_qty": 1304,
         "sku_count": 21,
         "product_count": 21
       },
@@ -60703,7 +60703,7 @@
         "sku": "CS-LOVE-PLEASE-CV167.02-09"
       },
       "gid://shopify/ProductVariant/47272810905854": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "SKY-LIGHT-CV185.01-09",
         "sku": "CS-SKY-LIGHT-CV185.01-09"
       },
@@ -60788,7 +60788,7 @@
         "sku": "CS-LITTLE-QUEEN-CV204.04-09"
       },
       "gid://shopify/ProductVariant/47272811725054": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "RISING-SUN-CV206.01-09",
         "sku": "CS-RISING-SUN-CV206.01-09"
       },
@@ -61013,7 +61013,7 @@
         "sku": "CS-JUST-JULIET-CV236.04-09"
       },
       "gid://shopify/ProductVariant/47272817033470": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "TRUE-PRINCESS-CV240.03-09",
         "sku": "CS-TRUE-PRINCESS-CV240.03-09"
       },
@@ -65168,7 +65168,7 @@
         "sku": "MJ-MARC-802-DLN-53"
       },
       "gid://shopify/ProductVariant/47504331768062": {
-        "qty": 3,
+        "qty": 1,
         "product_title": "AK5075-780-53",
         "sku": "AK-AK5075-780-53"
       },
@@ -67133,7 +67133,7 @@
         "sku": "FF-KALEDO-2-7017-51"
       },
       "gid://shopify/ProductVariant/47589020762366": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "MOVES-2-3006-52",
         "sku": "FF-MOVES-2-3006-52"
       },
@@ -71843,7 +71843,7 @@
         "sku": "FF-BLAKE-2-1641-53"
       },
       "gid://shopify/ProductVariant/47761817567486": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "BOCCA-BLOOM-1-167-52",
         "sku": "FF-BOCCA-BLOOM-1-167-52"
       },
@@ -71858,7 +71858,7 @@
         "sku": "FF-BOCCA-BLOOM-2-203-53"
       },
       "gid://shopify/ProductVariant/47761817665790": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "BOCCA-BLOOM-2-2216-53",
         "sku": "FF-BOCCA-BLOOM-2-2216-53"
       },
@@ -72043,7 +72043,7 @@
         "sku": "FF-IPSSO-2-0078-55"
       },
       "gid://shopify/ProductVariant/47761818976510": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "IPSSO-2-3006-55",
         "sku": "FF-IPSSO-2-3006-55"
       },
@@ -72308,7 +72308,7 @@
         "sku": "FF-WITTY-2-0078-53"
       },
       "gid://shopify/ProductVariant/47761826611454": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "WITTY-2-2216-53",
         "sku": "FF-WITTY-2-2216-53"
       },
@@ -72343,7 +72343,7 @@
         "sku": "WOOW-ON-FIRE-1-3064-51"
       },
       "gid://shopify/ProductVariant/47761834115326": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "BOCCA-BLOOM-2-3064-53",
         "sku": "FF-BOCCA-BLOOM-2-3064-53"
       },
@@ -76158,27 +76158,27 @@
         "sku": "PD-PRIM-1-2022-53_D"
       },
       "gid://shopify/ProductVariant/48035785441534": {
-        "qty": 14,
+        "qty": 13,
         "product_title": "ALIUM-CLUB-2-0015-50",
         "sku": "FF-ALIUM-CLUB-2-0015-50"
       },
       "gid://shopify/ProductVariant/48035785474302": {
-        "qty": 12,
+        "qty": 10,
         "product_title": "ALIUM-CLUB-2-0959-50",
         "sku": "FF-ALIUM-CLUB-2-0959-50"
       },
       "gid://shopify/ProductVariant/48035785507070": {
-        "qty": 10,
+        "qty": 8,
         "product_title": "ALIUM-CLUB-3-0957-54",
         "sku": "FF-ALIUM-CLUB-3-0957-54"
       },
       "gid://shopify/ProductVariant/48035785572606": {
-        "qty": 10,
+        "qty": 8,
         "product_title": "ALIUM-CLUB-3-TM01-54",
         "sku": "FF-ALIUM-CLUB-3-TM01-54"
       },
       "gid://shopify/ProductVariant/48035785605374": {
-        "qty": 15,
+        "qty": 14,
         "product_title": "ALIUM-RIDE-2-9620",
         "sku": "FF-ALIUM-RIDE-2-9620"
       },
@@ -76188,12 +76188,12 @@
         "sku": "FF-ALIUM-TREK-3-9430"
       },
       "gid://shopify/ProductVariant/48035785670910": {
-        "qty": 10,
+        "qty": 8,
         "product_title": "ALIUM-WATT-2-933M-56",
         "sku": "FF-ALIUM-WATT-2-933M-56"
       },
       "gid://shopify/ProductVariant/48035785703678": {
-        "qty": 8,
+        "qty": 6,
         "product_title": "ALIUM-WATT-2-9714-56",
         "sku": "FF-ALIUM-WATT-2-9714-56"
       },
@@ -76388,7 +76388,7 @@
         "sku": "FF-GLITCH-2-4251"
       },
       "gid://shopify/ProductVariant/48035787964670": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "GORDON-1-7455-51",
         "sku": "FF-GORDON-1-7455-51"
       },
@@ -76398,7 +76398,7 @@
         "sku": "FF-GORDON-2-4075-52"
       },
       "gid://shopify/ProductVariant/48035788030206": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "HOLLOW-3-2216-47",
         "sku": "FF-HOLLOW-3-2216-47"
       },
@@ -76408,7 +76408,7 @@
         "sku": "FF-IMPERFECT-1-192L"
       },
       "gid://shopify/ProductVariant/48035788161278": {
-        "qty": 30,
+        "qty": 29,
         "product_title": "IMPERFECT-1-195L",
         "sku": "FF-IMPERFECT-1-195L"
       },
@@ -76423,7 +76423,7 @@
         "sku": "FF-IMPERFECT-2-193L"
       },
       "gid://shopify/ProductVariant/48035788456190": {
-        "qty": 30,
+        "qty": 29,
         "product_title": "IMPERFECT-2-195L",
         "sku": "FF-IMPERFECT-2-195L"
       },
@@ -76433,7 +76433,7 @@
         "sku": "FF-IMPERFECT-2-197L"
       },
       "gid://shopify/ProductVariant/48035788521726": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "IPSSO-1-0495-50",
         "sku": "FF-IPSSO-1-0495-50"
       },
@@ -76443,7 +76443,7 @@
         "sku": "FF-IPSSO-2-0008-55"
       },
       "gid://shopify/ProductVariant/48035788587262": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "IPSSO-2-2216-55",
         "sku": "FF-IPSSO-2-2216-55"
       },
@@ -76498,7 +76498,7 @@
         "sku": "FF-KIMONO-2-2150"
       },
       "gid://shopify/ProductVariant/48035788947710": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "MOVES-1-3207-50",
         "sku": "FF-MOVES-1-3207-50"
       },
@@ -76538,7 +76538,7 @@
         "sku": "FF-SHIFT-2-0078-53"
       },
       "gid://shopify/ProductVariant/48035789242622": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "SHIFT-2-2216-53",
         "sku": "FF-SHIFT-2-2216-53"
       },
@@ -76583,7 +76583,7 @@
         "sku": "FF-SOTSAS-2-8032"
       },
       "gid://shopify/ProductVariant/48035789832446": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "WISPER-2-2047-52",
         "sku": "FF-WISPER-2-2047-52"
       },
@@ -83308,7 +83308,7 @@
         "sku": "FLEXON-W3040-205-56"
       },
       "gid://shopify/ProductVariant/48406939107582": {
-        "qty": 154,
+        "qty": 153,
         "product_title": "COCO-STORIES-BLACK GOLD",
         "sku": "AKK-COCO-STORIES-BLACK GOLD"
       },
@@ -83353,7 +83353,7 @@
         "sku": "AKK-MOTHER-BEEP-ICE CRYSTAL BLACK"
       },
       "gid://shopify/ProductVariant/48406939894014": {
-        "qty": 142,
+        "qty": 141,
         "product_title": "MR-3AM-STORIES-BLACK GOLD",
         "sku": "AKK-MR-3AM-STORIES-BLACK GOLD"
       },
@@ -83398,7 +83398,7 @@
         "sku": "AKK-SHADY-LUV-2.0-WHITE GOLD"
       },
       "gid://shopify/ProductVariant/48406940811518": {
-        "qty": 35,
+        "qty": 34,
         "product_title": "SHADY-LUV-2.0-WHITE GOLD BLUSH MIRROR",
         "sku": "AKK-SHADY-LUV-2.0-WHITE GOLD BLUSH MIRROR"
       },
@@ -87788,62 +87788,62 @@
         "sku": "FF-ALIUM180-2-0936-55"
       },
       "gid://shopify/ProductVariant/48932963746046": {
-        "qty": 6,
+        "qty": 4,
         "product_title": "ALIUM180-3-0957-47",
         "sku": "FF-ALIUM180-3-0957-47"
       },
       "gid://shopify/ProductVariant/48932963778814": {
-        "qty": 6,
+        "qty": 4,
         "product_title": "ALIUM180-3-9432-47",
         "sku": "FF-ALIUM180-3-9432-47"
       },
       "gid://shopify/ProductVariant/48932963811582": {
-        "qty": 15,
+        "qty": 14,
         "product_title": "ALIUM-BOLT-1-0957-53",
         "sku": "FF-ALIUM-BOLT-1-0957-53"
       },
       "gid://shopify/ProductVariant/48932963877118": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "ALIUM-CLUB-1-0957-48",
         "sku": "FF-ALIUM-CLUB-1-0957-48"
       },
       "gid://shopify/ProductVariant/48932963942654": {
-        "qty": 11,
+        "qty": 10,
         "product_title": "ALIUM-CLUB-1-9122-48",
         "sku": "FF-ALIUM-CLUB-1-9122-48"
       },
       "gid://shopify/ProductVariant/48932963975422": {
-        "qty": 15,
+        "qty": 14,
         "product_title": "ALIUM-CLUB-1-930M-48",
         "sku": "FF-ALIUM-CLUB-1-930M-48"
       },
       "gid://shopify/ProductVariant/48932964008190": {
-        "qty": 6,
+        "qty": 4,
         "product_title": "ALIUM-CLUB-1-TM12-48",
         "sku": "FF-ALIUM-CLUB-1-TM12-48"
       },
       "gid://shopify/ProductVariant/48932964040958": {
-        "qty": 4,
+        "qty": 2,
         "product_title": "ALIUM-CLUB-2-0957-50",
         "sku": "FF-ALIUM-CLUB-2-0957-50"
       },
       "gid://shopify/ProductVariant/48932964073726": {
-        "qty": 6,
+        "qty": 4,
         "product_title": "ALIUM-CLUB-3-9350-54",
         "sku": "FF-ALIUM-CLUB-3-9350-54"
       },
       "gid://shopify/ProductVariant/48932964139262": {
-        "qty": 2,
+        "qty": 0,
         "product_title": "ALIUM-LAB-5-3D12-48",
         "sku": "FF-ALIUM-LAB-5-3D12-48"
       },
       "gid://shopify/ProductVariant/48932964172030": {
-        "qty": 8,
+        "qty": 6,
         "product_title": "ALIUM-S-2-0015-47",
         "sku": "FF-ALIUM-S-2-0015-47"
       },
       "gid://shopify/ProductVariant/48932964237566": {
-        "qty": 12,
+        "qty": 10,
         "product_title": "ALIUM-S-2-TM12-47",
         "sku": "FF-ALIUM-S-2-TM12-47"
       },
@@ -87853,12 +87853,12 @@
         "sku": "FF-ALIUM-SURF-1-TM01-47"
       },
       "gid://shopify/ProductVariant/48932964598014": {
-        "qty": 12,
+        "qty": 10,
         "product_title": "ALIUM-TREK-3-0028-58",
         "sku": "FF-ALIUM-TREK-3-0028-58"
       },
       "gid://shopify/ProductVariant/48932964630782": {
-        "qty": 8,
+        "qty": 6,
         "product_title": "ALIUM-WATT-3-TM01-57",
         "sku": "FF-ALIUM-WATT-3-TM01-57"
       },
@@ -87868,7 +87868,7 @@
         "sku": "FF-ALIUM-WIRE-5-930M-56"
       },
       "gid://shopify/ProductVariant/48932964696318": {
-        "qty": 12,
+        "qty": 10,
         "product_title": "ALIUM-WIRE-5-9620M-56",
         "sku": "FF-ALIUM-WIRE-5-9620M-56"
       },
@@ -87888,7 +87888,7 @@
         "sku": "FF-BLAKE-2-2278-53"
       },
       "gid://shopify/ProductVariant/48932964892926": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "BOCCA-BLOOM-1-0665-52",
         "sku": "FF-BOCCA-BLOOM-1-0665-52"
       },
@@ -87913,7 +87913,7 @@
         "sku": "FF-BOCCA-MANIA-1-2045-53"
       },
       "gid://shopify/ProductVariant/48932965155070": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "BOCCA-SCULPT-1-12184-50",
         "sku": "FF-BOCCA-SCULPT-1-12184-50"
       },
@@ -87933,7 +87933,7 @@
         "sku": "FF-CILAO-1-0933-47"
       },
       "gid://shopify/ProductVariant/48932965613822": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "CILAO-1-9061-47",
         "sku": "FF-CILAO-1-9061-47"
       },
@@ -87973,7 +87973,7 @@
         "sku": "FF-DJUNE-1-1111-48"
       },
       "gid://shopify/ProductVariant/48932967350526": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "DJUNE-1-1704-48",
         "sku": "FF-DJUNE-1-1704-48"
       },
@@ -87993,7 +87993,7 @@
         "sku": "FF-DJUNE-2-0078-50"
       },
       "gid://shopify/ProductVariant/48932967579902": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "DJUNE-2-2162-50",
         "sku": "FF-DJUNE-2-2162-50"
       },
@@ -88013,7 +88013,7 @@
         "sku": "FF-ECHOS-1-6204-51"
       },
       "gid://shopify/ProductVariant/48932967776510": {
-        "qty": 8,
+        "qty": 5,
         "product_title": "EIFFEL-2-0904-48",
         "sku": "FF-EIFFEL-2-0904-48"
       },
@@ -88143,7 +88143,7 @@
         "sku": "FF-NILUDO-2-TM01-52"
       },
       "gid://shopify/ProductVariant/48932970004734": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "PLEATS-2-4595-53",
         "sku": "FF-PLEATS-2-4595-53"
       },
@@ -88173,7 +88173,7 @@
         "sku": "FF-SHIFT-2-0032-53"
       },
       "gid://shopify/ProductVariant/48932970266878": {
-        "qty": 12,
+        "qty": 10,
         "product_title": "TWIST-1-0984-44",
         "sku": "FF-TWIST-1-0984-44"
       },
@@ -88183,7 +88183,7 @@
         "sku": "FF-WISPER-1-100-48"
       },
       "gid://shopify/ProductVariant/48932970430718": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "WISPER-1-1219-48",
         "sku": "FF-WISPER-1-1219-48"
       },
@@ -88218,7 +88218,7 @@
         "sku": "FF-WITTY-1-008-50"
       },
       "gid://shopify/ProductVariant/48932971020542": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "WITTY-1-2548-50",
         "sku": "FF-WITTY-1-2548-50"
       },
@@ -88233,17 +88233,17 @@
         "sku": "FF-WITTY-1-4057-50"
       },
       "gid://shopify/ProductVariant/48932971118846": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "ZENIT-3-9186-55",
         "sku": "FF-ZENIT-3-9186-55"
       },
       "gid://shopify/ProductVariant/48932971184382": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "ALIUM-RIDE-1-9033",
         "sku": "FF-ALIUM-RIDE-1-9033"
       },
       "gid://shopify/ProductVariant/48932971217150": {
-        "qty": 11,
+        "qty": 10,
         "product_title": "ALIUM-RIDE-3-0015",
         "sku": "FF-ALIUM-RIDE-3-0015"
       },
@@ -89016,6 +89016,21 @@
         "qty": 22,
         "product_title": "JG37823-6500",
         "sku": "JAGUAR-JG37823-6500"
+      },
+      "gid://shopify/ProductVariant/48982497689854": {
+        "qty": 1,
+        "product_title": "01C-RG",
+        "sku": "BUGATTI-01C-RG"
+      },
+      "gid://shopify/ProductVariant/48982498181374": {
+        "qty": 1,
+        "product_title": "12-GRY",
+        "sku": "BUGATTI-12-GRY"
+      },
+      "gid://shopify/ProductVariant/48982498410750": {
+        "qty": 1,
+        "product_title": "44-BK",
+        "sku": "BUGATTI-44-BK"
       }
     }
   }
