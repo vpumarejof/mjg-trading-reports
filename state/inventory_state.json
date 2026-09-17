@@ -32999,13 +32999,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-16T21:49:25.774597+00:00",
+    "updated_at": "2026-09-17T03:57:17.543379+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 87211,
+        "total_qty": 87201,
         "sku_count": 10998,
         "product_count": 10998
       },
@@ -33013,9 +33013,9 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 87211,
-        "sku_count": 4309,
-        "product_count": 4309
+        "total_qty": 87201,
+        "sku_count": 4308,
+        "product_count": 4308
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
@@ -33053,15 +33053,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 87211,
-        "sku_count": 3422,
-        "product_count": 3422
+        "total_qty": 87201,
+        "sku_count": 3421,
+        "product_count": 3421
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 86798,
+        "total_qty": 86789,
         "sku_count": 3009,
         "product_count": 3009
       },
@@ -33085,9 +33085,9 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3405,
-        "sku_count": 436,
-        "product_count": 436
+        "total_qty": 3402,
+        "sku_count": 435,
+        "product_count": 435
       },
       "gid://shopify/Collection/391854031102": {
         "title": "Women's",
@@ -33149,9 +33149,9 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 14450,
-        "sku_count": 1168,
-        "product_count": 1168
+        "total_qty": 14440,
+        "sku_count": 1167,
+        "product_count": 1167
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -33165,7 +33165,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 4869,
+        "total_qty": 4861,
         "sku_count": 411,
         "product_count": 411
       },
@@ -33181,7 +33181,7 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 552,
+        "total_qty": 550,
         "sku_count": 63,
         "product_count": 63
       },
@@ -33189,9 +33189,9 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 7162,
-        "sku_count": 571,
-        "product_count": 571
+        "total_qty": 7160,
+        "sku_count": 570,
+        "product_count": 570
       },
       "gid://shopify/Collection/391853998334": {
         "title": "Men's",
@@ -33253,7 +33253,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1716,
+        "total_qty": 1715,
         "sku_count": 98,
         "product_count": 98
       },
@@ -33645,7 +33645,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 4229,
+        "total_qty": 4227,
         "sku_count": 348,
         "product_count": 348
       },
@@ -33829,7 +33829,7 @@
         "title": "FACE A FACE",
         "handle": "face-a-face",
         "legacy_id": "475759968510",
-        "total_qty": 2919,
+        "total_qty": 2913,
         "sku_count": 279,
         "product_count": 279
       },
@@ -58033,7 +58033,7 @@
         "sku": "SF-SF1106S-414"
       },
       "gid://shopify/ProductVariant/47111134478590": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "SF1106S-600",
         "sku": "SF-SF1106S-600"
       },
@@ -67158,7 +67158,7 @@
         "sku": "FF-NOTCHI-2-4171"
       },
       "gid://shopify/ProductVariant/47589021090046": {
-        "qty": 24,
+        "qty": 23,
         "product_title": "SHIRO-1-1053",
         "sku": "FF-SHIRO-1-1053"
       },
@@ -67183,7 +67183,7 @@
         "sku": "FF-SHIRO-3-1199"
       },
       "gid://shopify/ProductVariant/47589021253886": {
-        "qty": 24,
+        "qty": 23,
         "product_title": "SHIRO-3-8331",
         "sku": "FF-SHIRO-3-8331"
       },
@@ -72198,7 +72198,7 @@
         "sku": "FF-SHIRO-2-6204"
       },
       "gid://shopify/ProductVariant/47761820418302": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "SHIRO-2-6315",
         "sku": "FF-SHIRO-2-6315"
       },
@@ -76248,7 +76248,7 @@
         "sku": "FF-BLANK-2-0100"
       },
       "gid://shopify/ProductVariant/48035786096894": {
-        "qty": 15,
+        "qty": 14,
         "product_title": "BLANK-2-1008",
         "sku": "FF-BLANK-2-1008"
       },
@@ -77603,7 +77603,7 @@
         "sku": "SF-SF958S-001"
       },
       "gid://shopify/ProductVariant/48112739287294": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "SF960S-001",
         "sku": "SF-SF960S-001"
       },
@@ -79823,7 +79823,7 @@
         "sku": "TF-TF4047B-80553C"
       },
       "gid://shopify/ProductVariant/48223291736318": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "TF4105HB-81343B",
         "sku": "TF-TF4105HB-81343B"
       },
@@ -85468,7 +85468,7 @@
         "sku": "CARRERA-305/S-807/M9"
       },
       "gid://shopify/ProductVariant/48648015118590": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "316/S-0EX4/9O",
         "sku": "CARRERA-316/S-0EX4/9O"
       },
@@ -88243,7 +88243,7 @@
         "sku": "FF-ALIUM-RIDE-1-9033"
       },
       "gid://shopify/ProductVariant/48932971217150": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "ALIUM-RIDE-3-0015",
         "sku": "FF-ALIUM-RIDE-3-0015"
       },
@@ -88293,7 +88293,7 @@
         "sku": "FF-NOTCHI-2-4176"
       },
       "gid://shopify/ProductVariant/48932971774206": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "SHADOW-2-2081",
         "sku": "FF-SHADOW-2-2081"
       },
