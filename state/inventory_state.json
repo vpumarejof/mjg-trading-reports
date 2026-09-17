@@ -33167,13 +33167,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-17T18:24:06.318640+00:00",
+    "updated_at": "2026-09-17T21:33:49.550498+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 87811,
+        "total_qty": 87760,
         "sku_count": 11054,
         "product_count": 11054
       },
@@ -33181,15 +33181,15 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 87811,
-        "sku_count": 4361,
-        "product_count": 4361
+        "total_qty": 87760,
+        "sku_count": 4353,
+        "product_count": 4353
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22247,
+        "total_qty": 22212,
         "sku_count": 2508,
         "product_count": 2508
       },
@@ -33197,7 +33197,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 1006,
+        "total_qty": 1005,
         "sku_count": 912,
         "product_count": 912
       },
@@ -33205,9 +33205,9 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63072,
-        "sku_count": 2243,
-        "product_count": 2243
+        "total_qty": 63021,
+        "sku_count": 2230,
+        "product_count": 2230
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -33221,23 +33221,23 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 87811,
-        "sku_count": 3473,
-        "product_count": 3473
+        "total_qty": 87760,
+        "sku_count": 3460,
+        "product_count": 3460
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 87394,
-        "sku_count": 3056,
-        "product_count": 3056
+        "total_qty": 87349,
+        "sku_count": 3049,
+        "product_count": 3049
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12858,
+        "total_qty": 12855,
         "sku_count": 893,
         "product_count": 893
       },
@@ -33245,7 +33245,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12858,
+        "total_qty": 12855,
         "sku_count": 893,
         "product_count": 893
       },
@@ -33285,9 +33285,9 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 19685,
-        "sku_count": 482,
-        "product_count": 482
+        "total_qty": 19650,
+        "sku_count": 474,
+        "product_count": 474
       },
       "gid://shopify/Collection/463407481086": {
         "title": "OPEN BOX",
@@ -33373,7 +33373,7 @@
         "title": "LACOSTE",
         "handle": "lacoste",
         "legacy_id": "393068577022",
-        "total_qty": 140,
+        "total_qty": 139,
         "sku_count": 20,
         "product_count": 20
       },
@@ -33509,9 +33509,9 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 4937,
-        "sku_count": 407,
-        "product_count": 407
+        "total_qty": 4280,
+        "sku_count": 382,
+        "product_count": 382
       },
       "gid://shopify/Collection/395943936254": {
         "title": "CAROLINA HERRERA",
@@ -33557,7 +33557,7 @@
         "title": "MARC JACOBS",
         "handle": "marc-jacobs",
         "legacy_id": "391774732542",
-        "total_qty": 296,
+        "total_qty": 295,
         "sku_count": 58,
         "product_count": 58
       },
@@ -33661,9 +33661,9 @@
         "title": "PIERRE CARDIN",
         "handle": "pierre-cardin",
         "legacy_id": "408975540478",
-        "total_qty": 27,
-        "sku_count": 15,
-        "product_count": 15
+        "total_qty": 24,
+        "sku_count": 13,
+        "product_count": 13
       },
       "gid://shopify/Collection/466217926910": {
         "title": "LIGHTEC-MOREL",
@@ -33717,9 +33717,9 @@
         "title": "FLEXON",
         "handle": "flexon",
         "legacy_id": "466401853694",
-        "total_qty": 141,
-        "sku_count": 32,
-        "product_count": 32
+        "total_qty": 137,
+        "sku_count": 30,
+        "product_count": 30
       },
       "gid://shopify/Collection/464259285246": {
         "title": "OPTIKA",
@@ -33829,9 +33829,9 @@
         "title": "ANDY WOLF",
         "handle": "andy-wolf-1",
         "legacy_id": "469566619902",
-        "total_qty": 986,
-        "sku_count": 264,
-        "product_count": 264
+        "total_qty": 948,
+        "sku_count": 255,
+        "product_count": 255
       },
       "gid://shopify/Collection/470247014654": {
         "title": "DENIM",
@@ -33997,7 +33997,7 @@
         "title": "FACE A FACE",
         "handle": "face-a-face",
         "legacy_id": "475759968510",
-        "total_qty": 2844,
+        "total_qty": 2841,
         "sku_count": 278,
         "product_count": 278
       },
@@ -34085,7 +34085,7 @@
         "title": "MODO",
         "handle": "modo",
         "legacy_id": "481959280894",
-        "total_qty": 295,
+        "total_qty": 294,
         "sku_count": 29,
         "product_count": 29
       },
@@ -50200,7 +50200,7 @@
         "sku": "PC-6868-0R80-58"
       },
       "gid://shopify/ProductVariant/46539117789438": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "6877-0J5G-52",
         "sku": "PC-6877-0J5G-52"
       },
@@ -50410,7 +50410,7 @@
         "sku": "PC-6836-0807-56"
       },
       "gid://shopify/ProductVariant/46616849809662": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "6869-0R80-56",
         "sku": "PC-6869-0R80-56"
       },
@@ -52295,7 +52295,7 @@
         "sku": "MJ-MARC-380-0086-53"
       },
       "gid://shopify/ProductVariant/46657905000702": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "MARC-537-0086-53",
         "sku": "MJ-MARC-537-0086-53"
       },
@@ -55450,7 +55450,7 @@
         "sku": "FLEXON-E1128-310-54"
       },
       "gid://shopify/ProductVariant/46988923666686": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "E1130-210-55",
         "sku": "FLEXON-E1130-210-55"
       },
@@ -58435,7 +58435,7 @@
         "sku": "FLEXON-H6073-070-59"
       },
       "gid://shopify/ProductVariant/47113518711038": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "H6073-210-59",
         "sku": "FLEXON-H6073-210-59"
       },
@@ -58465,7 +58465,7 @@
         "sku": "AW-4522-E-45"
       },
       "gid://shopify/ProductVariant/47124752367870": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "4522-F-45",
         "sku": "AW-4522-F-45"
       },
@@ -58505,7 +58505,7 @@
         "sku": "AW-4523-J-52"
       },
       "gid://shopify/ProductVariant/47124753383678": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "4523-M-52",
         "sku": "AW-4523-M-52"
       },
@@ -58615,7 +58615,7 @@
         "sku": "AW-4534-J-52"
       },
       "gid://shopify/ProductVariant/47124755185918": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "4538-A-48",
         "sku": "AW-4538-A-48"
       },
@@ -58625,7 +58625,7 @@
         "sku": "AW-4538-D-48"
       },
       "gid://shopify/ProductVariant/47124755251454": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "4542-C-49",
         "sku": "AW-4542-C-49"
       },
@@ -58635,7 +58635,7 @@
         "sku": "AW-4542-D-49"
       },
       "gid://shopify/ProductVariant/47124755316990": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "4542-E-49",
         "sku": "AW-4542-E-49"
       },
@@ -58655,7 +58655,7 @@
         "sku": "AW-4543-B-48"
       },
       "gid://shopify/ProductVariant/47124755448062": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "4543-C-48",
         "sku": "AW-4543-C-48"
       },
@@ -58685,7 +58685,7 @@
         "sku": "AW-4543-H-48"
       },
       "gid://shopify/ProductVariant/47124755644670": {
-        "qty": 4,
+        "qty": 2,
         "product_title": "4544-F-53",
         "sku": "AW-4544-F-53"
       },
@@ -59125,7 +59125,7 @@
         "sku": "AW-5078-A-52"
       },
       "gid://shopify/ProductVariant/47124760625406": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "5078-B-52",
         "sku": "AW-5078-B-52"
       },
@@ -68500,17 +68500,17 @@
         "sku": "COACH-0HC5110B-9001-54"
       },
       "gid://shopify/ProductVariant/47655172964606": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "4449-K-55",
         "sku": "AW-4449-K-55"
       },
       "gid://shopify/ProductVariant/47655172997374": {
-        "qty": 5,
+        "qty": 3,
         "product_title": "4449-L-55",
         "sku": "AW-4449-L-55"
       },
       "gid://shopify/ProductVariant/47655173030142": {
-        "qty": 7,
+        "qty": 5,
         "product_title": "4449-M-55",
         "sku": "AW-4449-M-55"
       },
@@ -68535,17 +68535,17 @@
         "sku": "AW-4454-N-48"
       },
       "gid://shopify/ProductVariant/47655173193982": {
-        "qty": 6,
+        "qty": 4,
         "product_title": "4482-D-53",
         "sku": "AW-4482-D-53"
       },
       "gid://shopify/ProductVariant/47655173226750": {
-        "qty": 5,
+        "qty": 3,
         "product_title": "4482-E-53",
         "sku": "AW-4482-E-53"
       },
       "gid://shopify/ProductVariant/47655173259518": {
-        "qty": 2,
+        "qty": 0,
         "product_title": "4484-D-53",
         "sku": "AW-4484-D-53"
       },
@@ -68630,12 +68630,12 @@
         "sku": "AW-4510-F-55"
       },
       "gid://shopify/ProductVariant/47655175782654": {
-        "qty": 7,
+        "qty": 5,
         "product_title": "4510-I-55",
         "sku": "AW-4510-I-55"
       },
       "gid://shopify/ProductVariant/47655175815422": {
-        "qty": 3,
+        "qty": 1,
         "product_title": "4510-J-55",
         "sku": "AW-4510-J-55"
       },
@@ -68655,7 +68655,7 @@
         "sku": "AW-4512-E-57"
       },
       "gid://shopify/ProductVariant/47655176044798": {
-        "qty": 4,
+        "qty": 2,
         "product_title": "4513-B-57",
         "sku": "AW-4513-B-57"
       },
@@ -68710,7 +68710,7 @@
         "sku": "AW-4520-G-55"
       },
       "gid://shopify/ProductVariant/47655176503550": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "4520-H-55",
         "sku": "AW-4520-H-55"
       },
@@ -68720,7 +68720,7 @@
         "sku": "AW-4520-I-55"
       },
       "gid://shopify/ProductVariant/47655176569086": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "4522-C-45",
         "sku": "AW-4522-C-45"
       },
@@ -68900,12 +68900,12 @@
         "sku": "AW-4551-A-45"
       },
       "gid://shopify/ProductVariant/47655179485438": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "4551-C-45",
         "sku": "AW-4551-C-45"
       },
       "gid://shopify/ProductVariant/47655179518206": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "4551-G-45",
         "sku": "AW-4551-G-45"
       },
@@ -68955,12 +68955,12 @@
         "sku": "AW-4711-B-49"
       },
       "gid://shopify/ProductVariant/47655179845886": {
-        "qty": 3,
+        "qty": 1,
         "product_title": "4711-C-49",
         "sku": "AW-4711-C-49"
       },
       "gid://shopify/ProductVariant/47655179878654": {
-        "qty": 2,
+        "qty": 0,
         "product_title": "4711-D-49",
         "sku": "AW-4711-D-49"
       },
@@ -69260,7 +69260,7 @@
         "sku": "AW-5088-M-50"
       },
       "gid://shopify/ProductVariant/47655183843582": {
-        "qty": 5,
+        "qty": 3,
         "product_title": "ALINA-R-4711-H-49",
         "sku": "AW-ALINA-R-4711-H-49"
       },
@@ -69400,7 +69400,7 @@
         "sku": "AW-ROSS-D-46"
       },
       "gid://shopify/ProductVariant/47655187054846": {
-        "qty": 2,
+        "qty": 0,
         "product_title": "ROWEN-D-56",
         "sku": "AW-ROWEN-D-56"
       },
@@ -70720,7 +70720,7 @@
         "sku": "LACOSTE-L2300-033-54"
       },
       "gid://shopify/ProductVariant/47730451546366": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "L2310-038-53",
         "sku": "LACOSTE-L2310-038-53"
       },
@@ -72815,7 +72815,7 @@
         "sku": "FLEXON-H6084-002-54"
       },
       "gid://shopify/ProductVariant/47775409504510": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "H6084-314-54",
         "sku": "FLEXON-H6084-314-54"
       },
@@ -82880,7 +82880,7 @@
         "sku": "PC-6849-R81-56"
       },
       "gid://shopify/ProductVariant/48349470032126": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "6879-R80-57",
         "sku": "PC-6879-R80-57"
       },
@@ -82955,7 +82955,7 @@
         "sku": "MODO-4604-RGOLD-50"
       },
       "gid://shopify/ProductVariant/48354208284926": {
-        "qty": 14,
+        "qty": 13,
         "product_title": "4609D-RLAV0-52",
         "sku": "MODO-4609D-RLAV0-52"
       },
@@ -86990,7 +86990,7 @@
         "sku": "FLEXON-H6079-004-55"
       },
       "gid://shopify/ProductVariant/48698371506430": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "H6084-002-57",
         "sku": "FLEXON-H6084-002-57"
       },
@@ -87980,7 +87980,7 @@
         "sku": "PD-CARVE-1-9121-49"
       },
       "gid://shopify/ProductVariant/48932963680510": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "ALIUM180-2-0936-55",
         "sku": "FF-ALIUM180-2-0936-55"
       },
@@ -87995,7 +87995,7 @@
         "sku": "FF-ALIUM180-3-9432-47"
       },
       "gid://shopify/ProductVariant/48932963811582": {
-        "qty": 14,
+        "qty": 13,
         "product_title": "ALIUM-BOLT-1-0957-53",
         "sku": "FF-ALIUM-BOLT-1-0957-53"
       },
@@ -88025,7 +88025,7 @@
         "sku": "FF-ALIUM-CLUB-2-0957-50"
       },
       "gid://shopify/ProductVariant/48932964073726": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "ALIUM-CLUB-3-9350-54",
         "sku": "FF-ALIUM-CLUB-3-9350-54"
       },
