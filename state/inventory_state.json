@@ -33167,13 +33167,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-18T06:21:39.710034+00:00",
+    "updated_at": "2026-09-18T11:33:13.558134+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 87745,
+        "total_qty": 87737,
         "sku_count": 11054,
         "product_count": 11054
       },
@@ -33181,15 +33181,15 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 87745,
-        "sku_count": 4352,
-        "product_count": 4352
+        "total_qty": 87737,
+        "sku_count": 4351,
+        "product_count": 4351
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22211,
+        "total_qty": 22208,
         "sku_count": 2508,
         "product_count": 2508
       },
@@ -33197,7 +33197,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 1003,
+        "total_qty": 1002,
         "sku_count": 912,
         "product_count": 912
       },
@@ -33205,9 +33205,9 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63012,
-        "sku_count": 2230,
-        "product_count": 2230
+        "total_qty": 63007,
+        "sku_count": 2229,
+        "product_count": 2229
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -33221,39 +33221,39 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 87745,
-        "sku_count": 3459,
-        "product_count": 3459
+        "total_qty": 87737,
+        "sku_count": 3458,
+        "product_count": 3458
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 87333,
-        "sku_count": 3047,
-        "product_count": 3047
+        "total_qty": 87323,
+        "sku_count": 3044,
+        "product_count": 3044
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12848,
-        "sku_count": 893,
-        "product_count": 893
+        "total_qty": 12846,
+        "sku_count": 892,
+        "product_count": 892
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12848,
-        "sku_count": 893,
-        "product_count": 893
+        "total_qty": 12846,
+        "sku_count": 892,
+        "product_count": 892
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3393,
+        "total_qty": 3392,
         "sku_count": 434,
         "product_count": 434
       },
@@ -33285,7 +33285,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 19649,
+        "total_qty": 19648,
         "sku_count": 474,
         "product_count": 474
       },
@@ -33317,7 +33317,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 15130,
+        "total_qty": 15129,
         "sku_count": 1221,
         "product_count": 1221
       },
@@ -33325,7 +33325,7 @@
         "title": "TOMMY HILFIGER",
         "handle": "tommy-hilfiger",
         "legacy_id": "391775912190",
-        "total_qty": 269,
+        "total_qty": 268,
         "sku_count": 56,
         "product_count": 56
       },
@@ -33381,7 +33381,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2517,
+        "total_qty": 2516,
         "sku_count": 193,
         "product_count": 193
       },
@@ -33485,9 +33485,9 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 690,
-        "sku_count": 124,
-        "product_count": 124
+        "total_qty": 688,
+        "sku_count": 123,
+        "product_count": 123
       },
       "gid://shopify/Collection/454431080702": {
         "title": "Kids",
@@ -33509,7 +33509,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 24527,
+        "total_qty": 24525,
         "sku_count": 39,
         "product_count": 39
       },
@@ -33517,7 +33517,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 4280,
+        "total_qty": 4279,
         "sku_count": 382,
         "product_count": 382
       },
@@ -33573,7 +33573,7 @@
         "title": "DAVID BECKHAM",
         "handle": "david-beckham",
         "legacy_id": "397089702142",
-        "total_qty": 542,
+        "total_qty": 541,
         "sku_count": 68,
         "product_count": 68
       },
@@ -33597,7 +33597,7 @@
         "title": "Readers",
         "handle": "readers",
         "legacy_id": "373526069502",
-        "total_qty": 159,
+        "total_qty": 158,
         "sku_count": 48,
         "product_count": 48
       },
@@ -33605,7 +33605,7 @@
         "title": "EYEBOBS",
         "handle": "eyebobs",
         "legacy_id": "391774273790",
-        "total_qty": 171,
+        "total_qty": 170,
         "sku_count": 60,
         "product_count": 60
       },
@@ -33613,7 +33613,7 @@
         "title": "Unisex Readers",
         "handle": "unisex-readers",
         "legacy_id": "459347788030",
-        "total_qty": 77,
+        "total_qty": 76,
         "sku_count": 23,
         "product_count": 23
       },
@@ -33677,7 +33677,7 @@
         "title": "VALENTINO",
         "handle": "valentino",
         "legacy_id": "462679113982",
-        "total_qty": 90,
+        "total_qty": 89,
         "sku_count": 18,
         "product_count": 18
       },
@@ -45985,7 +45985,7 @@
         "sku": "MJ-MARC-463-0086-53"
       },
       "gid://shopify/ProductVariant/46059134714110": {
-        "qty": 9589,
+        "qty": 9587,
         "product_title": "DropShip",
         "sku": "DropShip"
       },
@@ -47660,7 +47660,7 @@
         "sku": "KS-TAILYNN-0807-52"
       },
       "gid://shopify/ProductVariant/46226006212862": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "TH-1893-010A-48",
         "sku": "TH-TH-1893-010A-48"
       },
@@ -48050,7 +48050,7 @@
         "sku": "EYEBOBS-3435-19-2.50"
       },
       "gid://shopify/ProductVariant/46243447177470": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "3407-01-1.25",
         "sku": "EYEBOBS-3407-01-1.25"
       },
@@ -55830,7 +55830,7 @@
         "sku": "KS-AURELIA/F-0086-53"
       },
       "gid://shopify/ProductVariant/47010180301054": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "BENDALL-0LHF9-50",
         "sku": "KS-BENDALL-0LHF-50"
       },
@@ -64695,7 +64695,7 @@
         "sku": "VALENTINO-XI-VLS-164B"
       },
       "gid://shopify/ProductVariant/47462524911870": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "XI-VLS-164C",
         "sku": "VALENTINO-XI-VLS-164C"
       },
@@ -76010,7 +76010,7 @@
         "sku": "KS-CAPRI/G/S-3H2/9O"
       },
       "gid://shopify/ProductVariant/48011977490686": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "CHANTELLE-086-52",
         "sku": "KS-CHANTELLE-086-52"
       },
@@ -85975,7 +85975,7 @@
         "sku": "DB-DB 7020-WR7-53"
       },
       "gid://shopify/ProductVariant/48648025932030": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "DB-1019-807-57",
         "sku": "DB-DB-1019-807-57"
       },
