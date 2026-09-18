@@ -33167,13 +33167,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-17T23:40:52.105682+00:00",
+    "updated_at": "2026-09-18T01:28:55.035173+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 87758,
+        "total_qty": 87757,
         "sku_count": 11054,
         "product_count": 11054
       },
@@ -33181,7 +33181,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 87758,
+        "total_qty": 87757,
         "sku_count": 4353,
         "product_count": 4353
       },
@@ -33205,7 +33205,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63020,
+        "total_qty": 63019,
         "sku_count": 2230,
         "product_count": 2230
       },
@@ -33221,7 +33221,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 87758,
+        "total_qty": 87757,
         "sku_count": 3460,
         "product_count": 3460
       },
@@ -33229,7 +33229,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 87346,
+        "total_qty": 87345,
         "sku_count": 3048,
         "product_count": 3048
       },
@@ -33285,7 +33285,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 19650,
+        "total_qty": 19649,
         "sku_count": 474,
         "product_count": 474
       },
@@ -33293,7 +33293,7 @@
         "title": "OPEN BOX",
         "handle": "shelf-pulls",
         "legacy_id": "463407481086",
-        "total_qty": 78,
+        "total_qty": 77,
         "sku_count": 29,
         "product_count": 29
       },
@@ -33301,7 +33301,7 @@
         "title": "Open Box",
         "handle": "open-box",
         "legacy_id": "463674867966",
-        "total_qty": 58,
+        "total_qty": 57,
         "sku_count": 9,
         "product_count": 9
       },
@@ -34450,7 +34450,7 @@
         "sku": "GUCCIGG0578OK00352"
       },
       "gid://shopify/ProductVariant/42500340973822": {
-        "qty": 19,
+        "qty": 18,
         "product_title": "GG0579OK00153",
         "sku": "GUCCIGG0579OK00153"
       },
