@@ -33167,13 +33167,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-18T11:33:13.558134+00:00",
+    "updated_at": "2026-09-18T15:08:11.518617+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 87737,
+        "total_qty": 87765,
         "sku_count": 11054,
         "product_count": 11054
       },
@@ -33181,15 +33181,15 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 87737,
-        "sku_count": 4351,
-        "product_count": 4351
+        "total_qty": 87765,
+        "sku_count": 4353,
+        "product_count": 4353
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22208,
+        "total_qty": 22212,
         "sku_count": 2508,
         "product_count": 2508
       },
@@ -33205,9 +33205,9 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 63007,
-        "sku_count": 2229,
-        "product_count": 2229
+        "total_qty": 63036,
+        "sku_count": 2234,
+        "product_count": 2234
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -33221,33 +33221,33 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 87737,
-        "sku_count": 3458,
-        "product_count": 3458
+        "total_qty": 87765,
+        "sku_count": 3462,
+        "product_count": 3462
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 87323,
-        "sku_count": 3044,
-        "product_count": 3044
+        "total_qty": 87352,
+        "sku_count": 3049,
+        "product_count": 3049
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12846,
-        "sku_count": 892,
-        "product_count": 892
+        "total_qty": 12861,
+        "sku_count": 894,
+        "product_count": 894
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12846,
-        "sku_count": 892,
-        "product_count": 892
+        "total_qty": 12861,
+        "sku_count": 894,
+        "product_count": 894
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
@@ -33285,9 +33285,9 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 19648,
-        "sku_count": 474,
-        "product_count": 474
+        "total_qty": 19652,
+        "sku_count": 475,
+        "product_count": 475
       },
       "gid://shopify/Collection/463407481086": {
         "title": "OPEN BOX",
@@ -33317,9 +33317,9 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 15129,
-        "sku_count": 1221,
-        "product_count": 1221
+        "total_qty": 15128,
+        "sku_count": 1220,
+        "product_count": 1220
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -33333,9 +33333,9 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 5112,
-        "sku_count": 434,
-        "product_count": 434
+        "total_qty": 5111,
+        "sku_count": 433,
+        "product_count": 433
       },
       "gid://shopify/Collection/391774109950": {
         "title": "DRAGON",
@@ -33373,9 +33373,9 @@
         "title": "LACOSTE",
         "handle": "lacoste",
         "legacy_id": "393068577022",
-        "total_qty": 139,
-        "sku_count": 20,
-        "product_count": 20
+        "total_qty": 149,
+        "sku_count": 22,
+        "product_count": 22
       },
       "gid://shopify/Collection/410150011134": {
         "title": "Unisex Sunglasses",
@@ -33389,9 +33389,9 @@
         "title": "NIKE",
         "handle": "nike",
         "legacy_id": "391775125758",
-        "total_qty": 226,
-        "sku_count": 24,
-        "product_count": 24
+        "total_qty": 231,
+        "sku_count": 25,
+        "product_count": 25
       },
       "gid://shopify/Collection/395955470590": {
         "title": "ALEXANDER MCQUEEN",
@@ -33709,7 +33709,7 @@
         "title": "CALVIN KLEIN JEANS",
         "handle": "calvin-klein-jeans",
         "legacy_id": "464057172222",
-        "total_qty": 373,
+        "total_qty": 378,
         "sku_count": 51,
         "product_count": 51
       },
@@ -33736,14 +33736,6 @@
         "total_qty": 9549,
         "sku_count": 92,
         "product_count": 92
-      },
-      "gid://shopify/Collection/466205999358": {
-        "title": "TED BAKER",
-        "handle": "ted-baker-1",
-        "legacy_id": "466205999358",
-        "total_qty": 67,
-        "sku_count": 10,
-        "product_count": 10
       },
       "gid://shopify/Collection/466212126974": {
         "title": "TED BAKER",
@@ -33845,9 +33837,9 @@
         "title": "DKNY",
         "handle": "dkny",
         "legacy_id": "395943870718",
-        "total_qty": 354,
-        "sku_count": 40,
-        "product_count": 40
+        "total_qty": 364,
+        "sku_count": 42,
+        "product_count": 42
       },
       "gid://shopify/Collection/467688259838": {
         "title": "COCO SONG",
@@ -33917,9 +33909,9 @@
         "title": "QUIKSILVER",
         "handle": "quiksilver",
         "legacy_id": "474031259902",
-        "total_qty": 167,
-        "sku_count": 28,
-        "product_count": 28
+        "total_qty": 165,
+        "sku_count": 27,
+        "product_count": 27
       },
       "gid://shopify/Collection/474031227134": {
         "title": "ROXY",
@@ -53495,7 +53487,7 @@
         "sku": "LACOSTE-L2286-201-53"
       },
       "gid://shopify/ProductVariant/46674957271294": {
-        "qty": 0,
+        "qty": 5,
         "product_title": "L2296-002-55",
         "sku": "LACOSTE-L2296-002-55"
       },
@@ -60455,7 +60447,7 @@
         "sku": "LACOSTE-L2954-410-51"
       },
       "gid://shopify/ProductVariant/47180588122366": {
-        "qty": 0,
+        "qty": 5,
         "product_title": "L2959-214-55",
         "sku": "LACOSTE-L2959-214-55"
       },
@@ -63990,7 +63982,7 @@
         "sku": "QUIKSILVER-QS3009-SGLD"
       },
       "gid://shopify/ProductVariant/47455921996030": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "QS3014-SIL",
         "sku": "QUIKSILVER-QS3014-SIL"
       },
@@ -64200,7 +64192,7 @@
         "sku": "QUIKSILVER-QS1016-MGUN-55"
       },
       "gid://shopify/ProductVariant/47455924355326": {
-        "qty": 11,
+        "qty": 10,
         "product_title": "QS1052-GUN-57",
         "sku": "QUIKSILVER-QS1052-GUN-57"
       },
@@ -70445,7 +70437,7 @@
         "sku": "DKNY-DK5060-237-52"
       },
       "gid://shopify/ProductVariant/47730447024382": {
-        "qty": 0,
+        "qty": 5,
         "product_title": "DK5060-265-52",
         "sku": "DKNY-DK5060-265-52"
       },
@@ -70490,7 +70482,7 @@
         "sku": "DKNY-DK5067-520-53"
       },
       "gid://shopify/ProductVariant/47730447450366": {
-        "qty": 0,
+        "qty": 5,
         "product_title": "DK7008-010-52",
         "sku": "DKNY-DK7008-010-52"
       },
@@ -70975,7 +70967,7 @@
         "sku": "DKNY-DK5047-650-52"
       },
       "gid://shopify/ProductVariant/47730469208318": {
-        "qty": 0,
+        "qty": 5,
         "product_title": "8402-605-50",
         "sku": "NIKE-8402-605-50"
       },
@@ -83040,7 +83032,7 @@
         "sku": "CKJ-CKJ24618-400-53"
       },
       "gid://shopify/ProductVariant/48361935864062": {
-        "qty": 5,
+        "qty": 10,
         "product_title": "CKJ24627-400-51",
         "sku": "CKJ-CKJ24627-400-51"
       },
