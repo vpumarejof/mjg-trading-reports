@@ -33167,13 +33167,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-18T18:25:44.257772+00:00",
+    "updated_at": "2026-09-18T21:04:20.843072+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 87492,
+        "total_qty": 87469,
         "sku_count": 11054,
         "product_count": 11054
       },
@@ -33181,9 +33181,9 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 87492,
-        "sku_count": 4342,
-        "product_count": 4342
+        "total_qty": 87469,
+        "sku_count": 4341,
+        "product_count": 4341
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
@@ -33205,9 +33205,9 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 62794,
-        "sku_count": 2212,
-        "product_count": 2212
+        "total_qty": 62785,
+        "sku_count": 2211,
+        "product_count": 2211
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -33221,33 +33221,33 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 87492,
-        "sku_count": 3439,
-        "product_count": 3439
+        "total_qty": 87469,
+        "sku_count": 3438,
+        "product_count": 3438
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 87081,
-        "sku_count": 3028,
-        "product_count": 3028
+        "total_qty": 87058,
+        "sku_count": 3027,
+        "product_count": 3027
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12801,
-        "sku_count": 889,
-        "product_count": 889
+        "total_qty": 12798,
+        "sku_count": 888,
+        "product_count": 888
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12801,
-        "sku_count": 889,
-        "product_count": 889
+        "total_qty": 12798,
+        "sku_count": 888,
+        "product_count": 888
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
@@ -33317,7 +33317,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 15097,
+        "total_qty": 15083,
         "sku_count": 1219,
         "product_count": 1219
       },
@@ -33325,15 +33325,15 @@
         "title": "TOMMY HILFIGER",
         "handle": "tommy-hilfiger",
         "legacy_id": "391775912190",
-        "total_qty": 251,
-        "sku_count": 53,
-        "product_count": 53
+        "total_qty": 249,
+        "sku_count": 52,
+        "product_count": 52
       },
       "gid://shopify/Collection/410150076670": {
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 5092,
+        "total_qty": 5078,
         "sku_count": 432,
         "product_count": 432
       },
@@ -33517,7 +33517,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 4199,
+        "total_qty": 4185,
         "sku_count": 381,
         "product_count": 381
       },
@@ -33757,7 +33757,7 @@
         "title": "LEVI'S",
         "handle": "levi",
         "legacy_id": "406703735038",
-        "total_qty": 193,
+        "total_qty": 192,
         "sku_count": 27,
         "product_count": 27
       },
@@ -33997,7 +33997,7 @@
         "title": "JAGUAR",
         "handle": "jaguar",
         "legacy_id": "475760034046",
-        "total_qty": 2374,
+        "total_qty": 2354,
         "sku_count": 185,
         "product_count": 185
       },
@@ -67402,7 +67402,7 @@
         "sku": "JAGUAR-JG31029-8840-56"
       },
       "gid://shopify/ProductVariant/47589021679870": {
-        "qty": 7,
+        "qty": 5,
         "product_title": "JG31029-8940-56",
         "sku": "JAGUAR-JG31029-8940-56"
       },
@@ -67412,7 +67412,7 @@
         "sku": "JAGUAR-JG31030-5184-56"
       },
       "gid://shopify/ProductVariant/47589021778174": {
-        "qty": 6,
+        "qty": 4,
         "product_title": "JG31030-8840-56",
         "sku": "JAGUAR-JG31030-8840-56"
       },
@@ -67637,7 +67637,7 @@
         "sku": "JAGUAR-JG37623-6100"
       },
       "gid://shopify/ProductVariant/47589024399614": {
-        "qty": 20,
+        "qty": 18,
         "product_title": "JG37626-3100",
         "sku": "JAGUAR-JG37626-3100"
       },
@@ -73132,7 +73132,7 @@
         "sku": "TH-TH-2059-C9A-55"
       },
       "gid://shopify/ProductVariant/47783451066622": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "2066/F-35J-54",
         "sku": "TH-TH-2066/F-35J-54"
       },
@@ -82802,7 +82802,7 @@
         "sku": "LEVIS-LV-1036-YF5-48"
       },
       "gid://shopify/ProductVariant/48349469409534": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "LV-1050-KB7-54",
         "sku": "LEVIS-LV-1050-KB7-54"
       },
@@ -83797,7 +83797,7 @@
         "sku": "MJ-MJ-1120/S-35J/HA"
       },
       "gid://shopify/ProductVariant/48493130645758": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "TH-1734-S8R-50",
         "sku": "TH-TH-1734-S8R-50"
       },
@@ -88507,7 +88507,7 @@
         "sku": "JAGUAR-JG31030-4764-56"
       },
       "gid://shopify/ProductVariant/48963790700798": {
-        "qty": 5,
+        "qty": 3,
         "product_title": "JG31031-5319-57",
         "sku": "JAGUAR-JG31031-5319-57"
       },
@@ -88832,7 +88832,7 @@
         "sku": "JAGUAR-JG37123-5223"
       },
       "gid://shopify/ProductVariant/48963796599038": {
-        "qty": 20,
+        "qty": 18,
         "product_title": "JG37123-8840",
         "sku": "JAGUAR-JG37123-8840"
       },
@@ -88847,7 +88847,7 @@
         "sku": "JAGUAR-JG37124-5318"
       },
       "gid://shopify/ProductVariant/48963796893950": {
-        "qty": 19,
+        "qty": 17,
         "product_title": "JG37124-5319",
         "sku": "JAGUAR-JG37124-5319"
       },
@@ -88912,7 +88912,7 @@
         "sku": "JAGUAR-JG37205-8940"
       },
       "gid://shopify/ProductVariant/48963797745918": {
-        "qty": 12,
+        "qty": 10,
         "product_title": "JG37261-4627",
         "sku": "JAGUAR-JG37261-4627"
       },
@@ -89127,7 +89127,7 @@
         "sku": "JAGUAR-JG37502-4200"
       },
       "gid://shopify/ProductVariant/48963802038526": {
-        "qty": 5,
+        "qty": 3,
         "product_title": "JG37502-6000",
         "sku": "JAGUAR-JG37502-6000"
       },
@@ -89137,7 +89137,7 @@
         "sku": "JAGUAR-JG37502-6500"
       },
       "gid://shopify/ProductVariant/48963802136830": {
-        "qty": 20,
+        "qty": 18,
         "product_title": "JG37503-4200",
         "sku": "JAGUAR-JG37503-4200"
       },
@@ -89197,7 +89197,7 @@
         "sku": "JAGUAR-JG37820-3100"
       },
       "gid://shopify/ProductVariant/48963803283710": {
-        "qty": 20,
+        "qty": 18,
         "product_title": "JG37823-6100",
         "sku": "JAGUAR-JG37823-6100"
       },
