@@ -33167,13 +33167,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-19T17:15:52.522203+00:00",
+    "updated_at": "2026-09-19T19:26:08.156671+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 87453,
+        "total_qty": 87452,
         "sku_count": 11054,
         "product_count": 11054
       },
@@ -33181,9 +33181,9 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 87453,
-        "sku_count": 4340,
-        "product_count": 4340
+        "total_qty": 87452,
+        "sku_count": 4339,
+        "product_count": 4339
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
@@ -33221,9 +33221,9 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 87453,
-        "sku_count": 3437,
-        "product_count": 3437
+        "total_qty": 87452,
+        "sku_count": 3436,
+        "product_count": 3436
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
@@ -33317,9 +33317,9 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 15074,
-        "sku_count": 1219,
-        "product_count": 1219
+        "total_qty": 15073,
+        "sku_count": 1218,
+        "product_count": 1218
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -33357,9 +33357,9 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 7562,
-        "sku_count": 599,
-        "product_count": 599
+        "total_qty": 7561,
+        "sku_count": 598,
+        "product_count": 598
       },
       "gid://shopify/Collection/391853998334": {
         "title": "Men's",
@@ -33557,9 +33557,9 @@
         "title": "MARC JACOBS",
         "handle": "marc-jacobs",
         "legacy_id": "391774732542",
-        "total_qty": 292,
-        "sku_count": 57,
-        "product_count": 57
+        "total_qty": 291,
+        "sku_count": 56,
+        "product_count": 56
       },
       "gid://shopify/Collection/472482939134": {
         "title": "QUAY",
@@ -82282,7 +82282,7 @@
         "sku": "MJ-MARC-673/S-KB7/HA"
       },
       "gid://shopify/ProductVariant/48336089350398": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "MARC-724/S-10A/HA",
         "sku": "MJ-MARC-724/S-10A/HA"
       },
