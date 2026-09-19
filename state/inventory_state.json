@@ -33167,13 +33167,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-19T21:34:26.756500+00:00",
+    "updated_at": "2026-09-19T23:32:23.935728+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 87452,
+        "total_qty": 87451,
         "sku_count": 11054,
         "product_count": 11054
       },
@@ -33181,7 +33181,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 87452,
+        "total_qty": 87451,
         "sku_count": 4339,
         "product_count": 4339
       },
@@ -33197,7 +33197,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 992,
+        "total_qty": 991,
         "sku_count": 912,
         "product_count": 912
       },
@@ -33205,7 +33205,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 62778,
+        "total_qty": 62777,
         "sku_count": 2210,
         "product_count": 2210
       },
@@ -33221,7 +33221,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 87452,
+        "total_qty": 87451,
         "sku_count": 3436,
         "product_count": 3436
       },
@@ -33229,7 +33229,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 87039,
+        "total_qty": 87038,
         "sku_count": 3023,
         "product_count": 3023
       },
@@ -33237,7 +33237,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12792,
+        "total_qty": 12791,
         "sku_count": 887,
         "product_count": 887
       },
@@ -33245,7 +33245,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12792,
+        "total_qty": 12791,
         "sku_count": 887,
         "product_count": 887
       },
@@ -33693,7 +33693,7 @@
         "title": "MISSONI",
         "handle": "missoni",
         "legacy_id": "408673911038",
-        "total_qty": 749,
+        "total_qty": 748,
         "sku_count": 63,
         "product_count": 63
       },
@@ -60237,7 +60237,7 @@
         "sku": "MISSONI-MIS-0045-0KDX-52"
       },
       "gid://shopify/ProductVariant/47177369321726": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "MIS-0058-0086-53",
         "sku": "MISSONI-MIS-0058-0086-53"
       },
