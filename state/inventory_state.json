@@ -33167,13 +33167,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-20T06:59:55.426226+00:00",
+    "updated_at": "2026-09-20T12:06:20.585368+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 87445,
+        "total_qty": 87443,
         "sku_count": 11054,
         "product_count": 11054
       },
@@ -33181,7 +33181,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 87445,
+        "total_qty": 87443,
         "sku_count": 4338,
         "product_count": 4338
       },
@@ -33221,7 +33221,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 87445,
+        "total_qty": 87443,
         "sku_count": 3435,
         "product_count": 3435
       },
@@ -33229,7 +33229,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 87033,
+        "total_qty": 87031,
         "sku_count": 3023,
         "product_count": 3023
       },
@@ -33253,7 +33253,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3383,
+        "total_qty": 3382,
         "sku_count": 434,
         "product_count": 434
       },
@@ -33317,7 +33317,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 15071,
+        "total_qty": 15069,
         "sku_count": 1218,
         "product_count": 1218
       },
@@ -33333,7 +33333,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 5075,
+        "total_qty": 5074,
         "sku_count": 432,
         "product_count": 432
       },
@@ -33357,7 +33357,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 7559,
+        "total_qty": 7558,
         "sku_count": 598,
         "product_count": 598
       },
@@ -33557,7 +33557,7 @@
         "title": "MARC JACOBS",
         "handle": "marc-jacobs",
         "legacy_id": "391774732542",
-        "total_qty": 290,
+        "total_qty": 289,
         "sku_count": 56,
         "product_count": 56
       },
@@ -33629,7 +33629,7 @@
         "title": "VERSACE",
         "handle": "versace",
         "legacy_id": "391776010494",
-        "total_qty": 104,
+        "total_qty": 103,
         "sku_count": 28,
         "product_count": 28
       },
@@ -84627,7 +84627,7 @@
         "sku": "VERSACE-0VE4490U-54508755"
       },
       "gid://shopify/ProductVariant/48567760486654": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "0VE4498-55458555",
         "sku": "VERSACE-0VE4498-55458555"
       },
@@ -85847,7 +85847,7 @@
         "sku": "MISSONI-MIS-0165/S-807/9O"
       },
       "gid://shopify/ProductVariant/48648017150206": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "MARC-646/S/US-XLT/9O",
         "sku": "MJ-MARC-646/S/US-XLT/9O"
       },
