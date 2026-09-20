@@ -33167,13 +33167,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-20T16:01:20.554193+00:00",
+    "updated_at": "2026-09-20T18:45:32.823713+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 87444,
+        "total_qty": 87442,
         "sku_count": 11054,
         "product_count": 11054
       },
@@ -33181,7 +33181,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 87444,
+        "total_qty": 87442,
         "sku_count": 4338,
         "product_count": 4338
       },
@@ -33205,7 +33205,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 62774,
+        "total_qty": 62772,
         "sku_count": 2209,
         "product_count": 2209
       },
@@ -33221,7 +33221,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 87444,
+        "total_qty": 87442,
         "sku_count": 3435,
         "product_count": 3435
       },
@@ -33229,15 +33229,15 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 87033,
-        "sku_count": 3024,
-        "product_count": 3024
+        "total_qty": 87030,
+        "sku_count": 3023,
+        "product_count": 3023
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12788,
+        "total_qty": 12787,
         "sku_count": 886,
         "product_count": 886
       },
@@ -33245,7 +33245,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12788,
+        "total_qty": 12787,
         "sku_count": 886,
         "product_count": 886
       },
@@ -33557,7 +33557,7 @@
         "title": "MARC JACOBS",
         "handle": "marc-jacobs",
         "legacy_id": "391774732542",
-        "total_qty": 289,
+        "total_qty": 288,
         "sku_count": 56,
         "product_count": 56
       },
@@ -34077,7 +34077,7 @@
         "title": "MODO",
         "handle": "modo",
         "legacy_id": "481959280894",
-        "total_qty": 289,
+        "total_qty": 288,
         "sku_count": 29,
         "product_count": 29
       },
@@ -76902,7 +76902,7 @@
         "sku": "MODO-4634-RGOLD-52"
       },
       "gid://shopify/ProductVariant/48061855564030": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "4635-SMK00-54",
         "sku": "MODO-4635-SMK00-54"
       },
@@ -78357,7 +78357,7 @@
         "sku": "MJ-MARC-507-RHL-54"
       },
       "gid://shopify/ProductVariant/48121215516926": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "MARC-508-FT3-53",
         "sku": "MJ-MARC-508-FT3-53"
       },
