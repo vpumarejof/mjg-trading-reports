@@ -33167,13 +33167,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-21T01:05:18.805039+00:00",
+    "updated_at": "2026-09-21T06:17:31.268800+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 87428,
+        "total_qty": 87423,
         "sku_count": 11054,
         "product_count": 11054
       },
@@ -33181,9 +33181,9 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 87428,
-        "sku_count": 4338,
-        "product_count": 4338
+        "total_qty": 87423,
+        "sku_count": 4337,
+        "product_count": 4337
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
@@ -33205,7 +33205,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 62759,
+        "total_qty": 62760,
         "sku_count": 2208,
         "product_count": 2208
       },
@@ -33221,23 +33221,23 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 87428,
-        "sku_count": 3434,
-        "product_count": 3434
+        "total_qty": 87423,
+        "sku_count": 3433,
+        "product_count": 3433
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 87017,
-        "sku_count": 3023,
-        "product_count": 3023
+        "total_qty": 87014,
+        "sku_count": 3024,
+        "product_count": 3024
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12778,
+        "total_qty": 12779,
         "sku_count": 886,
         "product_count": 886
       },
@@ -33245,7 +33245,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12778,
+        "total_qty": 12779,
         "sku_count": 886,
         "product_count": 886
       },
@@ -33253,9 +33253,9 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3383,
-        "sku_count": 434,
-        "product_count": 434
+        "total_qty": 3382,
+        "sku_count": 433,
+        "product_count": 433
       },
       "gid://shopify/Collection/391854031102": {
         "title": "Women's",
@@ -33317,9 +33317,9 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 15068,
-        "sku_count": 1218,
-        "product_count": 1218
+        "total_qty": 15062,
+        "sku_count": 1217,
+        "product_count": 1217
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -33333,9 +33333,9 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 5074,
-        "sku_count": 432,
-        "product_count": 432
+        "total_qty": 5070,
+        "sku_count": 431,
+        "product_count": 431
       },
       "gid://shopify/Collection/391774109950": {
         "title": "DRAGON",
@@ -33357,7 +33357,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 7557,
+        "total_qty": 7555,
         "sku_count": 598,
         "product_count": 598
       },
@@ -33517,7 +33517,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 4177,
+        "total_qty": 4172,
         "sku_count": 381,
         "product_count": 381
       },
@@ -33557,7 +33557,7 @@
         "title": "MARC JACOBS",
         "handle": "marc-jacobs",
         "legacy_id": "391774732542",
-        "total_qty": 287,
+        "total_qty": 288,
         "sku_count": 56,
         "product_count": 56
       },
@@ -34061,9 +34061,9 @@
         "title": "BUGATTI",
         "handle": "bugatti",
         "legacy_id": "480545439998",
-        "total_qty": 193,
-        "sku_count": 50,
-        "product_count": 50
+        "total_qty": 192,
+        "sku_count": 49,
+        "product_count": 49
       },
       "gid://shopify/Collection/473333039358": {
         "title": "ClipOn Frames",
@@ -34197,7 +34197,7 @@
         "title": "CHAMPION",
         "handle": "champion-1",
         "legacy_id": "425337389310",
-        "total_qty": 305,
+        "total_qty": 300,
         "sku_count": 26,
         "product_count": 26
       },
@@ -75572,7 +75572,7 @@
         "sku": "BUGATTI-10-DBT/AG"
       },
       "gid://shopify/ProductVariant/47998569218302": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "10-BK/WG",
         "sku": "BUGATTI-10-BK/WG"
       },
@@ -78357,7 +78357,7 @@
         "sku": "MJ-MARC-507-RHL-54"
       },
       "gid://shopify/ProductVariant/48121215516926": {
-        "qty": 1,
+        "qty": 2,
         "product_title": "MARC-508-FT3-53",
         "sku": "MJ-MARC-508-FT3-53"
       },
@@ -89282,7 +89282,7 @@
         "sku": "AT-ATP934-C03"
       },
       "gid://shopify/ProductVariant/48983155605758": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "ACT-C02",
         "sku": "CHAMPION-ACT-C02"
       },
@@ -89337,7 +89337,7 @@
         "sku": "CHAMPION-IGNITE-C02"
       },
       "gid://shopify/ProductVariant/48983156228350": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "IGNITE-C03",
         "sku": "CHAMPION-IGNITE-C03"
       },
@@ -89347,12 +89347,12 @@
         "sku": "CHAMPION-INTENT-C02"
       },
       "gid://shopify/ProductVariant/48983156293886": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "MELT-C02",
         "sku": "CHAMPION-MELT-C02"
       },
       "gid://shopify/ProductVariant/48983156359422": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "MELT-C03",
         "sku": "CHAMPION-MELT-C03"
       },
@@ -89362,7 +89362,7 @@
         "sku": "CHAMPION-MOW-C01"
       },
       "gid://shopify/ProductVariant/48983156490494": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "NOIZ-C01",
         "sku": "CHAMPION-NOIZ-C01"
       },
