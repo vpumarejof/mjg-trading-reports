@@ -33167,13 +33167,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-20T23:13:37.057517+00:00",
+    "updated_at": "2026-09-21T01:05:18.805039+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 87431,
+        "total_qty": 87428,
         "sku_count": 11054,
         "product_count": 11054
       },
@@ -33181,7 +33181,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 87431,
+        "total_qty": 87428,
         "sku_count": 4338,
         "product_count": 4338
       },
@@ -33189,7 +33189,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22176,
+        "total_qty": 22175,
         "sku_count": 2508,
         "product_count": 2508
       },
@@ -33205,7 +33205,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 62761,
+        "total_qty": 62759,
         "sku_count": 2208,
         "product_count": 2208
       },
@@ -33221,7 +33221,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 87431,
+        "total_qty": 87428,
         "sku_count": 3434,
         "product_count": 3434
       },
@@ -33229,7 +33229,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 87020,
+        "total_qty": 87017,
         "sku_count": 3023,
         "product_count": 3023
       },
@@ -33237,7 +33237,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12779,
+        "total_qty": 12778,
         "sku_count": 886,
         "product_count": 886
       },
@@ -33245,7 +33245,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12779,
+        "total_qty": 12778,
         "sku_count": 886,
         "product_count": 886
       },
@@ -33285,7 +33285,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 19619,
+        "total_qty": 19618,
         "sku_count": 470,
         "product_count": 470
       },
@@ -33317,7 +33317,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 15069,
+        "total_qty": 15068,
         "sku_count": 1218,
         "product_count": 1218
       },
@@ -33357,7 +33357,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 7558,
+        "total_qty": 7557,
         "sku_count": 598,
         "product_count": 598
       },
@@ -33517,7 +33517,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 4178,
+        "total_qty": 4177,
         "sku_count": 381,
         "product_count": 381
       },
@@ -33557,7 +33557,7 @@
         "title": "MARC JACOBS",
         "handle": "marc-jacobs",
         "legacy_id": "391774732542",
-        "total_qty": 288,
+        "total_qty": 287,
         "sku_count": 56,
         "product_count": 56
       },
@@ -33773,7 +33773,7 @@
         "title": "1880-MOREL",
         "handle": "1880-morel",
         "legacy_id": "466916376830",
-        "total_qty": 110,
+        "total_qty": 109,
         "sku_count": 9,
         "product_count": 9
       },
@@ -34037,7 +34037,7 @@
         "title": "PRODESIGN",
         "handle": "prodesign",
         "legacy_id": "478388125950",
-        "total_qty": 914,
+        "total_qty": 913,
         "sku_count": 109,
         "product_count": 109
       },
@@ -56337,7 +56337,7 @@
         "sku": "1880-MOREL-60071M-ND16-47"
       },
       "gid://shopify/ProductVariant/47021047644414": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "60122M-DM12-49",
         "sku": "1880-MOREL-60122M-DM12-49"
       },
@@ -75897,7 +75897,7 @@
         "sku": "MJ-MARC-726-AIO-55"
       },
       "gid://shopify/ProductVariant/48011619369214": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "MARC-773/S-807/IR",
         "sku": "MJ-MARC-773/S-807/IR"
       },
@@ -87797,7 +87797,7 @@
         "sku": "PD-CUT-1-9624-51"
       },
       "gid://shopify/ProductVariant/48913521901822": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "CUT-3-5512-48",
         "sku": "PD-CUT-3-5512-48"
       },
