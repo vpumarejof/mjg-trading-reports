@@ -33167,13 +33167,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-22T00:49:57.239866+00:00",
+    "updated_at": "2026-09-22T05:39:46.503794+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 87143,
+        "total_qty": 87138,
         "sku_count": 11054,
         "product_count": 11054
       },
@@ -33181,9 +33181,9 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 87143,
-        "sku_count": 4303,
-        "product_count": 4303
+        "total_qty": 87138,
+        "sku_count": 4302,
+        "product_count": 4302
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
@@ -33205,9 +33205,9 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 62705,
-        "sku_count": 2199,
-        "product_count": 2199
+        "total_qty": 62701,
+        "sku_count": 2198,
+        "product_count": 2198
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -33221,15 +33221,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 87143,
-        "sku_count": 3398,
-        "product_count": 3398
+        "total_qty": 87138,
+        "sku_count": 3397,
+        "product_count": 3397
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 86743,
+        "total_qty": 86739,
         "sku_count": 2998,
         "product_count": 2998
       },
@@ -33237,17 +33237,17 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12751,
-        "sku_count": 878,
-        "product_count": 878
+        "total_qty": 12748,
+        "sku_count": 877,
+        "product_count": 877
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12751,
-        "sku_count": 878,
-        "product_count": 878
+        "total_qty": 12748,
+        "sku_count": 877,
+        "product_count": 877
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
@@ -33317,7 +33317,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 14838,
+        "total_qty": 14837,
         "sku_count": 1191,
         "product_count": 1191
       },
@@ -33357,7 +33357,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 7484,
+        "total_qty": 7483,
         "sku_count": 589,
         "product_count": 589
       },
@@ -33557,7 +33557,7 @@
         "title": "MARC JACOBS",
         "handle": "marc-jacobs",
         "legacy_id": "391774732542",
-        "total_qty": 275,
+        "total_qty": 273,
         "sku_count": 54,
         "product_count": 54
       },
@@ -33685,15 +33685,15 @@
         "title": "MOSCHINO",
         "handle": "moschino",
         "legacy_id": "395943837950",
-        "total_qty": 281,
-        "sku_count": 37,
-        "product_count": 37
+        "total_qty": 280,
+        "sku_count": 36,
+        "product_count": 36
       },
       "gid://shopify/Collection/408673911038": {
         "title": "MISSONI",
         "handle": "missoni",
         "legacy_id": "408673911038",
-        "total_qty": 748,
+        "total_qty": 747,
         "sku_count": 63,
         "product_count": 63
       },
@@ -33717,7 +33717,7 @@
         "title": "FLEXON",
         "handle": "flexon",
         "legacy_id": "466401853694",
-        "total_qty": 136,
+        "total_qty": 135,
         "sku_count": 30,
         "product_count": 30
       },
@@ -54427,7 +54427,7 @@
         "sku": "MISSONI-MIS-0099-059I-54"
       },
       "gid://shopify/ProductVariant/46754124005630": {
-        "qty": 13,
+        "qty": 12,
         "product_title": "MIS-0104-009Q-50",
         "sku": "MISSONI-MIS-0104-009Q-50"
       },
@@ -55892,7 +55892,7 @@
         "sku": "MJ-MARC-649-0F45-53"
       },
       "gid://shopify/ProductVariant/47010182824190": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "MARC-736-035J-55",
         "sku": "MJ-MARC-736-035J-55"
       },
@@ -75902,7 +75902,7 @@
         "sku": "MJ-MARC-773/S-807/IR"
       },
       "gid://shopify/ProductVariant/48011619401982": {
-        "qty": 18,
+        "qty": 17,
         "product_title": "MARC-773/S-C9A/IR",
         "sku": "MJ-MARC-773/S-C9A/IR"
       },
@@ -85997,7 +85997,7 @@
         "sku": "MOSCHINO-MOS558-3VJ-55"
       },
       "gid://shopify/ProductVariant/48648026685694": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "MOS583-807-54",
         "sku": "MOSCHINO-MOS583-807-54"
       },
@@ -86947,7 +86947,7 @@
         "sku": "FLEXON-E1155-206-54"
       },
       "gid://shopify/ProductVariant/48698371080446": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "E1158-042-57",
         "sku": "FLEXON-E1158-042-57"
       },
