@@ -33167,13 +33167,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-21T22:13:04.769439+00:00",
+    "updated_at": "2026-09-22T00:49:57.239866+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 87176,
+        "total_qty": 87143,
         "sku_count": 11054,
         "product_count": 11054
       },
@@ -33181,15 +33181,15 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 87176,
-        "sku_count": 4310,
-        "product_count": 4310
+        "total_qty": 87143,
+        "sku_count": 4303,
+        "product_count": 4303
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22081,
+        "total_qty": 22077,
         "sku_count": 2508,
         "product_count": 2508
       },
@@ -33205,9 +33205,9 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 62738,
-        "sku_count": 2207,
-        "product_count": 2207
+        "total_qty": 62705,
+        "sku_count": 2199,
+        "product_count": 2199
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -33221,41 +33221,41 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 87176,
-        "sku_count": 3406,
-        "product_count": 3406
+        "total_qty": 87143,
+        "sku_count": 3398,
+        "product_count": 3398
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 86769,
-        "sku_count": 2999,
-        "product_count": 2999
+        "total_qty": 86743,
+        "sku_count": 2998,
+        "product_count": 2998
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12771,
-        "sku_count": 885,
-        "product_count": 885
+        "total_qty": 12751,
+        "sku_count": 878,
+        "product_count": 878
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12771,
-        "sku_count": 885,
-        "product_count": 885
+        "total_qty": 12751,
+        "sku_count": 878,
+        "product_count": 878
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3298,
-        "sku_count": 418,
-        "product_count": 418
+        "total_qty": 3289,
+        "sku_count": 417,
+        "product_count": 417
       },
       "gid://shopify/Collection/391854031102": {
         "title": "Women's",
@@ -33269,7 +33269,7 @@
         "title": "Plastic Metal",
         "handle": "plastic-metal",
         "legacy_id": "462599520510",
-        "total_qty": 1677,
+        "total_qty": 1674,
         "sku_count": 99,
         "product_count": 99
       },
@@ -33285,7 +33285,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 19613,
+        "total_qty": 19609,
         "sku_count": 470,
         "product_count": 470
       },
@@ -33349,9 +33349,9 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 538,
-        "sku_count": 61,
-        "product_count": 61
+        "total_qty": 533,
+        "sku_count": 60,
+        "product_count": 60
       },
       "gid://shopify/Collection/410149978366": {
         "title": "Women's Sunglasses",
@@ -33517,7 +33517,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 4158,
+        "total_qty": 4150,
         "sku_count": 378,
         "product_count": 378
       },
@@ -33629,7 +33629,7 @@
         "title": "VERSACE",
         "handle": "versace",
         "legacy_id": "391776010494",
-        "total_qty": 99,
+        "total_qty": 97,
         "sku_count": 27,
         "product_count": 27
       },
@@ -33813,7 +33813,7 @@
         "title": "BURBERRY",
         "handle": "burberry",
         "legacy_id": "391771324670",
-        "total_qty": 35,
+        "total_qty": 33,
         "sku_count": 3,
         "product_count": 3
       },
@@ -33845,9 +33845,9 @@
         "title": "COCO SONG",
         "handle": "coco-song",
         "legacy_id": "467688259838",
-        "total_qty": 117,
-        "sku_count": 35,
-        "product_count": 35
+        "total_qty": 101,
+        "sku_count": 28,
+        "product_count": 28
       },
       "gid://shopify/Collection/472287772926": {
         "title": "HARRY LARY",
@@ -34037,7 +34037,7 @@
         "title": "PRODESIGN",
         "handle": "prodesign",
         "legacy_id": "478388125950",
-        "total_qty": 913,
+        "total_qty": 905,
         "sku_count": 109,
         "product_count": 109
       },
@@ -52552,12 +52552,12 @@
         "sku": "SF-SF2222-202-54"
       },
       "gid://shopify/ProductVariant/46663399932158": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "SF2227-001-56",
         "sku": "SF-SF2227-001-56"
       },
       "gid://shopify/ProductVariant/46663403241726": {
-        "qty": 16,
+        "qty": 15,
         "product_title": "SF2227-730-56",
         "sku": "SF-SF2227-730-56"
       },
@@ -52607,7 +52607,7 @@
         "sku": "SF-SF2976-330-51"
       },
       "gid://shopify/ProductVariant/46663425130750": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "SF2977-653-53",
         "sku": "SF-SF2977-653-53"
       },
@@ -57867,12 +57867,12 @@
         "sku": "VB-VB654S-234"
       },
       "gid://shopify/ProductVariant/47095920427262": {
-        "qty": 15,
+        "qty": 14,
         "product_title": "0BE2362D-3961-55",
         "sku": "BURBERRY-0BE2362D-3961-55"
       },
       "gid://shopify/ProductVariant/47095920460030": {
-        "qty": 15,
+        "qty": 14,
         "product_title": "0BE2382D-3852-49",
         "sku": "BURBERRY-0BE2382D-3852-49"
       },
@@ -57997,12 +57997,12 @@
         "sku": "VERSACE-0VE3354-5456-53"
       },
       "gid://shopify/ProductVariant/47095925735678": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "0VE3355U-5453-51",
         "sku": "VERSACE-0VE3355U-5453-51"
       },
       "gid://shopify/ProductVariant/47095925833982": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "0VE3355U-GB1-51",
         "sku": "VERSACE-0VE3355U-GB1-51"
       },
@@ -58322,7 +58322,7 @@
         "sku": "SF-SF2990-020-52"
       },
       "gid://shopify/ProductVariant/47111141163262": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "SF2990-213-52",
         "sku": "SF-SF2990-213-52"
       },
@@ -60937,7 +60937,7 @@
         "sku": "CS-WAITING-SOMEONE-CV199.01-09"
       },
       "gid://shopify/ProductVariant/47272811397374": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "WAITING-SOMEONE-CV199.03-09",
         "sku": "CS-WAITING-SOMEONE-CV199.03-09"
       },
@@ -60962,7 +60962,7 @@
         "sku": "CS-LAST-AFTERNOON-CV203.02-09"
       },
       "gid://shopify/ProductVariant/47272811561214": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "LITTLE-QUEEN-CV204.02-09",
         "sku": "CS-LITTLE-QUEEN-CV204.02-09"
       },
@@ -60982,7 +60982,7 @@
         "sku": "CS-RISING-SUN-CV206.03-09"
       },
       "gid://shopify/ProductVariant/47272811823358": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "RISING-SUN-CV206.04-09",
         "sku": "CS-RISING-SUN-CV206.04-09"
       },
@@ -61117,7 +61117,7 @@
         "sku": "CS-SURFING-DOLPHIN-CV228.03-09"
       },
       "gid://shopify/ProductVariant/47272815132926": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "SURFING-DOLPHIN-CV228.04-09",
         "sku": "CS-SURFING-DOLPHIN-CV228.04-09"
       },
@@ -61217,7 +61217,7 @@
         "sku": "CS-YORK-BLUES-CV243.01-09"
       },
       "gid://shopify/ProductVariant/47272817164542": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "YORK-BLUES-CV243.03-09",
         "sku": "CS-YORK-BLUES-CV243.03-09"
       },
@@ -61227,7 +61227,7 @@
         "sku": "CS-YORK-BLUES-CV243.04-09"
       },
       "gid://shopify/ProductVariant/47272817262846": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "NELSONS-DREAM-CV244.02-09",
         "sku": "CS-NELSONS-DREAM-CV244.02-09"
       },
@@ -61247,7 +61247,7 @@
         "sku": "CS-NOBODY-KNOWS-CV245.01-09"
       },
       "gid://shopify/ProductVariant/47272817492222": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "NOBODY-KNOWS-CV245.02-09",
         "sku": "CS-NOBODY-KNOWS-CV245.02-09"
       },
@@ -61267,7 +61267,7 @@
         "sku": "CS-SHANTY-TOWN-CV248.01-09"
       },
       "gid://shopify/ProductVariant/47272817852670": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "SHANTY-TOWN-CV248.02-09",
         "sku": "CS-SHANTY-TOWN-CV248.02-09"
       },
@@ -61287,7 +61287,7 @@
         "sku": "CS-LONG-NIGHT-CV249.02-09"
       },
       "gid://shopify/ProductVariant/47272818114814": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "LONG-NIGHT-CV249.03-09",
         "sku": "CS-LONG-NIGHT-CV249.03-09"
       },
@@ -61337,7 +61337,7 @@
         "sku": "CS-ROBOT-LOVE-CV252.04-09"
       },
       "gid://shopify/ProductVariant/47272818966782": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "RUNNING-JEANS-CV253.01-09",
         "sku": "CS-RUNNING-JEANS-CV253.01-09"
       },
@@ -61387,7 +61387,7 @@
         "sku": "CS-SWING-ALONE-CV256.03-09"
       },
       "gid://shopify/ProductVariant/47272819425534": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "SWEET-MAMA-CV257.01-09",
         "sku": "CS-SWEET-MAMA-CV257.01-09"
       },
@@ -61397,7 +61397,7 @@
         "sku": "CS-SWEET-MAMA-CV257.02-09"
       },
       "gid://shopify/ProductVariant/47272819491070": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "SWEET-MAMA-CV257.03-09",
         "sku": "CS-SWEET-MAMA-CV257.03-09"
       },
@@ -61437,12 +61437,12 @@
         "sku": "CS-SUN-TOUCH-CV186.01-09"
       },
       "gid://shopify/ProductVariant/47273048047870": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "SUN-TOUCH-CV186.02-09",
         "sku": "CS-SUN-TOUCH-CV186.02-09"
       },
       "gid://shopify/ProductVariant/47273048080638": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "SUN-TOUCH-CV186.04-09",
         "sku": "CS-SUN-TOUCH-CV186.04-09"
       },
@@ -61472,12 +61472,12 @@
         "sku": "CS-LAST-TANGO-CV214.02-09"
       },
       "gid://shopify/ProductVariant/47273075835134": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "JERICHO-ROAD-CV235.01-09",
         "sku": "CS-JERICHO-ROAD-CV235.01-09"
       },
       "gid://shopify/ProductVariant/47273075900670": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "JERICHO-ROAD-CV235.02-09",
         "sku": "CS-JERICHO-ROAD-CV235.02-09"
       },
@@ -77737,7 +77737,7 @@
         "sku": "SF-SF3015-216-53"
       },
       "gid://shopify/ProductVariant/48094649516286": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "SF3015-242-53",
         "sku": "SF-SF3015-242-53"
       },
@@ -87672,17 +87672,17 @@
         "sku": "QUAY-OG-OF-2699-RSTRT/RX"
       },
       "gid://shopify/ProductVariant/48913520984318": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "1448-6011-53",
         "sku": "PD-1448-6011-53"
       },
       "gid://shopify/ProductVariant/48913521017086": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "1448-9131-53",
         "sku": "PD-1448-9131-53"
       },
       "gid://shopify/ProductVariant/48913521049854": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "3171-9331-50",
         "sku": "PD-3171-9331-50"
       },
@@ -87697,27 +87697,27 @@
         "sku": "PD-3179-9031-49"
       },
       "gid://shopify/ProductVariant/48913521148158": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "3183-9031-58",
         "sku": "PD-3183-9031-58"
       },
       "gid://shopify/ProductVariant/48913521180926": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "3613-4122-53",
         "sku": "PD-3613-4122-53"
       },
       "gid://shopify/ProductVariant/48913521246462": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "3638-6032-49",
         "sku": "PD-3638-6032-49"
       },
       "gid://shopify/ProductVariant/48913521279230": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "3641-6032-50",
         "sku": "PD-3641-6032-50"
       },
       "gid://shopify/ProductVariant/48913521311998": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "3647-6032-56",
         "sku": "PD-3647-6032-56"
       },
