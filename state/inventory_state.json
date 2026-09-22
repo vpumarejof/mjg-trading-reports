@@ -33167,13 +33167,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-22T05:39:46.503794+00:00",
+    "updated_at": "2026-09-22T10:19:41.918881+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 87138,
+        "total_qty": 87133,
         "sku_count": 11054,
         "product_count": 11054
       },
@@ -33181,15 +33181,15 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 87138,
-        "sku_count": 4302,
-        "product_count": 4302
+        "total_qty": 87133,
+        "sku_count": 4301,
+        "product_count": 4301
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 22077,
+        "total_qty": 22076,
         "sku_count": 2508,
         "product_count": 2508
       },
@@ -33205,9 +33205,9 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 62701,
-        "sku_count": 2198,
-        "product_count": 2198
+        "total_qty": 62698,
+        "sku_count": 2197,
+        "product_count": 2197
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -33221,15 +33221,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 87138,
-        "sku_count": 3397,
-        "product_count": 3397
+        "total_qty": 87133,
+        "sku_count": 3396,
+        "product_count": 3396
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 86739,
+        "total_qty": 86735,
         "sku_count": 2998,
         "product_count": 2998
       },
@@ -33237,7 +33237,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12748,
+        "total_qty": 12747,
         "sku_count": 877,
         "product_count": 877
       },
@@ -33245,7 +33245,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12748,
+        "total_qty": 12747,
         "sku_count": 877,
         "product_count": 877
       },
@@ -33285,9 +33285,9 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 19609,
-        "sku_count": 470,
-        "product_count": 470
+        "total_qty": 19607,
+        "sku_count": 469,
+        "product_count": 469
       },
       "gid://shopify/Collection/463407481086": {
         "title": "OPEN BOX",
@@ -33317,7 +33317,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 14837,
+        "total_qty": 14836,
         "sku_count": 1191,
         "product_count": 1191
       },
@@ -33333,7 +33333,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 5003,
+        "total_qty": 5002,
         "sku_count": 418,
         "product_count": 418
       },
@@ -33509,7 +33509,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 24522,
+        "total_qty": 24521,
         "sku_count": 39,
         "product_count": 39
       },
@@ -33565,7 +33565,7 @@
         "title": "QUAY",
         "handle": "quay",
         "legacy_id": "472482939134",
-        "total_qty": 1348,
+        "total_qty": 1347,
         "sku_count": 76,
         "product_count": 76
       },
@@ -33693,7 +33693,7 @@
         "title": "MISSONI",
         "handle": "missoni",
         "legacy_id": "408673911038",
-        "total_qty": 747,
+        "total_qty": 746,
         "sku_count": 63,
         "product_count": 63
       },
@@ -33909,9 +33909,9 @@
         "title": "QUIKSILVER",
         "handle": "quiksilver",
         "legacy_id": "474031259902",
-        "total_qty": 153,
-        "sku_count": 27,
-        "product_count": 27
+        "total_qty": 151,
+        "sku_count": 26,
+        "product_count": 26
       },
       "gid://shopify/Collection/474031227134": {
         "title": "ROXY",
@@ -45977,7 +45977,7 @@
         "sku": "MJ-MARC-463-0086-53"
       },
       "gid://shopify/ProductVariant/46059134714110": {
-        "qty": 9586,
+        "qty": 9585,
         "product_title": "DropShip",
         "sku": "DropShip"
       },
@@ -54427,7 +54427,7 @@
         "sku": "MISSONI-MIS-0099-059I-54"
       },
       "gid://shopify/ProductVariant/46754124005630": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "MIS-0104-009Q-50",
         "sku": "MISSONI-MIS-0104-009Q-50"
       },
@@ -64177,7 +64177,7 @@
         "sku": "QUIKSILVER-QS1014-MGUN-54"
       },
       "gid://shopify/ProductVariant/47455924257022": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "QS1014-MGLD-54",
         "sku": "QUIKSILVER-QS1014-MGLD-54"
       },
@@ -64777,7 +64777,7 @@
         "sku": "QUIKSILVER-QS2007-BRN/BLK-53"
       },
       "gid://shopify/ProductVariant/47484457320702": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "QS2008 TORTOISE 54/17-145",
         "sku": "QUIKSILVER-QS2008-TORT-54"
       },
@@ -84137,7 +84137,7 @@
         "sku": "QUAY-NO-NS-2308-NEUTRT/BRN"
       },
       "gid://shopify/ProductVariant/48560873308414": {
-        "qty": 11,
+        "qty": 10,
         "product_title": "UNPLUGGED-76797",
         "sku": "QUAY-NO-NS-2293-TRTYLW/GRNPOL"
       },
