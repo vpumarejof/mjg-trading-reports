@@ -33167,13 +33167,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-22T23:50:39.030319+00:00",
+    "updated_at": "2026-09-23T02:34:27.271907+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 86696,
+        "total_qty": 86694,
         "sku_count": 11054,
         "product_count": 11054
       },
@@ -33181,7 +33181,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 86696,
+        "total_qty": 86694,
         "sku_count": 4294,
         "product_count": 4294
       },
@@ -33205,7 +33205,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 62429,
+        "total_qty": 62427,
         "sku_count": 2181,
         "product_count": 2181
       },
@@ -33221,7 +33221,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 86696,
+        "total_qty": 86694,
         "sku_count": 3377,
         "product_count": 3377
       },
@@ -33229,7 +33229,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 86294,
+        "total_qty": 86292,
         "sku_count": 2975,
         "product_count": 2975
       },
@@ -33237,7 +33237,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 12642,
+        "total_qty": 12640,
         "sku_count": 874,
         "product_count": 874
       },
@@ -33245,7 +33245,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 12642,
+        "total_qty": 12640,
         "sku_count": 874,
         "product_count": 874
       },
@@ -33253,7 +33253,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3281,
+        "total_qty": 3279,
         "sku_count": 417,
         "product_count": 417
       },
@@ -33349,7 +33349,7 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 530,
+        "total_qty": 528,
         "sku_count": 60,
         "product_count": 60
       },
@@ -52582,7 +52582,7 @@
         "sku": "SF-SF2970-001-53"
       },
       "gid://shopify/ProductVariant/46663410188542": {
-        "qty": 17,
+        "qty": 15,
         "product_title": "SF2970-414-53",
         "sku": "SF-SF2970-414-53"
       },
