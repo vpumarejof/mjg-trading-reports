@@ -33167,13 +33167,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-24T01:33:04.692285+00:00",
+    "updated_at": "2026-09-24T06:44:30.194299+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 84549,
+        "total_qty": 84547,
         "sku_count": 11054,
         "product_count": 11054
       },
@@ -33181,7 +33181,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 84549,
+        "total_qty": 84547,
         "sku_count": 4259,
         "product_count": 4259
       },
@@ -33205,7 +33205,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 60957,
+        "total_qty": 60956,
         "sku_count": 2170,
         "product_count": 2170
       },
@@ -33221,7 +33221,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 84549,
+        "total_qty": 84547,
         "sku_count": 3339,
         "product_count": 3339
       },
@@ -33229,9 +33229,9 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 84145,
-        "sku_count": 2935,
-        "product_count": 2935
+        "total_qty": 84142,
+        "sku_count": 2934,
+        "product_count": 2934
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
@@ -33253,7 +33253,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3226,
+        "total_qty": 3227,
         "sku_count": 410,
         "product_count": 410
       },
@@ -33317,7 +33317,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 13997,
+        "total_qty": 13996,
         "sku_count": 1161,
         "product_count": 1161
       },
@@ -33333,7 +33333,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 4630,
+        "total_qty": 4629,
         "sku_count": 408,
         "product_count": 408
       },
@@ -33349,7 +33349,7 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 527,
+        "total_qty": 528,
         "sku_count": 60,
         "product_count": 60
       },
@@ -33485,7 +33485,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 592,
+        "total_qty": 591,
         "sku_count": 112,
         "product_count": 112
       },
@@ -33565,7 +33565,7 @@
         "title": "DAVID BECKHAM",
         "handle": "david-beckham",
         "legacy_id": "397089702142",
-        "total_qty": 497,
+        "total_qty": 496,
         "sku_count": 64,
         "product_count": 64
       },
@@ -33693,7 +33693,7 @@
         "title": "CALVIN KLEIN JEANS",
         "handle": "calvin-klein-jeans",
         "legacy_id": "464057172222",
-        "total_qty": 362,
+        "total_qty": 361,
         "sku_count": 49,
         "product_count": 49
       },
@@ -45356,7 +45356,7 @@
         "sku": "KS-JOHANNA2/S-0807/9O"
       },
       "gid://shopify/ProductVariant/45901594427646": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "JUNI-G-S-0807-9O",
         "sku": "KS-JUNI/G/S-PEARL-0807/9O"
       },
@@ -77671,7 +77671,7 @@
         "sku": "SF-SF2010S-242"
       },
       "gid://shopify/ProductVariant/48094648860926": {
-        "qty": 5,
+        "qty": 6,
         "product_title": "SF2039SE-001",
         "sku": "SF-SF2039SE-001"
       },
@@ -83051,7 +83051,7 @@
         "sku": "CKJ-CKJ24630-618-54"
       },
       "gid://shopify/ProductVariant/48361936322814": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "CKJ24631-400-56",
         "sku": "CKJ-CKJ24631-400-56"
       },
@@ -85781,7 +85781,7 @@
         "sku": "DB-DB-1159/S-EX4/2A"
       },
       "gid://shopify/ProductVariant/48648016625918": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "DB-1163/F/S-807/IR",
         "sku": "DB-DB-1163/F/S-807/IR"
       },
