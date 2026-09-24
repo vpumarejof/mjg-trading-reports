@@ -33167,13 +33167,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-24T06:44:30.194299+00:00",
+    "updated_at": "2026-09-24T12:14:18.491315+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 84547,
+        "total_qty": 84542,
         "sku_count": 11054,
         "product_count": 11054
       },
@@ -33181,7 +33181,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 84547,
+        "total_qty": 84542,
         "sku_count": 4259,
         "product_count": 4259
       },
@@ -33205,7 +33205,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 60956,
+        "total_qty": 60952,
         "sku_count": 2170,
         "product_count": 2170
       },
@@ -33221,7 +33221,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 84547,
+        "total_qty": 84542,
         "sku_count": 3339,
         "product_count": 3339
       },
@@ -33229,7 +33229,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 84142,
+        "total_qty": 84137,
         "sku_count": 2934,
         "product_count": 2934
       },
@@ -33237,7 +33237,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 11553,
+        "total_qty": 11551,
         "sku_count": 867,
         "product_count": 867
       },
@@ -33245,7 +33245,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 11553,
+        "total_qty": 11551,
         "sku_count": 867,
         "product_count": 867
       },
@@ -33253,7 +33253,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3227,
+        "total_qty": 3226,
         "sku_count": 410,
         "product_count": 410
       },
@@ -33317,7 +33317,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 13996,
+        "total_qty": 13995,
         "sku_count": 1161,
         "product_count": 1161
       },
@@ -33333,7 +33333,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 4629,
+        "total_qty": 4628,
         "sku_count": 408,
         "product_count": 408
       },
@@ -33421,7 +33421,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1644,
+        "total_qty": 1643,
         "sku_count": 97,
         "product_count": 97
       },
@@ -33653,7 +33653,7 @@
         "title": "LIGHTEC-MOREL",
         "handle": "lightec-morel",
         "legacy_id": "466217926910",
-        "total_qty": 2110,
+        "total_qty": 2108,
         "sku_count": 85,
         "product_count": 85
       },
@@ -33725,7 +33725,7 @@
         "title": "TED BAKER",
         "handle": "ted-baker",
         "legacy_id": "466212126974",
-        "total_qty": 63,
+        "total_qty": 62,
         "sku_count": 10,
         "product_count": 10
       },
@@ -33797,7 +33797,7 @@
         "title": "BURBERRY",
         "handle": "burberry",
         "legacy_id": "391771324670",
-        "total_qty": 33,
+        "total_qty": 32,
         "sku_count": 3,
         "product_count": 3
       },
@@ -54841,7 +54841,7 @@
         "sku": "TB-TW502-HAV-54"
       },
       "gid://shopify/ProductVariant/46978331050238": {
-        "qty": 13,
+        "qty": 12,
         "product_title": "B218-BRN-51",
         "sku": "TB-B218-BRN-51"
       },
@@ -57876,7 +57876,7 @@
         "sku": "BURBERRY-0BE2390-3892-50"
       },
       "gid://shopify/ProductVariant/47095922229502": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "0BE2406U-4063-50",
         "sku": "BURBERRY-0BE2406U-4063-50"
       },
@@ -66156,7 +66156,7 @@
         "sku": "LIGHTEC-MOREL-30047L-NG10-55"
       },
       "gid://shopify/ProductVariant/47558956482814": {
-        "qty": 183,
+        "qty": 182,
         "product_title": "30050L-NP07-54",
         "sku": "LIGHTEC-MOREL-30050L-NP07-54"
       },
@@ -66426,7 +66426,7 @@
         "sku": "LIGHTEC-MOREL-7672L-BB042-54"
       },
       "gid://shopify/ProductVariant/47558958514430": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "7674L-BB063-51",
         "sku": "LIGHTEC-MOREL-7674L-BB063-51"
       },
@@ -85671,7 +85671,7 @@
         "sku": "CARRERA-8036/S-R80/M9"
       },
       "gid://shopify/ProductVariant/48648015413502": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "8039/S-003/IR",
         "sku": "CARRERA-8039/S-003/IR"
       },
