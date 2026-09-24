@@ -223,6 +223,8 @@ class ShopifyClient:
               title
               status
               vendor
+              productType
+              tags
               createdAt
               featuredImage { url }
               priceRangeV2 { minVariantPrice { amount } }

@@ -11,6 +11,7 @@ him what to act on instead of just describing inventory.
 
 import base64
 import json
+import os
 import sys
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
@@ -178,6 +179,26 @@ def product_vendor_map(products):
     return {p["id"]: normalize_vendor(p["vendor"]) for p in products}
 
 
+def product_category(product):
+    """SUN or RX (optical), from productType, falling back to tags.
+
+    Michael asked (2026-09-24) for stock to be split into SUN and Optical
+    instead of one merged number. Readers count as RX. Anything that can't
+    be classified (e.g. the DROPSHIP placeholder) is "OTHER".
+    """
+    ptype = (product.get("productType") or "").lower()
+    if "sunglass" in ptype:
+        return "SUN"
+    if "eyeglass" in ptype or "reader" in ptype:
+        return "RX"
+    tags = {t.lower() for t in product.get("tags") or []}
+    if "sunglasses" in tags:
+        return "SUN"
+    if "eyeglasses" in tags:
+        return "RX"
+    return "OTHER"
+
+
 def stock_by_brand(products):
     stock = {}
     for p in products:
@@ -185,8 +206,16 @@ def stock_by_brand(products):
             continue
         vendor = normalize_vendor(p["vendor"])
         total = sum(max(0, v["inventoryQuantity"] or 0) for v in p["variants"]["nodes"])
-        stock[vendor] = stock.get(vendor, 0) + total
+        row = stock.setdefault(vendor, {"SUN": 0, "RX": 0, "OTHER": 0})
+        row[product_category(p)] += total
     return stock
+
+
+def fmt_stock(r):
+    text = f"{r['stock_sun']:,} SUN / {r['stock_rx']:,} RX"
+    if r["stock_other"]:
+        text += f" / {r['stock_other']:,} other"
+    return text
 
 
 def sales_by_brand(orders, vendor_map):
@@ -218,9 +247,13 @@ def build_brand_rows(stock, this_week, prior_week, month):
         cur = this_week.get(brand, {"units": 0, "revenue": 0.0})
         prev = prior_week.get(brand, {"units": 0, "revenue": 0.0})
         mo = month.get(brand, {"units": 0, "revenue": 0.0})
+        split = stock.get(brand, {"SUN": 0, "RX": 0, "OTHER": 0})
         rows.append({
             "brand": brand,
-            "stock": stock.get(brand, 0),
+            "stock": split["SUN"] + split["RX"] + split["OTHER"],
+            "stock_sun": split["SUN"],
+            "stock_rx": split["RX"],
+            "stock_other": split["OTHER"],
             "units_7d": cur["units"],
             "revenue_7d": cur["revenue"],
             "units_prev_7d": prev["units"],
@@ -308,7 +341,7 @@ def build_email(products, sales, brand_rows, state):
   <td style="font-weight:600">{r['brand']}</td>
   <td>{r['units_7d']:,}</td>
   <td>{fmt_money(r['revenue_7d'])}</td>
-  <td>{r['stock']:,}</td>
+  <td style="white-space:nowrap">{fmt_stock(r)}</td>
   <td>{trend_badge(r['trend'])}</td>
 </tr>"""
         html += "</table></div>"
@@ -323,7 +356,7 @@ def build_email(products, sales, brand_rows, state):
   <td style="font-weight:600">{r['brand']}</td>
   <td>{r['units_30d']:,}</td>
   <td>{fmt_money(r['revenue_30d'])}</td>
-  <td>{r['stock']:,}</td>
+  <td style="white-space:nowrap">{fmt_stock(r)}</td>
 </tr>"""
         html += "</table></div>"
     else:
@@ -335,7 +368,7 @@ def build_email(products, sales, brand_rows, state):
         for r in reorder_alerts:
             html += f"""<tr>
   <td style="font-weight:600">{r['brand']}</td>
-  <td>{r['stock']:,}</td>
+  <td style="white-space:nowrap">{fmt_stock(r)}</td>
   <td>{r['units_7d']:,}</td>
   <td>{r['units_30d']:,}</td>
   <td><span class="tag-reorder">REORDER</span></td>
@@ -350,7 +383,7 @@ def build_email(products, sales, brand_rows, state):
         for r in overstock_alerts:
             html += f"""<tr>
   <td style="font-weight:600">{r['brand']}</td>
-  <td>{r['stock']:,}</td>
+  <td style="white-space:nowrap">{fmt_stock(r)}</td>
   <td>{r['units_7d']:,}</td>
   <td><span class="tag-overstock">HOLD OFF</span></td>
 </tr>"""
@@ -435,6 +468,16 @@ def main():
         out_path = Path(__file__).parent / "daily_report_preview.html"
         out_path.write_text(html, encoding="utf-8")
         print(f"Dry run — HTML written to {out_path}, no email sent, state not updated.")
+        return
+
+    # TEST_RECIPIENT (set via the workflow_dispatch "test_recipient" input)
+    # sends only to that address and leaves the snapshot untouched, so a test
+    # run never reaches Michael/Adam or shifts tomorrow's out-of-stock diff.
+    test_recipient = os.environ.get("TEST_RECIPIENT", "").strip()
+    if test_recipient:
+        os.environ["REPORT_EMAIL"] = test_recipient
+        send_email(f"[TEST] {subject}", html)
+        print("Test run — state not updated.")
         return
 
     send_email(subject, html)

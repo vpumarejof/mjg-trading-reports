@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "0 13 * * *"   # 8 AM EST (UTC-5) — cambia a "0 12 * * *" en horario de verano (EDT)
   workflow_dispatch:        # permite correrlo manualmente desde GitHub para probar
+    inputs:
+      test_recipient:
+        description: "Si se llena, envía SOLO a este correo y no actualiza el snapshot"
+        required: false
+        default: ""
 
 jobs:
   report:
@@ -28,6 +33,7 @@ jobs:
           GMAIL_EMAIL: ${{ secrets.GMAIL_EMAIL }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           REPORT_EMAIL: ${{ secrets.REPORT_EMAIL }}
+          TEST_RECIPIENT: ${{ inputs.test_recipient }}
         run: python reports/daily_report.py
 
       - name: Commit updated state
