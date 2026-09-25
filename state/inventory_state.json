@@ -33167,13 +33167,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-24T23:19:13.574940+00:00",
+    "updated_at": "2026-09-25T01:41:02.446260+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 84227,
+        "total_qty": 84223,
         "sku_count": 11054,
         "product_count": 11054
       },
@@ -33181,15 +33181,15 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 84227,
-        "sku_count": 4251,
-        "product_count": 4251
+        "total_qty": 84223,
+        "sku_count": 4250,
+        "product_count": 4250
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 21654,
+        "total_qty": 21653,
         "sku_count": 2508,
         "product_count": 2508
       },
@@ -33221,15 +33221,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 84227,
-        "sku_count": 3324,
-        "product_count": 3324
+        "total_qty": 84223,
+        "sku_count": 3323,
+        "product_count": 3323
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 83827,
+        "total_qty": 83824,
         "sku_count": 2924,
         "product_count": 2924
       },
@@ -33253,7 +33253,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3260,
+        "total_qty": 3259,
         "sku_count": 414,
         "product_count": 414
       },
@@ -33317,9 +33317,9 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 13985,
-        "sku_count": 1163,
-        "product_count": 1163
+        "total_qty": 13982,
+        "sku_count": 1162,
+        "product_count": 1162
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -33333,7 +33333,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 4610,
+        "total_qty": 4609,
         "sku_count": 405,
         "product_count": 405
       },
@@ -33357,9 +33357,9 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 7140,
-        "sku_count": 581,
-        "product_count": 581
+        "total_qty": 7139,
+        "sku_count": 580,
+        "product_count": 580
       },
       "gid://shopify/Collection/391853998334": {
         "title": "Men's",
@@ -33381,7 +33381,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2309,
+        "total_qty": 2308,
         "sku_count": 182,
         "product_count": 182
       },
@@ -33485,9 +33485,9 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 591,
-        "sku_count": 113,
-        "product_count": 113
+        "total_qty": 590,
+        "sku_count": 112,
+        "product_count": 112
       },
       "gid://shopify/Collection/454431080702": {
         "title": "Kids",
@@ -33533,7 +33533,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 24196,
+        "total_qty": 24195,
         "sku_count": 38,
         "product_count": 38
       },
@@ -33573,7 +33573,7 @@
         "title": "KARL LAGERFELD",
         "handle": "karl-lagerfeld",
         "legacy_id": "422907576574",
-        "total_qty": 290,
+        "total_qty": 289,
         "sku_count": 35,
         "product_count": 35
       },
@@ -34053,7 +34053,7 @@
         "title": "BUGATTI",
         "handle": "bugatti",
         "legacy_id": "480545439998",
-        "total_qty": 128,
+        "total_qty": 127,
         "sku_count": 33,
         "product_count": 33
       },
@@ -45396,7 +45396,7 @@
         "sku": "KS-PAISLEIGH/S-0S6F/9O"
       },
       "gid://shopify/ProductVariant/45901595279614": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "PAISLEIGH-S-0VK6-9O",
         "sku": "KS-PAISLEIGH/S-0VK6/9O"
       },
@@ -45961,7 +45961,7 @@
         "sku": "MJ-MARC-463-0086-53"
       },
       "gid://shopify/ProductVariant/46059134714110": {
-        "qty": 9581,
+        "qty": 9580,
         "product_title": "DropShip",
         "sku": "DropShip"
       },
@@ -75251,7 +75251,7 @@
         "sku": "BUGATTI-06-GRY"
       },
       "gid://shopify/ProductVariant/47931243069694": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "08-MBK/WG",
         "sku": "BUGATTI-08-MBK/WG"
       },
@@ -77806,7 +77806,7 @@
         "sku": "KL-KL6199S-316"
       },
       "gid://shopify/ProductVariant/48113352573182": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "KL6209S-601",
         "sku": "KL-KL6209S-601"
       },
