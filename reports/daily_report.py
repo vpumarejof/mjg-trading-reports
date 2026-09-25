@@ -43,7 +43,7 @@ OVERSTOCK_THRESHOLD = 500
 ROTATION_MIN_UNITS_7D = 5
 
 CSS = """
-  body{font-family:'Segoe UI',Arial,sans-serif;color:#1f2937;max-width:860px;margin:0 auto;padding:0;background:#f3f4f6}
+  body{font-family:'Segoe UI',Arial,sans-serif;color:#1f2937;max-width:860px;margin:0 auto;padding:0;background:#f3f4f6;-webkit-text-size-adjust:100%}
   .wrapper{background:#fff;max-width:860px;margin:0 auto}
   .header{background:#ffffff;border-bottom:1px solid #e5e7eb;padding:24px 32px;display:flex;align-items:center;justify-content:space-between}
   .header-right{text-align:right;color:#6b7280;font-size:13px;line-height:1.6}
@@ -55,38 +55,39 @@ CSS = """
   .kpi{flex:1;min-width:120px;background:#f8fafc;border:1px solid #e5e7eb;border-radius:6px;padding:16px 18px}
   .kpi-num{font-size:24px;font-weight:700;color:#0f172a}
   .kpi-label{font-size:11px;color:#6b7280;margin-top:2px;text-transform:uppercase;letter-spacing:.04em}
-  .kpi-sub{font-size:12px;color:#9ca3af;margin-top:4px}
-  .table-scroll{width:100%;overflow-x:auto}
-  table{width:100%;min-width:460px;border-collapse:collapse;font-size:13px;margin-bottom:4px}
-  th{background:#0f172a;color:#e2e8f0;padding:9px 12px;text-align:left;font-size:11px;text-transform:uppercase;letter-spacing:.05em;font-weight:600;white-space:nowrap}
-  td{padding:9px 12px;border-bottom:1px solid #f1f5f9;vertical-align:middle}
+  .kpi-sub{font-size:12px;color:#6b7280;margin-top:6px;line-height:1.5}
+  table{width:100%;border-collapse:collapse;font-size:13px;margin-bottom:4px}
+  th{background:#0f172a;color:#e2e8f0;padding:9px 12px;text-align:left;font-size:11px;text-transform:uppercase;letter-spacing:.05em;font-weight:600}
+  td{padding:9px 12px;border-bottom:1px solid #f1f5f9;vertical-align:top;overflow-wrap:anywhere}
   tr:last-child td{border-bottom:none}
-  tr:hover td{background:#f8fafc}
   a{color:#1e40af;text-decoration:none}
-  a:hover{text-decoration:underline}
   .footer{background:#f8fafc;border-top:1px solid #e5e7eb;padding:16px 32px;font-size:11px;color:#9ca3af;text-align:center}
   .ok{color:#9ca3af;font-style:italic;font-size:13px}
-  .tag-reorder{background:#fef2f2;color:#b91c1c;font-weight:700;font-size:11px;padding:3px 8px;border-radius:4px}
-  .tag-overstock{background:#fffbeb;color:#b45309;font-weight:700;font-size:11px;padding:3px 8px;border-radius:4px}
+  .tot{font-weight:700;color:#0f172a}
+  .split{font-size:11px;color:#6b7280;line-height:1.45;margin-top:2px}
+  .lbl{display:inline-block;min-width:26px;font-weight:600;color:#9ca3af}
+  .brand{font-weight:600}
+  .sub{font-size:11px;color:#6b7280;margin-top:2px}
+  .tag-reorder{display:inline-block;margin-top:4px;background:#fef2f2;color:#b91c1c;font-weight:700;font-size:10px;padding:2px 6px;border-radius:4px}
+  .tag-overstock{display:inline-block;margin-top:4px;background:#fffbeb;color:#b45309;font-weight:700;font-size:10px;padding:2px 6px;border-radius:4px}
 
   @media only screen and (max-width:600px){
-    .body{padding:16px 14px}
-    .header{padding:12px 16px;flex-wrap:wrap;gap:8px}
-    .header-right{text-align:left}
+    .body{padding:16px 12px}
+    .header{padding:12px 16px}
     .logo-img{width:52px;height:52px}
-    h2{font-size:11px;margin:18px 0 8px;padding-bottom:4px}
-    .kpi-row{display:grid;grid-template-columns:1fr 1fr;gap:6px;margin-bottom:8px}
-    .kpi{min-width:0;padding:9px 11px}
+    h2{font-size:11px;margin:20px 0 8px;padding-bottom:4px;letter-spacing:.04em}
+    .kpi-row{display:block;margin-bottom:8px}
+    .kpi{display:inline-block;width:47%;min-width:0;margin:0 1% 6px 0;padding:9px 10px;box-sizing:border-box;vertical-align:top}
     .kpi-num{font-size:17px}
     .kpi-label{font-size:9px}
+    .kpi-sub{font-size:10.5px}
     .footer{padding:12px 14px;font-size:10px}
-    .table-scroll{overflow-x:visible}
-    table{min-width:0;width:100%;table-layout:fixed}
-    th{padding:5px 6px;font-size:8.5px}
-    td{padding:5px 6px;font-size:10.5px;word-break:break-word;overflow-wrap:anywhere}
-  }
-  @media only screen and (min-width:601px) and (max-width:900px){
-    .kpi{min-width:140px}
+    table{table-layout:fixed;font-size:11px}
+    th{padding:6px 4px;font-size:8.5px;letter-spacing:.02em}
+    td{padding:7px 4px;font-size:11px}
+    .split{font-size:9.5px}
+    .lbl{min-width:22px}
+    .sub{font-size:9.5px}
   }
 """
 
@@ -161,6 +162,7 @@ def build_product_events(products, state):
                     out_of_stock_24h.append({
                         "product_title": product["title"],
                         "vendor": vendor,
+                        "category": product_category(product),
                         "legacy_id": product["legacyResourceId"],
                         "sku": variant.get("sku") or "—",
                         "prev_qty": prev_qty,
@@ -177,6 +179,10 @@ def build_product_events(products, state):
 
 def product_vendor_map(products):
     return {p["id"]: normalize_vendor(p["vendor"]) for p in products}
+
+
+def product_category_map(products):
+    return {p["id"]: product_category(p) for p in products}
 
 
 def product_category(product):
@@ -206,19 +212,41 @@ def stock_by_brand(products):
             continue
         vendor = normalize_vendor(p["vendor"])
         total = sum(max(0, v["inventoryQuantity"] or 0) for v in p["variants"]["nodes"])
-        row = stock.setdefault(vendor, {"SUN": 0, "RX": 0, "OTHER": 0})
+        row = stock.setdefault(vendor, empty_split())
         row[product_category(p)] += total
     return stock
 
 
-def fmt_stock(r):
-    text = f"{r['stock_sun']:,} SUN / {r['stock_rx']:,} RX"
-    if r["stock_other"]:
-        text += f" / {r['stock_other']:,} other"
-    return text
+CATEGORIES = ("SUN", "RX", "OTHER")
 
 
-def sales_by_brand(orders, vendor_map):
+def empty_split():
+    return {c: 0 for c in CATEGORIES}
+
+
+def split_cell(split, fmt=lambda v: f"{v:,}"):
+    """Total on top, SUN / RX (and OTHER only when non-zero) stacked below.
+
+    Stacking instead of one "X SUN / Y RX" line keeps every column narrow
+    enough to fit a phone screen without horizontal scrolling.
+    """
+    total = sum(split.values())
+    lines = [f'<span class="lbl">SUN</span>{fmt(split["SUN"])}',
+             f'<span class="lbl">RX</span>{fmt(split["RX"])}']
+    if split["OTHER"]:
+        lines.append(f'<span class="lbl">OTH</span>{fmt(split["OTHER"])}')
+    return f'<div class="tot">{fmt(total)}</div><div class="split">{"<br>".join(lines)}</div>'
+
+
+def fmt_money0(v):
+    return f"${v:,.0f}"
+
+
+def fmt_trend(v):
+    return f"+{v:,}" if v > 0 else f"{v:,}"
+
+
+def sales_by_brand(orders, vendor_map, category_map):
     out = {}
     for o in orders:
         for li in o["lineItems"]["nodes"]:
@@ -234,45 +262,75 @@ def sales_by_brand(orders, vendor_map):
             price_set = li.get("discountedUnitPriceSet") or {}
             price = (price_set.get("shopMoney") or {}).get("amount")
             revenue = qty * float(price) if price else 0.0
-            row = out.setdefault(vendor, {"units": 0, "revenue": 0.0})
-            row["units"] += qty
-            row["revenue"] += revenue
+            cat = category_map.get(product["id"], "OTHER")
+            row = out.setdefault(vendor, {"units": empty_split(), "revenue": empty_split()})
+            row["units"][cat] += qty
+            row["revenue"][cat] += revenue
     return out
 
 
 def build_brand_rows(stock, this_week, prior_week, month):
     brands = set(stock) | set(this_week) | set(prior_week) | set(month)
+    blank = {"units": empty_split(), "revenue": empty_split()}
     rows = []
     for brand in brands:
-        cur = this_week.get(brand, {"units": 0, "revenue": 0.0})
-        prev = prior_week.get(brand, {"units": 0, "revenue": 0.0})
-        mo = month.get(brand, {"units": 0, "revenue": 0.0})
-        split = stock.get(brand, {"SUN": 0, "RX": 0, "OTHER": 0})
+        cur = this_week.get(brand, blank)
+        prev = prior_week.get(brand, blank)
+        mo = month.get(brand, blank)
+        split = stock.get(brand, empty_split())
         rows.append({
             "brand": brand,
-            "stock": split["SUN"] + split["RX"] + split["OTHER"],
-            "stock_sun": split["SUN"],
-            "stock_rx": split["RX"],
-            "stock_other": split["OTHER"],
-            "units_7d": cur["units"],
-            "revenue_7d": cur["revenue"],
-            "units_prev_7d": prev["units"],
-            "trend": cur["units"] - prev["units"],
-            "units_30d": mo["units"],
-            "revenue_30d": mo["revenue"],
+            "stock": sum(split.values()),
+            "stock_split": split,
+            "units_7d": sum(cur["units"].values()),
+            "units_7d_split": cur["units"],
+            "revenue_7d_split": cur["revenue"],
+            "trend": sum(cur["units"].values()) - sum(prev["units"].values()),
+            "trend_split": {c: cur["units"][c] - prev["units"][c] for c in CATEGORIES},
+            "units_30d": sum(mo["units"].values()),
+            "units_30d_split": mo["units"],
+            "revenue_30d_split": mo["revenue"],
         })
     return rows
 
 
-def trend_badge(trend):
+def trend_badge(trend, split):
     if trend > 0:
-        return f'<span style="color:#059669;font-weight:600">▲ +{trend}</span>'
-    if trend < 0:
-        return f'<span style="color:#dc2626;font-weight:600">▼ {trend}</span>'
-    return '<span style="color:#9ca3af">— 0</span>'
+        head = f'<span style="color:#059669;font-weight:700">▲ +{trend}</span>'
+    elif trend < 0:
+        head = f'<span style="color:#dc2626;font-weight:700">▼ {trend}</span>'
+    else:
+        head = '<span style="color:#9ca3af;font-weight:700">— 0</span>'
+    lines = [f'<span class="lbl">SUN</span>{fmt_trend(split["SUN"])}',
+             f'<span class="lbl">RX</span>{fmt_trend(split["RX"])}']
+    if split["OTHER"]:
+        lines.append(f'<span class="lbl">OTH</span>{fmt_trend(split["OTHER"])}')
+    return f'<div>{head}</div><div class="split">{"<br>".join(lines)}</div>'
 
 
-def build_email(products, sales, brand_rows, state):
+def yesterday_split(orders, category_map):
+    units, revenue = empty_split(), empty_split()
+    for o in orders:
+        for li in o["lineItems"]["nodes"]:
+            qty = li.get("currentQuantity") or 0
+            if qty <= 0:
+                continue
+            product = li.get("product")
+            cat = category_map.get(product["id"], "OTHER") if product else "OTHER"
+            price = ((li.get("discountedUnitPriceSet") or {}).get("shopMoney") or {}).get("amount")
+            units[cat] += qty
+            revenue[cat] += qty * float(price) if price else 0.0
+    return units, revenue
+
+
+def kpi_sub(split, fmt):
+    text = f'SUN {fmt(split["SUN"])} · RX {fmt(split["RX"])}'
+    if split["OTHER"]:
+        text += f' · Other {fmt(split["OTHER"])}'
+    return f'<div class="kpi-sub">{text}</div>'
+
+
+def build_email(products, sales, brand_rows, state, sales_units_split, sales_revenue_split):
     logo_b64 = load_logo_b64()
     logo_tag = (
         f'<img src="data:image/jpeg;base64,{logo_b64}" alt="MJG Trading" class="logo-img">'
@@ -298,7 +356,7 @@ def build_email(products, sales, brand_rows, state):
 
     html = f"""<!DOCTYPE html>
 <html>
-<head><meta charset="utf-8"><style>{CSS}</style></head>
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><style>{CSS}</style></head>
 <body>
 <div class="wrapper">
 
@@ -317,6 +375,12 @@ def build_email(products, sales, brand_rows, state):
   <div class="kpi">
     <div class="kpi-num">{fmt_money(sales['revenue'])}</div>
     <div class="kpi-label">Revenue</div>
+    {kpi_sub(sales_revenue_split, fmt_money0)}
+  </div>
+  <div class="kpi">
+    <div class="kpi-num">{sales['units']:,}</div>
+    <div class="kpi-label">Units Sold</div>
+    {kpi_sub(sales_units_split, lambda v: f"{v:,}")}
   </div>
   <div class="kpi">
     <div class="kpi-num">{sales['orders']:,}</div>
@@ -326,82 +390,95 @@ def build_email(products, sales, brand_rows, state):
     <div class="kpi-num">{fmt_money(sales['aov'])}</div>
     <div class="kpi-label">Avg Order Value</div>
   </div>
-  <div class="kpi">
-    <div class="kpi-num">{sales['units']:,}</div>
-    <div class="kpi-label">Units Sold</div>
-  </div>
 </div>
+<p style="font-size:11px;color:#9ca3af;margin:0 0 4px">Revenue split is product sales only (before shipping and taxes), so it can differ slightly from the total.</p>
 """
 
-    html += "<h2>Brand Performance — Last 7 Days (bestsellers, by brand)</h2>"
+    html += "<h2>Brand Performance — Last 7 Days</h2>"
     if bestsellers_week:
-        html += '<div class="table-scroll"><table><tr><th>Brand</th><th>Units Sold (7d)</th><th>Revenue (7d)</th><th>Current Stock</th><th>vs Prior 7d</th></tr>'
+        html += ('<table><colgroup><col style="width:24%"><col style="width:17%"><col style="width:21%">'
+                 '<col style="width:21%"><col style="width:17%"></colgroup>'
+                 '<tr><th>Brand</th><th>Units 7d</th><th>Revenue 7d</th><th>Stock</th><th>vs Prior 7d</th></tr>')
         for r in bestsellers_week:
             html += f"""<tr>
-  <td style="font-weight:600">{r['brand']}</td>
-  <td>{r['units_7d']:,}</td>
-  <td>{fmt_money(r['revenue_7d'])}</td>
-  <td style="white-space:nowrap">{fmt_stock(r)}</td>
-  <td>{trend_badge(r['trend'])}</td>
+  <td class="brand">{r['brand']}</td>
+  <td>{split_cell(r['units_7d_split'])}</td>
+  <td>{split_cell(r['revenue_7d_split'], fmt_money0)}</td>
+  <td>{split_cell(r['stock_split'])}</td>
+  <td>{trend_badge(r['trend'], r['trend_split'])}</td>
 </tr>"""
-        html += "</table></div>"
+        html += "</table>"
     else:
         html += '<p class="ok">No brand sales in the last 7 days.</p>'
 
-    html += "<h2>Brand Performance — Last 30 Days (bestsellers, by brand)</h2>"
+    html += "<h2>Brand Performance — Last 30 Days</h2>"
     if bestsellers_month:
-        html += '<div class="table-scroll"><table><tr><th>Brand</th><th>Units Sold (30d)</th><th>Revenue (30d)</th><th>Current Stock</th></tr>'
+        html += ('<table><colgroup><col style="width:28%"><col style="width:22%"><col style="width:26%">'
+                 '<col style="width:24%"></colgroup>'
+                 '<tr><th>Brand</th><th>Units 30d</th><th>Revenue 30d</th><th>Stock</th></tr>')
         for r in bestsellers_month:
             html += f"""<tr>
-  <td style="font-weight:600">{r['brand']}</td>
-  <td>{r['units_30d']:,}</td>
-  <td>{fmt_money(r['revenue_30d'])}</td>
-  <td style="white-space:nowrap">{fmt_stock(r)}</td>
+  <td class="brand">{r['brand']}</td>
+  <td>{split_cell(r['units_30d_split'])}</td>
+  <td>{split_cell(r['revenue_30d_split'], fmt_money0)}</td>
+  <td>{split_cell(r['stock_split'])}</td>
 </tr>"""
-        html += "</table></div>"
+        html += "</table>"
     else:
         html += '<p class="ok">No brand sales in the last 30 days.</p>'
 
-    html += f"<h2>Reorder Alerts — Low Stock on Fast-Moving Brands (below {LOW_STOCK_THRESHOLD} units)</h2>"
+    html += f"<h2>Reorder Alerts — Fast-Moving Brands Below {LOW_STOCK_THRESHOLD} Units</h2>"
     if reorder_alerts:
-        html += '<div class="table-scroll"><table><tr><th>Brand</th><th>Current Stock</th><th>Units Sold (7d)</th><th>Units Sold (30d)</th><th>Action</th></tr>'
+        html += ('<table><colgroup><col style="width:31%"><col style="width:23%"><col style="width:23%">'
+                 '<col style="width:23%"></colgroup>'
+                 '<tr><th>Brand</th><th>Stock</th><th>Units 7d</th><th>Units 30d</th></tr>')
         for r in reorder_alerts:
             html += f"""<tr>
-  <td style="font-weight:600">{r['brand']}</td>
-  <td style="white-space:nowrap">{fmt_stock(r)}</td>
-  <td>{r['units_7d']:,}</td>
-  <td>{r['units_30d']:,}</td>
-  <td><span class="tag-reorder">REORDER</span></td>
+  <td class="brand">{r['brand']}<br><span class="tag-reorder">REORDER</span></td>
+  <td>{split_cell(r['stock_split'])}</td>
+  <td>{split_cell(r['units_7d_split'])}</td>
+  <td>{split_cell(r['units_30d_split'])}</td>
 </tr>"""
-        html += "</table></div>"
+        html += "</table>"
     else:
         html += '<p class="ok">No fast-moving brands are currently below the low-stock threshold.</p>'
 
-    html += f"<h2>Overstock Watch — Slow-Moving Brands (above {OVERSTOCK_THRESHOLD} units, barely selling)</h2>"
+    html += f"<h2>Overstock Watch — Slow-Moving Brands Above {OVERSTOCK_THRESHOLD} Units</h2>"
     if overstock_alerts:
-        html += '<div class="table-scroll"><table><tr><th>Brand</th><th>Current Stock</th><th>Units Sold (7d)</th><th>Action</th></tr>'
+        html += ('<table><colgroup><col style="width:31%"><col style="width:23%"><col style="width:23%">'
+                 '<col style="width:23%"></colgroup>'
+                 '<tr><th>Brand</th><th>Stock</th><th>Units 7d</th><th>Units 30d</th></tr>')
         for r in overstock_alerts:
             html += f"""<tr>
-  <td style="font-weight:600">{r['brand']}</td>
-  <td style="white-space:nowrap">{fmt_stock(r)}</td>
-  <td>{r['units_7d']:,}</td>
-  <td><span class="tag-overstock">HOLD OFF</span></td>
+  <td class="brand">{r['brand']}<br><span class="tag-overstock">HOLD OFF</span></td>
+  <td>{split_cell(r['stock_split'])}</td>
+  <td>{split_cell(r['units_7d_split'])}</td>
+  <td>{split_cell(r['units_30d_split'])}</td>
 </tr>"""
-        html += "</table></div>"
+        html += "</table>"
     else:
         html += '<p class="ok">No brands currently flagged as overstocked and slow-moving.</p>'
 
     html += "<h2>Products That Went Out of Stock in the Last 24h</h2>"
     if out_of_stock_24h:
-        html += '<div class="table-scroll"><table><tr><th>Brand</th><th>Product</th><th>SKU</th><th>Previous Stock</th></tr>'
+        oos_split = empty_split()
+        for item in out_of_stock_24h:
+            oos_split[item["category"]] += 1
+        summary = f'{len(out_of_stock_24h)} SKUs · SUN {oos_split["SUN"]} · RX {oos_split["RX"]}'
+        if oos_split["OTHER"]:
+            summary += f' · Other {oos_split["OTHER"]}'
+        html += f'<p style="font-size:12px;color:#6b7280;margin:0 0 8px">{summary}</p>'
+        html += ('<table><colgroup><col style="width:46%"><col style="width:14%"><col style="width:22%">'
+                 '<col style="width:18%"></colgroup>'
+                 '<tr><th>Product</th><th>Type</th><th>SKU</th><th>Prev Stock</th></tr>')
         for item in out_of_stock_24h:
             html += f"""<tr>
-  <td style="color:#6b7280;font-size:12px">{item['vendor']}</td>
-  <td><a href="{product_admin_url(item['legacy_id'])}" style="font-weight:600">{item['product_title']}</a></td>
+  <td><a href="{product_admin_url(item['legacy_id'])}" style="font-weight:600">{item['product_title']}</a><div class="sub">{item['vendor']}</div></td>
+  <td>{item['category']}</td>
   <td>{item['sku']}</td>
-  <td>{item['prev_qty']} units</td>
+  <td>{item['prev_qty']}</td>
 </tr>"""
-        html += "</table></div>"
+        html += "</table>"
     else:
         html += '<p class="ok">No products went out of stock in the last 24h.</p>'
 
@@ -453,13 +530,15 @@ def main():
     ]
 
     vendor_map = product_vendor_map(products)
+    category_map = product_category_map(products)
     stock = stock_by_brand(products)
-    this_week_sales = sales_by_brand(orders_this_week, vendor_map)
-    prior_week_sales = sales_by_brand(orders_prior_week, vendor_map)
-    month_sales = sales_by_brand(orders_30d, vendor_map)
+    this_week_sales = sales_by_brand(orders_this_week, vendor_map, category_map)
+    prior_week_sales = sales_by_brand(orders_prior_week, vendor_map, category_map)
+    month_sales = sales_by_brand(orders_30d, vendor_map, category_map)
     brand_rows = build_brand_rows(stock, this_week_sales, prior_week_sales, month_sales)
+    units_split, revenue_split = yesterday_split(orders_yesterday, category_map)
 
-    html = build_email(products, sales, brand_rows, state)
+    html = build_email(products, sales, brand_rows, state, units_split, revenue_split)
 
     now_est = datetime.now(NY_TZ)
     subject = f"MJG Trading Inventory Report — {now_est.strftime('%m/%d/%Y')}"
