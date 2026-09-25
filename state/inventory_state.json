@@ -33167,13 +33167,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-25T20:28:27.607307+00:00",
+    "updated_at": "2026-09-25T23:24:19.145943+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 84104,
+        "total_qty": 84101,
         "sku_count": 11054,
         "product_count": 11054
       },
@@ -33181,7 +33181,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 84104,
+        "total_qty": 84101,
         "sku_count": 4227,
         "product_count": 4227
       },
@@ -33205,7 +33205,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 60537,
+        "total_qty": 60536,
         "sku_count": 2130,
         "product_count": 2130
       },
@@ -33221,7 +33221,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 84104,
+        "total_qty": 84101,
         "sku_count": 3300,
         "product_count": 3300
       },
@@ -33229,15 +33229,15 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 83720,
-        "sku_count": 2916,
-        "product_count": 2916
+        "total_qty": 83716,
+        "sku_count": 2915,
+        "product_count": 2915
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 11393,
+        "total_qty": 11392,
         "sku_count": 842,
         "product_count": 842
       },
@@ -33245,7 +33245,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 11393,
+        "total_qty": 11392,
         "sku_count": 842,
         "product_count": 842
       },
@@ -33253,7 +33253,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3254,
+        "total_qty": 3252,
         "sku_count": 414,
         "product_count": 414
       },
@@ -33317,7 +33317,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 13975,
+        "total_qty": 13973,
         "sku_count": 1162,
         "product_count": 1162
       },
@@ -33349,7 +33349,7 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 523,
+        "total_qty": 522,
         "sku_count": 59,
         "product_count": 59
       },
@@ -33357,7 +33357,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 7135,
+        "total_qty": 7133,
         "sku_count": 580,
         "product_count": 580
       },
@@ -33557,7 +33557,7 @@
         "title": "QUAY",
         "handle": "quay",
         "legacy_id": "472482939134",
-        "total_qty": 1183,
+        "total_qty": 1182,
         "sku_count": 74,
         "product_count": 74
       },
@@ -34101,7 +34101,7 @@
         "title": "TIFFANY & CO",
         "handle": "tiffany-co",
         "legacy_id": "483397370110",
-        "total_qty": 80,
+        "total_qty": 79,
         "sku_count": 16,
         "product_count": 16
       },
@@ -34996,7 +34996,7 @@
         "sku": "SALVATOREFERRAGAMOSF218273353"
       },
       "gid://shopify/ProductVariant/42581770535166": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "SF2857A60353",
         "sku": "SALVATOREFERRAGAMOSF2857A60353"
       },
@@ -80021,7 +80021,7 @@
         "sku": "TF-TF4253-80013C"
       },
       "gid://shopify/ProductVariant/48223291932926": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "TF4253-80559S",
         "sku": "TF-TF4253-80559S"
       },
@@ -84076,7 +84076,7 @@
         "sku": "QUAY-QU-000772-GLD/SMKPNK"
       },
       "gid://shopify/ProductVariant/48560872980734": {
-        "qty": 45,
+        "qty": 44,
         "product_title": "ICY-37390",
         "sku": "QUAY-QU-000602-BLK/FADE"
       },
