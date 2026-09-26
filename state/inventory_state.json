@@ -33167,13 +33167,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-26T21:44:20.180770+00:00",
+    "updated_at": "2026-09-26T23:55:35.008561+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 84052,
+        "total_qty": 84049,
         "sku_count": 11054,
         "product_count": 11054
       },
@@ -33181,7 +33181,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 84052,
+        "total_qty": 84049,
         "sku_count": 4223,
         "product_count": 4223
       },
@@ -33205,7 +33205,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 60519,
+        "total_qty": 60517,
         "sku_count": 2127,
         "product_count": 2127
       },
@@ -33221,7 +33221,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 84052,
+        "total_qty": 84049,
         "sku_count": 3296,
         "product_count": 3296
       },
@@ -33229,15 +33229,15 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 83670,
-        "sku_count": 2914,
-        "product_count": 2914
+        "total_qty": 83666,
+        "sku_count": 2913,
+        "product_count": 2913
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 11389,
+        "total_qty": 11387,
         "sku_count": 840,
         "product_count": 840
       },
@@ -33245,7 +33245,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 11389,
+        "total_qty": 11387,
         "sku_count": 840,
         "product_count": 840
       },
@@ -33253,7 +33253,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3241,
+        "total_qty": 3240,
         "sku_count": 412,
         "product_count": 412
       },
@@ -33317,7 +33317,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 13943,
+        "total_qty": 13942,
         "sku_count": 1161,
         "product_count": 1161
       },
@@ -33349,7 +33349,7 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 521,
+        "total_qty": 520,
         "sku_count": 58,
         "product_count": 58
       },
@@ -33357,7 +33357,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 7107,
+        "total_qty": 7106,
         "sku_count": 579,
         "product_count": 579
       },
@@ -33485,7 +33485,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 547,
+        "total_qty": 546,
         "sku_count": 94,
         "product_count": 94
       },
@@ -33549,7 +33549,7 @@
         "title": "MARC JACOBS",
         "handle": "marc-jacobs",
         "legacy_id": "391774732542",
-        "total_qty": 260,
+        "total_qty": 259,
         "sku_count": 49,
         "product_count": 49
       },
@@ -52101,7 +52101,7 @@
         "sku": "MJ-MARC-560-0086-54"
       },
       "gid://shopify/ProductVariant/46646964093182": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "MARC-560-07QY-54",
         "sku": "MJ-MARC-560-07QY-54"
       },
@@ -58221,7 +58221,7 @@
         "sku": "SF-SF2007S-260"
       },
       "gid://shopify/ProductVariant/47111135854846": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "SF2007S-615",
         "sku": "SF-SF2007S-615"
       },
@@ -60621,7 +60621,7 @@
         "sku": "KS-WANDA-0PJP-53"
       },
       "gid://shopify/ProductVariant/47180872351998": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "ZELDA-00JU-50",
         "sku": "KS-ZELDA-00JU-50"
       },
