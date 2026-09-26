@@ -33167,13 +33167,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-26T15:56:15.424954+00:00",
+    "updated_at": "2026-09-26T18:54:22.942595+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 84068,
+        "total_qty": 84057,
         "sku_count": 11054,
         "product_count": 11054
       },
@@ -33181,7 +33181,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 84068,
+        "total_qty": 84057,
         "sku_count": 4225,
         "product_count": 4225
       },
@@ -33205,7 +33205,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 60533,
+        "total_qty": 60522,
         "sku_count": 2128,
         "product_count": 2128
       },
@@ -33221,7 +33221,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 84068,
+        "total_qty": 84057,
         "sku_count": 3298,
         "product_count": 3298
       },
@@ -33229,7 +33229,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 83684,
+        "total_qty": 83673,
         "sku_count": 2914,
         "product_count": 2914
       },
@@ -33405,7 +33405,7 @@
         "title": "Kid's Eyeglasses",
         "handle": "kids-eyeglasses",
         "legacy_id": "408131305726",
-        "total_qty": 21662,
+        "total_qty": 21651,
         "sku_count": 105,
         "product_count": 105
       },
@@ -33493,7 +33493,7 @@
         "title": "Kids",
         "handle": "kids",
         "legacy_id": "454431080702",
-        "total_qty": 21657,
+        "total_qty": 21646,
         "sku_count": 137,
         "product_count": 137
       },
@@ -33701,7 +33701,7 @@
         "title": "FLEXON",
         "handle": "flexon",
         "legacy_id": "466401853694",
-        "total_qty": 131,
+        "total_qty": 120,
         "sku_count": 30,
         "product_count": 30
       },
@@ -86976,12 +86976,12 @@
         "sku": "FLEXON-J4017-051-49"
       },
       "gid://shopify/ProductVariant/48698371670270": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "J4018-001-48",
         "sku": "FLEXON-J4018-001-48"
       },
       "gid://shopify/ProductVariant/48698371735806": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "J4018-415-48",
         "sku": "FLEXON-J4018-415-48"
       },
@@ -86991,42 +86991,42 @@
         "sku": "FLEXON-J4020-N-001-49"
       },
       "gid://shopify/ProductVariant/48698371866878": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "J4020-N-036-49",
         "sku": "FLEXON-J4020-N-036-49"
       },
       "gid://shopify/ProductVariant/48698371965182": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "J4020-N-318-49",
         "sku": "FLEXON-J4020-N-318-49"
       },
       "gid://shopify/ProductVariant/48698372161790": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "J4020-N-404-49",
         "sku": "FLEXON-J4020-N-404-49"
       },
       "gid://shopify/ProductVariant/48698372260094": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "J4021-N-244-48",
         "sku": "FLEXON-J4021-N-244-48"
       },
       "gid://shopify/ProductVariant/48698372358398": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "J4021-N-501-48",
         "sku": "FLEXON-J4021-N-501-48"
       },
       "gid://shopify/ProductVariant/48698372423934": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "J4021-N-518-48",
         "sku": "FLEXON-J4021-N-518-48"
       },
       "gid://shopify/ProductVariant/48698372489470": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "J4021-N-650-48",
         "sku": "FLEXON-J4021-N-650-48"
       },
       "gid://shopify/ProductVariant/48698372555006": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "J4022-N-313-49",
         "sku": "FLEXON-J4022-N-313-49"
       },
@@ -87041,7 +87041,7 @@
         "sku": "FLEXON-J4022-N-404-49"
       },
       "gid://shopify/ProductVariant/48698372751614": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "J4022-N-404-51",
         "sku": "FLEXON-J4022-N-404-51"
       },
