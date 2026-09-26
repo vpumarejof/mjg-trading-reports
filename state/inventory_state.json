@@ -33167,13 +33167,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-26T06:54:14.358921+00:00",
+    "updated_at": "2026-09-26T11:59:04.853774+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 84098,
+        "total_qty": 84097,
         "sku_count": 11054,
         "product_count": 11054
       },
@@ -33181,7 +33181,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 84098,
+        "total_qty": 84097,
         "sku_count": 4227,
         "product_count": 4227
       },
@@ -33213,7 +33213,7 @@
         "title": "PRADA",
         "handle": "prada",
         "legacy_id": "391775289598",
-        "total_qty": 99,
+        "total_qty": 98,
         "sku_count": 18,
         "product_count": 18
       },
@@ -33221,7 +33221,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 84098,
+        "total_qty": 84097,
         "sku_count": 3300,
         "product_count": 3300
       },
@@ -33229,7 +33229,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 83713,
+        "total_qty": 83712,
         "sku_count": 2915,
         "product_count": 2915
       },
@@ -33253,7 +33253,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3252,
+        "total_qty": 3251,
         "sku_count": 414,
         "product_count": 414
       },
@@ -33317,7 +33317,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 13972,
+        "total_qty": 13971,
         "sku_count": 1162,
         "product_count": 1162
       },
@@ -33333,7 +33333,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 4607,
+        "total_qty": 4606,
         "sku_count": 405,
         "product_count": 405
       },
@@ -83436,7 +83436,7 @@
         "sku": "PRADA-PS-55YS-1BC09U"
       },
       "gid://shopify/ProductVariant/48392232239358": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "PS-A07S-1BO10A",
         "sku": "PRADA-PS-A07S-1BO10A"
       },
