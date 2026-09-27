@@ -33167,13 +33167,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-26T23:55:35.008561+00:00",
+    "updated_at": "2026-09-27T02:43:01.526817+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 84049,
+        "total_qty": 84048,
         "sku_count": 11054,
         "product_count": 11054
       },
@@ -33181,7 +33181,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 84049,
+        "total_qty": 84048,
         "sku_count": 4223,
         "product_count": 4223
       },
@@ -33189,7 +33189,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 21616,
+        "total_qty": 21615,
         "sku_count": 2508,
         "product_count": 2508
       },
@@ -33221,7 +33221,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 84049,
+        "total_qty": 84048,
         "sku_count": 3296,
         "product_count": 3296
       },
@@ -33229,7 +33229,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 83666,
+        "total_qty": 83665,
         "sku_count": 2913,
         "product_count": 2913
       },
@@ -33253,7 +33253,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3240,
+        "total_qty": 3239,
         "sku_count": 412,
         "product_count": 412
       },
@@ -33317,7 +33317,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 13942,
+        "total_qty": 13941,
         "sku_count": 1161,
         "product_count": 1161
       },
@@ -33381,7 +33381,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2305,
+        "total_qty": 2304,
         "sku_count": 182,
         "product_count": 182
       },
@@ -34053,7 +34053,7 @@
         "title": "BUGATTI",
         "handle": "bugatti",
         "legacy_id": "480545439998",
-        "total_qty": 127,
+        "total_qty": 126,
         "sku_count": 33,
         "product_count": 33
       },
@@ -84171,7 +84171,7 @@
         "sku": "BUGATTI-47-MBK"
       },
       "gid://shopify/ProductVariant/48561412210942": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "47-BGN",
         "sku": "BUGATTI-47-BGN"
       },
