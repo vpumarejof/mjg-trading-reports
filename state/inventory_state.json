@@ -33167,13 +33167,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-27T21:36:46.402754+00:00",
+    "updated_at": "2026-09-27T23:58:04.916650+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 84040,
+        "total_qty": 84034,
         "sku_count": 11054,
         "product_count": 11054
       },
@@ -33181,15 +33181,15 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 84040,
-        "sku_count": 4223,
-        "product_count": 4223
+        "total_qty": 84034,
+        "sku_count": 4222,
+        "product_count": 4222
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 21615,
+        "total_qty": 21613,
         "sku_count": 2508,
         "product_count": 2508
       },
@@ -33197,7 +33197,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 959,
+        "total_qty": 958,
         "sku_count": 912,
         "product_count": 912
       },
@@ -33205,9 +33205,9 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 60514,
-        "sku_count": 2127,
-        "product_count": 2127
+        "total_qty": 60512,
+        "sku_count": 2126,
+        "product_count": 2126
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -33221,15 +33221,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 84040,
-        "sku_count": 3296,
-        "product_count": 3296
+        "total_qty": 84034,
+        "sku_count": 3295,
+        "product_count": 3295
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 83656,
+        "total_qty": 83651,
         "sku_count": 2912,
         "product_count": 2912
       },
@@ -33317,7 +33317,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 13936,
+        "total_qty": 13932,
         "sku_count": 1161,
         "product_count": 1161
       },
@@ -33333,7 +33333,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 4604,
+        "total_qty": 4602,
         "sku_count": 405,
         "product_count": 405
       },
@@ -33357,7 +33357,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 7102,
+        "total_qty": 7100,
         "sku_count": 579,
         "product_count": 579
       },
@@ -33461,7 +33461,7 @@
         "title": "CAZAL",
         "handle": "cazal",
         "legacy_id": "400594534654",
-        "total_qty": 39,
+        "total_qty": 38,
         "sku_count": 9,
         "product_count": 9
       },
@@ -33469,7 +33469,7 @@
         "title": "CAZAL CURRENT",
         "handle": "cazal-current",
         "legacy_id": "437928689918",
-        "total_qty": 26,
+        "total_qty": 25,
         "sku_count": 4,
         "product_count": 4
       },
@@ -33485,7 +33485,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 545,
+        "total_qty": 544,
         "sku_count": 94,
         "product_count": 94
       },
@@ -33557,7 +33557,7 @@
         "title": "QUAY",
         "handle": "quay",
         "legacy_id": "472482939134",
-        "total_qty": 1182,
+        "total_qty": 1181,
         "sku_count": 74,
         "product_count": 74
       },
@@ -33565,7 +33565,7 @@
         "title": "DAVID BECKHAM",
         "handle": "david-beckham",
         "legacy_id": "397089702142",
-        "total_qty": 496,
+        "total_qty": 494,
         "sku_count": 64,
         "product_count": 64
       },
@@ -33597,9 +33597,9 @@
         "title": "EYEBOBS",
         "handle": "eyebobs",
         "legacy_id": "391774273790",
-        "total_qty": 169,
-        "sku_count": 60,
-        "product_count": 60
+        "total_qty": 168,
+        "sku_count": 59,
+        "product_count": 59
       },
       "gid://shopify/Collection/459347788030": {
         "title": "Unisex Readers",
@@ -47076,7 +47076,7 @@
         "sku": "CARRERA-8060/S-0D51/Z0"
       },
       "gid://shopify/ProductVariant/46199703666942": {
-        "qty": 19,
+        "qty": 18,
         "product_title": "7095-C003-57",
         "sku": "CAZAL-7095-C003-57"
       },
@@ -48221,7 +48221,7 @@
         "sku": "EYEBOBS-3416-15-1.75"
       },
       "gid://shopify/ProductVariant/46243450683646": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "3416-15-2.00",
         "sku": "EYEBOBS-3416-15-2.00"
       },
@@ -78736,7 +78736,7 @@
         "sku": "QUAY-NO-NS-2557-TRTYLW/BRN"
       },
       "gid://shopify/ProductVariant/48145124163838": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "NOT MY FAULT-79946",
         "sku": "QUAY-NO-NS-2710-DTRT/BRN"
       },
@@ -85781,7 +85781,7 @@
         "sku": "DB-DB-1159/S-EX4/2A"
       },
       "gid://shopify/ProductVariant/48648016625918": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "DB-1163/F/S-807/IR",
         "sku": "DB-DB-1163/F/S-807/IR"
       },
@@ -86631,7 +86631,7 @@
         "sku": "DB-DB-1093/S-KJ1/M9"
       },
       "gid://shopify/ProductVariant/48683729125630": {
-        "qty": 11,
+        "qty": 10,
         "product_title": "DB-1111/S-086/QT",
         "sku": "DB-DB-1111/S-086/QT"
       },
@@ -86716,7 +86716,7 @@
         "sku": "KS-CONSTANCE/G/S-807/9O"
       },
       "gid://shopify/ProductVariant/48683730010366": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "DAESHA/F/S-WR7/WJ",
         "sku": "KS-DAESHA/F/S-WR7/WJ"
       },
