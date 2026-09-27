@@ -33167,13 +33167,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-27T02:43:01.526817+00:00",
+    "updated_at": "2026-09-27T08:34:27.795351+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 84048,
+        "total_qty": 84042,
         "sku_count": 11054,
         "product_count": 11054
       },
@@ -33181,7 +33181,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 84048,
+        "total_qty": 84042,
         "sku_count": 4223,
         "product_count": 4223
       },
@@ -33205,7 +33205,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 60517,
+        "total_qty": 60515,
         "sku_count": 2127,
         "product_count": 2127
       },
@@ -33221,7 +33221,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 84048,
+        "total_qty": 84042,
         "sku_count": 3296,
         "product_count": 3296
       },
@@ -33229,15 +33229,15 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 83665,
-        "sku_count": 2913,
-        "product_count": 2913
+        "total_qty": 83658,
+        "sku_count": 2912,
+        "product_count": 2912
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 11387,
+        "total_qty": 11386,
         "sku_count": 840,
         "product_count": 840
       },
@@ -33245,7 +33245,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 11387,
+        "total_qty": 11386,
         "sku_count": 840,
         "product_count": 840
       },
@@ -33317,7 +33317,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 13941,
+        "total_qty": 13937,
         "sku_count": 1161,
         "product_count": 1161
       },
@@ -33333,7 +33333,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 4605,
+        "total_qty": 4604,
         "sku_count": 405,
         "product_count": 405
       },
@@ -33357,7 +33357,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 7106,
+        "total_qty": 7103,
         "sku_count": 579,
         "product_count": 579
       },
@@ -33389,7 +33389,7 @@
         "title": "NIKE",
         "handle": "nike",
         "legacy_id": "391775125758",
-        "total_qty": 227,
+        "total_qty": 226,
         "sku_count": 23,
         "product_count": 23
       },
@@ -33405,7 +33405,7 @@
         "title": "Kid's Eyeglasses",
         "handle": "kids-eyeglasses",
         "legacy_id": "408131305726",
-        "total_qty": 21651,
+        "total_qty": 21650,
         "sku_count": 105,
         "product_count": 105
       },
@@ -33485,7 +33485,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 546,
+        "total_qty": 545,
         "sku_count": 94,
         "product_count": 94
       },
@@ -33493,7 +33493,7 @@
         "title": "Kids",
         "handle": "kids",
         "legacy_id": "454431080702",
-        "total_qty": 21646,
+        "total_qty": 21645,
         "sku_count": 137,
         "product_count": 137
       },
@@ -33661,7 +33661,7 @@
         "title": "MOSCHINO",
         "handle": "moschino",
         "legacy_id": "395943837950",
-        "total_qty": 268,
+        "total_qty": 266,
         "sku_count": 36,
         "product_count": 36
       },
@@ -33701,7 +33701,7 @@
         "title": "FLEXON",
         "handle": "flexon",
         "legacy_id": "466401853694",
-        "total_qty": 120,
+        "total_qty": 119,
         "sku_count": 30,
         "product_count": 30
       },
@@ -33829,7 +33829,7 @@
         "title": "DKNY",
         "handle": "dkny",
         "legacy_id": "395943870718",
-        "total_qty": 351,
+        "total_qty": 350,
         "sku_count": 39,
         "product_count": 39
       },
@@ -54651,7 +54651,7 @@
         "sku": "NIKE-LUCENT-BOOST-EV24051-010"
       },
       "gid://shopify/ProductVariant/46811457192190": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "LUCENT BOOST EV24051",
         "sku": "NIKE-LUCENT-BOOST-EV24051-900"
       },
@@ -67256,7 +67256,7 @@
         "sku": "MOSCHINO-MOS631-0LHF-52"
       },
       "gid://shopify/ProductVariant/47577495503102": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "MOS635-C9A-53",
         "sku": "MOSCHINO-MOS635-C9A-53"
       },
@@ -79401,7 +79401,7 @@
         "sku": "TH-TH-2126/S-PJP/70"
       },
       "gid://shopify/ProductVariant/48174871478526": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "MOS180/S-C9A/9O",
         "sku": "MOSCHINO-MOS180/S-C9A/9O"
       },
@@ -86151,7 +86151,7 @@
         "sku": "DKNY-DK547S-425"
       },
       "gid://shopify/ProductVariant/48648154546430": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "DK548S-248",
         "sku": "DKNY-DK548S-248"
       },
@@ -86771,7 +86771,7 @@
         "sku": "KS-HAILEY/G/S-J5G/NQ"
       },
       "gid://shopify/ProductVariant/48683730469118": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "JANECE/G/S-3YG/GB",
         "sku": "KS-JANECE/G/S-3YG/GB"
       },
@@ -87041,7 +87041,7 @@
         "sku": "FLEXON-J4022-N-404-49"
       },
       "gid://shopify/ProductVariant/48698372751614": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "J4022-N-404-51",
         "sku": "FLEXON-J4022-N-404-51"
       },
