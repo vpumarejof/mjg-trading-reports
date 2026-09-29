@@ -33902,13 +33902,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-28T23:14:07.408754+00:00",
+    "updated_at": "2026-09-29T02:35:14.919316+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 85157,
+        "total_qty": 85151,
         "sku_count": 11299,
         "product_count": 11299
       },
@@ -33916,7 +33916,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 85157,
+        "total_qty": 85151,
         "sku_count": 4462,
         "product_count": 4462
       },
@@ -33924,7 +33924,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 21695,
+        "total_qty": 21694,
         "sku_count": 2538,
         "product_count": 2538
       },
@@ -33940,7 +33940,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 61585,
+        "total_qty": 61582,
         "sku_count": 2346,
         "product_count": 2346
       },
@@ -33956,7 +33956,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 85157,
+        "total_qty": 85151,
         "sku_count": 3535,
         "product_count": 3535
       },
@@ -33964,15 +33964,15 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 84772,
-        "sku_count": 3150,
-        "product_count": 3150
+        "total_qty": 84765,
+        "sku_count": 3149,
+        "product_count": 3149
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 11451,
+        "total_qty": 11449,
         "sku_count": 857,
         "product_count": 857
       },
@@ -33980,7 +33980,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 11451,
+        "total_qty": 11449,
         "sku_count": 857,
         "product_count": 857
       },
@@ -33988,7 +33988,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3303,
+        "total_qty": 3301,
         "sku_count": 427,
         "product_count": 427
       },
@@ -34020,7 +34020,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 19409,
+        "total_qty": 19408,
         "sku_count": 494,
         "product_count": 494
       },
@@ -34052,7 +34052,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 13982,
+        "total_qty": 13979,
         "sku_count": 1181,
         "product_count": 1181
       },
@@ -34060,7 +34060,7 @@
         "title": "TOMMY HILFIGER",
         "handle": "tommy-hilfiger",
         "legacy_id": "391775912190",
-        "total_qty": 236,
+        "total_qty": 235,
         "sku_count": 51,
         "product_count": 51
       },
@@ -34084,7 +34084,7 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 514,
+        "total_qty": 513,
         "sku_count": 58,
         "product_count": 58
       },
@@ -34092,7 +34092,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 7073,
+        "total_qty": 7070,
         "sku_count": 578,
         "product_count": 578
       },
@@ -34292,7 +34292,7 @@
         "title": "QUAY",
         "handle": "quay",
         "legacy_id": "472482939134",
-        "total_qty": 1179,
+        "total_qty": 1177,
         "sku_count": 74,
         "product_count": 74
       },
@@ -34372,7 +34372,7 @@
         "title": "Tariff Busters",
         "handle": "tariff-busters",
         "legacy_id": "463834087678",
-        "total_qty": 45938,
+        "total_qty": 45937,
         "sku_count": 335,
         "product_count": 335
       },
@@ -34452,7 +34452,7 @@
         "title": "SIGNATURE",
         "handle": "signature",
         "legacy_id": "464260399358",
-        "total_qty": 9527,
+        "total_qty": 9526,
         "sku_count": 92,
         "product_count": 92
       },
@@ -34540,7 +34540,7 @@
         "title": "VERSACE",
         "handle": "versace",
         "legacy_id": "391776010494",
-        "total_qty": 92,
+        "total_qty": 91,
         "sku_count": 26,
         "product_count": 26
       },
@@ -54660,7 +54660,7 @@
         "sku": "Signature-1132-Brown-55"
       },
       "gid://shopify/ProductVariant/46684975005950": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "1132-Silver-55",
         "sku": "Signature-1132-Silver-55"
       },
@@ -58730,7 +58730,7 @@
         "sku": "VERSACE-0VE3349U-148-53"
       },
       "gid://shopify/ProductVariant/47095925604606": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "0VE3349U-GB1-53",
         "sku": "VERSACE-0VE3349U-GB1-53"
       },
@@ -73645,7 +73645,7 @@
         "sku": "TH-TH-1730-807-51"
       },
       "gid://shopify/ProductVariant/47783448445182": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "1734-KB7-50",
         "sku": "TH-TH-1734-KB7-50"
       },
@@ -75655,7 +75655,7 @@
         "sku": "QUAY-NO-NS-2321-BLK/SMK"
       },
       "gid://shopify/ProductVariant/47893665808638": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "DATE NIGHT-75482",
         "sku": "QUAY-NO-NS-2112-BLK/SMK"
       },
@@ -78530,7 +78530,7 @@
         "sku": "SF-SF957S-001"
       },
       "gid://shopify/ProductVariant/48112739254526": {
-        "qty": 14,
+        "qty": 13,
         "product_title": "SF958S-001",
         "sku": "SF-SF958S-001"
       },
@@ -82855,7 +82855,7 @@
         "sku": "QUAY-QW-000311-BLK/SMKGRN"
       },
       "gid://shopify/ProductVariant/48314439434494": {
-        "qty": 16,
+        "qty": 15,
         "product_title": "HINDSIGHT-55667",
         "sku": "QUAY-QW-000311-BLK/BLKPNK"
       },
