@@ -33902,31 +33902,31 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-30T09:38:09.267382+00:00",
+    "updated_at": "2026-09-30T16:05:27.629722+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 78986,
-        "sku_count": 11299,
-        "product_count": 11299
+        "total_qty": 78977,
+        "sku_count": 11307,
+        "product_count": 11307
       },
       "gid://shopify/Collection/410150142206": {
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 78986,
-        "sku_count": 4283,
-        "product_count": 4283
+        "total_qty": 78977,
+        "sku_count": 4291,
+        "product_count": 4291
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 21026,
-        "sku_count": 2538,
-        "product_count": 2538
+        "total_qty": 21029,
+        "sku_count": 2542,
+        "product_count": 2542
       },
       "gid://shopify/Collection/454449725694": {
         "title": "Havana",
@@ -33940,9 +33940,9 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 55836,
-        "sku_count": 2180,
-        "product_count": 2180
+        "total_qty": 55831,
+        "sku_count": 2179,
+        "product_count": 2179
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -33956,23 +33956,23 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 78986,
-        "sku_count": 3331,
-        "product_count": 3331
+        "total_qty": 78977,
+        "sku_count": 3338,
+        "product_count": 3338
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 78607,
-        "sku_count": 2952,
-        "product_count": 2952
+        "total_qty": 78592,
+        "sku_count": 2953,
+        "product_count": 2953
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 8619,
+        "total_qty": 8618,
         "sku_count": 784,
         "product_count": 784
       },
@@ -33980,7 +33980,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 8619,
+        "total_qty": 8618,
         "sku_count": 784,
         "product_count": 784
       },
@@ -33988,9 +33988,9 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3028,
-        "sku_count": 394,
-        "product_count": 394
+        "total_qty": 3039,
+        "sku_count": 402,
+        "product_count": 402
       },
       "gid://shopify/Collection/391854031102": {
         "title": "Women's",
@@ -34020,7 +34020,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 18807,
+        "total_qty": 18806,
         "sku_count": 485,
         "product_count": 485
       },
@@ -34052,9 +34052,9 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 13560,
-        "sku_count": 1143,
-        "product_count": 1143
+        "total_qty": 13556,
+        "sku_count": 1151,
+        "product_count": 1151
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -34068,9 +34068,9 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 4640,
-        "sku_count": 410,
-        "product_count": 410
+        "total_qty": 4646,
+        "sku_count": 414,
+        "product_count": 414
       },
       "gid://shopify/Collection/391774109950": {
         "title": "DRAGON",
@@ -34092,7 +34092,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 6820,
+        "total_qty": 6806,
         "sku_count": 568,
         "product_count": 568
       },
@@ -34116,9 +34116,9 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2174,
-        "sku_count": 170,
-        "product_count": 170
+        "total_qty": 2178,
+        "sku_count": 174,
+        "product_count": 174
       },
       "gid://shopify/Collection/391775125758": {
         "title": "NIKE",
@@ -34220,7 +34220,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 531,
+        "total_qty": 530,
         "sku_count": 93,
         "product_count": 93
       },
@@ -34236,9 +34236,9 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 4179,
-        "sku_count": 543,
-        "product_count": 543
+        "total_qty": 4187,
+        "sku_count": 549,
+        "product_count": 549
       },
       "gid://shopify/Collection/395943936254": {
         "title": "CAROLINA HERRERA",
@@ -34300,7 +34300,7 @@
         "title": "DAVID BECKHAM",
         "handle": "david-beckham",
         "legacy_id": "397089702142",
-        "total_qty": 489,
+        "total_qty": 487,
         "sku_count": 64,
         "product_count": 64
       },
@@ -34308,7 +34308,7 @@
         "title": "KARL LAGERFELD",
         "handle": "karl-lagerfeld",
         "legacy_id": "422907576574",
-        "total_qty": 284,
+        "total_qty": 274,
         "sku_count": 34,
         "product_count": 34
       },
@@ -34404,7 +34404,7 @@
         "title": "MISSONI",
         "handle": "missoni",
         "legacy_id": "408673911038",
-        "total_qty": 734,
+        "total_qty": 733,
         "sku_count": 63,
         "product_count": 63
       },
@@ -34428,9 +34428,9 @@
         "title": "CALVIN KLEIN JEANS",
         "handle": "calvin-klein-jeans",
         "legacy_id": "464057172222",
-        "total_qty": 374,
-        "sku_count": 52,
-        "product_count": 52
+        "total_qty": 373,
+        "sku_count": 51,
+        "product_count": 51
       },
       "gid://shopify/Collection/466401853694": {
         "title": "FLEXON",
@@ -34620,9 +34620,9 @@
         "title": "CARTIER",
         "handle": "cartier",
         "legacy_id": "411443298558",
-        "total_qty": 11,
-        "sku_count": 8,
-        "product_count": 8
+        "total_qty": 22,
+        "sku_count": 16,
+        "product_count": 16
       },
       "gid://shopify/Collection/474031259902": {
         "title": "QUIKSILVER",
@@ -34700,7 +34700,7 @@
         "title": "FACE A FACE",
         "handle": "face-a-face",
         "legacy_id": "475759968510",
-        "total_qty": 2473,
+        "total_qty": 2470,
         "sku_count": 268,
         "product_count": 268
       },
@@ -34748,7 +34748,7 @@
         "title": "PRODESIGN",
         "handle": "prodesign",
         "legacy_id": "478388125950",
-        "total_qty": 881,
+        "total_qty": 880,
         "sku_count": 109,
         "product_count": 109
       },
@@ -34772,7 +34772,7 @@
         "title": "MODO",
         "handle": "modo",
         "legacy_id": "481959280894",
-        "total_qty": 284,
+        "total_qty": 283,
         "sku_count": 29,
         "product_count": 29
       },
@@ -34820,9 +34820,9 @@
         "title": "Relabeled",
         "handle": "relabeled",
         "legacy_id": "484454269182",
-        "total_qty": 239,
-        "sku_count": 130,
-        "product_count": 130
+        "total_qty": 241,
+        "sku_count": 132,
+        "product_count": 132
       },
       "gid://shopify/Collection/409354371326": {
         "title": "Goliath",
@@ -56853,7 +56853,7 @@
         "sku": "MISSONI-MIS-0117-0L7W-50"
       },
       "gid://shopify/ProductVariant/47010389229822": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "MIS-0127-0038-51",
         "sku": "MISSONI-MIS-0127-0038-51"
       },
@@ -72008,7 +72008,7 @@
         "sku": "MOSCHINO-MOS153/S/US-86/IR"
       },
       "gid://shopify/ProductVariant/47761273946366": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "1448-1021-53",
         "sku": "PD-1448-1021-53"
       },
@@ -77383,7 +77383,7 @@
         "sku": "FF-KAKEMO-2-1682"
       },
       "gid://shopify/ProductVariant/48035788849406": {
-        "qty": 15,
+        "qty": 14,
         "product_title": "KAKEMO-2-4174",
         "sku": "FF-KAKEMO-2-4174"
       },
@@ -77468,7 +77468,7 @@
         "sku": "FF-SOTSAS-1-2014"
       },
       "gid://shopify/ProductVariant/48035789504766": {
-        "qty": 14,
+        "qty": 13,
         "product_title": "SOTSAS-1-4174",
         "sku": "FF-SOTSAS-1-4174"
       },
@@ -77543,7 +77543,7 @@
         "sku": "MODO-4604-SMK00-50"
       },
       "gid://shopify/ProductVariant/48061854712062": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "4612-GOLD0-54",
         "sku": "MODO-4612-GOLD0-54"
       },
@@ -82763,7 +82763,7 @@
         "sku": "KL-KL6139S-240"
       },
       "gid://shopify/ProductVariant/48307063128318": {
-        "qty": 21,
+        "qty": 11,
         "product_title": "KL6180S-N-232",
         "sku": "KL-KL6180S-N-232"
       },
@@ -83778,7 +83778,7 @@
         "sku": "CKJ-CKJ24630-618-54"
       },
       "gid://shopify/ProductVariant/48361936322814": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "CKJ24631-400-56",
         "sku": "CKJ-CKJ24631-400-56"
       },
@@ -86698,7 +86698,7 @@
         "sku": "DB-DB-1170/F-KB7-53"
       },
       "gid://shopify/ProductVariant/48648026423550": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "DB-7020/FLAT-TX7-51",
         "sku": "DB-DB-7020/FLAT-TX7-51"
       },
@@ -87388,7 +87388,7 @@
         "sku": "DB-DB-1179/S-6AK/70"
       },
       "gid://shopify/ProductVariant/48683729387774": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "DB-7057/F/S-I46/IR",
         "sku": "DB-DB-7057/F/S-I46/IR"
       },
@@ -87528,7 +87528,7 @@
         "sku": "KS-KIYA2/G/S/US-086/HA"
       },
       "gid://shopify/ProductVariant/48683730698494": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "MARIGOLD/S-2TB/WJ",
         "sku": "KS-MARIGOLD/S-2TB/WJ"
       },
@@ -89188,7 +89188,7 @@
         "sku": "FF-NOTCHI-2-2045"
       },
       "gid://shopify/ProductVariant/48932971708670": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "NOTCHI-2-4176",
         "sku": "FF-NOTCHI-2-4176"
       },
@@ -91416,6 +91416,46 @@
         "qty": 9,
         "product_title": "TF4089B-81343B58",
         "sku": "TF-TF4089B-81343B"
+      },
+      "gid://shopify/ProductVariant/67621348606206": {
+        "qty": 1,
+        "product_title": "CT0362S-003",
+        "sku": "CARTIER-CT0362S-003"
+      },
+      "gid://shopify/ProductVariant/67621348638974": {
+        "qty": 1,
+        "product_title": "CT0362S-004",
+        "sku": "CARTIER-CT0362S-004"
+      },
+      "gid://shopify/ProductVariant/67621348671742": {
+        "qty": 1,
+        "product_title": "CT0362S-004-RELABELED",
+        "sku": "CARTIER-CT0362S-004_R"
+      },
+      "gid://shopify/ProductVariant/67621348737278": {
+        "qty": 1,
+        "product_title": "CT0363S-001-RELABELED",
+        "sku": "CARTIER-CT0363S-001_R"
+      },
+      "gid://shopify/ProductVariant/67621348770046": {
+        "qty": 2,
+        "product_title": "CT0363S-003",
+        "sku": "CARTIER-CT0363S-003"
+      },
+      "gid://shopify/ProductVariant/67621348802814": {
+        "qty": 3,
+        "product_title": "CT0497S-008",
+        "sku": "CARTIER-CT0497S-008"
+      },
+      "gid://shopify/ProductVariant/67621348835582": {
+        "qty": 1,
+        "product_title": "CT0500S-002",
+        "sku": "CARTIER-CT0500S-002"
+      },
+      "gid://shopify/ProductVariant/67621348868350": {
+        "qty": 1,
+        "product_title": "CT0501S-008",
+        "sku": "CARTIER-CT0501S-008"
       }
     }
   }
