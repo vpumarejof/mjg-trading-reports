@@ -33926,13 +33926,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-09-30T20:47:57.064216+00:00",
+    "updated_at": "2026-10-01T00:17:21.382815+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 79036,
+        "total_qty": 79034,
         "sku_count": 11307,
         "product_count": 11307
       },
@@ -33940,7 +33940,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 79036,
+        "total_qty": 79034,
         "sku_count": 4288,
         "product_count": 4288
       },
@@ -33948,7 +33948,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 21020,
+        "total_qty": 21019,
         "sku_count": 2542,
         "product_count": 2542
       },
@@ -33964,7 +33964,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 55917,
+        "total_qty": 55918,
         "sku_count": 2174,
         "product_count": 2174
       },
@@ -33980,7 +33980,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 79036,
+        "total_qty": 79034,
         "sku_count": 3335,
         "product_count": 3335
       },
@@ -33988,7 +33988,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 78652,
+        "total_qty": 78650,
         "sku_count": 2951,
         "product_count": 2951
       },
@@ -34012,7 +34012,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3029,
+        "total_qty": 3027,
         "sku_count": 403,
         "product_count": 403
       },
@@ -34076,7 +34076,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 13530,
+        "total_qty": 13528,
         "sku_count": 1153,
         "product_count": 1153
       },
@@ -34116,7 +34116,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 6784,
+        "total_qty": 6783,
         "sku_count": 569,
         "product_count": 569
       },
@@ -34140,7 +34140,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2169,
+        "total_qty": 2168,
         "sku_count": 174,
         "product_count": 174
       },
@@ -34292,7 +34292,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 24171,
+        "total_qty": 24170,
         "sku_count": 38,
         "product_count": 38
       },
@@ -34412,7 +34412,7 @@
         "title": "VALENTINO",
         "handle": "valentino",
         "legacy_id": "462679113982",
-        "total_qty": 72,
+        "total_qty": 71,
         "sku_count": 15,
         "product_count": 15
       },
@@ -34724,7 +34724,7 @@
         "title": "FACE A FACE",
         "handle": "face-a-face",
         "legacy_id": "475759968510",
-        "total_qty": 2468,
+        "total_qty": 2469,
         "sku_count": 268,
         "product_count": 268
       },
@@ -34860,7 +34860,7 @@
         "title": "ANNA-KARIN KARLSSON",
         "handle": "anna-karin-karlsson",
         "legacy_id": "485871059198",
-        "total_qty": 1137,
+        "total_qty": 1136,
         "sku_count": 19,
         "product_count": 19
       },
@@ -46712,7 +46712,7 @@
         "sku": "MJ-MARC-463-0086-53"
       },
       "gid://shopify/ProductVariant/46059134714110": {
-        "qty": 9575,
+        "qty": 9574,
         "product_title": "DropShip",
         "sku": "DropShip"
       },
@@ -65322,7 +65322,7 @@
         "sku": "VALENTINO-VLS-177A"
       },
       "gid://shopify/ProductVariant/47462524223742": {
-        "qty": 11,
+        "qty": 10,
         "product_title": "VLS-177B",
         "sku": "VALENTINO-VLS-177B"
       },
@@ -72882,7 +72882,7 @@
         "sku": "FF-GIOCO-2-479"
       },
       "gid://shopify/ProductVariant/47761818452222": {
-        "qty": 3,
+        "qty": 4,
         "product_title": "GORDON-1-1479-51",
         "sku": "FF-GORDON-1-1479-51"
       },
@@ -84252,7 +84252,7 @@
         "sku": "AKK-LUCKY-GOES-TO-VEGAS-CERISE ZEBRA"
       },
       "gid://shopify/ProductVariant/48406939468030": {
-        "qty": 55,
+        "qty": 54,
         "product_title": "LUCKY-GOES-TO-VEGAS-EMERALD CRYSTAL",
         "sku": "AKK-LUCKY-GOES-TO-VEGAS-EMERALD CRYSTAL"
       },
