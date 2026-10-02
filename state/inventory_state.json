@@ -34211,13 +34211,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-02T19:41:42.429755+00:00",
+    "updated_at": "2026-10-02T23:16:05.026617+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 79612,
+        "total_qty": 79572,
         "sku_count": 11402,
         "product_count": 11402
       },
@@ -34225,7 +34225,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 79612,
+        "total_qty": 79572,
         "sku_count": 4362,
         "product_count": 4362
       },
@@ -34233,7 +34233,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 21068,
+        "total_qty": 21060,
         "sku_count": 2554,
         "product_count": 2554
       },
@@ -34249,9 +34249,9 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 56188,
-        "sku_count": 2218,
-        "product_count": 2218
+        "total_qty": 56150,
+        "sku_count": 2216,
+        "product_count": 2216
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -34265,23 +34265,23 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 79612,
-        "sku_count": 3408,
-        "product_count": 3408
+        "total_qty": 79572,
+        "sku_count": 3406,
+        "product_count": 3406
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 79230,
-        "sku_count": 3026,
-        "product_count": 3026
+        "total_qty": 79189,
+        "sku_count": 3023,
+        "product_count": 3023
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 8675,
+        "total_qty": 8673,
         "sku_count": 785,
         "product_count": 785
       },
@@ -34289,7 +34289,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 8675,
+        "total_qty": 8673,
         "sku_count": 785,
         "product_count": 785
       },
@@ -34297,7 +34297,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3006,
+        "total_qty": 3005,
         "sku_count": 399,
         "product_count": 399
       },
@@ -34329,7 +34329,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 18789,
+        "total_qty": 18782,
         "sku_count": 487,
         "product_count": 487
       },
@@ -34361,7 +34361,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 13841,
+        "total_qty": 13839,
         "sku_count": 1182,
         "product_count": 1182
       },
@@ -34401,7 +34401,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 6894,
+        "total_qty": 6893,
         "sku_count": 576,
         "product_count": 576
       },
@@ -34417,15 +34417,15 @@
         "title": "LACOSTE",
         "handle": "lacoste",
         "legacy_id": "393068577022",
-        "total_qty": 1018,
-        "sku_count": 134,
-        "product_count": 134
+        "total_qty": 1007,
+        "sku_count": 132,
+        "product_count": 132
       },
       "gid://shopify/Collection/410150011134": {
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2234,
+        "total_qty": 2233,
         "sku_count": 182,
         "product_count": 182
       },
@@ -34433,7 +34433,7 @@
         "title": "NIKE",
         "handle": "nike",
         "legacy_id": "391775125758",
-        "total_qty": 353,
+        "total_qty": 341,
         "sku_count": 51,
         "product_count": 51
       },
@@ -34449,9 +34449,9 @@
         "title": "Kid's Eyeglasses",
         "handle": "kids-eyeglasses",
         "legacy_id": "408131305726",
-        "total_qty": 21578,
-        "sku_count": 105,
-        "product_count": 105
+        "total_qty": 21567,
+        "sku_count": 103,
+        "product_count": 103
       },
       "gid://shopify/Collection/409185091838": {
         "title": "Ski & Sport",
@@ -34529,7 +34529,7 @@
         "title": "Kids",
         "handle": "kids",
         "legacy_id": "454431080702",
-        "total_qty": 21573,
+        "total_qty": 21564,
         "sku_count": 137,
         "product_count": 137
       },
@@ -34609,7 +34609,7 @@
         "title": "KARL LAGERFELD",
         "handle": "karl-lagerfeld",
         "legacy_id": "422907576574",
-        "total_qty": 379,
+        "total_qty": 378,
         "sku_count": 46,
         "product_count": 46
       },
@@ -34737,7 +34737,7 @@
         "title": "FLEXON",
         "handle": "flexon",
         "legacy_id": "466401853694",
-        "total_qty": 112,
+        "total_qty": 99,
         "sku_count": 29,
         "product_count": 29
       },
@@ -35017,7 +35017,7 @@
         "title": "LONGCHAMP",
         "handle": "longchamp",
         "legacy_id": "476032958718",
-        "total_qty": 839,
+        "total_qty": 838,
         "sku_count": 57,
         "product_count": 57
       },
@@ -35105,7 +35105,7 @@
         "title": "TIFFANY & CO",
         "handle": "tiffany-co",
         "legacy_id": "483397370110",
-        "total_qty": 153,
+        "total_qty": 152,
         "sku_count": 34,
         "product_count": 34
       },
@@ -35145,7 +35145,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 2228,
+        "total_qty": 2205,
         "sku_count": 351,
         "product_count": 351
       },
@@ -35209,7 +35209,7 @@
         "title": "MARCHON",
         "handle": "marchon",
         "legacy_id": "511749193982",
-        "total_qty": 50,
+        "total_qty": 49,
         "sku_count": 10,
         "product_count": 10
       },
@@ -69092,7 +69092,7 @@
         "sku": "LACOSTE-L2296-424-55"
       },
       "gid://shopify/ProductVariant/47609151127806": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "L2301-045-53",
         "sku": "LACOSTE-L2301-045-53"
       },
@@ -71642,7 +71642,7 @@
         "sku": "FLEXON-EP8021-020-54"
       },
       "gid://shopify/ProductVariant/47730449907966": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "EP8021-210-54",
         "sku": "FLEXON-EP8021-210-54"
       },
@@ -71732,12 +71732,12 @@
         "sku": "LACOSTE-L2300-033-54"
       },
       "gid://shopify/ProductVariant/47730451546366": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "L2310-038-53",
         "sku": "LACOSTE-L2310-038-53"
       },
       "gid://shopify/ProductVariant/47730451579134": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "L2310-770-53",
         "sku": "LACOSTE-L2310-770-53"
       },
@@ -86527,7 +86527,7 @@
         "sku": "SF-SF2997-001-55_D"
       },
       "gid://shopify/ProductVariant/48637352575230": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "LO2165-N-710-52",
         "sku": "LONGCHAMP-LO2165-N-710-52"
       },
@@ -87977,7 +87977,7 @@
         "sku": "FLEXON-EP8006-N-020-50"
       },
       "gid://shopify/ProductVariant/48698371145982": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "EP8006-N-231-50",
         "sku": "FLEXON-EP8006-N-231-50"
       },
@@ -88002,7 +88002,7 @@
         "sku": "FLEXON-H6079-004-55"
       },
       "gid://shopify/ProductVariant/48698371506430": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "H6084-002-57",
         "sku": "FLEXON-H6084-002-57"
       },
@@ -88022,17 +88022,17 @@
         "sku": "FLEXON-J4018-415-48"
       },
       "gid://shopify/ProductVariant/48698371801342": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "J4020-N-001-49",
         "sku": "FLEXON-J4020-N-001-49"
       },
       "gid://shopify/ProductVariant/48698371866878": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "J4020-N-036-49",
         "sku": "FLEXON-J4020-N-036-49"
       },
       "gid://shopify/ProductVariant/48698371965182": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "J4020-N-318-49",
         "sku": "FLEXON-J4020-N-318-49"
       },
@@ -88047,17 +88047,17 @@
         "sku": "FLEXON-J4021-N-244-48"
       },
       "gid://shopify/ProductVariant/48698372358398": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "J4021-N-501-48",
         "sku": "FLEXON-J4021-N-501-48"
       },
       "gid://shopify/ProductVariant/48698372423934": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "J4021-N-518-48",
         "sku": "FLEXON-J4021-N-518-48"
       },
       "gid://shopify/ProductVariant/48698372489470": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "J4021-N-650-48",
         "sku": "FLEXON-J4021-N-650-48"
       },
@@ -88077,12 +88077,12 @@
         "sku": "FLEXON-J4022-N-404-49"
       },
       "gid://shopify/ProductVariant/48698372751614": {
-        "qty": 3,
+        "qty": 1,
         "product_title": "J4022-N-404-51",
         "sku": "FLEXON-J4022-N-404-51"
       },
       "gid://shopify/ProductVariant/48698372817150": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "J4026-N-070-50",
         "sku": "FLEXON-J4026-N-070-50"
       },
@@ -88097,7 +88097,7 @@
         "sku": "FLEXON-W3036-033-52"
       },
       "gid://shopify/ProductVariant/48698373013758": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "W3036-210-52",
         "sku": "FLEXON-W3036-210-52"
       },
@@ -91042,12 +91042,12 @@
         "sku": "DKNY-DK7013-N-520-54"
       },
       "gid://shopify/ProductVariant/67613230891262": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "L2276-N-210-56",
         "sku": "LACOSTE-L2276-N-210-56"
       },
       "gid://shopify/ProductVariant/67613230924030": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "L2285E-N-002-54",
         "sku": "LACOSTE-L2285E-N-002-54"
       },
@@ -91077,7 +91077,7 @@
         "sku": "LACOSTE-L2308-410-51"
       },
       "gid://shopify/ProductVariant/67613231251710": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "L2309-N-714-55",
         "sku": "LACOSTE-L2309-N-714-55"
       },
@@ -91087,12 +91087,12 @@
         "sku": "LACOSTE-L2315-033-52"
       },
       "gid://shopify/ProductVariant/67613234135294": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "L2315-035-52",
         "sku": "LACOSTE-L2315-035-52"
       },
       "gid://shopify/ProductVariant/67613234168062": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "L2315-714-52",
         "sku": "LACOSTE-L2315-714-52"
       },
@@ -91102,12 +91102,12 @@
         "sku": "LACOSTE-L2316-505-53"
       },
       "gid://shopify/ProductVariant/67613234528510": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "L2316-514-53",
         "sku": "LACOSTE-L2316-514-53"
       },
       "gid://shopify/ProductVariant/67613234594046": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "L2316-714-53",
         "sku": "LACOSTE-L2316-714-53"
       },
@@ -91397,7 +91397,7 @@
         "sku": "MARCHON-M-8517-001-48"
       },
       "gid://shopify/ProductVariant/67613238591742": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "M-8517-050-48",
         "sku": "MARCHON-M-8517-050-48"
       },
@@ -91447,7 +91447,7 @@
         "sku": "NAUTICA-N8197-410-54"
       },
       "gid://shopify/ProductVariant/67613239116030": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "4317-045-57",
         "sku": "NIKE-4317-045-57"
       },
@@ -91457,17 +91457,17 @@
         "sku": "NIKE-4317-076-55"
       },
       "gid://shopify/ProductVariant/67613239279870": {
-        "qty": 4,
+        "qty": 2,
         "product_title": "6046-001-55",
         "sku": "NIKE-6046-001-55"
       },
       "gid://shopify/ProductVariant/67613239345406": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "7118-413-57",
         "sku": "NIKE-7118-413-57"
       },
       "gid://shopify/ProductVariant/67613239378174": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "7158-N-301-52",
         "sku": "NIKE-7158-N-301-52"
       },
@@ -91542,22 +91542,22 @@
         "sku": "NIKE-7309-21-54"
       },
       "gid://shopify/ProductVariant/67613240328446": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "7310-21-52",
         "sku": "NIKE-7310-21-52"
       },
       "gid://shopify/ProductVariant/67613240361214": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "8131-N-008-53",
         "sku": "NIKE-8131-N-008-53"
       },
       "gid://shopify/ProductVariant/67613240426750": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "8156-002-52",
         "sku": "NIKE-8156-002-52"
       },
       "gid://shopify/ProductVariant/67613240492286": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "8156-039-52",
         "sku": "NIKE-8156-039-52"
       },
@@ -91572,12 +91572,12 @@
         "sku": "NIKE-8213-N-001-55"
       },
       "gid://shopify/ProductVariant/67613240688894": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "8213-N-074-55",
         "sku": "NIKE-8213-N-074-55"
       },
       "gid://shopify/ProductVariant/67613240819966": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "8215-045-56",
         "sku": "NIKE-8215-045-56"
       },
@@ -91642,7 +91642,7 @@
         "sku": "NW-NW5246-039-49"
       },
       "gid://shopify/ProductVariant/67613264937214": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "7258-N-900-54",
         "sku": "NIKE-7258-N-900-54"
       },
@@ -91732,7 +91732,7 @@
         "sku": "TF-TF2270B-8361-55"
       },
       "gid://shopify/ProductVariant/67613651730686": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "TF4089B-81343B58",
         "sku": "TF-TF4089B-81343B"
       },
@@ -91907,7 +91907,7 @@
         "sku": "LACOSTE-L2294-002-57"
       },
       "gid://shopify/ProductVariant/67641439453438": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "L2294-N-002-57",
         "sku": "LACOSTE-L2294-N-002-57"
       },
@@ -92047,7 +92047,7 @@
         "sku": "LACOSTE-L4010-001-53"
       },
       "gid://shopify/ProductVariant/67641444172030": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "KL360S-N-712",
         "sku": "KL-KL360S-N-712"
       },
