@@ -33932,13 +33932,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-01T22:59:57.442696+00:00",
+    "updated_at": "2026-10-02T02:03:00.073064+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 79674,
+        "total_qty": 79670,
         "sku_count": 11402,
         "product_count": 11402
       },
@@ -33946,7 +33946,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 79674,
+        "total_qty": 79670,
         "sku_count": 4364,
         "product_count": 4364
       },
@@ -33954,7 +33954,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 21076,
+        "total_qty": 21074,
         "sku_count": 2554,
         "product_count": 2554
       },
@@ -33970,7 +33970,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 56226,
+        "total_qty": 56224,
         "sku_count": 2219,
         "product_count": 2219
       },
@@ -33986,7 +33986,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 79674,
+        "total_qty": 79670,
         "sku_count": 3410,
         "product_count": 3410
       },
@@ -33994,7 +33994,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 79295,
+        "total_qty": 79291,
         "sku_count": 3031,
         "product_count": 3031
       },
@@ -34050,7 +34050,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 18794,
+        "total_qty": 18793,
         "sku_count": 487,
         "product_count": 487
       },
@@ -34082,7 +34082,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 13861,
+        "total_qty": 13859,
         "sku_count": 1183,
         "product_count": 1183
       },
@@ -34122,7 +34122,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 6905,
+        "total_qty": 6904,
         "sku_count": 576,
         "product_count": 576
       },
@@ -34146,7 +34146,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2237,
+        "total_qty": 2236,
         "sku_count": 183,
         "product_count": 183
       },
@@ -34322,7 +34322,7 @@
         "title": "QUAY",
         "handle": "quay",
         "legacy_id": "472482939134",
-        "total_qty": 1169,
+        "total_qty": 1168,
         "sku_count": 74,
         "product_count": 74
       },
@@ -34402,7 +34402,7 @@
         "title": "Tariff Busters",
         "handle": "tariff-busters",
         "legacy_id": "463834087678",
-        "total_qty": 44966,
+        "total_qty": 44965,
         "sku_count": 330,
         "product_count": 330
       },
@@ -34482,7 +34482,7 @@
         "title": "SIGNATURE",
         "handle": "signature",
         "legacy_id": "464260399358",
-        "total_qty": 9458,
+        "total_qty": 9457,
         "sku_count": 92,
         "product_count": 92
       },
@@ -34730,7 +34730,7 @@
         "title": "FACE A FACE",
         "handle": "face-a-face",
         "legacy_id": "475759968510",
-        "total_qty": 2468,
+        "total_qty": 2467,
         "sku_count": 268,
         "product_count": 268
       },
@@ -34778,7 +34778,7 @@
         "title": "PRODESIGN",
         "handle": "prodesign",
         "legacy_id": "478388125950",
-        "total_qty": 873,
+        "total_qty": 872,
         "sku_count": 109,
         "product_count": 109
       },
@@ -54778,7 +54778,7 @@
         "sku": "Signature-Pn117-Wine-53"
       },
       "gid://shopify/ProductVariant/46684982116606": {
-        "qty": 243,
+        "qty": 242,
         "product_title": "Pn504Blk-52",
         "sku": "Signature-Pn504Blk-52"
       },
@@ -72048,7 +72048,7 @@
         "sku": "PD-1449-6021-58"
       },
       "gid://shopify/ProductVariant/47761274011902": {
-        "qty": 14,
+        "qty": 13,
         "product_title": "1449-6631-58",
         "sku": "PD-1449-6631-58"
       },
@@ -72948,7 +72948,7 @@
         "sku": "FF-HALOS-2-3084"
       },
       "gid://shopify/ProductVariant/47761818845438": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "HALOS-2-6591",
         "sku": "FF-HALOS-2-6591"
       },
@@ -79553,7 +79553,7 @@
         "sku": "QUAY-NO-NS-2590-CFTRT/BRN"
       },
       "gid://shopify/ProductVariant/48145124983038": {
-        "qty": 13,
+        "qty": 12,
         "product_title": "TEXT ME-78600",
         "sku": "QUAY-NO-NS-2441-GLD/SEP"
       },
