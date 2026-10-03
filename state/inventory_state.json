@@ -34211,13 +34211,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-03T20:04:50.919966+00:00",
+    "updated_at": "2026-10-03T23:00:04.738173+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 79560,
+        "total_qty": 79557,
         "sku_count": 11402,
         "product_count": 11402
       },
@@ -34225,7 +34225,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 79560,
+        "total_qty": 79557,
         "sku_count": 4361,
         "product_count": 4361
       },
@@ -34265,7 +34265,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 79560,
+        "total_qty": 79557,
         "sku_count": 3405,
         "product_count": 3405
       },
@@ -34273,7 +34273,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 79178,
+        "total_qty": 79175,
         "sku_count": 3023,
         "product_count": 3023
       },
@@ -34297,7 +34297,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3000,
+        "total_qty": 2999,
         "sku_count": 398,
         "product_count": 398
       },
@@ -34361,7 +34361,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 13835,
+        "total_qty": 13832,
         "sku_count": 1182,
         "product_count": 1182
       },
@@ -34377,7 +34377,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 4773,
+        "total_qty": 4772,
         "sku_count": 428,
         "product_count": 428
       },
@@ -34401,7 +34401,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 6891,
+        "total_qty": 6889,
         "sku_count": 576,
         "product_count": 576
       },
@@ -34545,7 +34545,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 476,
+        "total_qty": 475,
         "sku_count": 82,
         "product_count": 82
       },
@@ -34601,7 +34601,7 @@
         "title": "DAVID BECKHAM",
         "handle": "david-beckham",
         "legacy_id": "397089702142",
-        "total_qty": 487,
+        "total_qty": 486,
         "sku_count": 64,
         "product_count": 64
       },
@@ -35137,7 +35137,7 @@
         "title": "ANNA-KARIN KARLSSON",
         "handle": "anna-karin-karlsson",
         "legacy_id": "485871059198",
-        "total_qty": 1134,
+        "total_qty": 1133,
         "sku_count": 19,
         "product_count": 19
       },
@@ -84587,7 +84587,7 @@
         "sku": "AKK-SHADY-LUV-2.0-BLACK"
       },
       "gid://shopify/ProductVariant/48406940483838": {
-        "qty": 42,
+        "qty": 41,
         "product_title": "SHADY-LUV-2.0-GOLD 24K",
         "sku": "AKK-SHADY-LUV-2.0-GOLD 24K"
       },
@@ -86832,7 +86832,7 @@
         "sku": "DB-DB-7002/S-RHL/FQ"
       },
       "gid://shopify/ProductVariant/48648016789758": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "DB-7019/S-6LB/KU",
         "sku": "DB-DB-7019/S-6LB/KU"
       },
@@ -87777,7 +87777,7 @@
         "sku": "KS-DESI/F/S/US-HT8/HA"
       },
       "gid://shopify/ProductVariant/48683730239742": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "DESI/S-807/9O",
         "sku": "KS-DESI/S-807/9O"
       },
