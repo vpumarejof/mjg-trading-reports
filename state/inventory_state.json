@@ -34211,13 +34211,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-03T08:03:44.439120+00:00",
+    "updated_at": "2026-10-03T13:21:03.883283+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 79564,
+        "total_qty": 79563,
         "sku_count": 11402,
         "product_count": 11402
       },
@@ -34225,7 +34225,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 79564,
+        "total_qty": 79563,
         "sku_count": 4361,
         "product_count": 4361
       },
@@ -34233,7 +34233,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 21059,
+        "total_qty": 21058,
         "sku_count": 2554,
         "product_count": 2554
       },
@@ -34265,7 +34265,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 79564,
+        "total_qty": 79563,
         "sku_count": 3405,
         "product_count": 3405
       },
@@ -34273,7 +34273,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 79182,
+        "total_qty": 79181,
         "sku_count": 3023,
         "product_count": 3023
       },
@@ -34361,7 +34361,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 13839,
+        "total_qty": 13838,
         "sku_count": 1182,
         "product_count": 1182
       },
@@ -34425,7 +34425,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2233,
+        "total_qty": 2232,
         "sku_count": 182,
         "product_count": 182
       },
@@ -34593,7 +34593,7 @@
         "title": "QUAY",
         "handle": "quay",
         "legacy_id": "472482939134",
-        "total_qty": 1168,
+        "total_qty": 1167,
         "sku_count": 74,
         "product_count": 74
       },
@@ -79837,7 +79837,7 @@
         "sku": "QUAY-NO-NS-2441-GLD/SEP"
       },
       "gid://shopify/ProductVariant/48145125048574": {
-        "qty": 24,
+        "qty": 23,
         "product_title": "TEXT ME-78633",
         "sku": "QUAY-NO-NS-2441-GNMTL/SMK"
       },
