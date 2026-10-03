@@ -34211,13 +34211,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-02T23:16:05.026617+00:00",
+    "updated_at": "2026-10-03T02:09:48.188931+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 79572,
+        "total_qty": 79571,
         "sku_count": 11402,
         "product_count": 11402
       },
@@ -34225,7 +34225,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 79572,
+        "total_qty": 79571,
         "sku_count": 4362,
         "product_count": 4362
       },
@@ -34233,7 +34233,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 21060,
+        "total_qty": 21059,
         "sku_count": 2554,
         "product_count": 2554
       },
@@ -34249,7 +34249,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 56150,
+        "total_qty": 56149,
         "sku_count": 2216,
         "product_count": 2216
       },
@@ -34265,7 +34265,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 79572,
+        "total_qty": 79571,
         "sku_count": 3406,
         "product_count": 3406
       },
@@ -34273,7 +34273,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 79189,
+        "total_qty": 79188,
         "sku_count": 3023,
         "product_count": 3023
       },
@@ -34329,7 +34329,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 18782,
+        "total_qty": 18781,
         "sku_count": 487,
         "product_count": 487
       },
@@ -34841,7 +34841,7 @@
         "title": "ANDY WOLF",
         "handle": "andy-wolf-1",
         "legacy_id": "469566619902",
-        "total_qty": 897,
+        "total_qty": 896,
         "sku_count": 248,
         "product_count": 248
       },
@@ -70442,7 +70442,7 @@
         "sku": "AW-TRISTAN-B-52"
       },
       "gid://shopify/ProductVariant/47655187251454": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "TRISTAN-E-52",
         "sku": "AW-TRISTAN-E-52"
       },
