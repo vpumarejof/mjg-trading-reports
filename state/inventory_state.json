@@ -34211,13 +34211,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-03T17:28:40.506054+00:00",
+    "updated_at": "2026-10-03T20:04:50.919966+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 79561,
+        "total_qty": 79560,
         "sku_count": 11402,
         "product_count": 11402
       },
@@ -34225,7 +34225,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 79561,
+        "total_qty": 79560,
         "sku_count": 4361,
         "product_count": 4361
       },
@@ -34265,7 +34265,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 79561,
+        "total_qty": 79560,
         "sku_count": 3405,
         "product_count": 3405
       },
@@ -34273,7 +34273,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 79179,
+        "total_qty": 79178,
         "sku_count": 3023,
         "product_count": 3023
       },
@@ -34361,7 +34361,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 13836,
+        "total_qty": 13835,
         "sku_count": 1182,
         "product_count": 1182
       },
@@ -34377,7 +34377,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 4774,
+        "total_qty": 4773,
         "sku_count": 428,
         "product_count": 428
       },
@@ -35001,7 +35001,7 @@
         "title": "FACE A FACE",
         "handle": "face-a-face",
         "legacy_id": "475759968510",
-        "total_qty": 2467,
+        "total_qty": 2466,
         "sku_count": 268,
         "product_count": 268
       },
@@ -77387,7 +77387,7 @@
         "sku": "FF-ALIUM-CLUB-3-TM01-54"
       },
       "gid://shopify/ProductVariant/48035785605374": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "ALIUM-RIDE-2-9620",
         "sku": "FF-ALIUM-RIDE-2-9620"
       },
