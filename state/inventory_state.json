@@ -34211,13 +34211,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-03T23:00:04.738173+00:00",
+    "updated_at": "2026-10-04T02:28:09.373477+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 79557,
+        "total_qty": 79556,
         "sku_count": 11402,
         "product_count": 11402
       },
@@ -34225,7 +34225,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 79557,
+        "total_qty": 79556,
         "sku_count": 4361,
         "product_count": 4361
       },
@@ -34233,7 +34233,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 21058,
+        "total_qty": 21057,
         "sku_count": 2554,
         "product_count": 2554
       },
@@ -34249,7 +34249,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 56142,
+        "total_qty": 56141,
         "sku_count": 2215,
         "product_count": 2215
       },
@@ -34265,7 +34265,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 79557,
+        "total_qty": 79556,
         "sku_count": 3405,
         "product_count": 3405
       },
@@ -34273,9 +34273,9 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 79175,
-        "sku_count": 3023,
-        "product_count": 3023
+        "total_qty": 79173,
+        "sku_count": 3022,
+        "product_count": 3022
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
@@ -34329,7 +34329,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 18781,
+        "total_qty": 18780,
         "sku_count": 487,
         "product_count": 487
       },
@@ -34593,7 +34593,7 @@
         "title": "QUAY",
         "handle": "quay",
         "legacy_id": "472482939134",
-        "total_qty": 1167,
+        "total_qty": 1166,
         "sku_count": 74,
         "product_count": 74
       },
@@ -80132,7 +80132,7 @@
         "sku": "QUAY-OG-OF-2603-CLR/RX"
       },
       "gid://shopify/ProductVariant/48145130094846": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "ON MUTE RX-78105",
         "sku": "QUAY-OG-OF-2522-CH/RX"
       },
