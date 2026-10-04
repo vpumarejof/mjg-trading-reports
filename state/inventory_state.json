@@ -34211,13 +34211,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-04T18:15:26.389400+00:00",
+    "updated_at": "2026-10-04T21:28:19.655668+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 79535,
+        "total_qty": 79526,
         "sku_count": 11402,
         "product_count": 11402
       },
@@ -34225,7 +34225,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 79535,
+        "total_qty": 79526,
         "sku_count": 4358,
         "product_count": 4358
       },
@@ -34233,7 +34233,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 21055,
+        "total_qty": 21052,
         "sku_count": 2554,
         "product_count": 2554
       },
@@ -34249,9 +34249,9 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 56128,
-        "sku_count": 2211,
-        "product_count": 2211
+        "total_qty": 56121,
+        "sku_count": 2210,
+        "product_count": 2210
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -34265,23 +34265,23 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 79535,
-        "sku_count": 3401,
-        "product_count": 3401
+        "total_qty": 79526,
+        "sku_count": 3400,
+        "product_count": 3400
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 79154,
-        "sku_count": 3020,
-        "product_count": 3020
+        "total_qty": 79143,
+        "sku_count": 3017,
+        "product_count": 3017
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 8665,
+        "total_qty": 8662,
         "sku_count": 781,
         "product_count": 781
       },
@@ -34289,7 +34289,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 8665,
+        "total_qty": 8662,
         "sku_count": 781,
         "product_count": 781
       },
@@ -34361,7 +34361,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 13824,
+        "total_qty": 13822,
         "sku_count": 1182,
         "product_count": 1182
       },
@@ -34377,7 +34377,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 4769,
+        "total_qty": 4767,
         "sku_count": 428,
         "product_count": 428
       },
@@ -34433,7 +34433,7 @@
         "title": "NIKE",
         "handle": "nike",
         "legacy_id": "391775125758",
-        "total_qty": 341,
+        "total_qty": 339,
         "sku_count": 51,
         "product_count": 51
       },
@@ -34441,7 +34441,7 @@
         "title": "ALEXANDER MCQUEEN",
         "handle": "alexander-mcqueen",
         "legacy_id": "395955470590",
-        "total_qty": 2,
+        "total_qty": 1,
         "sku_count": 1,
         "product_count": 1
       },
@@ -34505,17 +34505,9 @@
         "title": "CAZAL",
         "handle": "cazal",
         "legacy_id": "400594534654",
-        "total_qty": 32,
-        "sku_count": 7,
-        "product_count": 7
-      },
-      "gid://shopify/Collection/437928689918": {
-        "title": "CAZAL CURRENT",
-        "handle": "cazal-current",
-        "legacy_id": "437928689918",
-        "total_qty": 23,
-        "sku_count": 3,
-        "product_count": 3
+        "total_qty": 27,
+        "sku_count": 6,
+        "product_count": 6
       },
       "gid://shopify/Collection/413250781438": {
         "title": "ISABEL MARANT",
@@ -34532,6 +34524,14 @@
         "total_qty": 21564,
         "sku_count": 137,
         "product_count": 137
+      },
+      "gid://shopify/Collection/437928689918": {
+        "title": "CAZAL CURRENT",
+        "handle": "cazal-current",
+        "legacy_id": "437928689918",
+        "total_qty": 20,
+        "sku_count": 2,
+        "product_count": 2
       },
       "gid://shopify/Collection/395943936254": {
         "title": "CAROLINA HERRERA",
@@ -34857,7 +34857,7 @@
         "title": "DKNY",
         "handle": "dkny",
         "legacy_id": "395943870718",
-        "total_qty": 469,
+        "total_qty": 468,
         "sku_count": 64,
         "product_count": 64
       },
@@ -35145,7 +35145,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 2201,
+        "total_qty": 2200,
         "sku_count": 351,
         "product_count": 351
       },
@@ -38202,7 +38202,7 @@
         "sku": "ALEXANDERMCQUEENAM0093OA002"
       },
       "gid://shopify/ProductVariant/42795359502590": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "AM0114O003",
         "sku": "ALEXANDERMCQUEENAM0114O003"
       },
@@ -42502,7 +42502,7 @@
         "sku": "GOLIATH IX BROWN"
       },
       "gid://shopify/ProductVariant/44246155231486": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "7080-C002-57",
         "sku": "CAZAL-7080-C002-57"
       },
@@ -43282,7 +43282,7 @@
         "sku": "CAZAL-4284-C003-53"
       },
       "gid://shopify/ProductVariant/44821343174910": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "4284-C002-53",
         "sku": "CAZAL-4284-C002-53"
       },
@@ -43292,7 +43292,7 @@
         "sku": "CAZAL-4284-C004-53"
       },
       "gid://shopify/ProductVariant/44821349564670": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "4294-C001-53",
         "sku": "CAZAL-4294-C001-53"
       },
@@ -45832,7 +45832,7 @@
         "sku": "CH-HER-0106/S-0YDC/HA"
       },
       "gid://shopify/ProductVariant/45858109980926": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "707-C524-52",
         "sku": "CAZAL-707-C524-52"
       },
@@ -48112,7 +48112,7 @@
         "sku": "CARRERA-8060/S-0D51/Z0"
       },
       "gid://shopify/ProductVariant/46199703666942": {
-        "qty": 18,
+        "qty": 17,
         "product_title": "7095-C003-57",
         "sku": "CAZAL-7095-C003-57"
       },
@@ -55642,7 +55642,7 @@
         "sku": "NIKE-ESSENTIAL-HORIZON-EV1118-044"
       },
       "gid://shopify/ProductVariant/46811440775422": {
-        "qty": 5,
+        "qty": 3,
         "product_title": "ESSENTIAL HORIZON EV1118",
         "sku": "NIKE-ESSENTIAL-HORIZON-EV1118-910"
       },
@@ -91032,7 +91032,7 @@
         "sku": "DKNY-DK5095-237-53"
       },
       "gid://shopify/ProductVariant/67613230792958": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "DK7004-015-53",
         "sku": "DKNY-DK7004-015-53"
       },
