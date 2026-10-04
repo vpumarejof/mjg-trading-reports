@@ -34211,13 +34211,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-04T14:23:09.458461+00:00",
+    "updated_at": "2026-10-04T18:15:26.389400+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 79541,
+        "total_qty": 79535,
         "sku_count": 11402,
         "product_count": 11402
       },
@@ -34225,9 +34225,9 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 79541,
-        "sku_count": 4359,
-        "product_count": 4359
+        "total_qty": 79535,
+        "sku_count": 4358,
+        "product_count": 4358
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
@@ -34249,9 +34249,9 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 56132,
-        "sku_count": 2212,
-        "product_count": 2212
+        "total_qty": 56128,
+        "sku_count": 2211,
+        "product_count": 2211
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -34265,41 +34265,41 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 79541,
-        "sku_count": 3402,
-        "product_count": 3402
+        "total_qty": 79535,
+        "sku_count": 3401,
+        "product_count": 3401
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 79161,
-        "sku_count": 3022,
-        "product_count": 3022
+        "total_qty": 79154,
+        "sku_count": 3020,
+        "product_count": 3020
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 8668,
-        "sku_count": 782,
-        "product_count": 782
+        "total_qty": 8665,
+        "sku_count": 781,
+        "product_count": 781
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 8668,
-        "sku_count": 782,
-        "product_count": 782
+        "total_qty": 8665,
+        "sku_count": 781,
+        "product_count": 781
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 2995,
-        "sku_count": 397,
-        "product_count": 397
+        "total_qty": 2993,
+        "sku_count": 396,
+        "product_count": 396
       },
       "gid://shopify/Collection/391854031102": {
         "title": "Women's",
@@ -34361,7 +34361,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 13826,
+        "total_qty": 13824,
         "sku_count": 1182,
         "product_count": 1182
       },
@@ -34393,7 +34393,7 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 636,
+        "total_qty": 635,
         "sku_count": 68,
         "product_count": 68
       },
@@ -34401,7 +34401,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 6887,
+        "total_qty": 6885,
         "sku_count": 576,
         "product_count": 576
       },
@@ -34465,7 +34465,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1576,
+        "total_qty": 1575,
         "sku_count": 91,
         "product_count": 91
       },
@@ -34505,7 +34505,7 @@
         "title": "CAZAL",
         "handle": "cazal",
         "legacy_id": "400594534654",
-        "total_qty": 33,
+        "total_qty": 32,
         "sku_count": 7,
         "product_count": 7
       },
@@ -34513,9 +34513,9 @@
         "title": "CAZAL CURRENT",
         "handle": "cazal-current",
         "legacy_id": "437928689918",
-        "total_qty": 25,
-        "sku_count": 4,
-        "product_count": 4
+        "total_qty": 23,
+        "sku_count": 3,
+        "product_count": 3
       },
       "gid://shopify/Collection/413250781438": {
         "title": "ISABEL MARANT",
@@ -35001,7 +35001,7 @@
         "title": "FACE A FACE",
         "handle": "face-a-face",
         "legacy_id": "475759968510",
-        "total_qty": 2467,
+        "total_qty": 2466,
         "sku_count": 268,
         "product_count": 268
       },
@@ -35017,7 +35017,7 @@
         "title": "LONGCHAMP",
         "handle": "longchamp",
         "legacy_id": "476032958718",
-        "total_qty": 838,
+        "total_qty": 837,
         "sku_count": 57,
         "product_count": 57
       },
@@ -43877,7 +43877,7 @@
         "sku": "CH-CH-0074-02M2-53"
       },
       "gid://shopify/ProductVariant/45504801964286": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "8505-C003",
         "sku": "CAZAL-8505-C003"
       },
@@ -57812,7 +57812,7 @@
         "sku": "SF-SF2952N-261-53"
       },
       "gid://shopify/ProductVariant/47027374358782": {
-        "qty": 11,
+        "qty": 10,
         "product_title": "SF2984-613-53",
         "sku": "SF-SF2984-613-53"
       },
@@ -73367,7 +73367,7 @@
         "sku": "FF-NOVVA-2-2045"
       },
       "gid://shopify/ProductVariant/47761820123390": {
-        "qty": 23,
+        "qty": 22,
         "product_title": "NOVVA-2-2122",
         "sku": "FF-NOVVA-2-2122"
       },
@@ -78572,7 +78572,7 @@
         "sku": "LONGCHAMP-LO2718-001-54"
       },
       "gid://shopify/ProductVariant/48094646927614": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "LO2727-037-55",
         "sku": "LONGCHAMP-LO2727-037-55"
       },
@@ -83722,7 +83722,7 @@
         "sku": "CARRERA-3010-HKZ-52"
       },
       "gid://shopify/ProductVariant/48349468623102": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "3039-VVP-54",
         "sku": "CARRERA-3039-VVP-54"
       },
@@ -84657,7 +84657,7 @@
         "sku": "TF-TF2234B-8001-54"
       },
       "gid://shopify/ProductVariant/48493051740414": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "TF2234B-8047-54",
         "sku": "TF-TF2234B-8047-54"
       },
