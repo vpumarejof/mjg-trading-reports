@@ -34211,13 +34211,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-04T21:28:19.655668+00:00",
+    "updated_at": "2026-10-05T00:03:50.770232+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 79526,
+        "total_qty": 79525,
         "sku_count": 11402,
         "product_count": 11402
       },
@@ -34225,7 +34225,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 79526,
+        "total_qty": 79525,
         "sku_count": 4358,
         "product_count": 4358
       },
@@ -34249,7 +34249,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 56121,
+        "total_qty": 56120,
         "sku_count": 2210,
         "product_count": 2210
       },
@@ -34265,7 +34265,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 79526,
+        "total_qty": 79525,
         "sku_count": 3400,
         "product_count": 3400
       },
@@ -34273,7 +34273,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 79143,
+        "total_qty": 79142,
         "sku_count": 3017,
         "product_count": 3017
       },
@@ -34281,7 +34281,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 8662,
+        "total_qty": 8661,
         "sku_count": 781,
         "product_count": 781
       },
@@ -34289,7 +34289,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 8662,
+        "total_qty": 8661,
         "sku_count": 781,
         "product_count": 781
       },
@@ -35001,7 +35001,7 @@
         "title": "FACE A FACE",
         "handle": "face-a-face",
         "legacy_id": "475759968510",
-        "total_qty": 2466,
+        "total_qty": 2465,
         "sku_count": 268,
         "product_count": 268
       },
@@ -89412,7 +89412,7 @@
         "sku": "FF-WISPER-2-1427-52"
       },
       "gid://shopify/ProductVariant/48932970823934": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "WISPER-2-3036-52",
         "sku": "FF-WISPER-2-3036-52"
       },
