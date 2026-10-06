@@ -34211,31 +34211,31 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-06T07:58:49.597708+00:00",
+    "updated_at": "2026-10-06T14:46:41.074356+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 79256,
-        "sku_count": 11402,
-        "product_count": 11402
+        "total_qty": 81037,
+        "sku_count": 11472,
+        "product_count": 11472
       },
       "gid://shopify/Collection/410150142206": {
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 79256,
-        "sku_count": 4344,
-        "product_count": 4344
+        "total_qty": 81037,
+        "sku_count": 4414,
+        "product_count": 4414
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 20954,
-        "sku_count": 2554,
-        "product_count": 2554
+        "total_qty": 21508,
+        "sku_count": 2575,
+        "product_count": 2575
       },
       "gid://shopify/Collection/454449725694": {
         "title": "Havana",
@@ -34249,9 +34249,9 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 56074,
-        "sku_count": 2206,
-        "product_count": 2206
+        "total_qty": 56070,
+        "sku_count": 2207,
+        "product_count": 2207
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -34265,17 +34265,17 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 79256,
-        "sku_count": 3384,
-        "product_count": 3384
+        "total_qty": 81037,
+        "sku_count": 3455,
+        "product_count": 3455
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 78870,
-        "sku_count": 2998,
-        "product_count": 2998
+        "total_qty": 80650,
+        "sku_count": 3068,
+        "product_count": 3068
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
@@ -34297,7 +34297,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 2950,
+        "total_qty": 2946,
         "sku_count": 389,
         "product_count": 389
       },
@@ -34329,7 +34329,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 18772,
+        "total_qty": 18771,
         "sku_count": 487,
         "product_count": 487
       },
@@ -34361,9 +34361,9 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 13602,
-        "sku_count": 1170,
-        "product_count": 1170
+        "total_qty": 15387,
+        "sku_count": 1240,
+        "product_count": 1240
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -34377,9 +34377,9 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 4714,
-        "sku_count": 426,
-        "product_count": 426
+        "total_qty": 4798,
+        "sku_count": 429,
+        "product_count": 429
       },
       "gid://shopify/Collection/391774109950": {
         "title": "DRAGON",
@@ -34401,9 +34401,9 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 6809,
-        "sku_count": 569,
-        "product_count": 569
+        "total_qty": 7955,
+        "sku_count": 615,
+        "product_count": 615
       },
       "gid://shopify/Collection/391853998334": {
         "title": "Men's",
@@ -34417,7 +34417,7 @@
         "title": "LACOSTE",
         "handle": "lacoste",
         "legacy_id": "393068577022",
-        "total_qty": 986,
+        "total_qty": 985,
         "sku_count": 131,
         "product_count": 131
       },
@@ -34425,9 +34425,9 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2141,
-        "sku_count": 179,
-        "product_count": 179
+        "total_qty": 2696,
+        "sku_count": 200,
+        "product_count": 200
       },
       "gid://shopify/Collection/391775125758": {
         "title": "NIKE",
@@ -34721,7 +34721,7 @@
         "title": "CALVIN KLEIN",
         "handle": "calvin-klein",
         "legacy_id": "393476997374",
-        "total_qty": 305,
+        "total_qty": 303,
         "sku_count": 54,
         "product_count": 54
       },
@@ -34729,7 +34729,7 @@
         "title": "CALVIN KLEIN JEANS",
         "handle": "calvin-klein-jeans",
         "legacy_id": "464057172222",
-        "total_qty": 401,
+        "total_qty": 399,
         "sku_count": 53,
         "product_count": 53
       },
@@ -34801,9 +34801,9 @@
         "title": "NOMAD-MOREL",
         "handle": "nomad-morel",
         "legacy_id": "466916409598",
-        "total_qty": 41,
-        "sku_count": 10,
-        "product_count": 10
+        "total_qty": 42,
+        "sku_count": 11,
+        "product_count": 11
       },
       "gid://shopify/Collection/466916442366": {
         "title": "ORIGINALE-MOREL",
@@ -35009,7 +35009,7 @@
         "title": "JAGUAR",
         "handle": "jaguar",
         "legacy_id": "475760034046",
-        "total_qty": 1964,
+        "total_qty": 1963,
         "sku_count": 178,
         "product_count": 178
       },
@@ -35089,7 +35089,7 @@
         "title": "CELINE",
         "handle": "celine",
         "legacy_id": "483191193854",
-        "total_qty": 95,
+        "total_qty": 91,
         "sku_count": 24,
         "product_count": 24
       },
@@ -35145,9 +35145,9 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 2117,
-        "sku_count": 347,
-        "product_count": 347
+        "total_qty": 3903,
+        "sku_count": 417,
+        "product_count": 417
       },
       "gid://shopify/Collection/487431995646": {
         "title": "CANADA GOOSE",
@@ -35228,6 +35228,14 @@
         "total_qty": 41,
         "sku_count": 11,
         "product_count": 11
+      },
+      "gid://shopify/Collection/512308904190": {
+        "title": "CUTLER AND GROSS",
+        "handle": "cutler-and-gross",
+        "legacy_id": "512308904190",
+        "total_qty": 1790,
+        "sku_count": 70,
+        "product_count": 70
       }
     },
     "variants": {
@@ -57417,7 +57425,7 @@
         "sku": "NOMAD-MOREL-40142N-BO02-51"
       },
       "gid://shopify/ProductVariant/47021049774334": {
-        "qty": 0,
+        "qty": 1,
         "product_title": "40106N-GB02-51",
         "sku": "NOMAD-MOREL-40106N-GB02-51"
       },
@@ -68437,7 +68445,7 @@
         "sku": "JAGUAR-JG31030-8840-56"
       },
       "gid://shopify/ProductVariant/47589021942014": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "JG31521-6381-55",
         "sku": "JAGUAR-JG31521-6381-55"
       },
@@ -84142,7 +84150,7 @@
         "sku": "CKJ-CKJ25603S-N-002"
       },
       "gid://shopify/ProductVariant/48361936748798": {
-        "qty": 11,
+        "qty": 10,
         "product_title": "CKJ25603S-N-309",
         "sku": "CKJ-CKJ25603S-N-309"
       },
@@ -88107,22 +88115,22 @@
         "sku": "CELINE-CL40187I-01A"
       },
       "gid://shopify/ProductVariant/48772223369470": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "CL40226U 5501F",
         "sku": "CELINE-CL40226U-01F"
       },
       "gid://shopify/ProductVariant/48772223402238": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "CL40232I 5101J",
         "sku": "CELINE-CL40232I-01J"
       },
       "gid://shopify/ProductVariant/48772223435006": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "CL40232I 5152V",
         "sku": "CELINE-CL40232I-52V"
       },
       "gid://shopify/ProductVariant/48772223467774": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "CL40233I 4901N",
         "sku": "CELINE-CL40233I-01N"
       },
@@ -90642,7 +90650,7 @@
         "sku": "CK-CK24522-N-036-52"
       },
       "gid://shopify/ProductVariant/67613226598654": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "CK24522-N-539-50",
         "sku": "CK-CK24522-N-539-50"
       },
@@ -90697,7 +90705,7 @@
         "sku": "CK-CK24542-N-235-54"
       },
       "gid://shopify/ProductVariant/67613227155710": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "CK24543-001-49",
         "sku": "CK-CK24543-001-49"
       },
@@ -90717,7 +90725,7 @@
         "sku": "CK-CK25502S-601"
       },
       "gid://shopify/ProductVariant/67613227319550": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "CKJ20101-001-50",
         "sku": "CKJ-CKJ20101-001-50"
       },
@@ -91972,7 +91980,7 @@
         "sku": "LACOSTE-L2977-N-001-54"
       },
       "gid://shopify/ProductVariant/67641441321214": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "L2977-N-035-54",
         "sku": "LACOSTE-L2977-N-035-54"
       },
@@ -92240,6 +92248,356 @@
         "qty": 14,
         "product_title": "SF330S-752",
         "sku": "SF-SF330S-752"
+      },
+      "gid://shopify/ProductVariant/67667221938430": {
+        "qty": 25,
+        "product_title": "CGSN-0734-50-05",
+        "sku": "CG-CGSN-0734-05"
+      },
+      "gid://shopify/ProductVariant/67667222069502": {
+        "qty": 30,
+        "product_title": "CGSN-0734-50-07",
+        "sku": "CG-CGSN-0734-07"
+      },
+      "gid://shopify/ProductVariant/67667222167806": {
+        "qty": 30,
+        "product_title": "CGSN-0772V2-52-03",
+        "sku": "CG-CGSN-0772V2-03"
+      },
+      "gid://shopify/ProductVariant/67667222233342": {
+        "qty": 45,
+        "product_title": "CGSN-0772V2-52-04",
+        "sku": "CG-CGSN-0772V2-04"
+      },
+      "gid://shopify/ProductVariant/67667222298878": {
+        "qty": 50,
+        "product_title": "CGSN-0772V2-52-05",
+        "sku": "CG-CGSN-0772V2-05"
+      },
+      "gid://shopify/ProductVariant/67667222397182": {
+        "qty": 8,
+        "product_title": "CGSN-0811-60-02",
+        "sku": "CG-CGSN-0811-02"
+      },
+      "gid://shopify/ProductVariant/67667222462718": {
+        "qty": 11,
+        "product_title": "CGSN-0822V2-RGS",
+        "sku": "CG-CGSN-0822V2-RGS"
+      },
+      "gid://shopify/ProductVariant/67667222561022": {
+        "qty": 30,
+        "product_title": "CGSN-1306-51-03",
+        "sku": "CG-CGSN-1306-03"
+      },
+      "gid://shopify/ProductVariant/67667222593790": {
+        "qty": 49,
+        "product_title": "CGSN-1319-55-05",
+        "sku": "CG-CGSN-1319-05"
+      },
+      "gid://shopify/ProductVariant/67667222692094": {
+        "qty": 19,
+        "product_title": "CGSN-1321-54-02",
+        "sku": "CG-CGSN-1321-02"
+      },
+      "gid://shopify/ProductVariant/67667222757630": {
+        "qty": 16,
+        "product_title": "CGSN-1321-54-03",
+        "sku": "CG-CGSN-1321-03"
+      },
+      "gid://shopify/ProductVariant/67667222823166": {
+        "qty": 30,
+        "product_title": "CGSN-1326-51-01",
+        "sku": "CG-CGSN-1326-01"
+      },
+      "gid://shopify/ProductVariant/67667222921470": {
+        "qty": 37,
+        "product_title": "CGSN-1332-53-01",
+        "sku": "CG-CGSN-1332-01"
+      },
+      "gid://shopify/ProductVariant/67667223019774": {
+        "qty": 19,
+        "product_title": "CGSN-1332-53-02",
+        "sku": "CG-CGSN-1332-02"
+      },
+      "gid://shopify/ProductVariant/67667223052542": {
+        "qty": 18,
+        "product_title": "CGSN-1335-51-02",
+        "sku": "CG-CGSN-1335-02"
+      },
+      "gid://shopify/ProductVariant/67667223085310": {
+        "qty": 22,
+        "product_title": "CGSN-1335-51-04",
+        "sku": "CG-CGSN-1335-04"
+      },
+      "gid://shopify/ProductVariant/67667223150846": {
+        "qty": 4,
+        "product_title": "CGSN-1336-50-01",
+        "sku": "CG-CGSN-1336-01"
+      },
+      "gid://shopify/ProductVariant/67667223249150": {
+        "qty": 8,
+        "product_title": "CGSN-1339-52-03",
+        "sku": "CG-CGSN-1339-03"
+      },
+      "gid://shopify/ProductVariant/67667223281918": {
+        "qty": 17,
+        "product_title": "CGSN-1340-55-04",
+        "sku": "CG-CGSN-1340-04"
+      },
+      "gid://shopify/ProductVariant/67667223314686": {
+        "qty": 50,
+        "product_title": "CGSN-1342-56-01",
+        "sku": "CG-CGSN-1342-01"
+      },
+      "gid://shopify/ProductVariant/67667223412990": {
+        "qty": 50,
+        "product_title": "CGSN-1342-56-02",
+        "sku": "CG-CGSN-1342-02"
+      },
+      "gid://shopify/ProductVariant/67667223478526": {
+        "qty": 23,
+        "product_title": "CGSN-1342-56-03",
+        "sku": "CG-CGSN-1342-03"
+      },
+      "gid://shopify/ProductVariant/67667223511294": {
+        "qty": 27,
+        "product_title": "CGSN-1347-57-01",
+        "sku": "CG-CGSN-1347-01"
+      },
+      "gid://shopify/ProductVariant/67667223576830": {
+        "qty": 12,
+        "product_title": "CGSN-1347-57-02",
+        "sku": "CG-CGSN-1347-02"
+      },
+      "gid://shopify/ProductVariant/67667223642366": {
+        "qty": 28,
+        "product_title": "CGSN-1347-57-03",
+        "sku": "CG-CGSN-1347-03"
+      },
+      "gid://shopify/ProductVariant/67667223707902": {
+        "qty": 29,
+        "product_title": "CGSN-1349-54-02",
+        "sku": "CG-CGSN-1349-02"
+      },
+      "gid://shopify/ProductVariant/67667223937278": {
+        "qty": 22,
+        "product_title": "CGSN-1350-56-05",
+        "sku": "CG-CGSN-1350-05"
+      },
+      "gid://shopify/ProductVariant/67667224068350": {
+        "qty": 21,
+        "product_title": "CGSN-1350-53-12",
+        "sku": "CG-CGSN-1350-12"
+      },
+      "gid://shopify/ProductVariant/67667224101118": {
+        "qty": 29,
+        "product_title": "CGSN-1350-53-13",
+        "sku": "CG-CGSN-1350-13"
+      },
+      "gid://shopify/ProductVariant/67667224199422": {
+        "qty": 15,
+        "product_title": "CGSN-1351-55-06",
+        "sku": "CG-CGSN-1351-06"
+      },
+      "gid://shopify/ProductVariant/67667224264958": {
+        "qty": 38,
+        "product_title": "CGSN-1352-55-04",
+        "sku": "CG-CGSN-1352-04"
+      },
+      "gid://shopify/ProductVariant/67667224330494": {
+        "qty": 24,
+        "product_title": "CGSN-1353-56-01",
+        "sku": "CG-CGSN-1353-01"
+      },
+      "gid://shopify/ProductVariant/67667224363262": {
+        "qty": 29,
+        "product_title": "CGSN-1353-56-02",
+        "sku": "CG-CGSN-1353-02"
+      },
+      "gid://shopify/ProductVariant/67667224690942": {
+        "qty": 29,
+        "product_title": "CGSN-1355-53-05",
+        "sku": "CG-CGSN-1355-05"
+      },
+      "gid://shopify/ProductVariant/67667224723710": {
+        "qty": 28,
+        "product_title": "CGSN-1357-54-01",
+        "sku": "CG-CGSN-1357-01"
+      },
+      "gid://shopify/ProductVariant/67667224854782": {
+        "qty": 28,
+        "product_title": "CGSN-1359-56-01",
+        "sku": "CG-CGSN-1359-01"
+      },
+      "gid://shopify/ProductVariant/67667224920318": {
+        "qty": 10,
+        "product_title": "CGSN-1359-56-02",
+        "sku": "CG-CGSN-1359-02"
+      },
+      "gid://shopify/ProductVariant/67667225051390": {
+        "qty": 27,
+        "product_title": "CGSN-1359-56-03",
+        "sku": "CG-CGSN-1359-03"
+      },
+      "gid://shopify/ProductVariant/67667225149694": {
+        "qty": 10,
+        "product_title": "CGSN-1363-54-02",
+        "sku": "CG-CGSN-1363-02"
+      },
+      "gid://shopify/ProductVariant/67667225215230": {
+        "qty": 30,
+        "product_title": "CGSN-1367-55-01",
+        "sku": "CG-CGSN-1367-01"
+      },
+      "gid://shopify/ProductVariant/67667225247998": {
+        "qty": 23,
+        "product_title": "CGSN-1367-55-02",
+        "sku": "CG-CGSN-1367-02"
+      },
+      "gid://shopify/ProductVariant/67667225280766": {
+        "qty": 16,
+        "product_title": "CGSN-1367-55-04",
+        "sku": "CG-CGSN-1367-04"
+      },
+      "gid://shopify/ProductVariant/67667225379070": {
+        "qty": 30,
+        "product_title": "CGSN-1368-53-01",
+        "sku": "CG-CGSN-1368-01"
+      },
+      "gid://shopify/ProductVariant/67667225444606": {
+        "qty": 15,
+        "product_title": "CGSN-1368-53-02",
+        "sku": "CG-CGSN-1368-02"
+      },
+      "gid://shopify/ProductVariant/67667225477374": {
+        "qty": 4,
+        "product_title": "CGSN-1368-53-03",
+        "sku": "CG-CGSN-1368-03"
+      },
+      "gid://shopify/ProductVariant/67667225542910": {
+        "qty": 30,
+        "product_title": "CGSN-1368-53-04",
+        "sku": "CG-CGSN-1368-04"
+      },
+      "gid://shopify/ProductVariant/67667225608446": {
+        "qty": 38,
+        "product_title": "CGSN-1369-54-04",
+        "sku": "CG-CGSN-1369-04"
+      },
+      "gid://shopify/ProductVariant/67667225673982": {
+        "qty": 30,
+        "product_title": "CGSN-1369-54-05",
+        "sku": "CG-CGSN-1369-05"
+      },
+      "gid://shopify/ProductVariant/67667225706750": {
+        "qty": 13,
+        "product_title": "CGSN-1371-53-01",
+        "sku": "CG-CGSN-1371-01"
+      },
+      "gid://shopify/ProductVariant/67667225739518": {
+        "qty": 29,
+        "product_title": "CGSN-1371-53-02",
+        "sku": "CG-CGSN-1371-02"
+      },
+      "gid://shopify/ProductVariant/67667225870590": {
+        "qty": 17,
+        "product_title": "CGSN-1371-53-03",
+        "sku": "CG-CGSN-1371-03"
+      },
+      "gid://shopify/ProductVariant/67667225936126": {
+        "qty": 17,
+        "product_title": "CGSN-1371-53-04",
+        "sku": "CG-CGSN-1371-04"
+      },
+      "gid://shopify/ProductVariant/67667226034430": {
+        "qty": 30,
+        "product_title": "CGSN-1374-49-01",
+        "sku": "CG-CGSN-1374-01"
+      },
+      "gid://shopify/ProductVariant/67667226099966": {
+        "qty": 29,
+        "product_title": "CGSN-1374-49-02",
+        "sku": "CG-CGSN-1374-02"
+      },
+      "gid://shopify/ProductVariant/67667226198270": {
+        "qty": 20,
+        "product_title": "CGSN-1374-49-03",
+        "sku": "CG-CGSN-1374-03"
+      },
+      "gid://shopify/ProductVariant/67667226231038": {
+        "qty": 49,
+        "product_title": "CGSN-1375-56-03",
+        "sku": "CG-CGSN-1375-03"
+      },
+      "gid://shopify/ProductVariant/67667226263806": {
+        "qty": 29,
+        "product_title": "CGSN-1376-59-01",
+        "sku": "CG-CGSN-1376-01"
+      },
+      "gid://shopify/ProductVariant/67667226362110": {
+        "qty": 25,
+        "product_title": "CGSN-1376-59-02",
+        "sku": "CG-CGSN-1376-02"
+      },
+      "gid://shopify/ProductVariant/67667226427646": {
+        "qty": 50,
+        "product_title": "CGSN-1376-59-03",
+        "sku": "CG-CGSN-1376-03"
+      },
+      "gid://shopify/ProductVariant/67667226460414": {
+        "qty": 28,
+        "product_title": "CGSN-1377-52-03",
+        "sku": "CG-CGSN-1377-03"
+      },
+      "gid://shopify/ProductVariant/67667226493182": {
+        "qty": 21,
+        "product_title": "CGSN-1377-52-04",
+        "sku": "CG-CGSN-1377-04"
+      },
+      "gid://shopify/ProductVariant/67667226624254": {
+        "qty": 2,
+        "product_title": "CGSN-1377-52-06",
+        "sku": "CG-CGSN-1377-06"
+      },
+      "gid://shopify/ProductVariant/67667226689790": {
+        "qty": 29,
+        "product_title": "CGSN-1407-55-B1",
+        "sku": "CG-CGSN-1407-B1"
+      },
+      "gid://shopify/ProductVariant/67667226755326": {
+        "qty": 30,
+        "product_title": "CGSN-1408-51-A9",
+        "sku": "CG-CGSN-1408-A9"
+      },
+      "gid://shopify/ProductVariant/67667226788094": {
+        "qty": 15,
+        "product_title": "CGSN-1408-51-B1",
+        "sku": "CG-CGSN-1408-B1"
+      },
+      "gid://shopify/ProductVariant/67667226886398": {
+        "qty": 30,
+        "product_title": "CGSN-9101-53-04",
+        "sku": "CG-CGSN-9101-04"
+      },
+      "gid://shopify/ProductVariant/67667226951934": {
+        "qty": 23,
+        "product_title": "CGSN-9126-48-A9",
+        "sku": "CG-CGSN-9126-A9"
+      },
+      "gid://shopify/ProductVariant/67667226984702": {
+        "qty": 26,
+        "product_title": "CGSN-9126-48-B1",
+        "sku": "CG-CGSN-9126-B1"
+      },
+      "gid://shopify/ProductVariant/67667227083006": {
+        "qty": 15,
+        "product_title": "CGSN-9797-52-A8",
+        "sku": "CG-CGSN-9797-A8"
+      },
+      "gid://shopify/ProductVariant/67667227148542": {
+        "qty": 50,
+        "product_title": "CGSN-9926-50-A5",
+        "sku": "CG-CGSN-9926-A5"
       }
     }
   }
