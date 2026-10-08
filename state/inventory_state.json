@@ -34421,13 +34421,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-08T07:41:12.492758+00:00",
+    "updated_at": "2026-10-08T14:57:00.952527+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 80630,
+        "total_qty": 80320,
         "sku_count": 11472,
         "product_count": 11472
       },
@@ -34435,15 +34435,15 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 80630,
-        "sku_count": 4399,
-        "product_count": 4399
+        "total_qty": 80320,
+        "sku_count": 4381,
+        "product_count": 4381
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 21436,
+        "total_qty": 21373,
         "sku_count": 2575,
         "product_count": 2575
       },
@@ -34451,7 +34451,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 1017,
+        "total_qty": 1004,
         "sku_count": 924,
         "product_count": 924
       },
@@ -34459,9 +34459,9 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 55894,
-        "sku_count": 2186,
-        "product_count": 2186
+        "total_qty": 55813,
+        "sku_count": 2183,
+        "product_count": 2183
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -34475,39 +34475,39 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 80630,
-        "sku_count": 3428,
-        "product_count": 3428
+        "total_qty": 80320,
+        "sku_count": 3408,
+        "product_count": 3408
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 80235,
-        "sku_count": 3033,
-        "product_count": 3033
+        "total_qty": 79927,
+        "sku_count": 3015,
+        "product_count": 3015
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 8589,
-        "sku_count": 771,
-        "product_count": 771
+        "total_qty": 8584,
+        "sku_count": 770,
+        "product_count": 770
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 8589,
-        "sku_count": 771,
-        "product_count": 771
+        "total_qty": 8584,
+        "sku_count": 770,
+        "product_count": 770
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 2898,
+        "total_qty": 2897,
         "sku_count": 383,
         "product_count": 383
       },
@@ -34539,7 +34539,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 18762,
+        "total_qty": 18749,
         "sku_count": 485,
         "product_count": 485
       },
@@ -34571,9 +34571,9 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 15161,
-        "sku_count": 1234,
-        "product_count": 1234
+        "total_qty": 14932,
+        "sku_count": 1217,
+        "product_count": 1217
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -34587,9 +34587,9 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 4717,
-        "sku_count": 427,
-        "product_count": 427
+        "total_qty": 4581,
+        "sku_count": 415,
+        "product_count": 415
       },
       "gid://shopify/Collection/391774109950": {
         "title": "DRAGON",
@@ -34611,9 +34611,9 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 7881,
-        "sku_count": 613,
-        "product_count": 613
+        "total_qty": 7842,
+        "sku_count": 608,
+        "product_count": 608
       },
       "gid://shopify/Collection/391853998334": {
         "title": "Men's",
@@ -34627,7 +34627,7 @@
         "title": "LACOSTE",
         "handle": "lacoste",
         "legacy_id": "393068577022",
-        "total_qty": 970,
+        "total_qty": 932,
         "sku_count": 130,
         "product_count": 130
       },
@@ -34635,7 +34635,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2633,
+        "total_qty": 2577,
         "sku_count": 199,
         "product_count": 199
       },
@@ -34643,9 +34643,9 @@
         "title": "NIKE",
         "handle": "nike",
         "legacy_id": "391775125758",
-        "total_qty": 332,
-        "sku_count": 50,
-        "product_count": 50
+        "total_qty": 321,
+        "sku_count": 49,
+        "product_count": 49
       },
       "gid://shopify/Collection/395955470590": {
         "title": "ALEXANDER MCQUEEN",
@@ -34675,9 +34675,9 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1504,
-        "sku_count": 90,
-        "product_count": 90
+        "total_qty": 1306,
+        "sku_count": 77,
+        "product_count": 77
       },
       "gid://shopify/Collection/400740516094": {
         "title": "SPY",
@@ -34747,9 +34747,9 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 467,
-        "sku_count": 81,
-        "product_count": 81
+        "total_qty": 455,
+        "sku_count": 80,
+        "product_count": 80
       },
       "gid://shopify/Collection/455407829246": {
         "title": "Uniisex Eyeglasses",
@@ -34787,7 +34787,7 @@
         "title": "MARC JACOBS",
         "handle": "marc-jacobs",
         "legacy_id": "391774732542",
-        "total_qty": 235,
+        "total_qty": 233,
         "sku_count": 45,
         "product_count": 45
       },
@@ -34819,7 +34819,7 @@
         "title": "KARL LAGERFELD",
         "handle": "karl-lagerfeld",
         "legacy_id": "422907576574",
-        "total_qty": 368,
+        "total_qty": 365,
         "sku_count": 44,
         "product_count": 44
       },
@@ -34899,7 +34899,7 @@
         "title": "VALENTINO",
         "handle": "valentino",
         "legacy_id": "462679113982",
-        "total_qty": 70,
+        "total_qty": 69,
         "sku_count": 15,
         "product_count": 15
       },
@@ -34915,9 +34915,9 @@
         "title": "MISSONI",
         "handle": "missoni",
         "legacy_id": "408673911038",
-        "total_qty": 726,
-        "sku_count": 62,
-        "product_count": 62
+        "total_qty": 722,
+        "sku_count": 61,
+        "product_count": 61
       },
       "gid://shopify/Collection/466217926910": {
         "title": "LIGHTEC-MOREL",
@@ -34931,7 +34931,7 @@
         "title": "CALVIN KLEIN",
         "handle": "calvin-klein",
         "legacy_id": "393476997374",
-        "total_qty": 300,
+        "total_qty": 287,
         "sku_count": 54,
         "product_count": 54
       },
@@ -34939,7 +34939,7 @@
         "title": "CALVIN KLEIN JEANS",
         "handle": "calvin-klein-jeans",
         "legacy_id": "464057172222",
-        "total_qty": 397,
+        "total_qty": 391,
         "sku_count": 53,
         "product_count": 53
       },
@@ -35219,17 +35219,17 @@
         "title": "JAGUAR",
         "handle": "jaguar",
         "legacy_id": "475760034046",
-        "total_qty": 1952,
-        "sku_count": 178,
-        "product_count": 178
+        "total_qty": 1943,
+        "sku_count": 177,
+        "product_count": 177
       },
       "gid://shopify/Collection/476032958718": {
         "title": "LONGCHAMP",
         "handle": "longchamp",
         "legacy_id": "476032958718",
-        "total_qty": 817,
-        "sku_count": 56,
-        "product_count": 56
+        "total_qty": 808,
+        "sku_count": 52,
+        "product_count": 52
       },
       "gid://shopify/Collection/476563603710": {
         "title": "CHARRIOL",
@@ -35355,15 +35355,15 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 3721,
-        "sku_count": 411,
-        "product_count": 411
+        "total_qty": 3644,
+        "sku_count": 407,
+        "product_count": 407
       },
       "gid://shopify/Collection/487431995646": {
         "title": "CANADA GOOSE",
         "handle": "canada-goose",
         "legacy_id": "487431995646",
-        "total_qty": 280,
+        "total_qty": 275,
         "sku_count": 17,
         "product_count": 17
       },
@@ -44110,7 +44110,7 @@
         "sku": "CARRERA-1045/S-02M2/HA"
       },
       "gid://shopify/ProductVariant/45539350315262": {
-        "qty": 143,
+        "qty": 137,
         "product_title": "CARDUC-003-S-008A-T4",
         "sku": "CARRERA CARDUC 003/S 008A/T4"
       },
@@ -44120,7 +44120,7 @@
         "sku": "CARRERA FLAGLAB 13 0003/IR"
       },
       "gid://shopify/ProductVariant/45539350642942": {
-        "qty": 130,
+        "qty": 125,
         "product_title": "FLAGLAB-13-0086-HA",
         "sku": "CARRERA-FLAGLAB-13-0086/HA"
       },
@@ -44195,7 +44195,7 @@
         "sku": "CH-0025/S OLHF/3X"
       },
       "gid://shopify/ProductVariant/45606140641534": {
-        "qty": 64,
+        "qty": 59,
         "product_title": "CARDUC-003-S-00A4-UZ",
         "sku": "CARRERA-CARDUC-003/S-00A4/UZ"
       },
@@ -44205,22 +44205,22 @@
         "sku": "CARRERA-CARDUC-012/S-0003/UC"
       },
       "gid://shopify/ProductVariant/45606140969214": {
-        "qty": 32,
+        "qty": 29,
         "product_title": "CARDUC-012-S-00A4-UZ",
         "sku": "CARRERA-CARDUC-012/S-00A4/UZ"
       },
       "gid://shopify/ProductVariant/45606141067518": {
-        "qty": 44,
+        "qty": 41,
         "product_title": "CARDUC-012-S-0807-IR",
         "sku": "CARDUC-012/S-0807/IR"
       },
       "gid://shopify/ProductVariant/45606141198590": {
-        "qty": 68,
+        "qty": 65,
         "product_title": "CARDUC-012-S-0OIT-UZ",
         "sku": "CARRERA-CARDUC-012/S-0OIT/UZ"
       },
       "gid://shopify/ProductVariant/45606141264126": {
-        "qty": 89,
+        "qty": 86,
         "product_title": "FLAGLAB-13-040G-9O",
         "sku": "CARRERA-FLAGLAB-13-040G/9O"
       },
@@ -44230,12 +44230,12 @@
         "sku": "CARRERA-FLAGLAB-13-0B3V/9O"
       },
       "gid://shopify/ProductVariant/45606141591806": {
-        "qty": 69,
+        "qty": 66,
         "product_title": "FLAGLAB-13-0C9A-9O",
         "sku": "CARRERA-FLAGLAB-13-0C9A/9O"
       },
       "gid://shopify/ProductVariant/45606141657342": {
-        "qty": 70,
+        "qty": 65,
         "product_title": "FLAGLAB-13-0VK6-9O",
         "sku": "CARRERA-FLAGLAB-13-0VK6/9O"
       },
@@ -44295,7 +44295,7 @@
         "sku": "CH-0141/S 0BJS/HA"
       },
       "gid://shopify/ProductVariant/45606144377086": {
-        "qty": 24,
+        "qty": 18,
         "product_title": "8046-S-0N9P-70",
         "sku": "CARRERA-8046/S-0N9P/70"
       },
@@ -44310,22 +44310,22 @@
         "sku": "CARRERA-FLAGLAB-14-03R7/9O"
       },
       "gid://shopify/ProductVariant/45606163284222": {
-        "qty": 32,
+        "qty": 29,
         "product_title": "FLAGLAB-13-0PJP-9O",
         "sku": "CARRERA FLAGLAB 13 0PJP/9O"
       },
       "gid://shopify/ProductVariant/45606163382526": {
-        "qty": 23,
+        "qty": 15,
         "product_title": "22-N-080S-9O",
         "sku": "CARRERA-22/N-080S/9O"
       },
       "gid://shopify/ProductVariant/45606163742974": {
-        "qty": 72,
+        "qty": 70,
         "product_title": "CARDUC-006-S-0OIT-AO",
         "sku": "CARRERA CARDUC 006/S 0OIT/AO"
       },
       "gid://shopify/ProductVariant/45606164857086": {
-        "qty": 55,
+        "qty": 51,
         "product_title": "CARDUC-012-S-008A-T4",
         "sku": "CARRERA-CARDUC-012-S-008A-T4"
       },
@@ -46760,12 +46760,12 @@
         "sku": "KS-ZAHRA-0807-53"
       },
       "gid://shopify/ProductVariant/45939293978878": {
-        "qty": 23,
+        "qty": 17,
         "product_title": "8060-S-0807-HA",
         "sku": "CARRERA-8060/S-0807/HA"
       },
       "gid://shopify/ProductVariant/45939294273790": {
-        "qty": 8,
+        "qty": 2,
         "product_title": "172/N/S-0807/HA",
         "sku": "CARRERA-172/N/S-0807/HA"
       },
@@ -53310,7 +53310,7 @@
         "sku": "MISSONI-MIS-0107/S-0X19/3X"
       },
       "gid://shopify/ProductVariant/46646963306750": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "MIS-0107/S-0Z9K/HA",
         "sku": "MISSONI-MIS-0107/S-0Z9K/HA"
       },
@@ -55540,27 +55540,27 @@
         "sku": "CARRERA-314/S-0807/Q3"
       },
       "gid://shopify/ProductVariant/46685862101246": {
-        "qty": 26,
+        "qty": 23,
         "product_title": "8054/S-0PJP/UZ",
         "sku": "CARRERA-8054/S-0PJP/UZ"
       },
       "gid://shopify/ProductVariant/46685862134014": {
-        "qty": 15,
+        "qty": 12,
         "product_title": "8058/S-0KB7/Z9",
         "sku": "CARRERA-8058/S-0KB7/Z9"
       },
       "gid://shopify/ProductVariant/46685864526078": {
-        "qty": 24,
+        "qty": 21,
         "product_title": "8058/S-0PJP/UW",
         "sku": "CARRERA-8058/S-0PJP/UW"
       },
       "gid://shopify/ProductVariant/46685864591614": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "8059/S-03U5/T4",
         "sku": "CARRERA-8059/S-03U5/T4"
       },
       "gid://shopify/ProductVariant/46685864624382": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "8059/S-0RTC/UZ",
         "sku": "CARRERA-8059/S-0RTC/UZ"
       },
@@ -58155,12 +58155,12 @@
         "sku": "GUCCI-GG1679S-002"
       },
       "gid://shopify/ProductVariant/47056115073278": {
-        "qty": 40,
+        "qty": 37,
         "product_title": "8056/S-0KB7/T4",
         "sku": "CARRERA 8056/S 0KB7/T4"
       },
       "gid://shopify/ProductVariant/47056115138814": {
-        "qty": 37,
+        "qty": 34,
         "product_title": "8056/S-0PJP/UZ",
         "sku": "CARRERA-8056/S-0PJP/UZ"
       },
@@ -61345,7 +61345,7 @@
         "sku": "MISSONI-MIS-0168/G/S-0MOI/GA"
       },
       "gid://shopify/ProductVariant/47173788991742": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "MIS-0170/S-0JR9/9O",
         "sku": "MISSONI-MIS-0170/S-0JR9/9O"
       },
@@ -63380,7 +63380,7 @@
         "sku": "VERSACE-VE4405-GB1/87"
       },
       "gid://shopify/ProductVariant/47377630757118": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "3021-1ED-52",
         "sku": "CARRERA-3021-1ED-52"
       },
@@ -68070,7 +68070,7 @@
         "sku": "CARRERA-3033-807-54"
       },
       "gid://shopify/ProductVariant/47577488490750": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "308-086-53",
         "sku": "CARRERA-308-086-53"
       },
@@ -68695,7 +68695,7 @@
         "sku": "JAGUAR-JG31711-5140-47"
       },
       "gid://shopify/ProductVariant/47589022302462": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "JG32501-3100-56",
         "sku": "JAGUAR-JG32501-3100-56"
       },
@@ -68820,7 +68820,7 @@
         "sku": "JAGUAR-JG37509-3100"
       },
       "gid://shopify/ProductVariant/47589023711486": {
-        "qty": 18,
+        "qty": 17,
         "product_title": "JG37509-6100",
         "sku": "JAGUAR-JG37509-6100"
       },
@@ -68860,7 +68860,7 @@
         "sku": "JAGUAR-JG37622-6500"
       },
       "gid://shopify/ProductVariant/47589024137470": {
-        "qty": 18,
+        "qty": 17,
         "product_title": "JG37623-3100",
         "sku": "JAGUAR-JG37623-3100"
       },
@@ -68870,7 +68870,7 @@
         "sku": "JAGUAR-JG37623-5100"
       },
       "gid://shopify/ProductVariant/47589024268542": {
-        "qty": 24,
+        "qty": 23,
         "product_title": "JG37623-6100",
         "sku": "JAGUAR-JG37623-6100"
       },
@@ -68885,12 +68885,12 @@
         "sku": "JAGUAR-JG37626-6100"
       },
       "gid://shopify/ProductVariant/47589024497918": {
-        "qty": 17,
+        "qty": 16,
         "product_title": "JG37626-6500",
         "sku": "JAGUAR-JG37626-6500"
       },
       "gid://shopify/ProductVariant/47589024530686": {
-        "qty": 13,
+        "qty": 12,
         "product_title": "JG37823-4200",
         "sku": "JAGUAR-JG37823-4200"
       },
@@ -72235,7 +72235,7 @@
         "sku": "CARRERA-292-086-53"
       },
       "gid://shopify/ProductVariant/47749749440766": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "292-807-53",
         "sku": "CARRERA-292-807-53"
       },
@@ -73990,7 +73990,7 @@
         "sku": "VALENTINO-V-GOLD-I-VLS-162C-51"
       },
       "gid://shopify/ProductVariant/47769427476734": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "V-GOLD-III-VLS-138B-53",
         "sku": "VALENTINO-V-GOLD-III-VLS-138B-53"
       },
@@ -77305,7 +77305,7 @@
         "sku": "KS-TAYA-B3V-52"
       },
       "gid://shopify/ProductVariant/48011978703102": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "WINSLET/G/S-807/9O",
         "sku": "KS-WINSLET/G/S-807/9O"
       },
@@ -79100,7 +79100,7 @@
         "sku": "CARRERA-328/S-FWM/QT"
       },
       "gid://shopify/ProductVariant/48121211781374": {
-        "qty": 18,
+        "qty": 14,
         "product_title": "329/S-WR7/9O",
         "sku": "CARRERA-329/S-WR7/9O"
       },
@@ -79515,7 +79515,7 @@
         "sku": "KS-SERAPHINA/G/S-086/HA"
       },
       "gid://shopify/ProductVariant/48121214927102": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "SERAPHINA/G/S-C9A/3X",
         "sku": "KS-SERAPHINA/G/S-C9A/3X"
       },
@@ -80765,7 +80765,7 @@
         "sku": "LONGCHAMP-LO687S-214"
       },
       "gid://shopify/ProductVariant/48175301558526": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "LO727S-239",
         "sku": "LONGCHAMP-LO727S-239"
       },
@@ -83505,7 +83505,7 @@
         "sku": "CARRERA-CARDUC-044/S-R6S/XT"
       },
       "gid://shopify/ProductVariant/48336089153790": {
-        "qty": 14,
+        "qty": 9,
         "product_title": "CARDUC-051/S-268/Z0",
         "sku": "CARRERA-CARDUC-051/S-268/Z0"
       },
@@ -86285,7 +86285,7 @@
         "sku": "CG-GC25501SE-410"
       },
       "gid://shopify/ProductVariant/48629790081278": {
-        "qty": 17,
+        "qty": 16,
         "product_title": "GC25502SE-424",
         "sku": "CG-GC25502SE-424"
       },
@@ -86330,7 +86330,7 @@
         "sku": "CG-GC25603SLB-317"
       },
       "gid://shopify/ProductVariant/48629791129854": {
-        "qty": 18,
+        "qty": 17,
         "product_title": "GC25604S-330",
         "sku": "CG-GC25604S-330"
       },
@@ -86360,7 +86360,7 @@
         "sku": "CG-GC25625S-SID-318"
       },
       "gid://shopify/ProductVariant/48629791391998": {
-        "qty": 8,
+        "qty": 6,
         "product_title": "GC25625S-SID-424",
         "sku": "CG-GC25625S-SID-424"
       },
@@ -86375,7 +86375,7 @@
         "sku": "CG-GC25626S-SID-002"
       },
       "gid://shopify/ProductVariant/48629791555838": {
-        "qty": 20,
+        "qty": 19,
         "product_title": "GC25626S-SID-022",
         "sku": "CG-GC25626S-SID-022"
       },
@@ -86810,7 +86810,7 @@
         "sku": "LONGCHAMP-LO779S-N-234"
       },
       "gid://shopify/ProductVariant/48637353820414": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "LO793S-200",
         "sku": "LONGCHAMP-LO793S-200"
       },
@@ -86880,7 +86880,7 @@
         "sku": "CARRERA-152/S-RHL/9K"
       },
       "gid://shopify/ProductVariant/48648014921982": {
-        "qty": 5,
+        "qty": 0,
         "product_title": "298/S-003/UC",
         "sku": "CARRERA-298/S-003/UC"
       },
@@ -86895,7 +86895,7 @@
         "sku": "CARRERA-305/S-807/M9"
       },
       "gid://shopify/ProductVariant/48648015118590": {
-        "qty": 3,
+        "qty": 0,
         "product_title": "316/S-0EX4/9O",
         "sku": "CARRERA-316/S-0EX4/9O"
       },
@@ -86925,12 +86925,12 @@
         "sku": "CARRERA-8036/S-R80/M9"
       },
       "gid://shopify/ProductVariant/48648015413502": {
-        "qty": 3,
+        "qty": 0,
         "product_title": "8039/S-003/IR",
         "sku": "CARRERA-8039/S-003/IR"
       },
       "gid://shopify/ProductVariant/48648015446270": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "8040/S-807/XT",
         "sku": "CARRERA-8040/S-807/XT"
       },
@@ -86945,7 +86945,7 @@
         "sku": "CARRERA-CA-298/S/US-003/UC"
       },
       "gid://shopify/ProductVariant/48648015675646": {
-        "qty": 2,
+        "qty": 0,
         "product_title": "CA-298/S/US-807/IR",
         "sku": "CARRERA-CA-298/S/US-807/IR"
       },
@@ -86955,12 +86955,12 @@
         "sku": "CARRERA-CARDUC-022/S-V81/H4"
       },
       "gid://shopify/ProductVariant/48648015741182": {
-        "qty": 9,
+        "qty": 7,
         "product_title": "CARDUC-036/S-003/UZ",
         "sku": "CARRERA-CARDUC-036/S-003/UZ"
       },
       "gid://shopify/ProductVariant/48648015872254": {
-        "qty": 15,
+        "qty": 12,
         "product_title": "CARDUC-044/S-807/IR",
         "sku": "CARRERA-CARDUC-044/S-807/IR"
       },
@@ -86975,7 +86975,7 @@
         "sku": "CARRERA-C-FLEX-08/G/S-807/UC"
       },
       "gid://shopify/ProductVariant/48648015970558": {
-        "qty": 3,
+        "qty": 0,
         "product_title": "C-FLEX-08/G/S-EX4/SP",
         "sku": "CARRERA-C-FLEX-08/G/S-EX4/SP"
       },
@@ -87100,7 +87100,7 @@
         "sku": "MJ-MJ-1110/S-086/HA"
       },
       "gid://shopify/ProductVariant/48648017281278": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "MJ-1120/S-PJP/9O",
         "sku": "MJ-MJ-1120/S-PJP/9O"
       },
@@ -87175,7 +87175,7 @@
         "sku": "CARRERA-4413-BLX-55"
       },
       "gid://shopify/ProductVariant/48648025112830": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "8888-003-58",
         "sku": "CARRERA-8888-003-58"
       },
@@ -87755,7 +87755,7 @@
         "sku": "CARRERA-2031T/S-0J5G/QT"
       },
       "gid://shopify/ProductVariant/48683728077054": {
-        "qty": 7,
+        "qty": 1,
         "product_title": "231/S-807/IR",
         "sku": "CARRERA-231/S-807/IR"
       },
@@ -87765,17 +87765,17 @@
         "sku": "CARRERA-298/S-807/IR"
       },
       "gid://shopify/ProductVariant/48683728142590": {
-        "qty": 2,
+        "qty": 0,
         "product_title": "3001/S-KB7/HA",
         "sku": "CARRERA-3001/S-KB7/HA"
       },
       "gid://shopify/ProductVariant/48683728175358": {
-        "qty": 10,
+        "qty": 7,
         "product_title": "3005/S-06J/LA",
         "sku": "CARRERA-3005/S-06J/LA"
       },
       "gid://shopify/ProductVariant/48683728208126": {
-        "qty": 6,
+        "qty": 0,
         "product_title": "3005/S-LKS/GB",
         "sku": "CARRERA-3005/S-LKS/GB"
       },
@@ -87790,7 +87790,7 @@
         "sku": "CARRERA-3014/S-JBW/9O"
       },
       "gid://shopify/ProductVariant/48683728306430": {
-        "qty": 24,
+        "qty": 21,
         "product_title": "3016/S-EX4/HA",
         "sku": "CARRERA-3016/S-EX4/HA"
       },
@@ -87805,22 +87805,22 @@
         "sku": "CARRERA-3030/S-AHF/9O"
       },
       "gid://shopify/ProductVariant/48683728437502": {
-        "qty": 2,
+        "qty": 0,
         "product_title": "3043/S-AHF/WJ",
         "sku": "CARRERA-3043/S-AHF/WJ"
       },
       "gid://shopify/ProductVariant/48683728470270": {
-        "qty": 7,
+        "qty": 3,
         "product_title": "328/S-WR7/IR",
         "sku": "CARRERA-328/S-WR7/IR"
       },
       "gid://shopify/ProductVariant/48683728503038": {
-        "qty": 14,
+        "qty": 11,
         "product_title": "359/S-KB7/FQ",
         "sku": "CARRERA-359/S-KB7/FQ"
       },
       "gid://shopify/ProductVariant/48683728535806": {
-        "qty": 16,
+        "qty": 13,
         "product_title": "4017/S-003/IR",
         "sku": "CARRERA-4017/S-003/IR"
       },
@@ -87830,32 +87830,32 @@
         "sku": "CARRERA-4017/S-807/9O"
       },
       "gid://shopify/ProductVariant/48683728601342": {
-        "qty": 9,
+        "qty": 0,
         "product_title": "8046/S-807/IR",
         "sku": "CARRERA-8046/S-807/IR"
       },
       "gid://shopify/ProductVariant/48683728666878": {
-        "qty": 23,
+        "qty": 17,
         "product_title": "8059/S-0D51/Z0",
         "sku": "CARRERA-8059/S-0D51/Z0"
       },
       "gid://shopify/ProductVariant/48683728699646": {
-        "qty": 14,
+        "qty": 8,
         "product_title": "8060/S-003/IR",
         "sku": "CARRERA-8060/S-003/IR"
       },
       "gid://shopify/ProductVariant/48683728765182": {
-        "qty": 17,
+        "qty": 15,
         "product_title": "CA-300/S/US-PJP/XT",
         "sku": "CARRERA-CA-300/S/US-PJP/XT"
       },
       "gid://shopify/ProductVariant/48683728797950": {
-        "qty": 9,
+        "qty": 7,
         "product_title": "CA-301/S/US-PJP/XT",
         "sku": "CARRERA-CA-301/S/US-PJP/XT"
       },
       "gid://shopify/ProductVariant/48683728830718": {
-        "qty": 6,
+        "qty": 4,
         "product_title": "CARDUC-036/S-807/IR",
         "sku": "CARRERA-CARDUC-036/S-807/IR"
       },
@@ -87950,7 +87950,7 @@
         "sku": "KS-AUBRIELLA/G/S-2VM/LA"
       },
       "gid://shopify/ProductVariant/48683729682686": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "BEXLEY/G/S-PJP/9O",
         "sku": "KS-BEXLEY/G/S-PJP/9O"
       },
@@ -87960,7 +87960,7 @@
         "sku": "KS-CAPRI/G/S-4QX/9O"
       },
       "gid://shopify/ProductVariant/48683729944830": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "CONSTANCE/G/S-1ED/9O",
         "sku": "KS-CONSTANCE/G/S-1ED/9O"
       },
@@ -87985,7 +87985,7 @@
         "sku": "KS-DALIA2/S-94R/HA"
       },
       "gid://shopify/ProductVariant/48683730174206": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "DESI/F/S/US-807/9O",
         "sku": "KS-DESI/F/S/US-807/9O"
       },
@@ -88000,7 +88000,7 @@
         "sku": "KS-DESI/S-807/9O"
       },
       "gid://shopify/ProductVariant/48683730272510": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "DOMINICA/S-3H2/9O",
         "sku": "KS-DOMINICA/S-3H2/9O"
       },
@@ -88030,7 +88030,7 @@
         "sku": "KS-JANECE/G/S-3YG/GB"
       },
       "gid://shopify/ProductVariant/48683730501886": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "JAYDA/G/S-305/HA",
         "sku": "KS-JAYDA/G/S-305/HA"
       },
@@ -88045,12 +88045,12 @@
         "sku": "KS-JOSI/S-HMW/9O"
       },
       "gid://shopify/ProductVariant/48683730632958": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "JOSI/S-SK4/3X",
         "sku": "KS-JOSI/S-SK4/3X"
       },
       "gid://shopify/ProductVariant/48683730665726": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "KIYA2/G/S/US-086/HA",
         "sku": "KS-KIYA2/G/S/US-086/HA"
       },
@@ -88065,7 +88065,7 @@
         "sku": "KS-MELANIE/S-PJP/08"
       },
       "gid://shopify/ProductVariant/48683730764030": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "NAOMI/S-807/9O",
         "sku": "KS-NAOMI/S-807/9O"
       },
@@ -88075,12 +88075,12 @@
         "sku": "KS-NATHALIE/G/S/US-086/LA"
       },
       "gid://shopify/ProductVariant/48683730829566": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "NATHALIE/G/S/US-807/FF",
         "sku": "KS-NATHALIE/G/S/US-807/FF"
       },
       "gid://shopify/ProductVariant/48683730862334": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "NAVY/G/S-000/HA",
         "sku": "KS-NAVY/G/S-000/HA"
       },
@@ -88095,7 +88095,7 @@
         "sku": "MISSONI-MIS-0171/S-086/M2"
       },
       "gid://shopify/ProductVariant/48683730993406": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "MIS-0205/S-0T7/QR",
         "sku": "MISSONI-MIS-0205/S-0T7/QR"
       },
@@ -88725,7 +88725,7 @@
         "sku": "DIOR-DM40016U-01A"
       },
       "gid://shopify/ProductVariant/48772544004350": {
-        "qty": 15,
+        "qty": 9,
         "product_title": "1060/S-08A/IR",
         "sku": "CARRERA-1060/S-08A/IR"
       },
@@ -88745,12 +88745,12 @@
         "sku": "CARRERA-259/S-807/70"
       },
       "gid://shopify/ProductVariant/48772544168190": {
-        "qty": 16,
+        "qty": 13,
         "product_title": "3016/S-807/IR",
         "sku": "CARRERA-3016/S-807/IR"
       },
       "gid://shopify/ProductVariant/48772544200958": {
-        "qty": 21,
+        "qty": 14,
         "product_title": "8059/S-003/UC",
         "sku": "CARRERA-8059/S-003/UC"
       },
@@ -88760,7 +88760,7 @@
         "sku": "MISSONI-MIS-0197/S-09Q/08"
       },
       "gid://shopify/ProductVariant/48772544332030": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "MARC-658/S-10A/HA",
         "sku": "MJ-MARC-658/S-10A/HA"
       },
@@ -88790,7 +88790,7 @@
         "sku": "LONGCHAMP-LO158S-N-713"
       },
       "gid://shopify/ProductVariant/48840665628926": {
-        "qty": 31,
+        "qty": 30,
         "product_title": "LO158S-N-721",
         "sku": "LONGCHAMP-LO158S-N-721"
       },
@@ -89745,7 +89745,7 @@
         "sku": "JAGUAR-JG31030-4764-56"
       },
       "gid://shopify/ProductVariant/48963790700798": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "JG31031-5319-57",
         "sku": "JAGUAR-JG31031-5319-57"
       },
@@ -89780,7 +89780,7 @@
         "sku": "JAGUAR-JG32010-5223-57"
       },
       "gid://shopify/ProductVariant/48963791290622": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "JG32501-6500-56",
         "sku": "JAGUAR-JG32501-6500-56"
       },
@@ -89840,7 +89840,7 @@
         "sku": "JAGUAR-JG33125-4200-57"
       },
       "gid://shopify/ProductVariant/48963792077054": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "JG33125-5100-60",
         "sku": "JAGUAR-JG33125-5100-60"
       },
@@ -90790,7 +90790,7 @@
         "sku": "CK-CK23520-528-54"
       },
       "gid://shopify/ProductVariant/67613225877758": {
-        "qty": 5,
+        "qty": 2,
         "product_title": "CK23522-N-035-53",
         "sku": "CK-CK23522-N-035-53"
       },
@@ -90830,7 +90830,7 @@
         "sku": "CK-CK24110S-716"
       },
       "gid://shopify/ProductVariant/67613226303742": {
-        "qty": 5,
+        "qty": 2,
         "product_title": "CK24115-N-717-49",
         "sku": "CK-CK24115-N-717-49"
       },
@@ -90865,7 +90865,7 @@
         "sku": "CK-CK24522-N-539-50"
       },
       "gid://shopify/ProductVariant/67613226631422": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "CK24523-N-001-52",
         "sku": "CK-CK24523-N-001-52"
       },
@@ -90875,7 +90875,7 @@
         "sku": "CK-CK24537S-461"
       },
       "gid://shopify/ProductVariant/67613226729726": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "CK24542-001-54",
         "sku": "CK-CK24542-001-54"
       },
@@ -90900,12 +90900,12 @@
         "sku": "CK-CK24542-280-57"
       },
       "gid://shopify/ProductVariant/67613227024638": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "CK24542-434-57",
         "sku": "CK-CK24542-434-57"
       },
       "gid://shopify/ProductVariant/67613227057406": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "CK24542-N-001-54",
         "sku": "CK-CK24542-N-001-54"
       },
@@ -90915,7 +90915,7 @@
         "sku": "CK-CK24542-N-235-54"
       },
       "gid://shopify/ProductVariant/67613227155710": {
-        "qty": 4,
+        "qty": 1,
         "product_title": "CK24543-001-49",
         "sku": "CK-CK24543-001-49"
       },
@@ -90945,7 +90945,7 @@
         "sku": "CKJ-CKJ22622-N-001-51"
       },
       "gid://shopify/ProductVariant/67613227417854": {
-        "qty": 5,
+        "qty": 2,
         "product_title": "CKJ24619-300-53",
         "sku": "CKJ-CKJ24619-300-53"
       },
@@ -91335,7 +91335,7 @@
         "sku": "LACOSTE-L2316-770-53"
       },
       "gid://shopify/ProductVariant/67613234659582": {
-        "qty": 15,
+        "qty": 12,
         "product_title": "L2318-002-55",
         "sku": "LACOSTE-L2318-002-55"
       },
@@ -91400,7 +91400,7 @@
         "sku": "LACOSTE-L2886-N-401-55"
       },
       "gid://shopify/ProductVariant/67613235380478": {
-        "qty": 5,
+        "qty": 2,
         "product_title": "L2895-N-401-55",
         "sku": "LACOSTE-L2895-N-401-55"
       },
@@ -91490,7 +91490,7 @@
         "sku": "LACOSTE-L2975-601-54"
       },
       "gid://shopify/ProductVariant/67613236396286": {
-        "qty": 5,
+        "qty": 2,
         "product_title": "L2975-N-035-54",
         "sku": "LACOSTE-L2975-N-035-54"
       },
@@ -91505,7 +91505,7 @@
         "sku": "LACOSTE-L2976-N-410-55"
       },
       "gid://shopify/ProductVariant/67613236789502": {
-        "qty": 15,
+        "qty": 12,
         "product_title": "L2983-N-001-53",
         "sku": "LACOSTE-L2983-N-001-53"
       },
@@ -91545,32 +91545,32 @@
         "sku": "LACOSTE-L4004-410-56"
       },
       "gid://shopify/ProductVariant/67613237149950": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "LO742S-036",
         "sku": "LONGCHAMP-LO742S-036"
       },
       "gid://shopify/ProductVariant/67613237215486": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "LO780S-272",
         "sku": "LONGCHAMP-LO780S-272"
       },
       "gid://shopify/ProductVariant/67613237248254": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "LO780S-319",
         "sku": "LONGCHAMP-LO780S-319"
       },
       "gid://shopify/ProductVariant/67613237313790": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "LO780S-601",
         "sku": "LONGCHAMP-LO780S-601"
       },
       "gid://shopify/ProductVariant/67613237346558": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "LO780S-842",
         "sku": "LONGCHAMP-LO780S-842"
       },
       "gid://shopify/ProductVariant/67613237412094": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "LO780S-N-601",
         "sku": "LONGCHAMP-LO780S-N-601"
       },
@@ -91665,17 +91665,17 @@
         "sku": "NAUTICA-N8197-410-54"
       },
       "gid://shopify/ProductVariant/67613239116030": {
-        "qty": 4,
+        "qty": 1,
         "product_title": "4317-045-57",
         "sku": "NIKE-4317-045-57"
       },
       "gid://shopify/ProductVariant/67613239181566": {
-        "qty": 5,
+        "qty": 2,
         "product_title": "4317-076-55",
         "sku": "NIKE-4317-076-55"
       },
       "gid://shopify/ProductVariant/67613239279870": {
-        "qty": 2,
+        "qty": 0,
         "product_title": "6046-001-55",
         "sku": "NIKE-6046-001-55"
       },
@@ -91755,7 +91755,7 @@
         "sku": "NIKE-7291-302-56"
       },
       "gid://shopify/ProductVariant/67613240262910": {
-        "qty": 5,
+        "qty": 2,
         "product_title": "7309-21-54",
         "sku": "NIKE-7309-21-54"
       },
@@ -91995,7 +91995,7 @@
         "sku": "CARTIER-CT0501S-008"
       },
       "gid://shopify/ProductVariant/67641433391358": {
-        "qty": 10,
+        "qty": 7,
         "product_title": "CKJ24204-N-001-55",
         "sku": "CKJ-CKJ24204-N-001-55"
       },
@@ -92070,12 +92070,12 @@
         "sku": "KL-KL357-N-041-56"
       },
       "gid://shopify/ProductVariant/67641437815038": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "KL6130-013-52",
         "sku": "KL-KL6130-013-52"
       },
       "gid://shopify/ProductVariant/67641437913342": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "KL6130-309-52",
         "sku": "KL-KL6130-309-52"
       },
@@ -92095,7 +92095,7 @@
         "sku": "KL-KL6133-062-54"
       },
       "gid://shopify/ProductVariant/67641438601470": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "KL6149-001-55",
         "sku": "KL-KL6149-001-55"
       },
@@ -92120,12 +92120,12 @@
         "sku": "LACOSTE-L2217-N-033-54"
       },
       "gid://shopify/ProductVariant/67641439322366": {
-        "qty": 10,
+        "qty": 7,
         "product_title": "L2294-002-57",
         "sku": "LACOSTE-L2294-002-57"
       },
       "gid://shopify/ProductVariant/67641439453438": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "L2294-N-002-57",
         "sku": "LACOSTE-L2294-N-002-57"
       },
@@ -92135,7 +92135,7 @@
         "sku": "LACOSTE-L2304-001-53"
       },
       "gid://shopify/ProductVariant/67641439748350": {
-        "qty": 10,
+        "qty": 7,
         "product_title": "L2304-002-53",
         "sku": "LACOSTE-L2304-002-53"
       },
@@ -92150,27 +92150,27 @@
         "sku": "LACOSTE-L2304-N-001-53"
       },
       "gid://shopify/ProductVariant/67641440076030": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "L2306-N-002-55",
         "sku": "LACOSTE-L2306-N-002-55"
       },
       "gid://shopify/ProductVariant/67641440239870": {
-        "qty": 10,
+        "qty": 7,
         "product_title": "L2306-N-002-58",
         "sku": "LACOSTE-L2306-N-002-58"
       },
       "gid://shopify/ProductVariant/67641440403710": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "L2306-N-035-55",
         "sku": "LACOSTE-L2306-N-035-55"
       },
       "gid://shopify/ProductVariant/67641440534782": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "L2306-N-035-58",
         "sku": "LACOSTE-L2306-N-035-58"
       },
       "gid://shopify/ProductVariant/67641440600318": {
-        "qty": 10,
+        "qty": 7,
         "product_title": "L2306-N-424-58",
         "sku": "LACOSTE-L2306-N-424-58"
       },
@@ -92195,7 +92195,7 @@
         "sku": "LACOSTE-L2977-N-035-54"
       },
       "gid://shopify/ProductVariant/67641441386750": {
-        "qty": 10,
+        "qty": 7,
         "product_title": "L2980-N-001-51",
         "sku": "LACOSTE-L2980-N-001-51"
       },
@@ -92205,7 +92205,7 @@
         "sku": "LACOSTE-L2980-N-410-51"
       },
       "gid://shopify/ProductVariant/67641441747198": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "L2982-N-301-54",
         "sku": "LACOSTE-L2982-N-301-54"
       },
@@ -92240,12 +92240,12 @@
         "sku": "LACOSTE-L2984-N-601-53"
       },
       "gid://shopify/ProductVariant/67641442861310": {
-        "qty": 9,
+        "qty": 6,
         "product_title": "L4003-001-54",
         "sku": "LACOSTE-L4003-001-54"
       },
       "gid://shopify/ProductVariant/67641443025150": {
-        "qty": 10,
+        "qty": 7,
         "product_title": "L4003-210-54",
         "sku": "LACOSTE-L4003-210-54"
       },
