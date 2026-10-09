@@ -34448,13 +34448,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-09T19:09:59.220980+00:00",
+    "updated_at": "2026-10-09T23:14:50.235701+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 80383,
+        "total_qty": 80380,
         "sku_count": 11481,
         "product_count": 11481
       },
@@ -34462,15 +34462,15 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 80383,
-        "sku_count": 4389,
-        "product_count": 4389
+        "total_qty": 80380,
+        "sku_count": 4388,
+        "product_count": 4388
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 21320,
+        "total_qty": 21319,
         "sku_count": 2575,
         "product_count": 2575
       },
@@ -34486,9 +34486,9 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 55714,
-        "sku_count": 2169,
-        "product_count": 2169
+        "total_qty": 55713,
+        "sku_count": 2168,
+        "product_count": 2168
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -34502,15 +34502,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 80383,
-        "sku_count": 3412,
-        "product_count": 3412
+        "total_qty": 80380,
+        "sku_count": 3411,
+        "product_count": 3411
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 79990,
+        "total_qty": 79988,
         "sku_count": 3019,
         "product_count": 3019
       },
@@ -34566,9 +34566,9 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 18730,
-        "sku_count": 482,
-        "product_count": 482
+        "total_qty": 18729,
+        "sku_count": 481,
+        "product_count": 481
       },
       "gid://shopify/Collection/463407481086": {
         "title": "OPEN BOX",
@@ -34598,7 +34598,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 15100,
+        "total_qty": 15098,
         "sku_count": 1235,
         "product_count": 1235
       },
@@ -34638,7 +34638,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 8050,
+        "total_qty": 8048,
         "sku_count": 625,
         "product_count": 625
       },
@@ -35286,9 +35286,9 @@
         "title": "PRODESIGN",
         "handle": "prodesign",
         "legacy_id": "478388125950",
-        "total_qty": 868,
-        "sku_count": 109,
-        "product_count": 109
+        "total_qty": 867,
+        "sku_count": 108,
+        "product_count": 108
       },
       "gid://shopify/Collection/478400839934": {
         "title": "WOOW",
@@ -35382,7 +35382,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 3666,
+        "total_qty": 3664,
         "sku_count": 414,
         "product_count": 414
       },
@@ -35470,7 +35470,7 @@
         "title": "CUTLER AND GROSS",
         "handle": "cutler-and-gross",
         "legacy_id": "512308904190",
-        "total_qty": 1658,
+        "total_qty": 1656,
         "sku_count": 69,
         "product_count": 69
       },
@@ -72660,7 +72660,7 @@
         "sku": "PD-6618-6511-50"
       },
       "gid://shopify/ProductVariant/47761274536190": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "6621-1-9121-50",
         "sku": "PD-6621-1-9121-50"
       },
@@ -92625,7 +92625,7 @@
         "sku": "CG-CGSN-1349-02"
       },
       "gid://shopify/ProductVariant/67667223937278": {
-        "qty": 20,
+        "qty": 19,
         "product_title": "CGSN-1350-56-05",
         "sku": "CG-CGSN-1350-05"
       },
@@ -92825,7 +92825,7 @@
         "sku": "CG-CGSN-9101-04"
       },
       "gid://shopify/ProductVariant/67667226951934": {
-        "qty": 19,
+        "qty": 18,
         "product_title": "CGSN-9126-48-A9",
         "sku": "CG-CGSN-9126-A9"
       },
