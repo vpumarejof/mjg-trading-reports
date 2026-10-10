@@ -34448,13 +34448,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-10T14:46:05.131905+00:00",
+    "updated_at": "2026-10-10T19:04:28.456153+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 80356,
+        "total_qty": 80350,
         "sku_count": 11481,
         "product_count": 11481
       },
@@ -34462,7 +34462,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 80356,
+        "total_qty": 80350,
         "sku_count": 4384,
         "product_count": 4384
       },
@@ -34470,7 +34470,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 21316,
+        "total_qty": 21313,
         "sku_count": 2575,
         "product_count": 2575
       },
@@ -34486,7 +34486,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 55706,
+        "total_qty": 55704,
         "sku_count": 2165,
         "product_count": 2165
       },
@@ -34502,7 +34502,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 80356,
+        "total_qty": 80350,
         "sku_count": 3407,
         "product_count": 3407
       },
@@ -34510,7 +34510,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 79965,
+        "total_qty": 79959,
         "sku_count": 3016,
         "product_count": 3016
       },
@@ -34598,7 +34598,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 15082,
+        "total_qty": 15078,
         "sku_count": 1234,
         "product_count": 1234
       },
@@ -34614,7 +34614,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 4574,
+        "total_qty": 4573,
         "sku_count": 416,
         "product_count": 416
       },
@@ -34654,7 +34654,7 @@
         "title": "LACOSTE",
         "handle": "lacoste",
         "legacy_id": "393068577022",
-        "total_qty": 916,
+        "total_qty": 915,
         "sku_count": 130,
         "product_count": 130
       },
@@ -34662,7 +34662,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2540,
+        "total_qty": 2537,
         "sku_count": 199,
         "product_count": 199
       },
@@ -35238,7 +35238,7 @@
         "title": "FACE A FACE",
         "handle": "face-a-face",
         "legacy_id": "475759968510",
-        "total_qty": 2460,
+        "total_qty": 2459,
         "sku_count": 268,
         "product_count": 268
       },
@@ -35310,7 +35310,7 @@
         "title": "MODO",
         "handle": "modo",
         "legacy_id": "481959280894",
-        "total_qty": 270,
+        "total_qty": 269,
         "sku_count": 28,
         "product_count": 28
       },
@@ -35382,7 +35382,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 3660,
+        "total_qty": 3656,
         "sku_count": 414,
         "product_count": 414
       },
@@ -35470,7 +35470,7 @@
         "title": "CUTLER AND GROSS",
         "handle": "cutler-and-gross",
         "legacy_id": "512308904190",
-        "total_qty": 1652,
+        "total_qty": 1649,
         "sku_count": 69,
         "product_count": 69
       },
@@ -78135,7 +78135,7 @@
         "sku": "MODO-4629-RGOLD-54"
       },
       "gid://shopify/ProductVariant/48061854908670": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "4632-DGRN0-58",
         "sku": "MODO-4632-DGRN0-58"
       },
@@ -89710,7 +89710,7 @@
         "sku": "FF-ALIUM-RIDE-3-0015"
       },
       "gid://shopify/ProductVariant/48932971249918": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "ALIUM-WAVE-3-9404",
         "sku": "FF-ALIUM-WAVE-3-9404"
       },
@@ -92150,7 +92150,7 @@
         "sku": "LACOSTE-L2217-N-033-52"
       },
       "gid://shopify/ProductVariant/67641439191294": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "L2217-N-033-54",
         "sku": "LACOSTE-L2217-N-033-54"
       },
@@ -92515,7 +92515,7 @@
         "sku": "CG-CGSN-0772V2-04"
       },
       "gid://shopify/ProductVariant/67667222298878": {
-        "qty": 49,
+        "qty": 48,
         "product_title": "CGSN-0772V2-52-05",
         "sku": "CG-CGSN-0772V2-05"
       },
@@ -92555,7 +92555,7 @@
         "sku": "CG-CGSN-1326-01"
       },
       "gid://shopify/ProductVariant/67667222921470": {
-        "qty": 23,
+        "qty": 22,
         "product_title": "CGSN-1332-53-01",
         "sku": "CG-CGSN-1332-01"
       },
@@ -92820,7 +92820,7 @@
         "sku": "CG-CGSN-1408-B1"
       },
       "gid://shopify/ProductVariant/67667226886398": {
-        "qty": 26,
+        "qty": 25,
         "product_title": "CGSN-9101-53-04",
         "sku": "CG-CGSN-9101-04"
       },
