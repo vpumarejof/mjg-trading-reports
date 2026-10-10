@@ -34448,13 +34448,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-10T08:44:15.568505+00:00",
+    "updated_at": "2026-10-10T14:46:05.131905+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 80359,
+        "total_qty": 80356,
         "sku_count": 11481,
         "product_count": 11481
       },
@@ -34462,7 +34462,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 80359,
+        "total_qty": 80356,
         "sku_count": 4384,
         "product_count": 4384
       },
@@ -34470,7 +34470,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 21317,
+        "total_qty": 21316,
         "sku_count": 2575,
         "product_count": 2575
       },
@@ -34486,7 +34486,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 55707,
+        "total_qty": 55706,
         "sku_count": 2165,
         "product_count": 2165
       },
@@ -34502,7 +34502,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 80359,
+        "total_qty": 80356,
         "sku_count": 3407,
         "product_count": 3407
       },
@@ -34510,15 +34510,15 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 79969,
-        "sku_count": 3017,
-        "product_count": 3017
+        "total_qty": 79965,
+        "sku_count": 3016,
+        "product_count": 3016
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 8550,
+        "total_qty": 8549,
         "sku_count": 760,
         "product_count": 760
       },
@@ -34526,7 +34526,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 8550,
+        "total_qty": 8549,
         "sku_count": 760,
         "product_count": 760
       },
@@ -34534,7 +34534,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3016,
+        "total_qty": 3014,
         "sku_count": 392,
         "product_count": 392
       },
@@ -34598,7 +34598,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 15084,
+        "total_qty": 15082,
         "sku_count": 1234,
         "product_count": 1234
       },
@@ -34638,7 +34638,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 8036,
+        "total_qty": 8035,
         "sku_count": 624,
         "product_count": 624
       },
@@ -34662,7 +34662,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2541,
+        "total_qty": 2540,
         "sku_count": 199,
         "product_count": 199
       },
@@ -35070,7 +35070,7 @@
         "title": "VERSACE",
         "handle": "versace",
         "legacy_id": "391776010494",
-        "total_qty": 86,
+        "total_qty": 85,
         "sku_count": 25,
         "product_count": 25
       },
@@ -35374,7 +35374,7 @@
         "title": "ANNA-KARIN KARLSSON",
         "handle": "anna-karin-karlsson",
         "legacy_id": "485871059198",
-        "total_qty": 1100,
+        "total_qty": 1099,
         "sku_count": 18,
         "product_count": 18
       },
@@ -35382,7 +35382,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 3661,
+        "total_qty": 3660,
         "sku_count": 414,
         "product_count": 414
       },
@@ -35470,7 +35470,7 @@
         "title": "CUTLER AND GROSS",
         "handle": "cutler-and-gross",
         "legacy_id": "512308904190",
-        "total_qty": 1653,
+        "total_qty": 1652,
         "sku_count": 69,
         "product_count": 69
       },
@@ -59260,7 +59260,7 @@
         "sku": "VERSACE-0VE3349U-148-53"
       },
       "gid://shopify/ProductVariant/47095925604606": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "0VE3349U-GB1-53",
         "sku": "VERSACE-0VE3349U-GB1-53"
       },
@@ -84805,7 +84805,7 @@
         "sku": "AKK-LUCKY-GOES-TO-VEGAS-LEOPARD"
       },
       "gid://shopify/ProductVariant/48406939664638": {
-        "qty": 33,
+        "qty": 32,
         "product_title": "MOTHER-BEEP-BLACK CRYSTAL",
         "sku": "AKK-MOTHER-BEEP-BLACK CRYSTAL"
       },
@@ -92660,7 +92660,7 @@
         "sku": "CG-CGSN-1353-02"
       },
       "gid://shopify/ProductVariant/67667224690942": {
-        "qty": 13,
+        "qty": 12,
         "product_title": "CGSN-1355-53-05",
         "sku": "CG-CGSN-1355-05"
       },
