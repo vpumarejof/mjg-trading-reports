@@ -34448,13 +34448,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-09T23:14:50.235701+00:00",
+    "updated_at": "2026-10-10T02:21:12.672756+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 80380,
+        "total_qty": 80378,
         "sku_count": 11481,
         "product_count": 11481
       },
@@ -34462,7 +34462,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 80380,
+        "total_qty": 80378,
         "sku_count": 4388,
         "product_count": 4388
       },
@@ -34502,7 +34502,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 80380,
+        "total_qty": 80378,
         "sku_count": 3411,
         "product_count": 3411
       },
@@ -34510,7 +34510,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 79988,
+        "total_qty": 79986,
         "sku_count": 3019,
         "product_count": 3019
       },
@@ -34598,7 +34598,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 15098,
+        "total_qty": 15096,
         "sku_count": 1235,
         "product_count": 1235
       },
@@ -34638,7 +34638,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 8048,
+        "total_qty": 8046,
         "sku_count": 625,
         "product_count": 625
       },
@@ -34934,7 +34934,7 @@
         "title": "MOSCHINO",
         "handle": "moschino",
         "legacy_id": "395943837950",
-        "total_qty": 319,
+        "total_qty": 318,
         "sku_count": 41,
         "product_count": 41
       },
@@ -35382,7 +35382,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 3664,
+        "total_qty": 3663,
         "sku_count": 414,
         "product_count": 414
       },
@@ -35470,7 +35470,7 @@
         "title": "CUTLER AND GROSS",
         "handle": "cutler-and-gross",
         "legacy_id": "512308904190",
-        "total_qty": 1656,
+        "total_qty": 1655,
         "sku_count": 69,
         "product_count": 69
       },
@@ -80690,7 +80690,7 @@
         "sku": "TH-TH-2126/S-PJP/70"
       },
       "gid://shopify/ProductVariant/48174871478526": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "MOS180/S-C9A/9O",
         "sku": "MOSCHINO-MOS180/S-C9A/9O"
       },
@@ -92825,7 +92825,7 @@
         "sku": "CG-CGSN-9101-04"
       },
       "gid://shopify/ProductVariant/67667226951934": {
-        "qty": 18,
+        "qty": 17,
         "product_title": "CGSN-9126-48-A9",
         "sku": "CG-CGSN-9126-A9"
       },
