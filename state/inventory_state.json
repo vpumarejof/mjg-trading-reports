@@ -34448,13 +34448,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-11T01:09:12.197332+00:00",
+    "updated_at": "2026-10-11T07:09:05.827281+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 80319,
+        "total_qty": 80318,
         "sku_count": 11481,
         "product_count": 11481
       },
@@ -34462,7 +34462,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 80319,
+        "total_qty": 80318,
         "sku_count": 4384,
         "product_count": 4384
       },
@@ -34470,7 +34470,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 21312,
+        "total_qty": 21313,
         "sku_count": 2575,
         "product_count": 2575
       },
@@ -34486,7 +34486,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 55677,
+        "total_qty": 55674,
         "sku_count": 2160,
         "product_count": 2160
       },
@@ -34494,7 +34494,7 @@
         "title": "PRADA",
         "handle": "prada",
         "legacy_id": "391775289598",
-        "total_qty": 84,
+        "total_qty": 83,
         "sku_count": 16,
         "product_count": 16
       },
@@ -34502,7 +34502,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 80319,
+        "total_qty": 80318,
         "sku_count": 3402,
         "product_count": 3402
       },
@@ -34510,7 +34510,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 79926,
+        "total_qty": 79925,
         "sku_count": 3009,
         "product_count": 3009
       },
@@ -34518,7 +34518,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 8545,
+        "total_qty": 8544,
         "sku_count": 760,
         "product_count": 760
       },
@@ -34526,7 +34526,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 8545,
+        "total_qty": 8544,
         "sku_count": 760,
         "product_count": 760
       },
@@ -34566,7 +34566,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 18728,
+        "total_qty": 18727,
         "sku_count": 481,
         "product_count": 481
       },
@@ -34598,7 +34598,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 15074,
+        "total_qty": 15076,
         "sku_count": 1234,
         "product_count": 1234
       },
@@ -34654,7 +34654,7 @@
         "title": "LACOSTE",
         "handle": "lacoste",
         "legacy_id": "393068577022",
-        "total_qty": 915,
+        "total_qty": 913,
         "sku_count": 130,
         "product_count": 130
       },
@@ -34662,7 +34662,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2537,
+        "total_qty": 2539,
         "sku_count": 199,
         "product_count": 199
       },
@@ -34774,7 +34774,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 436,
+        "total_qty": 435,
         "sku_count": 77,
         "product_count": 77
       },
@@ -35374,7 +35374,7 @@
         "title": "ANNA-KARIN KARLSSON",
         "handle": "anna-karin-karlsson",
         "legacy_id": "485871059198",
-        "total_qty": 1099,
+        "total_qty": 1100,
         "sku_count": 18,
         "product_count": 18
       },
@@ -35470,7 +35470,7 @@
         "title": "CUTLER AND GROSS",
         "handle": "cutler-and-gross",
         "legacy_id": "512308904190",
-        "total_qty": 1649,
+        "total_qty": 1651,
         "sku_count": 69,
         "product_count": 69
       },
@@ -35640,7 +35640,7 @@
         "sku": "PRADA0PR13XV5491O155"
       },
       "gid://shopify/ProductVariant/42500333601022": {
-        "qty": 13,
+        "qty": 12,
         "product_title": "0PR60XV5541O153",
         "sku": "PRADA0PR60XV5541O153"
       },
@@ -84805,7 +84805,7 @@
         "sku": "AKK-LUCKY-GOES-TO-VEGAS-LEOPARD"
       },
       "gid://shopify/ProductVariant/48406939664638": {
-        "qty": 32,
+        "qty": 33,
         "product_title": "MOTHER-BEEP-BLACK CRYSTAL",
         "sku": "AKK-MOTHER-BEEP-BLACK CRYSTAL"
       },
@@ -88095,7 +88095,7 @@
         "sku": "KS-MARIGOLD/S-2TB/WJ"
       },
       "gid://shopify/ProductVariant/48683730731262": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "MELANIE/S-PJP/08",
         "sku": "KS-MELANIE/S-PJP/08"
       },
@@ -92165,7 +92165,7 @@
         "sku": "LACOSTE-L2294-N-002-57"
       },
       "gid://shopify/ProductVariant/67641439617278": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "L2304-001-53",
         "sku": "LACOSTE-L2304-001-53"
       },
@@ -92275,7 +92275,7 @@
         "sku": "LACOSTE-L2984-N-601-53"
       },
       "gid://shopify/ProductVariant/67641442861310": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "L4003-001-54",
         "sku": "LACOSTE-L4003-001-54"
       },
@@ -92515,7 +92515,7 @@
         "sku": "CG-CGSN-0772V2-04"
       },
       "gid://shopify/ProductVariant/67667222298878": {
-        "qty": 48,
+        "qty": 49,
         "product_title": "CGSN-0772V2-52-05",
         "sku": "CG-CGSN-0772V2-05"
       },
@@ -92555,7 +92555,7 @@
         "sku": "CG-CGSN-1326-01"
       },
       "gid://shopify/ProductVariant/67667222921470": {
-        "qty": 22,
+        "qty": 23,
         "product_title": "CGSN-1332-53-01",
         "sku": "CG-CGSN-1332-01"
       },
