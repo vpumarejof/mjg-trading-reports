@@ -34448,13 +34448,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-12T23:41:13.482115+00:00",
+    "updated_at": "2026-10-13T03:52:52.232934+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 80094,
+        "total_qty": 80090,
         "sku_count": 11481,
         "product_count": 11481
       },
@@ -34462,7 +34462,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 80094,
+        "total_qty": 80090,
         "sku_count": 4373,
         "product_count": 4373
       },
@@ -34486,7 +34486,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 55532,
+        "total_qty": 55530,
         "sku_count": 2146,
         "product_count": 2146
       },
@@ -34494,7 +34494,7 @@
         "title": "PRADA",
         "handle": "prada",
         "legacy_id": "391775289598",
-        "total_qty": 81,
+        "total_qty": 80,
         "sku_count": 16,
         "product_count": 16
       },
@@ -34502,7 +34502,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 80094,
+        "total_qty": 80090,
         "sku_count": 3383,
         "product_count": 3383
       },
@@ -34510,7 +34510,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 79679,
+        "total_qty": 79675,
         "sku_count": 2968,
         "product_count": 2968
       },
@@ -34518,7 +34518,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 8499,
+        "total_qty": 8498,
         "sku_count": 756,
         "product_count": 756
       },
@@ -34526,7 +34526,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 8499,
+        "total_qty": 8498,
         "sku_count": 756,
         "product_count": 756
       },
@@ -34534,7 +34534,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 2984,
+        "total_qty": 2982,
         "sku_count": 389,
         "product_count": 389
       },
@@ -34598,7 +34598,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 14997,
+        "total_qty": 14995,
         "sku_count": 1229,
         "product_count": 1229
       },
@@ -34614,7 +34614,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 4551,
+        "total_qty": 4550,
         "sku_count": 416,
         "product_count": 416
       },
@@ -34638,7 +34638,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 7989,
+        "total_qty": 7988,
         "sku_count": 619,
         "product_count": 619
       },
@@ -34654,7 +34654,7 @@
         "title": "LACOSTE",
         "handle": "lacoste",
         "legacy_id": "393068577022",
-        "total_qty": 905,
+        "total_qty": 904,
         "sku_count": 130,
         "product_count": 130
       },
@@ -34958,7 +34958,7 @@
         "title": "CALVIN KLEIN",
         "handle": "calvin-klein",
         "legacy_id": "393476997374",
-        "total_qty": 265,
+        "total_qty": 264,
         "sku_count": 52,
         "product_count": 52
       },
@@ -35334,7 +35334,7 @@
         "title": "FENDI",
         "handle": "fendi",
         "legacy_id": "391774306558",
-        "total_qty": 118,
+        "total_qty": 117,
         "sku_count": 27,
         "product_count": 27
       },
@@ -35382,7 +35382,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 3570,
+        "total_qty": 3568,
         "sku_count": 406,
         "product_count": 406
       },
@@ -69195,7 +69195,7 @@
         "sku": "CK-CK24515-438-52"
       },
       "gid://shopify/ProductVariant/47609149260030": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "CK24517-227-52",
         "sku": "CK-CK24517-227-52"
       },
@@ -84635,7 +84635,7 @@
         "sku": "PRADA-PR-A13S-1AB5S0"
       },
       "gid://shopify/ProductVariant/48392229093630": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "PR-A19S-1BO40G",
         "sku": "PRADA-PR-A19S-1BO40G"
       },
@@ -92140,7 +92140,7 @@
         "sku": "KL-KL6171-N-242-54"
       },
       "gid://shopify/ProductVariant/67641438929150": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "L2217-N-001-52",
         "sku": "LACOSTE-L2217-N-001-52"
       },
@@ -92850,7 +92850,7 @@
         "sku": "CELINE-CL40333U-01A"
       },
       "gid://shopify/ProductVariant/67683062808830": {
-        "qty": 15,
+        "qty": 14,
         "product_title": "FE40073U 5202A",
         "sku": "FENDI-FE40073U-02A"
       },
