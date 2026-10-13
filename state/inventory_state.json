@@ -34448,13 +34448,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-13T03:52:52.232934+00:00",
+    "updated_at": "2026-10-13T11:18:34.088390+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 80090,
+        "total_qty": 80087,
         "sku_count": 11481,
         "product_count": 11481
       },
@@ -34462,15 +34462,15 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 80090,
-        "sku_count": 4373,
-        "product_count": 4373
+        "total_qty": 80087,
+        "sku_count": 4372,
+        "product_count": 4372
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 21265,
+        "total_qty": 21264,
         "sku_count": 2575,
         "product_count": 2575
       },
@@ -34486,9 +34486,9 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 55530,
-        "sku_count": 2146,
-        "product_count": 2146
+        "total_qty": 55529,
+        "sku_count": 2145,
+        "product_count": 2145
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -34502,15 +34502,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 80090,
-        "sku_count": 3383,
-        "product_count": 3383
+        "total_qty": 80087,
+        "sku_count": 3382,
+        "product_count": 3382
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 79675,
+        "total_qty": 79673,
         "sku_count": 2968,
         "product_count": 2968
       },
@@ -34518,25 +34518,25 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 8498,
-        "sku_count": 756,
-        "product_count": 756
+        "total_qty": 8497,
+        "sku_count": 755,
+        "product_count": 755
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 8498,
-        "sku_count": 756,
-        "product_count": 756
+        "total_qty": 8497,
+        "sku_count": 755,
+        "product_count": 755
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 2982,
-        "sku_count": 389,
-        "product_count": 389
+        "total_qty": 2980,
+        "sku_count": 388,
+        "product_count": 388
       },
       "gid://shopify/Collection/391854031102": {
         "title": "Women's",
@@ -34598,7 +34598,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 14995,
+        "total_qty": 14993,
         "sku_count": 1229,
         "product_count": 1229
       },
@@ -34630,15 +34630,15 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 586,
-        "sku_count": 64,
-        "product_count": 64
+        "total_qty": 584,
+        "sku_count": 63,
+        "product_count": 63
       },
       "gid://shopify/Collection/410149978366": {
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 7988,
+        "total_qty": 7987,
         "sku_count": 619,
         "product_count": 619
       },
@@ -34662,7 +34662,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2524,
+        "total_qty": 2523,
         "sku_count": 199,
         "product_count": 199
       },
@@ -34846,7 +34846,7 @@
         "title": "KARL LAGERFELD",
         "handle": "karl-lagerfeld",
         "legacy_id": "422907576574",
-        "total_qty": 358,
+        "total_qty": 357,
         "sku_count": 43,
         "product_count": 43
       },
@@ -53900,7 +53900,7 @@
         "sku": "SF-SF2985-207-52"
       },
       "gid://shopify/ProductVariant/46663435059454": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "SF2985-320-52",
         "sku": "SF-SF2985-320-52"
       },
@@ -59490,7 +59490,7 @@
         "sku": "SF-SF1106S-414"
       },
       "gid://shopify/ProductVariant/47111134478590": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "SF1106S-600",
         "sku": "SF-SF1106S-600"
       },
@@ -79075,7 +79075,7 @@
         "sku": "SF-SF1041S-238"
       },
       "gid://shopify/ProductVariant/48113352081662": {
-        "qty": 11,
+        "qty": 10,
         "product_title": "KL6144S-703",
         "sku": "KL-KL6144S-703"
       },
