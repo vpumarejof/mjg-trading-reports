@@ -34550,13 +34550,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-14T06:42:04.305079+00:00",
+    "updated_at": "2026-10-14T12:23:22.202103+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 80176,
+        "total_qty": 80171,
         "sku_count": 11515,
         "product_count": 11515
       },
@@ -34564,9 +34564,9 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 80176,
-        "sku_count": 4394,
-        "product_count": 4394
+        "total_qty": 80171,
+        "sku_count": 4393,
+        "product_count": 4393
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
@@ -34580,7 +34580,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 1119,
+        "total_qty": 1118,
         "sku_count": 931,
         "product_count": 931
       },
@@ -34588,9 +34588,9 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 55498,
-        "sku_count": 2137,
-        "product_count": 2137
+        "total_qty": 55496,
+        "sku_count": 2136,
+        "product_count": 2136
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -34604,15 +34604,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 80176,
-        "sku_count": 3398,
-        "product_count": 3398
+        "total_qty": 80171,
+        "sku_count": 3397,
+        "product_count": 3397
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 79754,
+        "total_qty": 79750,
         "sku_count": 2976,
         "product_count": 2976
       },
@@ -34620,23 +34620,23 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 8486,
-        "sku_count": 754,
-        "product_count": 754
+        "total_qty": 8485,
+        "sku_count": 753,
+        "product_count": 753
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 8486,
-        "sku_count": 754,
-        "product_count": 754
+        "total_qty": 8485,
+        "sku_count": 753,
+        "product_count": 753
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 2962,
+        "total_qty": 2960,
         "sku_count": 385,
         "product_count": 385
       },
@@ -34700,7 +34700,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 15115,
+        "total_qty": 15113,
         "sku_count": 1253,
         "product_count": 1253
       },
@@ -34740,7 +34740,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 8221,
+        "total_qty": 8219,
         "sku_count": 645,
         "product_count": 645
       },
@@ -34876,9 +34876,9 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 414,
-        "sku_count": 75,
-        "product_count": 75
+        "total_qty": 413,
+        "sku_count": 74,
+        "product_count": 74
       },
       "gid://shopify/Collection/455407829246": {
         "title": "Uniisex Eyeglasses",
@@ -34900,7 +34900,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 24132,
+        "total_qty": 24131,
         "sku_count": 38,
         "product_count": 38
       },
@@ -35476,7 +35476,7 @@
         "title": "ANNA-KARIN KARLSSON",
         "handle": "anna-karin-karlsson",
         "legacy_id": "485871059198",
-        "total_qty": 1093,
+        "total_qty": 1091,
         "sku_count": 18,
         "product_count": 18
       },
@@ -35564,7 +35564,7 @@
         "title": "NINE WEST",
         "handle": "nine-west",
         "legacy_id": "411442938110",
-        "total_qty": 33,
+        "total_qty": 32,
         "sku_count": 11,
         "product_count": 11
       },
@@ -47352,7 +47352,7 @@
         "sku": "MJ-MARC-463-0086-53"
       },
       "gid://shopify/ProductVariant/46059134714110": {
-        "qty": 9549,
+        "qty": 9548,
         "product_title": "DropShip",
         "sku": "DropShip"
       },
@@ -57202,7 +57202,7 @@
         "sku": "KS-BENDALL-0LHF-50"
       },
       "gid://shopify/ProductVariant/47010180825342": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "EVAGELINE/F-0086-53",
         "sku": "KS-EVANGELINE/F-0086-53"
       },
@@ -84942,7 +84942,7 @@
         "sku": "AKK-SHADY-LUV-2.0-BLACK"
       },
       "gid://shopify/ProductVariant/48406940483838": {
-        "qty": 41,
+        "qty": 40,
         "product_title": "SHADY-LUV-2.0-GOLD 24K",
         "sku": "AKK-SHADY-LUV-2.0-GOLD 24K"
       },
@@ -84957,7 +84957,7 @@
         "sku": "AKK-SHADY-LUV-2.0-ROSE"
       },
       "gid://shopify/ProductVariant/48406940745982": {
-        "qty": 13,
+        "qty": 12,
         "product_title": "SHADY-LUV-2.0-WHITE GOLD",
         "sku": "AKK-SHADY-LUV-2.0-WHITE GOLD"
       },
@@ -91957,7 +91957,7 @@
         "sku": "NW-NW5206-N-228-55"
       },
       "gid://shopify/ProductVariant/67613241082110": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "NW5214-N-001-53",
         "sku": "NW-NW5214-N-001-53"
       },
