@@ -34550,13 +34550,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-14T12:23:22.202103+00:00",
+    "updated_at": "2026-10-14T17:24:56.479362+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 80171,
+        "total_qty": 80109,
         "sku_count": 11515,
         "product_count": 11515
       },
@@ -34564,9 +34564,9 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 80171,
-        "sku_count": 4393,
-        "product_count": 4393
+        "total_qty": 80109,
+        "sku_count": 4392,
+        "product_count": 4392
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
@@ -34588,9 +34588,9 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 55496,
-        "sku_count": 2136,
-        "product_count": 2136
+        "total_qty": 55441,
+        "sku_count": 2130,
+        "product_count": 2130
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -34604,41 +34604,41 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 80171,
-        "sku_count": 3397,
-        "product_count": 3397
+        "total_qty": 80109,
+        "sku_count": 3391,
+        "product_count": 3391
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 79750,
-        "sku_count": 2976,
-        "product_count": 2976
+        "total_qty": 79690,
+        "sku_count": 2972,
+        "product_count": 2972
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 8485,
-        "sku_count": 753,
-        "product_count": 753
+        "total_qty": 8467,
+        "sku_count": 752,
+        "product_count": 752
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 8485,
-        "sku_count": 753,
-        "product_count": 753
+        "total_qty": 8467,
+        "sku_count": 752,
+        "product_count": 752
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
         "total_qty": 2960,
-        "sku_count": 385,
-        "product_count": 385
+        "sku_count": 384,
+        "product_count": 384
       },
       "gid://shopify/Collection/391854031102": {
         "title": "Women's",
@@ -34700,7 +34700,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 15113,
+        "total_qty": 15106,
         "sku_count": 1253,
         "product_count": 1253
       },
@@ -34716,7 +34716,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 4519,
+        "total_qty": 4516,
         "sku_count": 418,
         "product_count": 418
       },
@@ -34732,7 +34732,7 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 574,
+        "total_qty": 575,
         "sku_count": 62,
         "product_count": 62
       },
@@ -34740,7 +34740,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 8219,
+        "total_qty": 8215,
         "sku_count": 645,
         "product_count": 645
       },
@@ -34924,7 +34924,7 @@
         "title": "QUAY",
         "handle": "quay",
         "legacy_id": "472482939134",
-        "total_qty": 1149,
+        "total_qty": 1145,
         "sku_count": 73,
         "product_count": 73
       },
@@ -35172,9 +35172,9 @@
         "title": "VERSACE",
         "handle": "versace",
         "legacy_id": "391776010494",
-        "total_qty": 83,
-        "sku_count": 25,
-        "product_count": 25
+        "total_qty": 82,
+        "sku_count": 24,
+        "product_count": 24
       },
       "gid://shopify/Collection/469566619902": {
         "title": "ANDY WOLF",
@@ -35284,7 +35284,7 @@
         "title": "ANNE KLEIN",
         "handle": "anne-klein",
         "legacy_id": "474673250558",
-        "total_qty": 38,
+        "total_qty": 37,
         "sku_count": 8,
         "product_count": 8
       },
@@ -35340,7 +35340,7 @@
         "title": "FACE A FACE",
         "handle": "face-a-face",
         "legacy_id": "475759968510",
-        "total_qty": 2440,
+        "total_qty": 2414,
         "sku_count": 268,
         "product_count": 268
       },
@@ -35348,9 +35348,9 @@
         "title": "JAGUAR",
         "handle": "jaguar",
         "legacy_id": "475760034046",
-        "total_qty": 1894,
-        "sku_count": 176,
-        "product_count": 176
+        "total_qty": 1863,
+        "sku_count": 171,
+        "product_count": 171
       },
       "gid://shopify/Collection/476032958718": {
         "title": "LONGCHAMP",
@@ -46102,7 +46102,7 @@
         "sku": "SF268S-795"
       },
       "gid://shopify/ProductVariant/45841808687358": {
-        "qty": 5,
+        "qty": 6,
         "product_title": "SF727S-214",
         "sku": "SF727S-214"
       },
@@ -66742,7 +66742,7 @@
         "sku": "AK-AK5097-500-53"
       },
       "gid://shopify/ProductVariant/47504331866366": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "AK5098-001-52",
         "sku": "AK-AK5098-001-52"
       },
@@ -68722,7 +68722,7 @@
         "sku": "FF-SHIRO-1-1053"
       },
       "gid://shopify/ProductVariant/47589021122814": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "SHIRO-1-2215",
         "sku": "FF-SHIRO-1-2215"
       },
@@ -68792,17 +68792,17 @@
         "sku": "JAGUAR-JG31030-8840-56"
       },
       "gid://shopify/ProductVariant/47589021942014": {
-        "qty": 5,
+        "qty": 0,
         "product_title": "JG31521-6381-55",
         "sku": "JAGUAR-JG31521-6381-55"
       },
       "gid://shopify/ProductVariant/47589021974782": {
-        "qty": 4,
+        "qty": 2,
         "product_title": "JG31523-4717-51",
         "sku": "JAGUAR-JG31523-4717-51"
       },
       "gid://shopify/ProductVariant/47589022007550": {
-        "qty": 17,
+        "qty": 16,
         "product_title": "JG31523-5073-51",
         "sku": "JAGUAR-JG31523-5073-51"
       },
@@ -68827,7 +68827,7 @@
         "sku": "JAGUAR-JG31525-4966-56"
       },
       "gid://shopify/ProductVariant/47589022269694": {
-        "qty": 10,
+        "qty": 8,
         "product_title": "JG31711-5140-47",
         "sku": "JAGUAR-JG31711-5140-47"
       },
@@ -68852,7 +68852,7 @@
         "sku": "JAGUAR-JG33617-6100-56"
       },
       "gid://shopify/ProductVariant/47589022630142": {
-        "qty": 4,
+        "qty": 2,
         "product_title": "JG33622-1000-51",
         "sku": "JAGUAR-JG33622-1000-51"
       },
@@ -73362,7 +73362,7 @@
         "sku": "FF-ARMAN-1-100-54"
       },
       "gid://shopify/ProductVariant/47761817174270": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "ARMAN-1-167-54",
         "sku": "FF-ARMAN-1-167-54"
       },
@@ -73417,7 +73417,7 @@
         "sku": "FF-BOCCA-BLOOM-2-203-53"
       },
       "gid://shopify/ProductVariant/47761817665790": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "BOCCA-BLOOM-2-2216-53",
         "sku": "FF-BOCCA-BLOOM-2-2216-53"
       },
@@ -73427,7 +73427,7 @@
         "sku": "FF-BOCCA-SCULPT-2-2416-51"
       },
       "gid://shopify/ProductVariant/47761817829630": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "BOCCA-SCULPT-2-3004-51",
         "sku": "FF-BOCCA-SCULPT-2-3004-51"
       },
@@ -73547,7 +73547,7 @@
         "sku": "FF-GORDON-2-3303-52"
       },
       "gid://shopify/ProductVariant/47761818616062": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "GORDON-2-4012-52",
         "sku": "FF-GORDON-2-4012-52"
       },
@@ -73602,7 +73602,7 @@
         "sku": "FF-IPSSO-2-0078-55"
       },
       "gid://shopify/ProductVariant/47761818976510": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "IPSSO-2-3006-55",
         "sku": "FF-IPSSO-2-3006-55"
       },
@@ -77742,7 +77742,7 @@
         "sku": "FF-ALIUM-CLUB-3-TM01-54"
       },
       "gid://shopify/ProductVariant/48035785605374": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "ALIUM-RIDE-2-9620",
         "sku": "FF-ALIUM-RIDE-2-9620"
       },
@@ -77862,7 +77862,7 @@
         "sku": "FF-BOCCA-LEMON-3-0008-54"
       },
       "gid://shopify/ProductVariant/48035787014398": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "BOCCA-LEMON-3-1800-54",
         "sku": "FF-BOCCA-LEMON-3-1800-54"
       },
@@ -77872,12 +77872,12 @@
         "sku": "FF-BOCCA-LEMON-3-2216-54"
       },
       "gid://shopify/ProductVariant/48035787079934": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "BOCCA-LEMON-3-4012-54",
         "sku": "FF-BOCCA-LEMON-3-4012-54"
       },
       "gid://shopify/ProductVariant/48035787112702": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "BOCCA-LEMON-4-7407-54",
         "sku": "FF-BOCCA-LEMON-4-7407-54"
       },
@@ -77907,7 +77907,7 @@
         "sku": "FF-CLOUD-1-1738-53"
       },
       "gid://shopify/ProductVariant/48035787636990": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "EILEEN-2-1427-52",
         "sku": "FF-EILEEN-2-1427-52"
       },
@@ -77997,17 +77997,17 @@
         "sku": "FF-IMPERFECT-2-197L"
       },
       "gid://shopify/ProductVariant/48035788521726": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "IPSSO-1-0495-50",
         "sku": "FF-IPSSO-1-0495-50"
       },
       "gid://shopify/ProductVariant/48035788554494": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "IPSSO-2-0008-55",
         "sku": "FF-IPSSO-2-0008-55"
       },
       "gid://shopify/ProductVariant/48035788587262": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "IPSSO-2-2216-55",
         "sku": "FF-IPSSO-2-2216-55"
       },
@@ -78112,7 +78112,7 @@
         "sku": "FF-SHIFT-2-4307-53"
       },
       "gid://shopify/ProductVariant/48035789373694": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "SHIFT-2-4321-53",
         "sku": "FF-SHIFT-2-4321-53"
       },
@@ -78157,7 +78157,7 @@
         "sku": "FF-WITTY-1-1929-50"
       },
       "gid://shopify/ProductVariant/48035799105790": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "GEMMA-2-1324-55",
         "sku": "FF-GEMMA-2-1324-55"
       },
@@ -85507,7 +85507,7 @@
         "sku": "QUAY-NO-NS-2263-BLK/SMK"
       },
       "gid://shopify/ProductVariant/48560873275646": {
-        "qty": 7,
+        "qty": 3,
         "product_title": "TEMPTED-77118",
         "sku": "QUAY-NO-NS-2308-NEUTRT/BRN"
       },
@@ -85767,7 +85767,7 @@
         "sku": "VERSACE-0VE3368U-148-55"
       },
       "gid://shopify/ProductVariant/48567757701374": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "0VE3369-GB1-53",
         "sku": "VERSACE-0VE3369-GB1-53"
       },
@@ -89422,7 +89422,7 @@
         "sku": "FF-ALIUM-TREK-3-0028-58"
       },
       "gid://shopify/ProductVariant/48932964630782": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "ALIUM-WATT-3-TM01-57",
         "sku": "FF-ALIUM-WATT-3-TM01-57"
       },
@@ -89432,7 +89432,7 @@
         "sku": "FF-ALIUM-WIRE-5-930M-56"
       },
       "gid://shopify/ProductVariant/48932964696318": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "ALIUM-WIRE-5-9620M-56",
         "sku": "FF-ALIUM-WIRE-5-9620M-56"
       },
@@ -89447,7 +89447,7 @@
         "sku": "FF-BLAKE-1-1185-51"
       },
       "gid://shopify/ProductVariant/48932964827390": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "BLAKE-2-2278 -53",
         "sku": "FF-BLAKE-2-2278-53"
       },
@@ -89467,7 +89467,7 @@
         "sku": "FF-BOCCA-LEMON-3-0078-54"
       },
       "gid://shopify/ProductVariant/48932965089534": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "BOCCA-LEMON-4-0203-54",
         "sku": "FF-BOCCA-LEMON-4-0203-54"
       },
@@ -89527,12 +89527,12 @@
         "sku": "FF-CLOUD-2-1733-55"
       },
       "gid://shopify/ProductVariant/48932966170878": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "CLOUD-2-1739-55",
         "sku": "FF-CLOUD-2-1739-55"
       },
       "gid://shopify/ProductVariant/48932967317758": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "DJUNE-1-1111-48",
         "sku": "FF-DJUNE-1-1111-48"
       },
@@ -89612,7 +89612,7 @@
         "sku": "FF-GEMMA-1-1946-52"
       },
       "gid://shopify/ProductVariant/48932968235262": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "GEMMA-1-2216-52",
         "sku": "FF-GEMMA-1-2216-52"
       },
@@ -89647,7 +89647,7 @@
         "sku": "FF-GORDON-2-1053-52"
       },
       "gid://shopify/ProductVariant/48932968890622": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "GORDON-2-4056-52",
         "sku": "FF-GORDON-2-4056-52"
       },
@@ -89722,7 +89722,7 @@
         "sku": "FF-SCOTT-5-9335-52"
       },
       "gid://shopify/ProductVariant/48932970135806": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "SEVEN-1-100-57",
         "sku": "FF-SEVEN-1-100-57"
       },
@@ -89822,7 +89822,7 @@
         "sku": "FF-BOCCA-CHESS-2-6300"
       },
       "gid://shopify/ProductVariant/48932971315454": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "BOCCA-KAHLO-1-6092",
         "sku": "FF-BOCCA-KAHLO-1-6092"
       },
@@ -89912,7 +89912,7 @@
         "sku": "JAGUAR-JG31709-5100-49"
       },
       "gid://shopify/ProductVariant/48963791257854": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "JG32010-5223-57",
         "sku": "JAGUAR-JG32010-5223-57"
       },
@@ -89947,12 +89947,12 @@
         "sku": "JAGUAR-JG33115-5100-57"
       },
       "gid://shopify/ProductVariant/48963791782142": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "JG33119-3100-57",
         "sku": "JAGUAR-JG33119-3100-57"
       },
       "gid://shopify/ProductVariant/48963791814910": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "JG33119-5100-57",
         "sku": "JAGUAR-JG33119-5100-57"
       },
@@ -89962,7 +89962,7 @@
         "sku": "JAGUAR-JG33121-4200-56"
       },
       "gid://shopify/ProductVariant/48963791913214": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "JG33124-3100-60",
         "sku": "JAGUAR-JG33124-3100-60"
       },
@@ -90017,7 +90017,7 @@
         "sku": "JAGUAR-JG33619-3100-56"
       },
       "gid://shopify/ProductVariant/48963792666878": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "JG33620-3100-60",
         "sku": "JAGUAR-JG33620-3100-60"
       },
@@ -90067,7 +90067,7 @@
         "sku": "JAGUAR-JG33631-3100-56"
       },
       "gid://shopify/ProductVariant/48963793486078": {
-        "qty": 2,
+        "qty": 0,
         "product_title": "JG33631-6100-56",
         "sku": "JAGUAR-JG33631-6100-56"
       },
@@ -90107,7 +90107,7 @@
         "sku": "JAGUAR-JG33722-8940-50"
       },
       "gid://shopify/ProductVariant/48963794272510": {
-        "qty": 7,
+        "qty": 5,
         "product_title": "JG33723-4948-50",
         "sku": "JAGUAR-JG33723-4948-50"
       },
@@ -90117,17 +90117,17 @@
         "sku": "JAGUAR-JG33723-5139-50"
       },
       "gid://shopify/ProductVariant/48963794403582": {
-        "qty": 8,
+        "qty": 6,
         "product_title": "JG33724-5184-48",
         "sku": "JAGUAR-JG33724-5184-48"
       },
       "gid://shopify/ProductVariant/48963794436350": {
-        "qty": 8,
+        "qty": 6,
         "product_title": "JG33724-5285-48",
         "sku": "JAGUAR-JG33724-5285-48"
       },
       "gid://shopify/ProductVariant/48963794567422": {
-        "qty": 7,
+        "qty": 5,
         "product_title": "JG33724-5286-48",
         "sku": "JAGUAR-JG33724-5286-48"
       },
@@ -90167,7 +90167,7 @@
         "sku": "JAGUAR-JG35601-3100-56"
       },
       "gid://shopify/ProductVariant/48963795321086": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "JG35601-6100-56",
         "sku": "JAGUAR-JG35601-6100-56"
       },
@@ -90192,7 +90192,7 @@
         "sku": "JAGUAR-JG35604-6500-53"
       },
       "gid://shopify/ProductVariant/48963796271358": {
-        "qty": 8,
+        "qty": 6,
         "product_title": "JG36830-6500-50",
         "sku": "JAGUAR-JG36830-6500-50"
       },
@@ -90492,7 +90492,7 @@
         "sku": "JAGUAR-JG37468-5100"
       },
       "gid://shopify/ProductVariant/48963801972990": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "JG37468-6000",
         "sku": "JAGUAR-JG37468-6000"
       },
