@@ -34550,13 +34550,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-13T22:58:46.147985+00:00",
+    "updated_at": "2026-10-14T01:36:51.106465+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 80200,
+        "total_qty": 80194,
         "sku_count": 11515,
         "product_count": 11515
       },
@@ -34564,9 +34564,9 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 80200,
-        "sku_count": 4395,
-        "product_count": 4395
+        "total_qty": 80194,
+        "sku_count": 4394,
+        "product_count": 4394
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
@@ -34588,9 +34588,9 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 55507,
-        "sku_count": 2139,
-        "product_count": 2139
+        "total_qty": 55503,
+        "sku_count": 2137,
+        "product_count": 2137
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -34604,15 +34604,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 80200,
-        "sku_count": 3400,
-        "product_count": 3400
+        "total_qty": 80194,
+        "sku_count": 3398,
+        "product_count": 3398
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 79777,
+        "total_qty": 79773,
         "sku_count": 2977,
         "product_count": 2977
       },
@@ -34620,25 +34620,25 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 8490,
-        "sku_count": 755,
-        "product_count": 755
+        "total_qty": 8489,
+        "sku_count": 754,
+        "product_count": 754
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 8490,
-        "sku_count": 755,
-        "product_count": 755
+        "total_qty": 8489,
+        "sku_count": 754,
+        "product_count": 754
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 2966,
-        "sku_count": 386,
-        "product_count": 386
+        "total_qty": 2964,
+        "sku_count": 385,
+        "product_count": 385
       },
       "gid://shopify/Collection/391854031102": {
         "title": "Women's",
@@ -34700,7 +34700,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 15129,
+        "total_qty": 15127,
         "sku_count": 1253,
         "product_count": 1253
       },
@@ -34732,15 +34732,15 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 575,
-        "sku_count": 63,
-        "product_count": 63
+        "total_qty": 574,
+        "sku_count": 62,
+        "product_count": 62
       },
       "gid://shopify/Collection/410149978366": {
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 8235,
+        "total_qty": 8233,
         "sku_count": 645,
         "product_count": 645
       },
@@ -34892,9 +34892,9 @@
         "title": "ELASTA",
         "handle": "elasta",
         "legacy_id": "411442249982",
-        "total_qty": 54,
-        "sku_count": 18,
-        "product_count": 18
+        "total_qty": 53,
+        "sku_count": 17,
+        "product_count": 17
       },
       "gid://shopify/Collection/425967354110": {
         "title": "Over 300",
@@ -35044,7 +35044,7 @@
         "title": "MISSONI",
         "handle": "missoni",
         "legacy_id": "408673911038",
-        "total_qty": 866,
+        "total_qty": 865,
         "sku_count": 72,
         "product_count": 72
       },
@@ -35340,7 +35340,7 @@
         "title": "FACE A FACE",
         "handle": "face-a-face",
         "legacy_id": "475759968510",
-        "total_qty": 2443,
+        "total_qty": 2442,
         "sku_count": 268,
         "product_count": 268
       },
@@ -35388,7 +35388,7 @@
         "title": "PRODESIGN",
         "handle": "prodesign",
         "legacy_id": "478388125950",
-        "total_qty": 864,
+        "total_qty": 863,
         "sku_count": 108,
         "product_count": 108
       },
@@ -35476,7 +35476,7 @@
         "title": "ANNA-KARIN KARLSSON",
         "handle": "anna-karin-karlsson",
         "legacy_id": "485871059198",
-        "total_qty": 1096,
+        "total_qty": 1095,
         "sku_count": 18,
         "product_count": 18
       },
@@ -57177,7 +57177,7 @@
         "sku": "ELASTA-E-7246-06LB-56"
       },
       "gid://shopify/ProductVariant/47010179547390": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "E-7247-0AB8-51",
         "sku": "ELASTA-E-7247-0AB8-51"
       },
@@ -68562,7 +68562,7 @@
         "sku": "MISSONI-MIS-0088/S-MQE/GA"
       },
       "gid://shopify/ProductVariant/47577493995774": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "MIS-0089/S-1EI/9O",
         "sku": "MISSONI-MIS-0089/S-1EI/9O"
       },
@@ -72267,7 +72267,7 @@
         "sku": "SF-SF2240-770-56"
       },
       "gid://shopify/ProductVariant/47730455052542": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "SF2951N-435-53",
         "sku": "SF-SF2951N-435-53"
       },
@@ -84942,7 +84942,7 @@
         "sku": "AKK-SHADY-LUV-2.0-BLACK"
       },
       "gid://shopify/ProductVariant/48406940483838": {
-        "qty": 41,
+        "qty": 40,
         "product_title": "SHADY-LUV-2.0-GOLD 24K",
         "sku": "AKK-SHADY-LUV-2.0-GOLD 24K"
       },
@@ -89107,7 +89107,7 @@
         "sku": "PD-3657-9332-54"
       },
       "gid://shopify/ProductVariant/48913521410302": {
-        "qty": 11,
+        "qty": 10,
         "product_title": "3658-6032-54",
         "sku": "PD-3658-6032-54"
       },
@@ -89417,7 +89417,7 @@
         "sku": "FF-ALIUM-SURF-1-TM01-47"
       },
       "gid://shopify/ProductVariant/48932964598014": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "ALIUM-TREK-3-0028-58",
         "sku": "FF-ALIUM-TREK-3-0028-58"
       },
