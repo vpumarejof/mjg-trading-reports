@@ -34550,13 +34550,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-15T01:50:30.787532+00:00",
+    "updated_at": "2026-10-15T06:46:10.996574+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 80069,
+        "total_qty": 80064,
         "sku_count": 11515,
         "product_count": 11515
       },
@@ -34564,7 +34564,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 80069,
+        "total_qty": 80064,
         "sku_count": 4391,
         "product_count": 4391
       },
@@ -34572,7 +34572,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 21172,
+        "total_qty": 21171,
         "sku_count": 2575,
         "product_count": 2575
       },
@@ -34588,7 +34588,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 55423,
+        "total_qty": 55422,
         "sku_count": 2128,
         "product_count": 2128
       },
@@ -34604,7 +34604,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 80069,
+        "total_qty": 80064,
         "sku_count": 3388,
         "product_count": 3388
       },
@@ -34612,7 +34612,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 79648,
+        "total_qty": 79643,
         "sku_count": 2967,
         "product_count": 2967
       },
@@ -34636,7 +34636,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 2947,
+        "total_qty": 2946,
         "sku_count": 384,
         "product_count": 384
       },
@@ -34700,7 +34700,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 15085,
+        "total_qty": 15081,
         "sku_count": 1252,
         "product_count": 1252
       },
@@ -34716,7 +34716,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 4510,
+        "total_qty": 4508,
         "sku_count": 417,
         "product_count": 417
       },
@@ -34740,7 +34740,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 8202,
+        "total_qty": 8201,
         "sku_count": 645,
         "product_count": 645
       },
@@ -34764,7 +34764,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2440,
+        "total_qty": 2439,
         "sku_count": 195,
         "product_count": 195
       },
@@ -35036,7 +35036,7 @@
         "title": "MOSCHINO",
         "handle": "moschino",
         "legacy_id": "395943837950",
-        "total_qty": 427,
+        "total_qty": 426,
         "sku_count": 50,
         "product_count": 50
       },
@@ -35340,7 +35340,7 @@
         "title": "FACE A FACE",
         "handle": "face-a-face",
         "legacy_id": "475759968510",
-        "total_qty": 2412,
+        "total_qty": 2411,
         "sku_count": 268,
         "product_count": 268
       },
@@ -35476,7 +35476,7 @@
         "title": "ANNA-KARIN KARLSSON",
         "handle": "anna-karin-karlsson",
         "legacy_id": "485871059198",
-        "total_qty": 1082,
+        "total_qty": 1081,
         "sku_count": 18,
         "product_count": 18
       },
@@ -35484,7 +35484,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 2914,
+        "total_qty": 2913,
         "sku_count": 210,
         "product_count": 210
       },
@@ -35556,7 +35556,7 @@
         "title": "NAUTICA",
         "handle": "nautica",
         "legacy_id": "408975638782",
-        "total_qty": 53,
+        "total_qty": 52,
         "sku_count": 10,
         "product_count": 10
       },
@@ -35572,7 +35572,7 @@
         "title": "CUTLER AND GROSS",
         "handle": "cutler-and-gross",
         "legacy_id": "512308904190",
-        "total_qty": 1631,
+        "total_qty": 1630,
         "sku_count": 69,
         "product_count": 69
       },
@@ -53147,7 +53147,7 @@
         "sku": "MOSCHINO-MOS149/F/S-0807/IR"
       },
       "gid://shopify/ProductVariant/46632106459390": {
-        "qty": 20,
+        "qty": 19,
         "product_title": "MOS164/S-06HT/IR",
         "sku": "MOSCHINO-MOS164/S-06HT/IR"
       },
@@ -84877,7 +84877,7 @@
         "sku": "AKK-COCO-STORIES-BLACK GOLD"
       },
       "gid://shopify/ProductVariant/48406939173118": {
-        "qty": 113,
+        "qty": 112,
         "product_title": "COCO-STORIES-GREY WHITE GOLD",
         "sku": "AKK-COCO-STORIES-GREY WHITE GOLD"
       },
@@ -89507,7 +89507,7 @@
         "sku": "FF-CILAO-2-0957-49"
       },
       "gid://shopify/ProductVariant/48932965744894": {
-        "qty": 18,
+        "qty": 17,
         "product_title": "CLOUD-1-1728 -53",
         "sku": "FF-CLOUD-1-1728-53"
       },
@@ -91767,7 +91767,7 @@
         "sku": "NAUTICA-N106SP-030"
       },
       "gid://shopify/ProductVariant/67613238755582": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "N107SP-040",
         "sku": "NAUTICA-N107SP-040"
       },
@@ -92922,7 +92922,7 @@
         "sku": "CG-CGSN-1408-B1"
       },
       "gid://shopify/ProductVariant/67667226886398": {
-        "qty": 22,
+        "qty": 21,
         "product_title": "CGSN-9101-53-04",
         "sku": "CG-CGSN-9101-04"
       },
