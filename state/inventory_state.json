@@ -34550,13 +34550,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-14T23:34:08.750968+00:00",
+    "updated_at": "2026-10-15T01:50:30.787532+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 80071,
+        "total_qty": 80069,
         "sku_count": 11515,
         "product_count": 11515
       },
@@ -34564,7 +34564,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 80071,
+        "total_qty": 80069,
         "sku_count": 4391,
         "product_count": 4391
       },
@@ -34572,7 +34572,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 21173,
+        "total_qty": 21172,
         "sku_count": 2575,
         "product_count": 2575
       },
@@ -34580,7 +34580,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 1116,
+        "total_qty": 1115,
         "sku_count": 931,
         "product_count": 931
       },
@@ -34588,7 +34588,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 55424,
+        "total_qty": 55423,
         "sku_count": 2128,
         "product_count": 2128
       },
@@ -34604,7 +34604,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 80071,
+        "total_qty": 80069,
         "sku_count": 3388,
         "product_count": 3388
       },
@@ -34612,9 +34612,9 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 79651,
-        "sku_count": 2968,
-        "product_count": 2968
+        "total_qty": 79648,
+        "sku_count": 2967,
+        "product_count": 2967
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
@@ -34668,7 +34668,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 18687,
+        "total_qty": 18686,
         "sku_count": 478,
         "product_count": 478
       },
@@ -34900,7 +34900,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 24128,
+        "total_qty": 24127,
         "sku_count": 38,
         "product_count": 38
       },
@@ -35404,7 +35404,7 @@
         "title": "BALENCIAGA",
         "handle": "balenciaga",
         "legacy_id": "395973296382",
-        "total_qty": 179,
+        "total_qty": 178,
         "sku_count": 86,
         "product_count": 86
       },
@@ -35460,7 +35460,7 @@
         "title": "Relabeled",
         "handle": "relabeled",
         "legacy_id": "484454269182",
-        "total_qty": 239,
+        "total_qty": 238,
         "sku_count": 132,
         "product_count": 132
       },
@@ -47352,7 +47352,7 @@
         "sku": "MJ-MARC-463-0086-53"
       },
       "gid://shopify/ProductVariant/46059134714110": {
-        "qty": 9548,
+        "qty": 9547,
         "product_title": "DropShip",
         "sku": "DropShip"
       },
@@ -82042,7 +82042,7 @@
         "sku": "BALENCIAGA-BB0238O-006-50_R"
       },
       "gid://shopify/ProductVariant/48301158367486": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "BB0242O-006-53-RELABELED",
         "sku": "BALENCIAGA-BB0242O-006-53_R"
       },
