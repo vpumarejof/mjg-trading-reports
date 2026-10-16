@@ -34595,13 +34595,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-16T06:01:59.140437+00:00",
+    "updated_at": "2026-10-16T11:17:36.383076+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 80207,
+        "total_qty": 80190,
         "sku_count": 11529,
         "product_count": 11529
       },
@@ -34609,15 +34609,15 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 80207,
-        "sku_count": 4416,
-        "product_count": 4416
+        "total_qty": 80190,
+        "sku_count": 4415,
+        "product_count": 4415
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 21314,
+        "total_qty": 21310,
         "sku_count": 2588,
         "product_count": 2588
       },
@@ -34633,9 +34633,9 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 55403,
-        "sku_count": 2126,
-        "product_count": 2126
+        "total_qty": 55390,
+        "sku_count": 2124,
+        "product_count": 2124
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -34649,23 +34649,23 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 80207,
-        "sku_count": 3413,
-        "product_count": 3413
+        "total_qty": 80190,
+        "sku_count": 3411,
+        "product_count": 3411
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 79782,
-        "sku_count": 2988,
-        "product_count": 2988
+        "total_qty": 79764,
+        "sku_count": 2985,
+        "product_count": 2985
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 8449,
+        "total_qty": 8448,
         "sku_count": 749,
         "product_count": 749
       },
@@ -34673,7 +34673,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 8449,
+        "total_qty": 8448,
         "sku_count": 749,
         "product_count": 749
       },
@@ -34681,7 +34681,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 2998,
+        "total_qty": 2997,
         "sku_count": 395,
         "product_count": 395
       },
@@ -34713,9 +34713,9 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 18682,
-        "sku_count": 478,
-        "product_count": 478
+        "total_qty": 18680,
+        "sku_count": 477,
+        "product_count": 477
       },
       "gid://shopify/Collection/463407481086": {
         "title": "OPEN BOX",
@@ -34745,7 +34745,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 15243,
+        "total_qty": 15239,
         "sku_count": 1279,
         "product_count": 1279
       },
@@ -34785,7 +34785,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 8185,
+        "total_qty": 8183,
         "sku_count": 644,
         "product_count": 644
       },
@@ -34801,7 +34801,7 @@
         "title": "LACOSTE",
         "handle": "lacoste",
         "legacy_id": "393068577022",
-        "total_qty": 881,
+        "total_qty": 880,
         "sku_count": 129,
         "product_count": 129
       },
@@ -34809,7 +34809,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2586,
+        "total_qty": 2584,
         "sku_count": 213,
         "product_count": 213
       },
@@ -34817,7 +34817,7 @@
         "title": "NIKE",
         "handle": "nike",
         "legacy_id": "391775125758",
-        "total_qty": 272,
+        "total_qty": 270,
         "sku_count": 41,
         "product_count": 41
       },
@@ -34833,7 +34833,7 @@
         "title": "Kid's Eyeglasses",
         "handle": "kids-eyeglasses",
         "legacy_id": "408131305726",
-        "total_qty": 21561,
+        "total_qty": 21559,
         "sku_count": 102,
         "product_count": 102
       },
@@ -34921,7 +34921,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 409,
+        "total_qty": 408,
         "sku_count": 73,
         "product_count": 73
       },
@@ -35225,9 +35225,9 @@
         "title": "ANDY WOLF",
         "handle": "andy-wolf-1",
         "legacy_id": "469566619902",
-        "total_qty": 879,
-        "sku_count": 246,
-        "product_count": 246
+        "total_qty": 877,
+        "sku_count": 245,
+        "product_count": 245
       },
       "gid://shopify/Collection/470247014654": {
         "title": "DENIM",
@@ -35385,7 +35385,7 @@
         "title": "FACE A FACE",
         "handle": "face-a-face",
         "legacy_id": "475759968510",
-        "total_qty": 2401,
+        "total_qty": 2398,
         "sku_count": 268,
         "product_count": 268
       },
@@ -35433,7 +35433,7 @@
         "title": "PRODESIGN",
         "handle": "prodesign",
         "legacy_id": "478388125950",
-        "total_qty": 863,
+        "total_qty": 860,
         "sku_count": 108,
         "product_count": 108
       },
@@ -35449,7 +35449,7 @@
         "title": "BALENCIAGA",
         "handle": "balenciaga",
         "legacy_id": "395973296382",
-        "total_qty": 178,
+        "total_qty": 177,
         "sku_count": 86,
         "product_count": 86
       },
@@ -35537,7 +35537,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 3038,
+        "total_qty": 3035,
         "sku_count": 219,
         "product_count": 219
       },
@@ -35633,7 +35633,7 @@
         "title": "CUTLER AND GROSS",
         "handle": "cutler-and-gross",
         "legacy_id": "512308904190",
-        "total_qty": 1630,
+        "total_qty": 1627,
         "sku_count": 69,
         "product_count": 69
       },
@@ -38978,7 +38978,7 @@
         "sku": "RAG&BONE70090HGC55"
       },
       "gid://shopify/ProductVariant/42809919242494": {
-        "qty": 6,
+        "qty": 4,
         "product_title": "5535-710-45",
         "sku": "NIKE553571045"
       },
@@ -58388,7 +58388,7 @@
         "sku": "KS-BRYNNE/G/S-01ED/IB"
       },
       "gid://shopify/ProductVariant/47056115663102": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "CAPRI/G/S-0B3V/G/DG",
         "sku": "KS-CAPRI/G/S-0B3V/DG"
       },
@@ -60113,7 +60113,7 @@
         "sku": "AW-4543-H-48"
       },
       "gid://shopify/ProductVariant/47124755644670": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "4544-F-53",
         "sku": "AW-4544-F-53"
       },
@@ -71408,7 +71408,7 @@
         "sku": "AW-4530-E-53"
       },
       "gid://shopify/ProductVariant/47655203700990": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "4729-C-53",
         "sku": "AW-4729-C-53"
       },
@@ -72793,7 +72793,7 @@
         "sku": "PD-66161-5231-57"
       },
       "gid://shopify/ProductVariant/47761274339582": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "66161-6511-57",
         "sku": "PD-66161-6511-57"
       },
@@ -73038,7 +73038,7 @@
         "sku": "WOOW-BE-SAFE-2-0285-54"
       },
       "gid://shopify/ProductVariant/47761813537022": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "BE-SAFE-2-3402-54",
         "sku": "WOOW-BE-SAFE-2-3402-54"
       },
@@ -74848,7 +74848,7 @@
         "sku": "BALENCIAGA-BB0238O-001-50"
       },
       "gid://shopify/ProductVariant/47807379800318": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "BB0238O-005-50",
         "sku": "BALENCIAGA-BB0238O-005-50"
       },
@@ -89133,7 +89133,7 @@
         "sku": "PD-3179-9031-49"
       },
       "gid://shopify/ProductVariant/48913521148158": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "3183-9031-58",
         "sku": "PD-3183-9031-58"
       },
@@ -89283,7 +89283,7 @@
         "sku": "PD-ELATE-2-6031-56"
       },
       "gid://shopify/ProductVariant/48913522262270": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "GRANDD-2-N-9035-56",
         "sku": "PD-GRANDD-2-N-9035-56"
       },
@@ -89423,7 +89423,7 @@
         "sku": "FF-ALIUM180-3-9432-47"
       },
       "gid://shopify/ProductVariant/48932963811582": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "ALIUM-BOLT-1-0957-53",
         "sku": "FF-ALIUM-BOLT-1-0957-53"
       },
@@ -89478,7 +89478,7 @@
         "sku": "FF-ALIUM-SURF-1-TM01-47"
       },
       "gid://shopify/ProductVariant/48932964598014": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "ALIUM-TREK-3-0028-58",
         "sku": "FF-ALIUM-TREK-3-0028-58"
       },
@@ -89778,7 +89778,7 @@
         "sku": "FF-PLEATS-2-8256-53"
       },
       "gid://shopify/ProductVariant/48932970070270": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "SCOTT-5-9335-52",
         "sku": "FF-SCOTT-5-9335-52"
       },
@@ -91618,7 +91618,7 @@
         "sku": "LACOSTE-L2919-N-214-54"
       },
       "gid://shopify/ProductVariant/67613235577086": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "L2922-N-603-53",
         "sku": "LACOSTE-L2922-N-603-53"
       },
@@ -92818,7 +92818,7 @@
         "sku": "CG-CGSN-1353-02"
       },
       "gid://shopify/ProductVariant/67667224690942": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "CGSN-1355-53-05",
         "sku": "CG-CGSN-1355-05"
       },
@@ -92848,7 +92848,7 @@
         "sku": "CG-CGSN-1363-02"
       },
       "gid://shopify/ProductVariant/67667225215230": {
-        "qty": 29,
+        "qty": 28,
         "product_title": "CGSN-1367-55-01",
         "sku": "CG-CGSN-1367-01"
       },
@@ -92978,7 +92978,7 @@
         "sku": "CG-CGSN-1408-B1"
       },
       "gid://shopify/ProductVariant/67667226886398": {
-        "qty": 21,
+        "qty": 20,
         "product_title": "CGSN-9101-53-04",
         "sku": "CG-CGSN-9101-04"
       },
