@@ -34592,13 +34592,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-17T12:25:06.329538+00:00",
+    "updated_at": "2026-10-17T15:46:58.989574+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 80064,
+        "total_qty": 80062,
         "sku_count": 11529,
         "product_count": 11529
       },
@@ -34606,7 +34606,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 80064,
+        "total_qty": 80062,
         "sku_count": 4404,
         "product_count": 4404
       },
@@ -34614,7 +34614,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 21285,
+        "total_qty": 21284,
         "sku_count": 2588,
         "product_count": 2588
       },
@@ -34630,9 +34630,9 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 55289,
-        "sku_count": 2102,
-        "product_count": 2102
+        "total_qty": 55288,
+        "sku_count": 2101,
+        "product_count": 2101
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -34646,15 +34646,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 80064,
-        "sku_count": 3389,
-        "product_count": 3389
+        "total_qty": 80062,
+        "sku_count": 3388,
+        "product_count": 3388
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 79644,
+        "total_qty": 79643,
         "sku_count": 2969,
         "product_count": 2969
       },
@@ -34742,7 +34742,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 15217,
+        "total_qty": 15216,
         "sku_count": 1279,
         "product_count": 1279
       },
@@ -34806,7 +34806,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2580,
+        "total_qty": 2579,
         "sku_count": 213,
         "product_count": 213
       },
@@ -34886,9 +34886,9 @@
         "title": "CAZAL",
         "handle": "cazal",
         "legacy_id": "400594534654",
-        "total_qty": 19,
-        "sku_count": 3,
-        "product_count": 3
+        "total_qty": 18,
+        "sku_count": 2,
+        "product_count": 2
       },
       "gid://shopify/Collection/413250781438": {
         "title": "ISABEL MARANT",
@@ -35534,7 +35534,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 2322,
+        "total_qty": 2321,
         "sku_count": 132,
         "product_count": 132
       },
@@ -35630,7 +35630,7 @@
         "title": "CUTLER AND GROSS",
         "handle": "cutler-and-gross",
         "legacy_id": "512308904190",
-        "total_qty": 1621,
+        "total_qty": 1620,
         "sku_count": 69,
         "product_count": 69
       },
@@ -46260,7 +46260,7 @@
         "sku": "CAZAL-6028-C003-49"
       },
       "gid://shopify/ProductVariant/45858110800126": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "7093-C003-53",
         "sku": "CAZAL-7093-C003-53"
       },
@@ -92710,7 +92710,7 @@
         "sku": "CG-CGSN-1326-01"
       },
       "gid://shopify/ProductVariant/67667222921470": {
-        "qty": 21,
+        "qty": 20,
         "product_title": "CGSN-1332-53-01",
         "sku": "CG-CGSN-1332-01"
       },
