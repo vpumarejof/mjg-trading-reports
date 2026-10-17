@@ -34592,13 +34592,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-17T20:33:00.020960+00:00",
+    "updated_at": "2026-10-17T22:39:40.738824+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 80062,
+        "total_qty": 80059,
         "sku_count": 11529,
         "product_count": 11529
       },
@@ -34606,7 +34606,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 80062,
+        "total_qty": 80059,
         "sku_count": 4404,
         "product_count": 4404
       },
@@ -34630,7 +34630,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 55288,
+        "total_qty": 55285,
         "sku_count": 2101,
         "product_count": 2101
       },
@@ -34646,7 +34646,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 80062,
+        "total_qty": 80059,
         "sku_count": 3388,
         "product_count": 3388
       },
@@ -34654,15 +34654,15 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 79643,
-        "sku_count": 2969,
-        "product_count": 2969
+        "total_qty": 79639,
+        "sku_count": 2968,
+        "product_count": 2968
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 8422,
+        "total_qty": 8420,
         "sku_count": 742,
         "product_count": 742
       },
@@ -34670,7 +34670,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 8422,
+        "total_qty": 8420,
         "sku_count": 742,
         "product_count": 742
       },
@@ -34798,7 +34798,7 @@
         "title": "LACOSTE",
         "handle": "lacoste",
         "legacy_id": "393068577022",
-        "total_qty": 878,
+        "total_qty": 877,
         "sku_count": 128,
         "product_count": 128
       },
@@ -35078,7 +35078,7 @@
         "title": "MOSCHINO",
         "handle": "moschino",
         "legacy_id": "395943837950",
-        "total_qty": 425,
+        "total_qty": 423,
         "sku_count": 50,
         "product_count": 50
       },
@@ -57400,7 +57400,7 @@
         "sku": "MOSCHINO-MOS-616/F-0086-54"
       },
       "gid://shopify/ProductVariant/47010186395902": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "MOS-628-0MU1-51",
         "sku": "MOSCHINO-MOS-628-0MU1-51"
       },
@@ -68705,7 +68705,7 @@
         "sku": "MOSCHINO-MOS631-0LHF-52"
       },
       "gid://shopify/ProductVariant/47577495503102": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "MOS635-C9A-53",
         "sku": "MOSCHINO-MOS635-C9A-53"
       },
@@ -92375,7 +92375,7 @@
         "sku": "LACOSTE-L2961-N-214-53"
       },
       "gid://shopify/ProductVariant/67641441190142": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "L2977-N-001-54",
         "sku": "LACOSTE-L2977-N-001-54"
       },
