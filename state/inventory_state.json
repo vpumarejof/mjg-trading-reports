@@ -34592,13 +34592,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-17T00:04:37.418504+00:00",
+    "updated_at": "2026-10-17T04:20:20.227722+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 80080,
+        "total_qty": 80069,
         "sku_count": 11529,
         "product_count": 11529
       },
@@ -34606,7 +34606,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 80080,
+        "total_qty": 80069,
         "sku_count": 4405,
         "product_count": 4405
       },
@@ -34622,7 +34622,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 1104,
+        "total_qty": 1103,
         "sku_count": 931,
         "product_count": 931
       },
@@ -34630,9 +34630,9 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 55296,
-        "sku_count": 2105,
-        "product_count": 2105
+        "total_qty": 55290,
+        "sku_count": 2103,
+        "product_count": 2103
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -34646,17 +34646,17 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 80080,
-        "sku_count": 3392,
-        "product_count": 3392
+        "total_qty": 80069,
+        "sku_count": 3390,
+        "product_count": 3390
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 79659,
-        "sku_count": 2971,
-        "product_count": 2971
+        "total_qty": 79648,
+        "sku_count": 2969,
+        "product_count": 2969
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
@@ -34742,7 +34742,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 15226,
+        "total_qty": 15221,
         "sku_count": 1279,
         "product_count": 1279
       },
@@ -34758,7 +34758,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 4532,
+        "total_qty": 4530,
         "sku_count": 427,
         "product_count": 427
       },
@@ -34782,7 +34782,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 8179,
+        "total_qty": 8176,
         "sku_count": 644,
         "product_count": 644
       },
@@ -34814,9 +34814,9 @@
         "title": "NIKE",
         "handle": "nike",
         "legacy_id": "391775125758",
-        "total_qty": 269,
-        "sku_count": 40,
-        "product_count": 40
+        "total_qty": 268,
+        "sku_count": 39,
+        "product_count": 39
       },
       "gid://shopify/Collection/395955470590": {
         "title": "ALEXANDER MCQUEEN",
@@ -34846,7 +34846,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1241,
+        "total_qty": 1240,
         "sku_count": 74,
         "product_count": 74
       },
@@ -34918,7 +34918,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 408,
+        "total_qty": 407,
         "sku_count": 73,
         "product_count": 73
       },
@@ -35102,7 +35102,7 @@
         "title": "CALVIN KLEIN",
         "handle": "calvin-klein",
         "legacy_id": "393476997374",
-        "total_qty": 254,
+        "total_qty": 253,
         "sku_count": 52,
         "product_count": 52
       },
@@ -35238,7 +35238,7 @@
         "title": "DKNY",
         "handle": "dkny",
         "legacy_id": "395943870718",
-        "total_qty": 453,
+        "total_qty": 452,
         "sku_count": 63,
         "product_count": 63
       },
@@ -35390,9 +35390,9 @@
         "title": "JAGUAR",
         "handle": "jaguar",
         "legacy_id": "475760034046",
-        "total_qty": 1833,
-        "sku_count": 168,
-        "product_count": 168
+        "total_qty": 1829,
+        "sku_count": 167,
+        "product_count": 167
       },
       "gid://shopify/Collection/476032958718": {
         "title": "LONGCHAMP",
@@ -35534,7 +35534,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 2327,
+        "total_qty": 2325,
         "sku_count": 132,
         "product_count": 132
       },
@@ -35630,7 +35630,7 @@
         "title": "CUTLER AND GROSS",
         "handle": "cutler-and-gross",
         "legacy_id": "512308904190",
-        "total_qty": 1626,
+        "total_qty": 1624,
         "sku_count": 69,
         "product_count": 69
       },
@@ -79295,7 +79295,7 @@
         "sku": "CARRERA-328/S-FWM/QT"
       },
       "gid://shopify/ProductVariant/48121211781374": {
-        "qty": 14,
+        "qty": 13,
         "product_title": "329/S-WR7/9O",
         "sku": "CARRERA-329/S-WR7/9O"
       },
@@ -88230,7 +88230,7 @@
         "sku": "KS-JAYDA/G/S-305/HA"
       },
       "gid://shopify/ProductVariant/48683730567422": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "JOSI/S-086/HA",
         "sku": "KS-JOSI/S-086/HA"
       },
@@ -90020,7 +90020,7 @@
         "sku": "JAGUAR-JG33121-4200-56"
       },
       "gid://shopify/ProductVariant/48963791913214": {
-        "qty": 2,
+        "qty": 0,
         "product_title": "JG33124-3100-60",
         "sku": "JAGUAR-JG33124-3100-60"
       },
@@ -90035,7 +90035,7 @@
         "sku": "JAGUAR-JG33125-4200-57"
       },
       "gid://shopify/ProductVariant/48963792077054": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "JG33125-5100-60",
         "sku": "JAGUAR-JG33125-5100-60"
       },
@@ -90085,7 +90085,7 @@
         "sku": "JAGUAR-JG33620-4200-57"
       },
       "gid://shopify/ProductVariant/48963792896254": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "JG33620-4200-60",
         "sku": "JAGUAR-JG33620-4200-60"
       },
@@ -91125,7 +91125,7 @@
         "sku": "CK-CK24543-515-52"
       },
       "gid://shopify/ProductVariant/67613227286782": {
-        "qty": 14,
+        "qty": 13,
         "product_title": "CK25502S-601",
         "sku": "CK-CK25502S-601"
       },
@@ -91445,7 +91445,7 @@
         "sku": "DKNY-DK5095-237-53"
       },
       "gid://shopify/ProductVariant/67613230792958": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "DK7004-015-53",
         "sku": "DKNY-DK7004-015-53"
       },
@@ -91965,7 +91965,7 @@
         "sku": "NIKE-8131-N-008-53"
       },
       "gid://shopify/ProductVariant/67613240426750": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "8156-002-52",
         "sku": "NIKE-8156-002-52"
       },
@@ -92980,12 +92980,12 @@
         "sku": "CG-CGSN-9101-04"
       },
       "gid://shopify/ProductVariant/67667226951934": {
-        "qty": 16,
+        "qty": 15,
         "product_title": "CGSN-9126-48-A9",
         "sku": "CG-CGSN-9126-A9"
       },
       "gid://shopify/ProductVariant/67667226984702": {
-        "qty": 24,
+        "qty": 23,
         "product_title": "CGSN-9126-48-B1",
         "sku": "CG-CGSN-9126-B1"
       },
