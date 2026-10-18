@@ -34592,13 +34592,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-18T21:13:18.094838+00:00",
+    "updated_at": "2026-10-18T23:11:39.871687+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 80039,
+        "total_qty": 80015,
         "sku_count": 11529,
         "product_count": 11529
       },
@@ -34606,15 +34606,15 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 80039,
-        "sku_count": 4401,
-        "product_count": 4401
+        "total_qty": 80015,
+        "sku_count": 4398,
+        "product_count": 4398
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 21280,
+        "total_qty": 21272,
         "sku_count": 2588,
         "product_count": 2588
       },
@@ -34630,7 +34630,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 55280,
+        "total_qty": 55279,
         "sku_count": 2100,
         "product_count": 2100
       },
@@ -34646,17 +34646,17 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 80039,
-        "sku_count": 3385,
-        "product_count": 3385
+        "total_qty": 80015,
+        "sku_count": 3382,
+        "product_count": 3382
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 79620,
-        "sku_count": 2966,
-        "product_count": 2966
+        "total_qty": 79595,
+        "sku_count": 2962,
+        "product_count": 2962
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
@@ -34678,9 +34678,9 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 2977,
-        "sku_count": 391,
-        "product_count": 391
+        "total_qty": 2976,
+        "sku_count": 390,
+        "product_count": 390
       },
       "gid://shopify/Collection/391854031102": {
         "title": "Women's",
@@ -34702,7 +34702,7 @@
         "title": "GUCCI",
         "handle": "gucci",
         "legacy_id": "421341364478",
-        "total_qty": 459,
+        "total_qty": 458,
         "sku_count": 301,
         "product_count": 301
       },
@@ -34742,9 +34742,9 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 15202,
-        "sku_count": 1277,
-        "product_count": 1277
+        "total_qty": 15179,
+        "sku_count": 1274,
+        "product_count": 1274
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -34758,7 +34758,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 4528,
+        "total_qty": 4523,
         "sku_count": 427,
         "product_count": 427
       },
@@ -34782,9 +34782,9 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 8165,
-        "sku_count": 642,
-        "product_count": 642
+        "total_qty": 8155,
+        "sku_count": 641,
+        "product_count": 641
       },
       "gid://shopify/Collection/391853998334": {
         "title": "Men's",
@@ -34798,7 +34798,7 @@
         "title": "LACOSTE",
         "handle": "lacoste",
         "legacy_id": "393068577022",
-        "total_qty": 877,
+        "total_qty": 876,
         "sku_count": 128,
         "product_count": 128
       },
@@ -34806,9 +34806,9 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2576,
-        "sku_count": 213,
-        "product_count": 213
+        "total_qty": 2568,
+        "sku_count": 211,
+        "product_count": 211
       },
       "gid://shopify/Collection/391775125758": {
         "title": "NIKE",
@@ -34846,7 +34846,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1239,
+        "total_qty": 1232,
         "sku_count": 74,
         "product_count": 74
       },
@@ -34998,7 +34998,7 @@
         "title": "Gucci",
         "handle": "gucci-1",
         "legacy_id": "407282450686",
-        "total_qty": 459,
+        "total_qty": 458,
         "sku_count": 92,
         "product_count": 92
       },
@@ -35070,9 +35070,9 @@
         "title": "VALENTINO",
         "handle": "valentino",
         "legacy_id": "462679113982",
-        "total_qty": 65,
-        "sku_count": 15,
-        "product_count": 15
+        "total_qty": 64,
+        "sku_count": 14,
+        "product_count": 14
       },
       "gid://shopify/Collection/395943837950": {
         "title": "MOSCHINO",
@@ -35390,7 +35390,7 @@
         "title": "JAGUAR",
         "handle": "jaguar",
         "legacy_id": "475760034046",
-        "total_qty": 1829,
+        "total_qty": 1828,
         "sku_count": 167,
         "product_count": 167
       },
@@ -35470,9 +35470,9 @@
         "title": "ELTON JOHN",
         "handle": "elton-john",
         "legacy_id": "482187051262",
-        "total_qty": 824,
-        "sku_count": 81,
-        "product_count": 81
+        "total_qty": 811,
+        "sku_count": 79,
+        "product_count": 79
       },
       "gid://shopify/Collection/483191193854": {
         "title": "CELINE",
@@ -35510,7 +35510,7 @@
         "title": "Relabeled",
         "handle": "relabeled",
         "legacy_id": "484454269182",
-        "total_qty": 234,
+        "total_qty": 233,
         "sku_count": 128,
         "product_count": 128
       },
@@ -74085,7 +74085,7 @@
         "sku": "VALENTINO-V-LSTORY-VLS-129C-50"
       },
       "gid://shopify/ProductVariant/47769384714494": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "V-LURE-VLS-130A-67",
         "sku": "VALENTINO-V-LURE-VLS-130A-67"
       },
@@ -78590,7 +78590,7 @@
         "sku": "EJ-DODGER2-BLK"
       },
       "gid://shopify/ProductVariant/48094431019262": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "DODGER3-SLV",
         "sku": "EJ-DODGER3-SLV"
       },
@@ -78615,7 +78615,7 @@
         "sku": "EJ-HEADLINER-BLKCR"
       },
       "gid://shopify/ProductVariant/48094431609086": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "HERCULES1-GLDBL",
         "sku": "EJ-HERCULES1-GLDBL"
       },
@@ -78690,7 +78690,7 @@
         "sku": "EJ-MALIBU3-BRZSY"
       },
       "gid://shopify/ProductVariant/48094432755966": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "PAPARAZZI1-GRYFD",
         "sku": "EJ-PAPARAZZI1-GRYFD"
       },
@@ -78720,7 +78720,7 @@
         "sku": "EJ-SHADE2-LBKGD"
       },
       "gid://shopify/ProductVariant/48094432985342": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "SUPERSTAR2-RTORT",
         "sku": "EJ-SUPERSTAR2-RTORT"
       },
@@ -83045,7 +83045,7 @@
         "sku": "GUCCI-GG1570S-002_R"
       },
       "gid://shopify/ProductVariant/48301169967358": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "GG1570S-003-RELABELED",
         "sku": "GUCCI-GG1570S-003_R"
       },
@@ -83425,7 +83425,7 @@
         "sku": "EJ-LEMANS1-SHYGD"
       },
       "gid://shopify/ProductVariant/48305154392318": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "LEMANS2-MTBLK",
         "sku": "EJ-LEMANS2-MTBLK"
       },
@@ -83440,7 +83440,7 @@
         "sku": "EJ-SPEAKEASY1-BURDY"
       },
       "gid://shopify/ProductVariant/48305154523390": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "SPEAKEASY2-BLKBL",
         "sku": "EJ-SPEAKEASY2-BLKBL"
       },
@@ -87720,7 +87720,7 @@
         "sku": "EJ-DGBYHEART-1-RED"
       },
       "gid://shopify/ProductVariant/48667528626430": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "DGBYHEART-2-BLACK",
         "sku": "EJ-DGBYHEART-2-BLACK"
       },
@@ -87740,7 +87740,7 @@
         "sku": "EJ-DGBYHEART-5-TORT"
       },
       "gid://shopify/ProductVariant/48667528757502": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "DGBYHEART-6-GLPINK",
         "sku": "EJ-DGBYHEART-6-GLPINK"
       },
@@ -87775,12 +87775,12 @@
         "sku": "EJ-FILMSTAR-PBLON"
       },
       "gid://shopify/ProductVariant/48667529150718": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "FLASHBULB-1-LLTTRT",
         "sku": "EJ-FLASHBULB-1-LLTTRT"
       },
       "gid://shopify/ProductVariant/48667529183486": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "FLASHBULB-2-DKTRT",
         "sku": "EJ-FLASHBULB-2-DKTRT"
       },
@@ -87805,7 +87805,7 @@
         "sku": "EJ-HIPPIE-FKGIF"
       },
       "gid://shopify/ProductVariant/48667529478398": {
-        "qty": 16,
+        "qty": 15,
         "product_title": "HONKYCAT-3-AMSKY",
         "sku": "EJ-HONKYCAT-3-AMSKY"
       },
@@ -87825,7 +87825,7 @@
         "sku": "EJ-HONKYCAT-6-NVYTR"
       },
       "gid://shopify/ProductVariant/48667529642238": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "KING-VGLPD",
         "sku": "EJ-KING-VGLPD"
       },
@@ -87880,7 +87880,7 @@
         "sku": "EJ-PRODIGY-3-TKTFD"
       },
       "gid://shopify/ProductVariant/48667530133758": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "SHOOTSTAR-1-GLDSY",
         "sku": "EJ-SHOOTSTAR-1-GLDSY"
       },
@@ -87965,7 +87965,7 @@
         "sku": "CARRERA-3001/S-KB7/HA"
       },
       "gid://shopify/ProductVariant/48683728175358": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "3005/S-06J/LA",
         "sku": "CARRERA-3005/S-06J/LA"
       },
@@ -87985,7 +87985,7 @@
         "sku": "CARRERA-3014/S-JBW/9O"
       },
       "gid://shopify/ProductVariant/48683728306430": {
-        "qty": 21,
+        "qty": 20,
         "product_title": "3016/S-EX4/HA",
         "sku": "CARRERA-3016/S-EX4/HA"
       },
@@ -88010,7 +88010,7 @@
         "sku": "CARRERA-328/S-WR7/IR"
       },
       "gid://shopify/ProductVariant/48683728503038": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "359/S-KB7/FQ",
         "sku": "CARRERA-359/S-KB7/FQ"
       },
@@ -88035,7 +88035,7 @@
         "sku": "CARRERA-8059/S-0D51/Z0"
       },
       "gid://shopify/ProductVariant/48683728699646": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "8060/S-003/IR",
         "sku": "CARRERA-8060/S-003/IR"
       },
@@ -88920,7 +88920,7 @@
         "sku": "DIOR-DM40016U-01A"
       },
       "gid://shopify/ProductVariant/48772544004350": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "1060/S-08A/IR",
         "sku": "CARRERA-1060/S-08A/IR"
       },
@@ -88935,7 +88935,7 @@
         "sku": "CARRERA-1067/S-I46/YL"
       },
       "gid://shopify/ProductVariant/48772544135422": {
-        "qty": 18,
+        "qty": 17,
         "product_title": "259/S-807/70",
         "sku": "CARRERA-259/S-807/70"
       },
@@ -88945,7 +88945,7 @@
         "sku": "CARRERA-3016/S-807/IR"
       },
       "gid://shopify/ProductVariant/48772544200958": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "8059/S-003/UC",
         "sku": "CARRERA-8059/S-003/UC"
       },
@@ -90270,7 +90270,7 @@
         "sku": "JAGUAR-JG37123-8840"
       },
       "gid://shopify/ProductVariant/48963796697342": {
-        "qty": 13,
+        "qty": 12,
         "product_title": "JG37123-8940",
         "sku": "JAGUAR-JG37123-8940"
       },
@@ -92295,7 +92295,7 @@
         "sku": "KL-KL6171-N-242-54"
       },
       "gid://shopify/ProductVariant/67641438929150": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "L2217-N-001-52",
         "sku": "LACOSTE-L2217-N-001-52"
       },
