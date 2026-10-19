@@ -34592,13 +34592,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-18T23:11:39.871687+00:00",
+    "updated_at": "2026-10-19T01:14:03.121665+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 80015,
+        "total_qty": 80014,
         "sku_count": 11529,
         "product_count": 11529
       },
@@ -34606,7 +34606,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 80015,
+        "total_qty": 80014,
         "sku_count": 4398,
         "product_count": 4398
       },
@@ -34646,7 +34646,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 80015,
+        "total_qty": 80014,
         "sku_count": 3382,
         "product_count": 3382
       },
@@ -34654,7 +34654,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 79595,
+        "total_qty": 79594,
         "sku_count": 2962,
         "product_count": 2962
       },
@@ -34742,7 +34742,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 15179,
+        "total_qty": 15178,
         "sku_count": 1274,
         "product_count": 1274
       },
@@ -34782,7 +34782,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 8155,
+        "total_qty": 8154,
         "sku_count": 641,
         "product_count": 641
       },
@@ -35382,7 +35382,7 @@
         "title": "FACE A FACE",
         "handle": "face-a-face",
         "legacy_id": "475759968510",
-        "total_qty": 2397,
+        "total_qty": 2396,
         "sku_count": 268,
         "product_count": 268
       },
@@ -78190,7 +78190,7 @@
         "sku": "FF-SOTSAS-1-2014"
       },
       "gid://shopify/ProductVariant/48035789504766": {
-        "qty": 13,
+        "qty": 12,
         "product_title": "SOTSAS-1-4174",
         "sku": "FF-SOTSAS-1-4174"
       },
