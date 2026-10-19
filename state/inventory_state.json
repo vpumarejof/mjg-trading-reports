@@ -34592,13 +34592,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-19T19:20:10.723703+00:00",
+    "updated_at": "2026-10-19T22:59:05.728156+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 79913,
+        "total_qty": 79878,
         "sku_count": 11529,
         "product_count": 11529
       },
@@ -34606,15 +34606,15 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 79913,
-        "sku_count": 4392,
-        "product_count": 4392
+        "total_qty": 79878,
+        "sku_count": 4387,
+        "product_count": 4387
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 21256,
+        "total_qty": 21242,
         "sku_count": 2588,
         "product_count": 2588
       },
@@ -34630,7 +34630,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 55259,
+        "total_qty": 55249,
         "sku_count": 2096,
         "product_count": 2096
       },
@@ -34646,23 +34646,23 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 79913,
-        "sku_count": 3373,
-        "product_count": 3373
+        "total_qty": 79878,
+        "sku_count": 3368,
+        "product_count": 3368
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 79497,
-        "sku_count": 2957,
-        "product_count": 2957
+        "total_qty": 79463,
+        "sku_count": 2953,
+        "product_count": 2953
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 8410,
+        "total_qty": 8408,
         "sku_count": 741,
         "product_count": 741
       },
@@ -34670,7 +34670,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 8410,
+        "total_qty": 8408,
         "sku_count": 741,
         "product_count": 741
       },
@@ -34678,9 +34678,9 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 2969,
-        "sku_count": 389,
-        "product_count": 389
+        "total_qty": 2959,
+        "sku_count": 385,
+        "product_count": 385
       },
       "gid://shopify/Collection/391854031102": {
         "title": "Women's",
@@ -34710,7 +34710,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 18654,
+        "total_qty": 18653,
         "sku_count": 472,
         "product_count": 472
       },
@@ -34742,9 +34742,9 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 15098,
-        "sku_count": 1269,
-        "product_count": 1269
+        "total_qty": 15075,
+        "sku_count": 1264,
+        "product_count": 1264
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -34758,9 +34758,9 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 4500,
-        "sku_count": 425,
-        "product_count": 425
+        "total_qty": 4492,
+        "sku_count": 423,
+        "product_count": 423
       },
       "gid://shopify/Collection/391774109950": {
         "title": "DRAGON",
@@ -34782,7 +34782,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 8110,
+        "total_qty": 8108,
         "sku_count": 639,
         "product_count": 639
       },
@@ -34806,15 +34806,15 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2556,
-        "sku_count": 210,
-        "product_count": 210
+        "total_qty": 2543,
+        "sku_count": 207,
+        "product_count": 207
       },
       "gid://shopify/Collection/391775125758": {
         "title": "NIKE",
         "handle": "nike",
         "legacy_id": "391775125758",
-        "total_qty": 266,
+        "total_qty": 265,
         "sku_count": 39,
         "product_count": 39
       },
@@ -34942,7 +34942,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 24122,
+        "total_qty": 24120,
         "sku_count": 38,
         "product_count": 38
       },
@@ -34958,7 +34958,7 @@
         "title": "MARC JACOBS",
         "handle": "marc-jacobs",
         "legacy_id": "391774732542",
-        "total_qty": 402,
+        "total_qty": 401,
         "sku_count": 59,
         "product_count": 59
       },
@@ -34966,7 +34966,7 @@
         "title": "QUAY",
         "handle": "quay",
         "legacy_id": "472482939134",
-        "total_qty": 1141,
+        "total_qty": 1139,
         "sku_count": 73,
         "product_count": 73
       },
@@ -35006,7 +35006,7 @@
         "title": "Readers",
         "handle": "readers",
         "legacy_id": "373526069502",
-        "total_qty": 143,
+        "total_qty": 142,
         "sku_count": 42,
         "product_count": 42
       },
@@ -35014,7 +35014,7 @@
         "title": "EYEBOBS",
         "handle": "eyebobs",
         "legacy_id": "391774273790",
-        "total_qty": 160,
+        "total_qty": 159,
         "sku_count": 59,
         "product_count": 59
       },
@@ -35030,7 +35030,7 @@
         "title": "Women's Readers",
         "handle": "womens-readers",
         "legacy_id": "459347689726",
-        "total_qty": 84,
+        "total_qty": 83,
         "sku_count": 32,
         "product_count": 32
       },
@@ -35038,7 +35038,7 @@
         "title": "PRIMARY",
         "handle": "primary",
         "legacy_id": "460628721918",
-        "total_qty": 35422,
+        "total_qty": 35420,
         "sku_count": 238,
         "product_count": 238
       },
@@ -35054,7 +35054,7 @@
         "title": "Tariff Busters",
         "handle": "tariff-busters",
         "legacy_id": "463834087678",
-        "total_qty": 44859,
+        "total_qty": 44857,
         "sku_count": 329,
         "product_count": 329
       },
@@ -35086,15 +35086,15 @@
         "title": "MISSONI",
         "handle": "missoni",
         "legacy_id": "408673911038",
-        "total_qty": 857,
-        "sku_count": 72,
-        "product_count": 72
+        "total_qty": 855,
+        "sku_count": 71,
+        "product_count": 71
       },
       "gid://shopify/Collection/466217926910": {
         "title": "LIGHTEC-MOREL",
         "handle": "lightec-morel",
         "legacy_id": "466217926910",
-        "total_qty": 215,
+        "total_qty": 214,
         "sku_count": 30,
         "product_count": 30
       },
@@ -35126,7 +35126,7 @@
         "title": "OPTIKA",
         "handle": "optika",
         "legacy_id": "464259285246",
-        "total_qty": 1743,
+        "total_qty": 1742,
         "sku_count": 18,
         "product_count": 18
       },
@@ -35166,7 +35166,7 @@
         "title": "CHESTERFIELD",
         "handle": "chesterfield",
         "legacy_id": "402638668030",
-        "total_qty": 11,
+        "total_qty": 10,
         "sku_count": 6,
         "product_count": 6
       },
@@ -35238,7 +35238,7 @@
         "title": "DKNY",
         "handle": "dkny",
         "legacy_id": "395943870718",
-        "total_qty": 451,
+        "total_qty": 450,
         "sku_count": 62,
         "product_count": 62
       },
@@ -35454,15 +35454,15 @@
         "title": "BUGATTI",
         "handle": "bugatti",
         "legacy_id": "480545439998",
-        "total_qty": 206,
-        "sku_count": 29,
-        "product_count": 29
+        "total_qty": 187,
+        "sku_count": 24,
+        "product_count": 24
       },
       "gid://shopify/Collection/481959280894": {
         "title": "MODO",
         "handle": "modo",
         "legacy_id": "481959280894",
-        "total_qty": 267,
+        "total_qty": 266,
         "sku_count": 28,
         "product_count": 28
       },
@@ -35534,9 +35534,9 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 2300,
-        "sku_count": 132,
-        "product_count": 132
+        "total_qty": 2290,
+        "sku_count": 131,
+        "product_count": 131
       },
       "gid://shopify/Collection/487431995646": {
         "title": "CANADA GOOSE",
@@ -35630,7 +35630,7 @@
         "title": "CUTLER AND GROSS",
         "handle": "cutler-and-gross",
         "legacy_id": "512308904190",
-        "total_qty": 1610,
+        "total_qty": 1609,
         "sku_count": 69,
         "product_count": 69
       },
@@ -47410,7 +47410,7 @@
         "sku": "MJ-MARC-463-0086-53"
       },
       "gid://shopify/ProductVariant/46059134714110": {
-        "qty": 9542,
+        "qty": 9540,
         "product_title": "DropShip",
         "sku": "DropShip"
       },
@@ -49510,7 +49510,7 @@
         "sku": "EYEBOBS-3424-15-2.50"
       },
       "gid://shopify/ProductVariant/46243448357118": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "3429-10-1.25",
         "sku": "EYEBOBS-3429-10-1.25"
       },
@@ -50655,7 +50655,7 @@
         "sku": "Primary-1071-Brown-50"
       },
       "gid://shopify/ProductVariant/46371997810942": {
-        "qty": 161,
+        "qty": 159,
         "product_title": "1071-GUNMETAL-50",
         "sku": "Primary-1071-Gunmetal-50"
       },
@@ -53450,7 +53450,7 @@
         "sku": "MISSONI-MIS-0044-0FWM-52"
       },
       "gid://shopify/ProductVariant/46646962880766": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "MIS-044-0KDX-52",
         "sku": "MISSONI-MIS-0044-0KDX-52"
       },
@@ -54565,7 +54565,7 @@
         "sku": "OPTIKA-OM-125-MATTE-BLUE-55"
       },
       "gid://shopify/ProductVariant/46673584685310": {
-        "qty": 32,
+        "qty": 31,
         "product_title": "OM-126-MATTE-BRN-57",
         "sku": "OPTIKA-OM-126-MATTE-BRN-57"
       },
@@ -56490,7 +56490,7 @@
         "sku": "LIGHTEC-MOREL-30032L-PD05-51"
       },
       "gid://shopify/ProductVariant/46978954821886": {
-        "qty": 17,
+        "qty": 16,
         "product_title": "LIGHTEC-30184L-PD07-51",
         "sku": "LIGHTEC-MOREL-30184L-PD07-51"
       },
@@ -76645,7 +76645,7 @@
         "sku": "QUAY-NO-NS-2569-GRY/NYPOL"
       },
       "gid://shopify/ProductVariant/47931242709246": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "02-BK",
         "sku": "BUGATTI-02-BK"
       },
@@ -76700,17 +76700,17 @@
         "sku": "BUGATTI-06-GRY"
       },
       "gid://shopify/ProductVariant/47931243069694": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "08-MBK/WG",
         "sku": "BUGATTI-08-MBK/WG"
       },
       "gid://shopify/ProductVariant/47931243102462": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "11-BK/SS",
         "sku": "BUGATTI-11-BK/SS"
       },
       "gid://shopify/ProductVariant/47931243135230": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "11-SS",
         "sku": "BUGATTI-11-SS"
       },
@@ -76765,12 +76765,12 @@
         "sku": "BUGATTI-48M-HAV"
       },
       "gid://shopify/ProductVariant/47931327316222": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "08-GM/WG",
         "sku": "BUGATTI-08-GM/WG"
       },
       "gid://shopify/ProductVariant/47931327348990": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "08-MGM/RG",
         "sku": "BUGATTI-08-MGM/RG"
       },
@@ -76990,12 +76990,12 @@
         "sku": "RC-SRC095M-0C36"
       },
       "gid://shopify/ProductVariant/47998569054462": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "10-DT/WG",
         "sku": "BUGATTI-10-DT/WG"
       },
       "gid://shopify/ProductVariant/47998569087230": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "10-BKTT/GM",
         "sku": "BUGATTI-10-BKTT/GM"
       },
@@ -77350,7 +77350,7 @@
         "sku": "MJ-MARC-797/S-C9A/O2"
       },
       "gid://shopify/ProductVariant/48011619500286": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "MARC-803/S-8KJ/IR",
         "sku": "MJ-MARC-803/S-8KJ/IR"
       },
@@ -78465,7 +78465,7 @@
         "sku": "CHESTERFIELD-CH-894/T-TUI-57"
       },
       "gid://shopify/ProductVariant/48094137745662": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "CH-90XL-6LB-56",
         "sku": "CHESTERFIELD-CH-90XL-6LB-56"
       },
@@ -79940,12 +79940,12 @@
         "sku": "DB-1124-WR7-55"
       },
       "gid://shopify/ProductVariant/48130605678846": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "05-BK",
         "sku": "BUGATTI-05-BK"
       },
       "gid://shopify/ProductVariant/48130605711614": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "05-WG/BK",
         "sku": "BUGATTI-05-WG/BK"
       },
@@ -84405,7 +84405,7 @@
         "sku": "MODO-4612-NAVY0-54"
       },
       "gid://shopify/ProductVariant/48354208547070": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "4612-SIL00-54",
         "sku": "MODO-4612-SIL00-54"
       },
@@ -89050,7 +89050,7 @@
         "sku": "LONGCHAMP-LO697S-N-001"
       },
       "gid://shopify/ProductVariant/48913137795326": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "BACKSTAGE PASS-67879",
         "sku": "QUAY-NO-NS-1562-GLD/BRNPOL"
       },
@@ -89070,7 +89070,7 @@
         "sku": "QUAY-NO-NS-2437-GLD/SMK"
       },
       "gid://shopify/ProductVariant/48913138417918": {
-        "qty": 13,
+        "qty": 12,
         "product_title": "SET IN STONE-79957",
         "sku": "QUAY-NO-NS-2618-BLK/SMK"
       },
@@ -91365,7 +91365,7 @@
         "sku": "DKNY-DK5046-001-51"
       },
       "gid://shopify/ProductVariant/67613229908222": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "DK5050-275-50",
         "sku": "DKNY-DK5050-275-50"
       },
@@ -91990,7 +91990,7 @@
         "sku": "NIKE-8213-N-074-55"
       },
       "gid://shopify/ProductVariant/67613240819966": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "8215-045-56",
         "sku": "NIKE-8215-045-56"
       },
@@ -92975,7 +92975,7 @@
         "sku": "CG-CGSN-1408-B1"
       },
       "gid://shopify/ProductVariant/67667226886398": {
-        "qty": 19,
+        "qty": 18,
         "product_title": "CGSN-9101-53-04",
         "sku": "CG-CGSN-9101-04"
       },
@@ -93220,12 +93220,12 @@
         "sku": "FLEXON-FLX1006MAG-SET-N-002-55"
       },
       "gid://shopify/ProductVariant/67748826185982": {
-        "qty": 2,
+        "qty": 0,
         "product_title": "02-DT",
         "sku": "BUGATTI-02-DT"
       },
       "gid://shopify/ProductVariant/67748826218750": {
-        "qty": 15,
+        "qty": 13,
         "product_title": "69-BK/WG",
         "sku": "BUGATTI-69-BK/WG"
       },
@@ -93235,7 +93235,7 @@
         "sku": "BUGATTI-69-MBK.24K"
       },
       "gid://shopify/ProductVariant/67748826284286": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "69-CRY/24K",
         "sku": "BUGATTI-69-CRY/24K"
       },
@@ -93245,12 +93245,12 @@
         "sku": "BUGATTI-70-BK/SS"
       },
       "gid://shopify/ProductVariant/67748826349822": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "70-BK/24K",
         "sku": "BUGATTI-70-BK/24K"
       },
       "gid://shopify/ProductVariant/67748826415358": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "70-TRT/WG",
         "sku": "BUGATTI-70-TRT/WG"
       },
@@ -93280,12 +93280,12 @@
         "sku": "BUGATTI-71-SBT/24K"
       },
       "gid://shopify/ProductVariant/67748826677502": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "71-GCRY/SS",
         "sku": "BUGATTI-71-GCRY/SS"
       },
       "gid://shopify/ProductVariant/67748826710270": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "71-BGN/WG",
         "sku": "BUGATTI-71-BGN/WG"
       }
