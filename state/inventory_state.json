@@ -34592,13 +34592,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-20T20:19:04.558359+00:00",
+    "updated_at": "2026-10-20T23:16:09.402266+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 79493,
+        "total_qty": 79491,
         "sku_count": 11529,
         "product_count": 11529
       },
@@ -34606,7 +34606,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 79493,
+        "total_qty": 79491,
         "sku_count": 4372,
         "product_count": 4372
       },
@@ -34630,9 +34630,9 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 55054,
-        "sku_count": 2070,
-        "product_count": 2070
+        "total_qty": 55052,
+        "sku_count": 2071,
+        "product_count": 2071
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -34646,17 +34646,17 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 79493,
-        "sku_count": 3330,
-        "product_count": 3330
+        "total_qty": 79491,
+        "sku_count": 3331,
+        "product_count": 3331
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 79090,
-        "sku_count": 2927,
-        "product_count": 2927
+        "total_qty": 79086,
+        "sku_count": 2926,
+        "product_count": 2926
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
@@ -35038,7 +35038,7 @@
         "title": "PRIMARY",
         "handle": "primary",
         "legacy_id": "460628721918",
-        "total_qty": 35354,
+        "total_qty": 35352,
         "sku_count": 238,
         "product_count": 238
       },
@@ -35054,7 +35054,7 @@
         "title": "Tariff Busters",
         "handle": "tariff-busters",
         "legacy_id": "463834087678",
-        "total_qty": 44791,
+        "total_qty": 44789,
         "sku_count": 329,
         "product_count": 329
       },
@@ -35166,9 +35166,9 @@
         "title": "CHESTERFIELD",
         "handle": "chesterfield",
         "legacy_id": "402638668030",
-        "total_qty": 5,
-        "sku_count": 3,
-        "product_count": 3
+        "total_qty": 6,
+        "sku_count": 4,
+        "product_count": 4
       },
       "gid://shopify/Collection/466916376830": {
         "title": "1880-MOREL",
@@ -35414,7 +35414,7 @@
         "title": "COLUMBIA",
         "handle": "columbia",
         "legacy_id": "395943805182",
-        "total_qty": 205,
+        "total_qty": 204,
         "sku_count": 42,
         "product_count": 42
       },
@@ -50655,7 +50655,7 @@
         "sku": "Primary-1071-Brown-50"
       },
       "gid://shopify/ProductVariant/46371997810942": {
-        "qty": 157,
+        "qty": 155,
         "product_title": "1071-GUNMETAL-50",
         "sku": "Primary-1071-Gunmetal-50"
       },
@@ -78465,7 +78465,7 @@
         "sku": "CHESTERFIELD-CH-894/T-TUI-57"
       },
       "gid://shopify/ProductVariant/48094137745662": {
-        "qty": 0,
+        "qty": 1,
         "product_title": "CH-90XL-6LB-56",
         "sku": "CHESTERFIELD-CH-90XL-6LB-56"
       },
@@ -92240,7 +92240,7 @@
         "sku": "COLUMBIA-C8032-020-58"
       },
       "gid://shopify/ProductVariant/67641437225214": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "C8032-N-002-58",
         "sku": "COLUMBIA-C8032-N-002-58"
       },
