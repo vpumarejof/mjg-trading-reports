@@ -34592,13 +34592,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-20T01:37:05.856323+00:00",
+    "updated_at": "2026-10-20T06:36:19.509773+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 79872,
+        "total_qty": 79870,
         "sku_count": 11529,
         "product_count": 11529
       },
@@ -34606,7 +34606,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 79872,
+        "total_qty": 79870,
         "sku_count": 4387,
         "product_count": 4387
       },
@@ -34622,7 +34622,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 1097,
+        "total_qty": 1096,
         "sku_count": 931,
         "product_count": 931
       },
@@ -34630,9 +34630,9 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 55244,
-        "sku_count": 2096,
-        "product_count": 2096
+        "total_qty": 55242,
+        "sku_count": 2095,
+        "product_count": 2095
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -34646,15 +34646,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 79872,
-        "sku_count": 3368,
-        "product_count": 3368
+        "total_qty": 79870,
+        "sku_count": 3367,
+        "product_count": 3367
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 79455,
+        "total_qty": 79454,
         "sku_count": 2951,
         "product_count": 2951
       },
@@ -34662,7 +34662,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 8407,
+        "total_qty": 8406,
         "sku_count": 741,
         "product_count": 741
       },
@@ -34670,7 +34670,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 8407,
+        "total_qty": 8406,
         "sku_count": 741,
         "product_count": 741
       },
@@ -34678,7 +34678,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 2959,
+        "total_qty": 2958,
         "sku_count": 385,
         "product_count": 385
       },
@@ -34702,7 +34702,7 @@
         "title": "GUCCI",
         "handle": "gucci",
         "legacy_id": "421341364478",
-        "total_qty": 457,
+        "total_qty": 456,
         "sku_count": 301,
         "product_count": 301
       },
@@ -34998,7 +34998,7 @@
         "title": "Gucci",
         "handle": "gucci-1",
         "legacy_id": "407282450686",
-        "total_qty": 457,
+        "total_qty": 456,
         "sku_count": 92,
         "product_count": 92
       },
@@ -35102,9 +35102,9 @@
         "title": "CALVIN KLEIN",
         "handle": "calvin-klein",
         "legacy_id": "393476997374",
-        "total_qty": 251,
-        "sku_count": 52,
-        "product_count": 52
+        "total_qty": 250,
+        "sku_count": 51,
+        "product_count": 51
       },
       "gid://shopify/Collection/464057172222": {
         "title": "CALVIN KLEIN JEANS",
@@ -81635,7 +81635,7 @@
         "sku": "GUCCI-GG0025O-015-58"
       },
       "gid://shopify/ProductVariant/48288329990398": {
-        "qty": 19,
+        "qty": 18,
         "product_title": "GG0025O-016-58",
         "sku": "GUCCI-GG0025O-016-58"
       },
@@ -90920,7 +90920,7 @@
         "sku": "CK-CK21124-208-49"
       },
       "gid://shopify/ProductVariant/67613224567038": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "CK21502-235-53",
         "sku": "CK-CK21502-235-53"
       },
