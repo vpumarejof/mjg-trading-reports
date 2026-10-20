@@ -34592,13 +34592,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-19T22:59:05.728156+00:00",
+    "updated_at": "2026-10-20T01:37:05.856323+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 79878,
+        "total_qty": 79872,
         "sku_count": 11529,
         "product_count": 11529
       },
@@ -34606,7 +34606,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 79878,
+        "total_qty": 79872,
         "sku_count": 4387,
         "product_count": 4387
       },
@@ -34614,7 +34614,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 21242,
+        "total_qty": 21241,
         "sku_count": 2588,
         "product_count": 2588
       },
@@ -34630,7 +34630,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 55249,
+        "total_qty": 55244,
         "sku_count": 2096,
         "product_count": 2096
       },
@@ -34646,7 +34646,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 79878,
+        "total_qty": 79872,
         "sku_count": 3368,
         "product_count": 3368
       },
@@ -34654,15 +34654,15 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 79463,
-        "sku_count": 2953,
-        "product_count": 2953
+        "total_qty": 79455,
+        "sku_count": 2951,
+        "product_count": 2951
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 8408,
+        "total_qty": 8407,
         "sku_count": 741,
         "product_count": 741
       },
@@ -34670,7 +34670,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 8408,
+        "total_qty": 8407,
         "sku_count": 741,
         "product_count": 741
       },
@@ -34742,7 +34742,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 15075,
+        "total_qty": 15074,
         "sku_count": 1264,
         "product_count": 1264
       },
@@ -34798,7 +34798,7 @@
         "title": "LACOSTE",
         "handle": "lacoste",
         "legacy_id": "393068577022",
-        "total_qty": 873,
+        "total_qty": 872,
         "sku_count": 128,
         "product_count": 128
       },
@@ -34806,7 +34806,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2543,
+        "total_qty": 2542,
         "sku_count": 207,
         "product_count": 207
       },
@@ -34958,7 +34958,7 @@
         "title": "MARC JACOBS",
         "handle": "marc-jacobs",
         "legacy_id": "391774732542",
-        "total_qty": 401,
+        "total_qty": 400,
         "sku_count": 59,
         "product_count": 59
       },
@@ -35094,7 +35094,7 @@
         "title": "LIGHTEC-MOREL",
         "handle": "lightec-morel",
         "legacy_id": "466217926910",
-        "total_qty": 214,
+        "total_qty": 213,
         "sku_count": 30,
         "product_count": 30
       },
@@ -35102,7 +35102,7 @@
         "title": "CALVIN KLEIN",
         "handle": "calvin-klein",
         "legacy_id": "393476997374",
-        "total_qty": 252,
+        "total_qty": 251,
         "sku_count": 52,
         "product_count": 52
       },
@@ -35430,7 +35430,7 @@
         "title": "PRODESIGN",
         "handle": "prodesign",
         "legacy_id": "478388125950",
-        "total_qty": 853,
+        "total_qty": 852,
         "sku_count": 108,
         "product_count": 108
       },
@@ -35622,7 +35622,7 @@
         "title": "NINE WEST",
         "handle": "nine-west",
         "legacy_id": "411442938110",
-        "total_qty": 31,
+        "total_qty": 30,
         "sku_count": 11,
         "product_count": 11
       },
@@ -53820,7 +53820,7 @@
         "sku": "MOREL-30179L-GN14-51"
       },
       "gid://shopify/ProductVariant/46658082046206": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "30179L-MG13-51",
         "sku": "MOREL-30179L-MG13-51"
       },
@@ -72995,7 +72995,7 @@
         "sku": "PD-TIGEREYE-4525"
       },
       "gid://shopify/ProductVariant/47761276010750": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "TIGEREYE-6036",
         "sku": "PD-TIGEREYE-6036"
       },
@@ -77310,7 +77310,7 @@
         "sku": "MJ-MARC-707-807-53"
       },
       "gid://shopify/ProductVariant/48011619205374": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "MARC-708-2M2-54",
         "sku": "MJ-MARC-708-2M2-54"
       },
@@ -91120,7 +91120,7 @@
         "sku": "CK-CK24543-515-49"
       },
       "gid://shopify/ProductVariant/67613227221246": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "CK24543-515-52",
         "sku": "CK-CK24543-515-52"
       },
@@ -91680,7 +91680,7 @@
         "sku": "LACOSTE-L2975-301-54"
       },
       "gid://shopify/ProductVariant/67613236363518": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "L2975-601-54",
         "sku": "LACOSTE-L2975-601-54"
       },
@@ -92045,7 +92045,7 @@
         "sku": "NW-NW5233-615-52"
       },
       "gid://shopify/ProductVariant/67613241344254": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "NW5238-281-53",
         "sku": "NW-NW5238-281-53"
       },
