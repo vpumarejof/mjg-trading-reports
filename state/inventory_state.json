@@ -34592,13 +34592,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-21T12:36:21.302340+00:00",
+    "updated_at": "2026-10-21T17:39:26.772686+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 79471,
+        "total_qty": 79454,
         "sku_count": 11529,
         "product_count": 11529
       },
@@ -34606,9 +34606,9 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 79471,
-        "sku_count": 4372,
-        "product_count": 4372
+        "total_qty": 79454,
+        "sku_count": 4368,
+        "product_count": 4368
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
@@ -34622,7 +34622,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 1082,
+        "total_qty": 1080,
         "sku_count": 931,
         "product_count": 931
       },
@@ -34630,9 +34630,9 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 55039,
-        "sku_count": 2069,
-        "product_count": 2069
+        "total_qty": 55026,
+        "sku_count": 2064,
+        "product_count": 2064
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -34646,39 +34646,39 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 79471,
-        "sku_count": 3329,
-        "product_count": 3329
+        "total_qty": 79454,
+        "sku_count": 3324,
+        "product_count": 3324
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 79068,
-        "sku_count": 2926,
-        "product_count": 2926
+        "total_qty": 79052,
+        "sku_count": 2922,
+        "product_count": 2922
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 8390,
-        "sku_count": 740,
-        "product_count": 740
+        "total_qty": 8379,
+        "sku_count": 736,
+        "product_count": 736
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 8390,
-        "sku_count": 740,
-        "product_count": 740
+        "total_qty": 8379,
+        "sku_count": 736,
+        "product_count": 736
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 2914,
+        "total_qty": 2912,
         "sku_count": 380,
         "product_count": 380
       },
@@ -34742,7 +34742,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 14878,
+        "total_qty": 14874,
         "sku_count": 1252,
         "product_count": 1252
       },
@@ -34774,7 +34774,7 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 538,
+        "total_qty": 537,
         "sku_count": 58,
         "product_count": 58
       },
@@ -34782,7 +34782,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 7988,
+        "total_qty": 7984,
         "sku_count": 629,
         "product_count": 629
       },
@@ -34910,7 +34910,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 401,
+        "total_qty": 400,
         "sku_count": 71,
         "product_count": 71
       },
@@ -34950,7 +34950,7 @@
         "title": "MARC JACOBS",
         "handle": "marc-jacobs",
         "legacy_id": "391774732542",
-        "total_qty": 390,
+        "total_qty": 389,
         "sku_count": 59,
         "product_count": 59
       },
@@ -35142,7 +35142,7 @@
         "title": "TED BAKER",
         "handle": "ted-baker",
         "legacy_id": "466212126974",
-        "total_qty": 61,
+        "total_qty": 60,
         "sku_count": 10,
         "product_count": 10
       },
@@ -35222,9 +35222,9 @@
         "title": "ANDY WOLF",
         "handle": "andy-wolf-1",
         "legacy_id": "469566619902",
-        "total_qty": 854,
-        "sku_count": 239,
-        "product_count": 239
+        "total_qty": 852,
+        "sku_count": 238,
+        "product_count": 238
       },
       "gid://shopify/Collection/470247014654": {
         "title": "DENIM",
@@ -35438,17 +35438,17 @@
         "title": "WOOW",
         "handle": "woow",
         "legacy_id": "478400839934",
-        "total_qty": 26,
-        "sku_count": 10,
-        "product_count": 10
+        "total_qty": 24,
+        "sku_count": 9,
+        "product_count": 9
       },
       "gid://shopify/Collection/395973296382": {
         "title": "BALENCIAGA",
         "handle": "balenciaga",
         "legacy_id": "395973296382",
-        "total_qty": 175,
-        "sku_count": 85,
-        "product_count": 85
+        "total_qty": 167,
+        "sku_count": 81,
+        "product_count": 81
       },
       "gid://shopify/Collection/480545439998": {
         "title": "BUGATTI",
@@ -35470,7 +35470,7 @@
         "title": "ELTON JOHN",
         "handle": "elton-john",
         "legacy_id": "482187051262",
-        "total_qty": 691,
+        "total_qty": 690,
         "sku_count": 74,
         "product_count": 74
       },
@@ -35494,9 +35494,9 @@
         "title": "TIFFANY & CO",
         "handle": "tiffany-co",
         "legacy_id": "483397370110",
-        "total_qty": 88,
-        "sku_count": 23,
-        "product_count": 23
+        "total_qty": 86,
+        "sku_count": 22,
+        "product_count": 22
       },
       "gid://shopify/Collection/391775027454": {
         "title": "MONTBLANC",
@@ -35510,9 +35510,9 @@
         "title": "Relabeled",
         "handle": "relabeled",
         "legacy_id": "484454269182",
-        "total_qty": 227,
-        "sku_count": 124,
-        "product_count": 124
+        "total_qty": 219,
+        "sku_count": 120,
+        "product_count": 120
       },
       "gid://shopify/Collection/409354371326": {
         "title": "Goliath",
@@ -35534,9 +35534,9 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 2236,
-        "sku_count": 128,
-        "product_count": 128
+        "total_qty": 634,
+        "sku_count": 59,
+        "product_count": 59
       },
       "gid://shopify/Collection/487431995646": {
         "title": "CANADA GOOSE",
@@ -46160,7 +46160,7 @@
         "sku": "SF268S-795"
       },
       "gid://shopify/ProductVariant/45841808687358": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "SF727S-214",
         "sku": "SF727S-214"
       },
@@ -56235,7 +56235,7 @@
         "sku": "TB-B215-GLD-52"
       },
       "gid://shopify/ProductVariant/46978328559870": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "B228-PUR-50",
         "sku": "TB-B228-PUR-50"
       },
@@ -57315,7 +57315,7 @@
         "sku": "MJ-MARC-596-0HK3-54"
       },
       "gid://shopify/ProductVariant/47010182103294": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "MARC-649-080S-53",
         "sku": "MJ-MARC-649-080S-53"
       },
@@ -60755,7 +60755,7 @@
         "sku": "AW-EREZ-B-52"
       },
       "gid://shopify/ProductVariant/47124762165502": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "EREZ-C-52",
         "sku": "AW-EREZ-C-52"
       },
@@ -70265,7 +70265,7 @@
         "sku": "AW-4537-D-58"
       },
       "gid://shopify/ProductVariant/47655178502398": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "4537-E-58",
         "sku": "AW-4537-E-58"
       },
@@ -73085,7 +73085,7 @@
         "sku": "WOOW-BIG-APPLE-1-9713-50"
       },
       "gid://shopify/ProductVariant/47761813897470": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "BIG-APPLE-2-0013-53",
         "sku": "WOOW-BIG-APPLE-2-0013-53"
       },
@@ -79665,7 +79665,7 @@
         "sku": "KS-JONAE-807-51"
       },
       "gid://shopify/ProductVariant/48121214566654": {
-        "qty": 15,
+        "qty": 14,
         "product_title": "JOSEY/G/S-PJP/9O",
         "sku": "KS-JOSEY/G/S-PJP/9O"
       },
@@ -82070,7 +82070,7 @@
         "sku": "BALENCIAGA-BB0062O-008-53_R"
       },
       "gid://shopify/ProductVariant/48301158170878": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "BB0130O-010-53-RELABELED",
         "sku": "BALENCIAGA-BB0130O-010-53_R"
       },
@@ -82080,7 +82080,7 @@
         "sku": "BALENCIAGA-BB0130O-011-53_R"
       },
       "gid://shopify/ProductVariant/48301158236414": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "BB0130O-012-53-RELABELED",
         "sku": "BALENCIAGA-BB0130O-012-53_R"
       },
@@ -82095,7 +82095,7 @@
         "sku": "BALENCIAGA-BB0238O-005-50_R"
       },
       "gid://shopify/ProductVariant/48301158334718": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "BB0238O-006-50-RELABELED",
         "sku": "BALENCIAGA-BB0238O-006-50_R"
       },
@@ -82120,7 +82120,7 @@
         "sku": "BALENCIAGA-BB0263O-001-52_R"
       },
       "gid://shopify/ProductVariant/48301158596862": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "BB0263O-004-52-RELABELED",
         "sku": "BALENCIAGA-BB0263O-004-52_R"
       },
@@ -82170,12 +82170,12 @@
         "sku": "BALENCIAGA-BB0312O-005-53_R"
       },
       "gid://shopify/ProductVariant/48301159022846": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "BB0312O-006-53-RELABELED",
         "sku": "BALENCIAGA-BB0312O-006-53_R"
       },
       "gid://shopify/ProductVariant/48301159055614": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "BB0325O-006-54-RELABELED",
         "sku": "BALENCIAGA-BB0325O-006-54_R"
       },
@@ -82185,7 +82185,7 @@
         "sku": "BALENCIAGA-BB0325O-007-54_R"
       },
       "gid://shopify/ProductVariant/48301159121150": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "BB0325O-009-54-RELABELED",
         "sku": "BALENCIAGA-BB0325O-009-54_R"
       },
@@ -82195,7 +82195,7 @@
         "sku": "BALENCIAGA-BB0326O-001-53_R"
       },
       "gid://shopify/ProductVariant/48301159186686": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "BB0326O-002-53-RELABELED",
         "sku": "BALENCIAGA-BB0326O-002-53_R"
       },
@@ -85115,7 +85115,7 @@
         "sku": "TF-TF3111-62029S"
       },
       "gid://shopify/ProductVariant/48493052068094": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "TF4231U-800181",
         "sku": "TF-TF4231U-800181"
       },
@@ -87885,7 +87885,7 @@
         "sku": "EJ-SHOOTSTAR-1-GLDSY"
       },
       "gid://shopify/ProductVariant/48667530199294": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "SUPERSTAR-RTORT",
         "sku": "EJ-SUPERSTAR-RTORT"
       },
