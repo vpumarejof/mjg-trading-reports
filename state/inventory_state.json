@@ -34592,13 +34592,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-21T20:53:33.317927+00:00",
+    "updated_at": "2026-10-21T23:49:56.177567+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 79284,
+        "total_qty": 79282,
         "sku_count": 11529,
         "product_count": 11529
       },
@@ -34606,7 +34606,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 79284,
+        "total_qty": 79282,
         "sku_count": 4362,
         "product_count": 4362
       },
@@ -34630,7 +34630,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 54930,
+        "total_qty": 54928,
         "sku_count": 2054,
         "product_count": 2054
       },
@@ -34646,7 +34646,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 79284,
+        "total_qty": 79282,
         "sku_count": 3312,
         "product_count": 3312
       },
@@ -34654,7 +34654,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 78872,
+        "total_qty": 78870,
         "sku_count": 2900,
         "product_count": 2900
       },
@@ -34662,7 +34662,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 8360,
+        "total_qty": 8358,
         "sku_count": 734,
         "product_count": 734
       },
@@ -34670,7 +34670,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 8360,
+        "total_qty": 8358,
         "sku_count": 734,
         "product_count": 734
       },
@@ -34990,7 +34990,7 @@
         "title": "KARL LAGERFELD",
         "handle": "karl-lagerfeld",
         "legacy_id": "422907576574",
-        "total_qty": 341,
+        "total_qty": 340,
         "sku_count": 40,
         "product_count": 40
       },
@@ -35462,7 +35462,7 @@
         "title": "MODO",
         "handle": "modo",
         "legacy_id": "481959280894",
-        "total_qty": 266,
+        "total_qty": 265,
         "sku_count": 28,
         "product_count": 28
       },
@@ -84425,7 +84425,7 @@
         "sku": "MODO-4628-DNAVY-52"
       },
       "gid://shopify/ProductVariant/48354208841982": {
-        "qty": 11,
+        "qty": 10,
         "product_title": "4629-LBLU0-54",
         "sku": "MODO-4629-LBLU0-54"
       },
@@ -92280,7 +92280,7 @@
         "sku": "KL-KL6132-013-54"
       },
       "gid://shopify/ProductVariant/67641438339326": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "KL6133-062-54",
         "sku": "KL-KL6133-062-54"
       },
