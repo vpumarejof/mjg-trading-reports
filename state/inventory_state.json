@@ -34592,7 +34592,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-21T06:49:53.421345+00:00",
+    "updated_at": "2026-10-21T12:36:21.302340+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
@@ -34631,8 +34631,8 @@
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
         "total_qty": 55039,
-        "sku_count": 2070,
-        "product_count": 2070
+        "sku_count": 2069,
+        "product_count": 2069
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -34647,14 +34647,14 @@
         "handle": "all",
         "legacy_id": "391850787070",
         "total_qty": 79471,
-        "sku_count": 3330,
-        "product_count": 3330
+        "sku_count": 3329,
+        "product_count": 3329
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 79067,
+        "total_qty": 79068,
         "sku_count": 2926,
         "product_count": 2926
       },
@@ -34662,7 +34662,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 8389,
+        "total_qty": 8390,
         "sku_count": 740,
         "product_count": 740
       },
@@ -34670,7 +34670,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 8389,
+        "total_qty": 8390,
         "sku_count": 740,
         "product_count": 740
       },
@@ -35166,9 +35166,9 @@
         "title": "CHESTERFIELD",
         "handle": "chesterfield",
         "legacy_id": "402638668030",
-        "total_qty": 6,
-        "sku_count": 4,
-        "product_count": 4
+        "total_qty": 5,
+        "sku_count": 3,
+        "product_count": 3
       },
       "gid://shopify/Collection/466916376830": {
         "title": "1880-MOREL",
@@ -35326,7 +35326,7 @@
         "title": "ANNE KLEIN",
         "handle": "anne-klein",
         "legacy_id": "474673250558",
-        "total_qty": 34,
+        "total_qty": 35,
         "sku_count": 8,
         "product_count": 8
       },
@@ -66795,7 +66795,7 @@
         "sku": "AK-AK5078-226-52"
       },
       "gid://shopify/ProductVariant/47504331833598": {
-        "qty": 4,
+        "qty": 5,
         "product_title": "AK5097-500-53",
         "sku": "AK-AK5097-500-53"
       },
@@ -78465,7 +78465,7 @@
         "sku": "CHESTERFIELD-CH-894/T-TUI-57"
       },
       "gid://shopify/ProductVariant/48094137745662": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "CH-90XL-6LB-56",
         "sku": "CHESTERFIELD-CH-90XL-6LB-56"
       },
