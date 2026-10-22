@@ -34592,13 +34592,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-22T07:57:38.979973+00:00",
+    "updated_at": "2026-10-22T13:24:38.054217+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 79240,
+        "total_qty": 79238,
         "sku_count": 11529,
         "product_count": 11529
       },
@@ -34606,7 +34606,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 79240,
+        "total_qty": 79238,
         "sku_count": 4361,
         "product_count": 4361
       },
@@ -34646,7 +34646,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 79240,
+        "total_qty": 79238,
         "sku_count": 3310,
         "product_count": 3310
       },
@@ -34654,7 +34654,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 78829,
+        "total_qty": 78827,
         "sku_count": 2899,
         "product_count": 2899
       },
@@ -34678,7 +34678,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 2896,
+        "total_qty": 2895,
         "sku_count": 379,
         "product_count": 379
       },
@@ -34742,7 +34742,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 14762,
+        "total_qty": 14760,
         "sku_count": 1249,
         "product_count": 1249
       },
@@ -34782,7 +34782,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 7953,
+        "total_qty": 7951,
         "sku_count": 626,
         "product_count": 626
       },
@@ -34846,7 +34846,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1198,
+        "total_qty": 1197,
         "sku_count": 71,
         "product_count": 71
       },
@@ -35486,7 +35486,7 @@
         "title": "FENDI",
         "handle": "fendi",
         "legacy_id": "391774306558",
-        "total_qty": 113,
+        "total_qty": 112,
         "sku_count": 27,
         "product_count": 27
       },
@@ -81375,7 +81375,7 @@
         "sku": "FENDI-FE40066U-30A"
       },
       "gid://shopify/ProductVariant/48196686217470": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "FE40140U 5301A",
         "sku": "FENDI-FE40140U-01A"
       },
@@ -88940,7 +88940,7 @@
         "sku": "CARRERA-259/S-807/70"
       },
       "gid://shopify/ProductVariant/48772544168190": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "3016/S-807/IR",
         "sku": "CARRERA-3016/S-807/IR"
       },
