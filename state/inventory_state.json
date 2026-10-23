@@ -34592,13 +34592,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-23T04:43:32.425599+00:00",
+    "updated_at": "2026-10-23T09:36:14.225121+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 78992,
+        "total_qty": 78989,
         "sku_count": 11529,
         "product_count": 11529
       },
@@ -34606,7 +34606,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 78992,
+        "total_qty": 78989,
         "sku_count": 4334,
         "product_count": 4334
       },
@@ -34622,7 +34622,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 1061,
+        "total_qty": 1060,
         "sku_count": 931,
         "product_count": 931
       },
@@ -34630,7 +34630,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 54828,
+        "total_qty": 54825,
         "sku_count": 2040,
         "product_count": 2040
       },
@@ -34646,7 +34646,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 78992,
+        "total_qty": 78989,
         "sku_count": 3279,
         "product_count": 3279
       },
@@ -34654,7 +34654,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 78580,
+        "total_qty": 78577,
         "sku_count": 2867,
         "product_count": 2867
       },
@@ -34662,7 +34662,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 8340,
+        "total_qty": 8338,
         "sku_count": 729,
         "product_count": 729
       },
@@ -34670,7 +34670,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 8340,
+        "total_qty": 8338,
         "sku_count": 729,
         "product_count": 729
       },
@@ -34774,7 +34774,7 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 531,
+        "total_qty": 530,
         "sku_count": 58,
         "product_count": 58
       },
@@ -35390,7 +35390,7 @@
         "title": "LONGCHAMP",
         "handle": "longchamp",
         "legacy_id": "476032958718",
-        "total_qty": 794,
+        "total_qty": 793,
         "sku_count": 52,
         "product_count": 52
       },
@@ -35454,7 +35454,7 @@
         "title": "MODO",
         "handle": "modo",
         "legacy_id": "481959280894",
-        "total_qty": 262,
+        "total_qty": 261,
         "sku_count": 28,
         "product_count": 28
       },
@@ -35470,7 +35470,7 @@
         "title": "CELINE",
         "handle": "celine",
         "legacy_id": "483191193854",
-        "total_qty": 136,
+        "total_qty": 137,
         "sku_count": 27,
         "product_count": 27
       },
@@ -35614,7 +35614,7 @@
         "title": "CUTLER AND GROSS",
         "handle": "cutler-and-gross",
         "legacy_id": "512308904190",
-        "total_qty": 1594,
+        "total_qty": 1593,
         "sku_count": 69,
         "product_count": 69
       },
@@ -54099,7 +54099,7 @@
         "sku": "SF-SF2937R-655-54"
       },
       "gid://shopify/ProductVariant/46663462486270": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "SF2948-612-54",
         "sku": "SF-SF2948-612-54"
       },
@@ -69689,7 +69689,7 @@
         "sku": "LONGCHAMP-LO2743-259-52"
       },
       "gid://shopify/ProductVariant/47609153814782": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "LO2755-230-53",
         "sku": "LONGCHAMP-LO2755-230-53"
       },
@@ -78319,7 +78319,7 @@
         "sku": "MODO-4634-RGOLD-52"
       },
       "gid://shopify/ProductVariant/48061855564030": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "4635-SMK00-54",
         "sku": "MODO-4635-SMK00-54"
       },
@@ -81014,7 +81014,7 @@
         "sku": "CELINE-CL40328U-53A"
       },
       "gid://shopify/ProductVariant/48196682187006": {
-        "qty": 2,
+        "qty": 3,
         "product_title": "CL40254U 5428A",
         "sku": "CELINE-CL40254U-28A"
       },
@@ -92964,7 +92964,7 @@
         "sku": "CG-CGSN-9101-04"
       },
       "gid://shopify/ProductVariant/67667226951934": {
-        "qty": 13,
+        "qty": 12,
         "product_title": "CGSN-9126-48-A9",
         "sku": "CG-CGSN-9126-A9"
       },
