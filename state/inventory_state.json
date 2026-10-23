@@ -34592,13 +34592,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-23T09:36:14.225121+00:00",
+    "updated_at": "2026-10-23T14:26:56.033417+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 78989,
+        "total_qty": 78956,
         "sku_count": 11529,
         "product_count": 11529
       },
@@ -34606,15 +34606,15 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 78989,
-        "sku_count": 4334,
-        "product_count": 4334
+        "total_qty": 78956,
+        "sku_count": 4327,
+        "product_count": 4327
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 21018,
+        "total_qty": 21013,
         "sku_count": 2588,
         "product_count": 2588
       },
@@ -34638,25 +34638,25 @@
         "title": "PRADA",
         "handle": "prada",
         "legacy_id": "391775289598",
-        "total_qty": 73,
-        "sku_count": 14,
-        "product_count": 14
+        "total_qty": 71,
+        "sku_count": 13,
+        "product_count": 13
       },
       "gid://shopify/Collection/391850787070": {
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 78989,
-        "sku_count": 3279,
-        "product_count": 3279
+        "total_qty": 78956,
+        "sku_count": 3272,
+        "product_count": 3272
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 78577,
-        "sku_count": 2867,
-        "product_count": 2867
+        "total_qty": 78544,
+        "sku_count": 2860,
+        "product_count": 2860
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
@@ -34678,9 +34678,9 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 2876,
-        "sku_count": 375,
-        "product_count": 375
+        "total_qty": 2843,
+        "sku_count": 368,
+        "product_count": 368
       },
       "gid://shopify/Collection/391854031102": {
         "title": "Women's",
@@ -34742,9 +34742,9 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 14613,
-        "sku_count": 1231,
-        "product_count": 1231
+        "total_qty": 14580,
+        "sku_count": 1224,
+        "product_count": 1224
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -34758,9 +34758,9 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 4405,
-        "sku_count": 419,
-        "product_count": 419
+        "total_qty": 4402,
+        "sku_count": 417,
+        "product_count": 417
       },
       "gid://shopify/Collection/391774109950": {
         "title": "DRAGON",
@@ -34782,9 +34782,9 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 7872,
-        "sku_count": 619,
-        "product_count": 619
+        "total_qty": 7847,
+        "sku_count": 615,
+        "product_count": 615
       },
       "gid://shopify/Collection/391853998334": {
         "title": "Men's",
@@ -34806,9 +34806,9 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2403,
-        "sku_count": 198,
-        "product_count": 198
+        "total_qty": 2398,
+        "sku_count": 197,
+        "product_count": 197
       },
       "gid://shopify/Collection/391775125758": {
         "title": "NIKE",
@@ -35294,9 +35294,9 @@
         "title": "CARTIER",
         "handle": "cartier",
         "legacy_id": "411443298558",
-        "total_qty": 20,
-        "sku_count": 15,
-        "product_count": 15
+        "total_qty": 19,
+        "sku_count": 14,
+        "product_count": 14
       },
       "gid://shopify/Collection/474031259902": {
         "title": "QUIKSILVER",
@@ -35470,7 +35470,7 @@
         "title": "CELINE",
         "handle": "celine",
         "legacy_id": "483191193854",
-        "total_qty": 137,
+        "total_qty": 135,
         "sku_count": 27,
         "product_count": 27
       },
@@ -35478,17 +35478,9 @@
         "title": "FENDI",
         "handle": "fendi",
         "legacy_id": "391774306558",
-        "total_qty": 112,
-        "sku_count": 27,
-        "product_count": 27
-      },
-      "gid://shopify/Collection/483397370110": {
-        "title": "TIFFANY & CO",
-        "handle": "tiffany-co",
-        "legacy_id": "483397370110",
-        "total_qty": 85,
-        "sku_count": 22,
-        "product_count": 22
+        "total_qty": 103,
+        "sku_count": 26,
+        "product_count": 26
       },
       "gid://shopify/Collection/391775027454": {
         "title": "MONTBLANC",
@@ -35522,11 +35514,19 @@
         "sku_count": 17,
         "product_count": 17
       },
+      "gid://shopify/Collection/483397370110": {
+        "title": "TIFFANY & CO",
+        "handle": "tiffany-co",
+        "legacy_id": "483397370110",
+        "total_qty": 66,
+        "sku_count": 18,
+        "product_count": 18
+      },
       "gid://shopify/Collection/407946952958": {
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 577,
+        "total_qty": 571,
         "sku_count": 57,
         "product_count": 57
       },
@@ -65044,7 +65044,7 @@
         "sku": "CARTIER-CT0296S-004"
       },
       "gid://shopify/ProductVariant/47448055120126": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "CT0296S-005",
         "sku": "CARTIER-CT0296S-005"
       },
@@ -81014,7 +81014,7 @@
         "sku": "CELINE-CL40328U-53A"
       },
       "gid://shopify/ProductVariant/48196682187006": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "CL40254U 5428A",
         "sku": "CELINE-CL40254U-28A"
       },
@@ -81234,7 +81234,7 @@
         "sku": "FENDI-FE40098I-53B"
       },
       "gid://shopify/ProductVariant/48196684284158": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "FE40099I 6301B",
         "sku": "FENDI-FE40099I-01B"
       },
@@ -81359,7 +81359,7 @@
         "sku": "FENDI-FE40066U-30A"
       },
       "gid://shopify/ProductVariant/48196686217470": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "FE40140U 5301A",
         "sku": "FENDI-FE40140U-01A"
       },
@@ -81429,7 +81429,7 @@
         "sku": "TF-TF4047B-80553C"
       },
       "gid://shopify/ProductVariant/48223291736318": {
-        "qty": 4,
+        "qty": 0,
         "product_title": "TF4105HB-81343B",
         "sku": "TF-TF4105HB-81343B"
       },
@@ -81454,7 +81454,7 @@
         "sku": "TF-TF4253-80013C"
       },
       "gid://shopify/ProductVariant/48223291932926": {
-        "qty": 5,
+        "qty": 0,
         "product_title": "TF4253-80559S",
         "sku": "TF-TF4253-80559S"
       },
@@ -84779,7 +84779,7 @@
         "sku": "PRADA-PR-A13S-1AB5S0"
       },
       "gid://shopify/ProductVariant/48392229093630": {
-        "qty": 2,
+        "qty": 0,
         "product_title": "PR-A19S-1BO40G",
         "sku": "PRADA-PR-A19S-1BO40G"
       },
@@ -85089,12 +85089,12 @@
         "sku": "TF-TF2282-8001-55"
       },
       "gid://shopify/ProductVariant/48493052002558": {
-        "qty": 5,
+        "qty": 0,
         "product_title": "TF3088-618978",
         "sku": "TF-TF3088-618978"
       },
       "gid://shopify/ProductVariant/48493052035326": {
-        "qty": 5,
+        "qty": 0,
         "product_title": "TF3111-62029S",
         "sku": "TF-TF3111-62029S"
       },
@@ -88499,7 +88499,7 @@
         "sku": "FLEXON-W3036-210-52"
       },
       "gid://shopify/ProductVariant/48772223336702": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "CL40187I 5101A",
         "sku": "CELINE-CL40187I-01A"
       },
@@ -88864,7 +88864,7 @@
         "sku": "FENDI-FE40191I-52N"
       },
       "gid://shopify/ProductVariant/48772227956990": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "FE4172US 5432E",
         "sku": "FENDI-FE4172US-32E"
       },
@@ -92989,17 +92989,17 @@
         "sku": "CELINE-CL40333U-01A"
       },
       "gid://shopify/ProductVariant/67683062808830": {
-        "qty": 14,
+        "qty": 12,
         "product_title": "FE40073U 5202A",
         "sku": "FENDI-FE40073U-02A"
       },
       "gid://shopify/ProductVariant/67683063005438": {
-        "qty": 13,
+        "qty": 11,
         "product_title": "FE40100I 5301A",
         "sku": "FENDI-FE40100I-01A"
       },
       "gid://shopify/ProductVariant/67683063038206": {
-        "qty": 12,
+        "qty": 10,
         "product_title": "FE40205F 5501A",
         "sku": "FENDI-FE40205F-01A"
       },
