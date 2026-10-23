@@ -34592,13 +34592,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-23T14:26:56.033417+00:00",
+    "updated_at": "2026-10-23T18:34:42.221636+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 78956,
+        "total_qty": 78757,
         "sku_count": 11529,
         "product_count": 11529
       },
@@ -34606,15 +34606,15 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 78956,
-        "sku_count": 4327,
-        "product_count": 4327
+        "total_qty": 78757,
+        "sku_count": 4318,
+        "product_count": 4318
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 21013,
+        "total_qty": 20966,
         "sku_count": 2588,
         "product_count": 2588
       },
@@ -34622,7 +34622,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 1060,
+        "total_qty": 1059,
         "sku_count": 931,
         "product_count": 931
       },
@@ -34630,9 +34630,9 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 54825,
-        "sku_count": 2040,
-        "product_count": 2040
+        "total_qty": 54805,
+        "sku_count": 2039,
+        "product_count": 2039
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -34646,23 +34646,23 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 78956,
-        "sku_count": 3272,
-        "product_count": 3272
+        "total_qty": 78757,
+        "sku_count": 3263,
+        "product_count": 3263
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 78544,
-        "sku_count": 2860,
-        "product_count": 2860
+        "total_qty": 78346,
+        "sku_count": 2852,
+        "product_count": 2852
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 8338,
+        "total_qty": 8327,
         "sku_count": 729,
         "product_count": 729
       },
@@ -34670,7 +34670,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 8338,
+        "total_qty": 8327,
         "sku_count": 729,
         "product_count": 729
       },
@@ -34678,9 +34678,9 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 2843,
-        "sku_count": 368,
-        "product_count": 368
+        "total_qty": 2839,
+        "sku_count": 366,
+        "product_count": 366
       },
       "gid://shopify/Collection/391854031102": {
         "title": "Women's",
@@ -34694,7 +34694,7 @@
         "title": "Plastic Metal",
         "handle": "plastic-metal",
         "legacy_id": "462599520510",
-        "total_qty": 1324,
+        "total_qty": 1316,
         "sku_count": 99,
         "product_count": 99
       },
@@ -34710,9 +34710,9 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 18572,
-        "sku_count": 466,
-        "product_count": 466
+        "total_qty": 18563,
+        "sku_count": 465,
+        "product_count": 465
       },
       "gid://shopify/Collection/463407481086": {
         "title": "OPEN BOX",
@@ -34742,9 +34742,9 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 14580,
-        "sku_count": 1224,
-        "product_count": 1224
+        "total_qty": 14401,
+        "sku_count": 1216,
+        "product_count": 1216
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -34758,7 +34758,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 4402,
+        "total_qty": 4357,
         "sku_count": 417,
         "product_count": 417
       },
@@ -34774,7 +34774,7 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 530,
+        "total_qty": 529,
         "sku_count": 58,
         "product_count": 58
       },
@@ -34782,9 +34782,9 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 7847,
-        "sku_count": 615,
-        "product_count": 615
+        "total_qty": 7751,
+        "sku_count": 610,
+        "product_count": 610
       },
       "gid://shopify/Collection/391853998334": {
         "title": "Men's",
@@ -34806,9 +34806,9 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2398,
-        "sku_count": 197,
-        "product_count": 197
+        "total_qty": 2360,
+        "sku_count": 194,
+        "product_count": 194
       },
       "gid://shopify/Collection/391775125758": {
         "title": "NIKE",
@@ -34846,7 +34846,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1184,
+        "total_qty": 1180,
         "sku_count": 69,
         "product_count": 69
       },
@@ -34910,7 +34910,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 390,
+        "total_qty": 389,
         "sku_count": 70,
         "product_count": 70
       },
@@ -34958,7 +34958,7 @@
         "title": "QUAY",
         "handle": "quay",
         "legacy_id": "472482939134",
-        "total_qty": 1135,
+        "total_qty": 1134,
         "sku_count": 73,
         "product_count": 73
       },
@@ -34990,7 +34990,7 @@
         "title": "KARL LAGERFELD",
         "handle": "karl-lagerfeld",
         "legacy_id": "422907576574",
-        "total_qty": 340,
+        "total_qty": 339,
         "sku_count": 40,
         "product_count": 40
       },
@@ -35038,7 +35038,7 @@
         "title": "PRIMARY",
         "handle": "primary",
         "legacy_id": "460628721918",
-        "total_qty": 35352,
+        "total_qty": 35338,
         "sku_count": 238,
         "product_count": 238
       },
@@ -35054,9 +35054,9 @@
         "title": "Tariff Busters",
         "handle": "tariff-busters",
         "legacy_id": "463834087678",
-        "total_qty": 44752,
-        "sku_count": 328,
-        "product_count": 328
+        "total_qty": 44735,
+        "sku_count": 327,
+        "product_count": 327
       },
       "gid://shopify/Collection/408975540478": {
         "title": "PIERRE CARDIN",
@@ -35134,9 +35134,9 @@
         "title": "SIGNATURE",
         "handle": "signature",
         "legacy_id": "464260399358",
-        "total_qty": 9403,
-        "sku_count": 91,
-        "product_count": 91
+        "total_qty": 9400,
+        "sku_count": 90,
+        "product_count": 90
       },
       "gid://shopify/Collection/466212126974": {
         "title": "TED BAKER",
@@ -35190,7 +35190,7 @@
         "title": "DIOR",
         "handle": "dior",
         "legacy_id": "391774077182",
-        "total_qty": 108,
+        "total_qty": 107,
         "sku_count": 35,
         "product_count": 35
       },
@@ -35374,7 +35374,7 @@
         "title": "FACE A FACE",
         "handle": "face-a-face",
         "legacy_id": "475759968510",
-        "total_qty": 2364,
+        "total_qty": 2356,
         "sku_count": 267,
         "product_count": 267
       },
@@ -35382,7 +35382,7 @@
         "title": "JAGUAR",
         "handle": "jaguar",
         "legacy_id": "475760034046",
-        "total_qty": 1718,
+        "total_qty": 1678,
         "sku_count": 159,
         "product_count": 159
       },
@@ -35390,7 +35390,7 @@
         "title": "LONGCHAMP",
         "handle": "longchamp",
         "legacy_id": "476032958718",
-        "total_qty": 793,
+        "total_qty": 792,
         "sku_count": 52,
         "product_count": 52
       },
@@ -35446,9 +35446,9 @@
         "title": "BUGATTI",
         "handle": "bugatti",
         "legacy_id": "480545439998",
-        "total_qty": 137,
-        "sku_count": 22,
-        "product_count": 22
+        "total_qty": 136,
+        "sku_count": 21,
+        "product_count": 21
       },
       "gid://shopify/Collection/481959280894": {
         "title": "MODO",
@@ -35462,9 +35462,9 @@
         "title": "ELTON JOHN",
         "handle": "elton-john",
         "legacy_id": "482187051262",
-        "total_qty": 618,
-        "sku_count": 63,
-        "product_count": 63
+        "total_qty": 496,
+        "sku_count": 57,
+        "product_count": 57
       },
       "gid://shopify/Collection/483191193854": {
         "title": "CELINE",
@@ -35526,9 +35526,9 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 571,
-        "sku_count": 57,
-        "product_count": 57
+        "total_qty": 472,
+        "sku_count": 48,
+        "product_count": 48
       },
       "gid://shopify/Collection/487431995646": {
         "title": "CANADA GOOSE",
@@ -44289,7 +44289,7 @@
         "sku": "CARRERA-1045/S-02M2/HA"
       },
       "gid://shopify/ProductVariant/45539350315262": {
-        "qty": 134,
+        "qty": 132,
         "product_title": "CARDUC-003-S-008A-T4",
         "sku": "CARRERA CARDUC 003/S 008A/T4"
       },
@@ -50434,7 +50434,7 @@
         "sku": "Primary-1035-Teal-52"
       },
       "gid://shopify/ProductVariant/46371972612350": {
-        "qty": 140,
+        "qty": 132,
         "product_title": "1041-BLACK/REDTORTOISE-54",
         "sku": "Primary-1041-Black/RedTortoise-54"
       },
@@ -50824,7 +50824,7 @@
         "sku": "Primary-1121BRN-57"
       },
       "gid://shopify/ProductVariant/46372021272830": {
-        "qty": 73,
+        "qty": 67,
         "product_title": "1121GOLD-57",
         "sku": "Primary-1121GOLD-57"
       },
@@ -54049,7 +54049,7 @@
         "sku": "SF-SF2985-320-52"
       },
       "gid://shopify/ProductVariant/46663438336254": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "SF2991-240-51",
         "sku": "SF-SF2991-240-51"
       },
@@ -55254,7 +55254,7 @@
         "sku": "Signature-1121-Brown-57"
       },
       "gid://shopify/ProductVariant/46684973138174": {
-        "qty": 3,
+        "qty": 0,
         "product_title": "1121-Gold-57",
         "sku": "Signature-1121-Gold-57"
       },
@@ -69054,7 +69054,7 @@
         "sku": "JAGUAR-JG37623-6100"
       },
       "gid://shopify/ProductVariant/47589024399614": {
-        "qty": 10,
+        "qty": 7,
         "product_title": "JG37626-3100",
         "sku": "JAGUAR-JG37626-3100"
       },
@@ -69064,7 +69064,7 @@
         "sku": "JAGUAR-JG37626-6100"
       },
       "gid://shopify/ProductVariant/47589024497918": {
-        "qty": 13,
+        "qty": 10,
         "product_title": "JG37626-6500",
         "sku": "JAGUAR-JG37626-6500"
       },
@@ -73859,7 +73859,7 @@
         "sku": "FF-SUNSET-2-100"
       },
       "gid://shopify/ProductVariant/47761824481534": {
-        "qty": 6,
+        "qty": 4,
         "product_title": "VERSO-1-0332",
         "sku": "FF-VERSO-1-0332"
       },
@@ -73899,7 +73899,7 @@
         "sku": "FF-VERSO-2-0107"
       },
       "gid://shopify/ProductVariant/47761825825022": {
-        "qty": 20,
+        "qty": 18,
         "product_title": "VERSO-2-2063",
         "sku": "FF-VERSO-2-2063"
       },
@@ -77989,7 +77989,7 @@
         "sku": "FF-GLITCH-1-6591"
       },
       "gid://shopify/ProductVariant/48035787931902": {
-        "qty": 12,
+        "qty": 10,
         "product_title": "GLITCH-2-4251",
         "sku": "FF-GLITCH-2-4251"
       },
@@ -78094,7 +78094,7 @@
         "sku": "FF-KAKEMO-2-4174"
       },
       "gid://shopify/ProductVariant/48035788882174": {
-        "qty": 4,
+        "qty": 2,
         "product_title": "KIMONO-1-0100",
         "sku": "FF-KIMONO-1-0100"
       },
@@ -78489,12 +78489,12 @@
         "sku": "TH-TH-2081-807-53"
       },
       "gid://shopify/ProductVariant/48094428528894": {
-        "qty": 23,
+        "qty": 18,
         "product_title": "A-LIST-1-CHBLH",
         "sku": "EJ-A-LIST-1-CHBLH"
       },
       "gid://shopify/ProductVariant/48094428561662": {
-        "qty": 9,
+        "qty": 4,
         "product_title": "A-LIST5-CRYBR",
         "sku": "EJ-A-LIST5-CRYBR"
       },
@@ -78549,7 +78549,7 @@
         "sku": "EJ-CLOUD9-2-BGEGL"
       },
       "gid://shopify/ProductVariant/48094430134526": {
-        "qty": 17,
+        "qty": 12,
         "product_title": "CONCORDE3-GRDAN",
         "sku": "EJ-CONCORDE3-GRDAN"
       },
@@ -78574,7 +78574,7 @@
         "sku": "EJ-DODGER2-BLK"
       },
       "gid://shopify/ProductVariant/48094431019262": {
-        "qty": 4,
+        "qty": 1,
         "product_title": "DODGER3-SLV",
         "sku": "EJ-DODGER3-SLV"
       },
@@ -78644,7 +78644,7 @@
         "sku": "EJ-KING2-VGLPD"
       },
       "gid://shopify/ProductVariant/48094432133374": {
-        "qty": 7,
+        "qty": 2,
         "product_title": "LEGEND-BLK",
         "sku": "EJ-LEGEND-BLK"
       },
@@ -78669,7 +78669,7 @@
         "sku": "EJ-MALIBU-SGDBK"
       },
       "gid://shopify/ProductVariant/48094432690430": {
-        "qty": 10,
+        "qty": 5,
         "product_title": "MALIBU3-BRZSY",
         "sku": "EJ-MALIBU3-BRZSY"
       },
@@ -78689,12 +78689,12 @@
         "sku": "EJ-RED-CARPET-LBKGD"
       },
       "gid://shopify/ProductVariant/48094432887038": {
-        "qty": 5,
+        "qty": 2,
         "product_title": "ROCKER1-CHOBN",
         "sku": "EJ-ROCKER1-CHOBN"
       },
       "gid://shopify/ProductVariant/48094432919806": {
-        "qty": 11,
+        "qty": 6,
         "product_title": "ROCKER2-BLK/BL",
         "sku": "EJ-ROCKER2-BLK/BL"
       },
@@ -78734,7 +78734,7 @@
         "sku": "EJ-TRIO3-GRNTT"
       },
       "gid://shopify/ProductVariant/48094433444094": {
-        "qty": 4,
+        "qty": 2,
         "product_title": "VIP-VIBLK",
         "sku": "EJ-VIP-VIBLK"
       },
@@ -78764,7 +78764,7 @@
         "sku": "EJ-WALK-OF-FAME-SILBL"
       },
       "gid://shopify/ProductVariant/48094442160382": {
-        "qty": 11,
+        "qty": 9,
         "product_title": "SHADE3-BURMT",
         "sku": "EJ-SHADE3-BURMT"
       },
@@ -78984,7 +78984,7 @@
         "sku": "LONGCHAMP-LO2728-001-53"
       },
       "gid://shopify/ProductVariant/48094647288062": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "LO2728-242-53",
         "sku": "LONGCHAMP-LO2728-242-53"
       },
@@ -79279,7 +79279,7 @@
         "sku": "CARRERA-328/S-FWM/QT"
       },
       "gid://shopify/ProductVariant/48121211781374": {
-        "qty": 12,
+        "qty": 10,
         "product_title": "329/S-WR7/9O",
         "sku": "CARRERA-329/S-WR7/9O"
       },
@@ -79934,7 +79934,7 @@
         "sku": "BUGATTI-05-WG/BK"
       },
       "gid://shopify/ProductVariant/48130605744382": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "05-AS/GM",
         "sku": "BUGATTI-05-AS/GM"
       },
@@ -83354,7 +83354,7 @@
         "sku": "EJ-DIVA1-GLSKY"
       },
       "gid://shopify/ProductVariant/48305153933566": {
-        "qty": 19,
+        "qty": 14,
         "product_title": "DUCKTAIL-JTBLK",
         "sku": "EJ-DUCKTAIL-JTBLK"
       },
@@ -83389,12 +83389,12 @@
         "sku": "EJ-HONKYCAT-AMSKY"
       },
       "gid://shopify/ProductVariant/48305154261246": {
-        "qty": 13,
+        "qty": 8,
         "product_title": "HONKYTONK1-GLDDC",
         "sku": "EJ-HONKYTONK1-GLDDC"
       },
       "gid://shopify/ProductVariant/48305154294014": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "JIVE1-NVYTT",
         "sku": "EJ-JIVE1-NVYTT"
       },
@@ -83414,7 +83414,7 @@
         "sku": "EJ-LEMANS2-MTBLK"
       },
       "gid://shopify/ProductVariant/48305154425086": {
-        "qty": 14,
+        "qty": 12,
         "product_title": "SONATA-VYBLK",
         "sku": "EJ-SONATA-VYBLK"
       },
@@ -83429,7 +83429,7 @@
         "sku": "EJ-SPEAKEASY2-BLKBL"
       },
       "gid://shopify/ProductVariant/48305154556158": {
-        "qty": 5,
+        "qty": 1,
         "product_title": "STARLIGHT2-NYYCR",
         "sku": "EJ-STARLIGHT2-NYYCR"
       },
@@ -83499,7 +83499,7 @@
         "sku": "QUAY-NO-NS-2925-TRT/BRN"
       },
       "gid://shopify/ProductVariant/48314438975742": {
-        "qty": 21,
+        "qty": 20,
         "product_title": "CONTOURED-81731",
         "sku": "QUAY-NO-NS-2925-BLK/SMK"
       },
@@ -87669,7 +87669,7 @@
         "sku": "EJ-A-LIST-4-CHBLH"
       },
       "gid://shopify/ProductVariant/48667528265982": {
-        "qty": 3,
+        "qty": 0,
         "product_title": "ANIMAL-INSTINCT-1-BURNA",
         "sku": "EJ-ANIMALINS-1-BURNA"
       },
@@ -87679,7 +87679,7 @@
         "sku": "EJ-ANIMALINS-2-GLDBK"
       },
       "gid://shopify/ProductVariant/48667528397054": {
-        "qty": 12,
+        "qty": 7,
         "product_title": "BEEHIVE-2-GLDGL",
         "sku": "EJ-BEEHIVE-2-GLDGL"
       },
@@ -87734,12 +87734,12 @@
         "sku": "EJ-DGBYHEART-7-RED"
       },
       "gid://shopify/ProductVariant/48667528888574": {
-        "qty": 11,
+        "qty": 6,
         "product_title": "DREAMER-1-MTB",
         "sku": "EJ-DREAMER-1-MTB"
       },
       "gid://shopify/ProductVariant/48667528954110": {
-        "qty": 6,
+        "qty": 3,
         "product_title": "DREAMER-3-SLV",
         "sku": "EJ-DREAMER-3-SLV"
       },
@@ -87754,7 +87754,7 @@
         "sku": "EJ-DREAMER-5-GOLD"
       },
       "gid://shopify/ProductVariant/48667529117950": {
-        "qty": 2,
+        "qty": 0,
         "product_title": "FILMSTAR-PBLON",
         "sku": "EJ-FILMSTAR-PBLON"
       },
@@ -87774,22 +87774,22 @@
         "sku": "EJ-FLOWER-POWER-3-RED"
       },
       "gid://shopify/ProductVariant/48667529281790": {
-        "qty": 22,
+        "qty": 17,
         "product_title": "FLOWER-POWER-MANGO",
         "sku": "EJ-FLOWER-POWER-MANGO"
       },
       "gid://shopify/ProductVariant/48667529347326": {
-        "qty": 10,
+        "qty": 0,
         "product_title": "GLITTER-3-BGEGL",
         "sku": "EJ-GLITTER-3-BGEGL"
       },
       "gid://shopify/ProductVariant/48667529380094": {
-        "qty": 17,
+        "qty": 9,
         "product_title": "HIPPIE-FKGIF",
         "sku": "EJ-HIPPIE-FKGIF"
       },
       "gid://shopify/ProductVariant/48667529478398": {
-        "qty": 15,
+        "qty": 10,
         "product_title": "HONKYCAT-3-AMSKY",
         "sku": "EJ-HONKYCAT-3-AMSKY"
       },
@@ -87824,12 +87824,12 @@
         "sku": "EJ-MATINEE-1-BGETR"
       },
       "gid://shopify/ProductVariant/48667529806078": {
-        "qty": 11,
+        "qty": 6,
         "product_title": "MATINEE-2-BLUTR",
         "sku": "EJ-MATINEE-2-BLUTR"
       },
       "gid://shopify/ProductVariant/48667529871614": {
-        "qty": 6,
+        "qty": 3,
         "product_title": "OVERTURE-3-TRTMT",
         "sku": "EJ-OVERTURE-3-TRTMT"
       },
@@ -87839,12 +87839,12 @@
         "sku": "EJ-OVERTURE-4-BLKMT"
       },
       "gid://shopify/ProductVariant/48667529937150": {
-        "qty": 2,
+        "qty": 0,
         "product_title": "HIFI-1-BRNCY",
         "sku": "EJ-HIFI-1-BRNCY"
       },
       "gid://shopify/ProductVariant/48667530002686": {
-        "qty": 5,
+        "qty": 2,
         "product_title": "HIFI-2-THNCY",
         "sku": "EJ-HIFI-2-THNCY"
       },
@@ -87854,7 +87854,7 @@
         "sku": "EJ-HIFI-3-VYBLK"
       },
       "gid://shopify/ProductVariant/48667530068222": {
-        "qty": 10,
+        "qty": 5,
         "product_title": "PRODIGY-2-BLJEA",
         "sku": "EJ-PRODIGY-2-BLJEA"
       },
@@ -87869,7 +87869,7 @@
         "sku": "EJ-SHOOTSTAR-1-GLDSY"
       },
       "gid://shopify/ProductVariant/48667530199294": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "SUPERSTAR-RTORT",
         "sku": "EJ-SUPERSTAR-RTORT"
       },
@@ -88119,7 +88119,7 @@
         "sku": "KS-ANGELIQUE/S-US-EUT/Y6"
       },
       "gid://shopify/ProductVariant/48683729617150": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "ANNIKA/F/S-086/70",
         "sku": "KS-ANNIKA/F/S-086/70"
       },
@@ -88534,7 +88534,7 @@
         "sku": "CELINE-CL40235U-01A"
       },
       "gid://shopify/ProductVariant/48772223566078": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "CL40254U 5416A",
         "sku": "CELINE-CL40254U-16A"
       },
@@ -88794,7 +88794,7 @@
         "sku": "DIOR-DM40163U-16N"
       },
       "gid://shopify/ProductVariant/48772227268862": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "DIOR3D M2U 11A1",
         "sku": "DIOR-DM40166U-02B"
       },
@@ -90249,12 +90249,12 @@
         "sku": "JAGUAR-JG37123-5223"
       },
       "gid://shopify/ProductVariant/48963796599038": {
-        "qty": 7,
+        "qty": 5,
         "product_title": "JG37123-8840",
         "sku": "JAGUAR-JG37123-8840"
       },
       "gid://shopify/ProductVariant/48963796697342": {
-        "qty": 11,
+        "qty": 9,
         "product_title": "JG37123-8940",
         "sku": "JAGUAR-JG37123-8940"
       },
@@ -90279,7 +90279,7 @@
         "sku": "JAGUAR-JG37125-5223"
       },
       "gid://shopify/ProductVariant/48963797090558": {
-        "qty": 19,
+        "qty": 17,
         "product_title": "JG37125-8840",
         "sku": "JAGUAR-JG37125-8840"
       },
@@ -90294,7 +90294,7 @@
         "sku": "JAGUAR-JG37181-4928"
       },
       "gid://shopify/ProductVariant/48963797254398": {
-        "qty": 14,
+        "qty": 12,
         "product_title": "JG37181-4929",
         "sku": "JAGUAR-JG37181-4929"
       },
@@ -90329,7 +90329,7 @@
         "sku": "JAGUAR-JG37205-8940"
       },
       "gid://shopify/ProductVariant/48963797745918": {
-        "qty": 3,
+        "qty": 1,
         "product_title": "JG37261-4627",
         "sku": "JAGUAR-JG37261-4627"
       },
@@ -90339,7 +90339,7 @@
         "sku": "JAGUAR-JG37261-4676"
       },
       "gid://shopify/ProductVariant/48963797844222": {
-        "qty": 15,
+        "qty": 13,
         "product_title": "JG37261-8840",
         "sku": "JAGUAR-JG37261-8840"
       },
@@ -90354,12 +90354,12 @@
         "sku": "JAGUAR-JG37263-5313"
       },
       "gid://shopify/ProductVariant/48963797975294": {
-        "qty": 18,
+        "qty": 16,
         "product_title": "JG37263-8840",
         "sku": "JAGUAR-JG37263-8840"
       },
       "gid://shopify/ProductVariant/48963798040830": {
-        "qty": 11,
+        "qty": 9,
         "product_title": "JG37280-5194",
         "sku": "JAGUAR-JG37280-5194"
       },
@@ -90389,12 +90389,12 @@
         "sku": "JAGUAR-JG37282-4982"
       },
       "gid://shopify/ProductVariant/48963798532350": {
-        "qty": 13,
+        "qty": 11,
         "product_title": "JG37282-5140",
         "sku": "JAGUAR-JG37282-5140"
       },
       "gid://shopify/ProductVariant/48963798565118": {
-        "qty": 12,
+        "qty": 10,
         "product_title": "JG37283-4982",
         "sku": "JAGUAR-JG37283-4982"
       },
@@ -90404,7 +90404,7 @@
         "sku": "JAGUAR-JG37283-5286"
       },
       "gid://shopify/ProductVariant/48963798958334": {
-        "qty": 13,
+        "qty": 11,
         "product_title": "JG37283-5336",
         "sku": "JAGUAR-JG37283-5336"
       },
@@ -90479,7 +90479,7 @@
         "sku": "JAGUAR-JG37370-2100"
       },
       "gid://shopify/ProductVariant/48963801153790": {
-        "qty": 19,
+        "qty": 17,
         "product_title": "JG37370-3100",
         "sku": "JAGUAR-JG37370-3100"
       },
@@ -90524,17 +90524,17 @@
         "sku": "JAGUAR-JG37467-5333"
       },
       "gid://shopify/ProductVariant/48963801776382": {
-        "qty": 13,
+        "qty": 11,
         "product_title": "JG37468-4200",
         "sku": "JAGUAR-JG37468-4200"
       },
       "gid://shopify/ProductVariant/48963801809150": {
-        "qty": 14,
+        "qty": 12,
         "product_title": "JG37468-5100",
         "sku": "JAGUAR-JG37468-5100"
       },
       "gid://shopify/ProductVariant/48963801972990": {
-        "qty": 9,
+        "qty": 7,
         "product_title": "JG37468-6000",
         "sku": "JAGUAR-JG37468-6000"
       },
@@ -90564,7 +90564,7 @@
         "sku": "JAGUAR-JG37505-6100"
       },
       "gid://shopify/ProductVariant/48963802267902": {
-        "qty": 15,
+        "qty": 13,
         "product_title": "JG37505-6500",
         "sku": "JAGUAR-JG37505-6500"
       },
@@ -90584,7 +90584,7 @@
         "sku": "JAGUAR-JG37508-4200"
       },
       "gid://shopify/ProductVariant/48963802661118": {
-        "qty": 18,
+        "qty": 16,
         "product_title": "JG37621-3100",
         "sku": "JAGUAR-JG37621-3100"
       },
@@ -92269,7 +92269,7 @@
         "sku": "KL-KL6133-062-54"
       },
       "gid://shopify/ProductVariant/67641438601470": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "KL6149-001-55",
         "sku": "KL-KL6149-001-55"
       },
