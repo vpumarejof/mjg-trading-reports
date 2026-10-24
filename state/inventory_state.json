@@ -34592,13 +34592,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-24T12:56:03.192821+00:00",
+    "updated_at": "2026-10-24T16:23:51.948566+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 78736,
+        "total_qty": 78735,
         "sku_count": 11529,
         "product_count": 11529
       },
@@ -34606,7 +34606,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 78736,
+        "total_qty": 78735,
         "sku_count": 4318,
         "product_count": 4318
       },
@@ -34622,7 +34622,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 1059,
+        "total_qty": 1058,
         "sku_count": 931,
         "product_count": 931
       },
@@ -34646,7 +34646,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 78736,
+        "total_qty": 78735,
         "sku_count": 3263,
         "product_count": 3263
       },
@@ -34654,7 +34654,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 78324,
+        "total_qty": 78323,
         "sku_count": 2851,
         "product_count": 2851
       },
@@ -34742,7 +34742,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 14395,
+        "total_qty": 14394,
         "sku_count": 1216,
         "product_count": 1216
       },
@@ -34758,7 +34758,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 4355,
+        "total_qty": 4354,
         "sku_count": 417,
         "product_count": 417
       },
@@ -34798,7 +34798,7 @@
         "title": "LACOSTE",
         "handle": "lacoste",
         "legacy_id": "393068577022",
-        "total_qty": 851,
+        "total_qty": 850,
         "sku_count": 128,
         "product_count": 128
       },
@@ -69189,7 +69189,7 @@
         "sku": "LACOSTE-L6025S-214"
       },
       "gid://shopify/ProductVariant/47609133302014": {
-        "qty": 13,
+        "qty": 12,
         "product_title": "L6035S-214",
         "sku": "LACOSTE-L6035S-214"
       },
