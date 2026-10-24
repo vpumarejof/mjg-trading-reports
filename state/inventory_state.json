@@ -34592,13 +34592,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-23T21:40:46.714075+00:00",
+    "updated_at": "2026-10-24T03:59:24.322183+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 78742,
+        "total_qty": 78739,
         "sku_count": 11529,
         "product_count": 11529
       },
@@ -34606,7 +34606,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 78742,
+        "total_qty": 78739,
         "sku_count": 4318,
         "product_count": 4318
       },
@@ -34614,7 +34614,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 20964,
+        "total_qty": 20963,
         "sku_count": 2588,
         "product_count": 2588
       },
@@ -34646,7 +34646,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 78742,
+        "total_qty": 78739,
         "sku_count": 3263,
         "product_count": 3263
       },
@@ -34654,9 +34654,9 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 78331,
-        "sku_count": 2852,
-        "product_count": 2852
+        "total_qty": 78327,
+        "sku_count": 2851,
+        "product_count": 2851
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
@@ -34678,7 +34678,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 2836,
+        "total_qty": 2835,
         "sku_count": 366,
         "product_count": 366
       },
@@ -34742,7 +34742,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 14397,
+        "total_qty": 14394,
         "sku_count": 1216,
         "product_count": 1216
       },
@@ -34758,7 +34758,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 4356,
+        "total_qty": 4355,
         "sku_count": 417,
         "product_count": 417
       },
@@ -34782,7 +34782,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 7749,
+        "total_qty": 7748,
         "sku_count": 610,
         "product_count": 610
       },
@@ -34806,7 +34806,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2359,
+        "total_qty": 2358,
         "sku_count": 194,
         "product_count": 194
       },
@@ -34846,7 +34846,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1180,
+        "total_qty": 1179,
         "sku_count": 69,
         "product_count": 69
       },
@@ -35478,7 +35478,7 @@
         "title": "FENDI",
         "handle": "fendi",
         "legacy_id": "391774306558",
-        "total_qty": 103,
+        "total_qty": 102,
         "sku_count": 26,
         "product_count": 26
       },
@@ -35614,7 +35614,7 @@
         "title": "CUTLER AND GROSS",
         "handle": "cutler-and-gross",
         "legacy_id": "512308904190",
-        "total_qty": 1593,
+        "total_qty": 1592,
         "sku_count": 69,
         "product_count": 69
       },
@@ -81264,7 +81264,7 @@
         "sku": "FENDI-FE4075US-30A"
       },
       "gid://shopify/ProductVariant/48196685136126": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "FE4075US 5430J",
         "sku": "FENDI-FE4075US-30J"
       },
@@ -83684,7 +83684,7 @@
         "sku": "CARRERA-CARDUC-044/S-R6S/XT"
       },
       "gid://shopify/ProductVariant/48336089153790": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "CARDUC-051/S-268/Z0",
         "sku": "CARRERA-CARDUC-051/S-268/Z0"
       },
@@ -92799,7 +92799,7 @@
         "sku": "CG-CGSN-1353-02"
       },
       "gid://shopify/ProductVariant/67667224690942": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "CGSN-1355-53-05",
         "sku": "CG-CGSN-1355-05"
       },
