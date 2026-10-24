@@ -34592,13 +34592,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-24T08:43:14.311340+00:00",
+    "updated_at": "2026-10-24T12:56:03.192821+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 78737,
+        "total_qty": 78736,
         "sku_count": 11529,
         "product_count": 11529
       },
@@ -34606,7 +34606,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 78737,
+        "total_qty": 78736,
         "sku_count": 4318,
         "product_count": 4318
       },
@@ -34630,7 +34630,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 54796,
+        "total_qty": 54795,
         "sku_count": 2039,
         "product_count": 2039
       },
@@ -34646,7 +34646,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 78737,
+        "total_qty": 78736,
         "sku_count": 3263,
         "product_count": 3263
       },
@@ -34654,7 +34654,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 78325,
+        "total_qty": 78324,
         "sku_count": 2851,
         "product_count": 2851
       },
@@ -34662,7 +34662,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 8321,
+        "total_qty": 8320,
         "sku_count": 729,
         "product_count": 729
       },
@@ -34670,7 +34670,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 8321,
+        "total_qty": 8320,
         "sku_count": 729,
         "product_count": 729
       },
@@ -34950,7 +34950,7 @@
         "title": "MARC JACOBS",
         "handle": "marc-jacobs",
         "legacy_id": "391774732542",
-        "total_qty": 335,
+        "total_qty": 334,
         "sku_count": 53,
         "product_count": 53
       },
@@ -63724,7 +63724,7 @@
         "sku": "MJ-MARC-1084-PJP-52"
       },
       "gid://shopify/ProductVariant/47377633968382": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "MARC-1097-PJP-53",
         "sku": "MJ-MARC-1097-PJP-53"
       },
