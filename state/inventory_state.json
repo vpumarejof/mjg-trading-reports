@@ -34592,13 +34592,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-24T16:23:51.948566+00:00",
+    "updated_at": "2026-10-24T18:55:00.807157+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 78735,
+        "total_qty": 78715,
         "sku_count": 11529,
         "product_count": 11529
       },
@@ -34606,15 +34606,15 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 78735,
-        "sku_count": 4318,
-        "product_count": 4318
+        "total_qty": 78715,
+        "sku_count": 4317,
+        "product_count": 4317
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 20963,
+        "total_qty": 20960,
         "sku_count": 2588,
         "product_count": 2588
       },
@@ -34630,9 +34630,9 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 54795,
-        "sku_count": 2039,
-        "product_count": 2039
+        "total_qty": 54789,
+        "sku_count": 2038,
+        "product_count": 2038
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -34646,17 +34646,17 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 78735,
-        "sku_count": 3263,
-        "product_count": 3263
+        "total_qty": 78715,
+        "sku_count": 3262,
+        "product_count": 3262
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 78323,
-        "sku_count": 2851,
-        "product_count": 2851
+        "total_qty": 78303,
+        "sku_count": 2850,
+        "product_count": 2850
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
@@ -34710,9 +34710,9 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 18562,
-        "sku_count": 465,
-        "product_count": 465
+        "total_qty": 18556,
+        "sku_count": 464,
+        "product_count": 464
       },
       "gid://shopify/Collection/463407481086": {
         "title": "OPEN BOX",
@@ -34742,7 +34742,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 14394,
+        "total_qty": 14380,
         "sku_count": 1216,
         "product_count": 1216
       },
@@ -34758,7 +34758,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 4354,
+        "total_qty": 4341,
         "sku_count": 417,
         "product_count": 417
       },
@@ -34766,7 +34766,7 @@
         "title": "DRAGON",
         "handle": "dragon",
         "legacy_id": "391774109950",
-        "total_qty": 263,
+        "total_qty": 250,
         "sku_count": 7,
         "product_count": 7
       },
@@ -34782,7 +34782,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 7749,
+        "total_qty": 7748,
         "sku_count": 610,
         "product_count": 610
       },
@@ -34950,7 +34950,7 @@
         "title": "MARC JACOBS",
         "handle": "marc-jacobs",
         "legacy_id": "391774732542",
-        "total_qty": 334,
+        "total_qty": 333,
         "sku_count": 53,
         "product_count": 53
       },
@@ -35302,9 +35302,9 @@
         "title": "QUIKSILVER",
         "handle": "quiksilver",
         "legacy_id": "474031259902",
-        "total_qty": 142,
-        "sku_count": 25,
-        "product_count": 25
+        "total_qty": 136,
+        "sku_count": 24,
+        "product_count": 24
       },
       "gid://shopify/Collection/474031227134": {
         "title": "ROXY",
@@ -35919,12 +35919,12 @@
         "sku": "TOMMYHILFIGERTH1724S0900KU"
       },
       "gid://shopify/ProductVariant/42500364173566": {
-        "qty": 51,
+        "qty": 44,
         "product_title": "DR-RUNE-003",
         "sku": "DRAGONDRRUNE003"
       },
       "gid://shopify/ProductVariant/42500364370174": {
-        "qty": 13,
+        "qty": 10,
         "product_title": "DR-RUNE-246",
         "sku": "DRAGONDRRUNE246"
       },
@@ -35959,7 +35959,7 @@
         "sku": "MCM2140A02256"
       },
       "gid://shopify/ProductVariant/42500366139646": {
-        "qty": 116,
+        "qty": 113,
         "product_title": "DR-RUNE-001",
         "sku": "DRAGONDRRUNE001"
       },
@@ -65599,12 +65599,12 @@
         "sku": "QUIKSILVER-QS1014-MGLD-54"
       },
       "gid://shopify/ProductVariant/47455924289790": {
-        "qty": 5,
+        "qty": 2,
         "product_title": "QS1015-MGUN-56",
         "sku": "QUIKSILVER-QS1015-MGUN-56"
       },
       "gid://shopify/ProductVariant/47455924322558": {
-        "qty": 3,
+        "qty": 0,
         "product_title": "QS1016-MGUN-55",
         "sku": "QUIKSILVER-QS1016-MGUN-55"
       },
@@ -77329,7 +77329,7 @@
         "sku": "MJ-MARC-773/S-SZJ/T4"
       },
       "gid://shopify/ProductVariant/48011619467518": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "MARC-797/S-C9A/O2",
         "sku": "MJ-MARC-797/S-C9A/O2"
       },
