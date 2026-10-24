@@ -34592,13 +34592,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-24T21:20:37.972596+00:00",
+    "updated_at": "2026-10-24T23:29:29.726889+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 78685,
+        "total_qty": 78683,
         "sku_count": 11529,
         "product_count": 11529
       },
@@ -34606,7 +34606,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 78685,
+        "total_qty": 78683,
         "sku_count": 4315,
         "product_count": 4315
       },
@@ -34614,7 +34614,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 20946,
+        "total_qty": 20945,
         "sku_count": 2588,
         "product_count": 2588
       },
@@ -34630,7 +34630,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 54774,
+        "total_qty": 54773,
         "sku_count": 2038,
         "product_count": 2038
       },
@@ -34646,7 +34646,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 78685,
+        "total_qty": 78683,
         "sku_count": 3260,
         "product_count": 3260
       },
@@ -34654,7 +34654,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 78275,
+        "total_qty": 78273,
         "sku_count": 2850,
         "product_count": 2850
       },
@@ -34710,7 +34710,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 18548,
+        "total_qty": 18547,
         "sku_count": 464,
         "product_count": 464
       },
@@ -34742,7 +34742,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 14365,
+        "total_qty": 14364,
         "sku_count": 1214,
         "product_count": 1214
       },
@@ -34758,7 +34758,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 4339,
+        "total_qty": 4338,
         "sku_count": 417,
         "product_count": 417
       },
@@ -34798,7 +34798,7 @@
         "title": "LACOSTE",
         "handle": "lacoste",
         "legacy_id": "393068577022",
-        "total_qty": 850,
+        "total_qty": 849,
         "sku_count": 128,
         "product_count": 128
       },
@@ -35054,7 +35054,7 @@
         "title": "Tariff Busters",
         "handle": "tariff-busters",
         "legacy_id": "463834087678",
-        "total_qty": 44729,
+        "total_qty": 44728,
         "sku_count": 327,
         "product_count": 327
       },
@@ -35134,7 +35134,7 @@
         "title": "SIGNATURE",
         "handle": "signature",
         "legacy_id": "464260399358",
-        "total_qty": 9399,
+        "total_qty": 9398,
         "sku_count": 90,
         "product_count": 90
       },
@@ -55514,7 +55514,7 @@
         "sku": "Signature-S7003-TortRed-52"
       },
       "gid://shopify/ProductVariant/46684984082686": {
-        "qty": 159,
+        "qty": 158,
         "product_title": "S7004-PUR/BLK-49",
         "sku": "Signature-S7004-PUR/BLK-49"
       },
@@ -92524,7 +92524,7 @@
         "sku": "LACOSTE-L6047S-N-601"
       },
       "gid://shopify/ProductVariant/67641447809278": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "L6060S-210",
         "sku": "LACOSTE-L6060S-210"
       },
