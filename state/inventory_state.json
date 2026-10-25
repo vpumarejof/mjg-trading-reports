@@ -34592,13 +34592,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-24T23:29:29.726889+00:00",
+    "updated_at": "2026-10-25T01:26:30.784554+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 78683,
+        "total_qty": 78681,
         "sku_count": 11529,
         "product_count": 11529
       },
@@ -34606,7 +34606,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 78683,
+        "total_qty": 78681,
         "sku_count": 4315,
         "product_count": 4315
       },
@@ -34638,7 +34638,7 @@
         "title": "PRADA",
         "handle": "prada",
         "legacy_id": "391775289598",
-        "total_qty": 71,
+        "total_qty": 70,
         "sku_count": 13,
         "product_count": 13
       },
@@ -34646,7 +34646,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 78683,
+        "total_qty": 78681,
         "sku_count": 3260,
         "product_count": 3260
       },
@@ -34654,7 +34654,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 78273,
+        "total_qty": 78271,
         "sku_count": 2850,
         "product_count": 2850
       },
@@ -34678,7 +34678,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 2835,
+        "total_qty": 2833,
         "sku_count": 365,
         "product_count": 365
       },
@@ -34742,7 +34742,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 14364,
+        "total_qty": 14362,
         "sku_count": 1214,
         "product_count": 1214
       },
@@ -34758,7 +34758,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 4338,
+        "total_qty": 4337,
         "sku_count": 417,
         "product_count": 417
       },
@@ -34782,7 +34782,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 7741,
+        "total_qty": 7740,
         "sku_count": 608,
         "product_count": 608
       },
@@ -35510,7 +35510,7 @@
         "title": "ANNA-KARIN KARLSSON",
         "handle": "anna-karin-karlsson",
         "legacy_id": "485871059198",
-        "total_qty": 1071,
+        "total_qty": 1070,
         "sku_count": 17,
         "product_count": 17
       },
@@ -84794,7 +84794,7 @@
         "sku": "PRADA-PS-02YS-1BO06F"
       },
       "gid://shopify/ProductVariant/48392229519614": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "PS-02ZSU-1BO05U",
         "sku": "PRADA-PS-02ZSU-1BO05U"
       },
@@ -84999,7 +84999,7 @@
         "sku": "AKK-SHADY-LUV-2.0-ROSE"
       },
       "gid://shopify/ProductVariant/48406940745982": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "SHADY-LUV-2.0-WHITE GOLD",
         "sku": "AKK-SHADY-LUV-2.0-WHITE GOLD"
       },
