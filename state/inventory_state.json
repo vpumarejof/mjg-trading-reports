@@ -34592,13 +34592,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-25T06:28:47.785485+00:00",
+    "updated_at": "2026-10-25T11:54:44.608568+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 78680,
+        "total_qty": 78677,
         "sku_count": 11529,
         "product_count": 11529
       },
@@ -34606,7 +34606,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 78680,
+        "total_qty": 78677,
         "sku_count": 4315,
         "product_count": 4315
       },
@@ -34622,7 +34622,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 1058,
+        "total_qty": 1057,
         "sku_count": 931,
         "product_count": 931
       },
@@ -34630,7 +34630,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 54770,
+        "total_qty": 54767,
         "sku_count": 2036,
         "product_count": 2036
       },
@@ -34646,7 +34646,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 78680,
+        "total_qty": 78677,
         "sku_count": 3258,
         "product_count": 3258
       },
@@ -34654,7 +34654,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 78272,
+        "total_qty": 78269,
         "sku_count": 2850,
         "product_count": 2850
       },
@@ -34662,7 +34662,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 8320,
+        "total_qty": 8318,
         "sku_count": 729,
         "product_count": 729
       },
@@ -34670,7 +34670,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 8320,
+        "total_qty": 8318,
         "sku_count": 729,
         "product_count": 729
       },
@@ -34678,7 +34678,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 2835,
+        "total_qty": 2834,
         "sku_count": 365,
         "product_count": 365
       },
@@ -34702,7 +34702,7 @@
         "title": "GUCCI",
         "handle": "gucci",
         "legacy_id": "421341364478",
-        "total_qty": 449,
+        "total_qty": 448,
         "sku_count": 301,
         "product_count": 301
       },
@@ -34998,7 +34998,7 @@
         "title": "Gucci",
         "handle": "gucci-1",
         "legacy_id": "407282450686",
-        "total_qty": 449,
+        "total_qty": 448,
         "sku_count": 91,
         "product_count": 91
       },
@@ -35230,7 +35230,7 @@
         "title": "DKNY",
         "handle": "dkny",
         "legacy_id": "395943870718",
-        "total_qty": 443,
+        "total_qty": 442,
         "sku_count": 62,
         "product_count": 62
       },
@@ -35422,7 +35422,7 @@
         "title": "PRODESIGN",
         "handle": "prodesign",
         "legacy_id": "478388125950",
-        "total_qty": 849,
+        "total_qty": 848,
         "sku_count": 108,
         "product_count": 108
       },
@@ -81624,7 +81624,7 @@
         "sku": "GUCCI-GG0025O-016-58"
       },
       "gid://shopify/ProductVariant/48288330023166": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "GG0093O-009-53",
         "sku": "GUCCI-GG0093O-009-53"
       },
@@ -89319,7 +89319,7 @@
         "sku": "PD-IRIS-3-9321-54"
       },
       "gid://shopify/ProductVariant/48913522655486": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "LIFTED-1-3724-50",
         "sku": "PD-LIFTED-1-3724-50"
       },
@@ -91404,7 +91404,7 @@
         "sku": "DKNY-DK5068-001-52"
       },
       "gid://shopify/ProductVariant/67613230465278": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "DK5068-400-52",
         "sku": "DKNY-DK5068-400-52"
       },
