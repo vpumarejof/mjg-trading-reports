@@ -34592,13 +34592,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-25T11:54:44.608568+00:00",
+    "updated_at": "2026-10-25T15:18:45.565729+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 78677,
+        "total_qty": 78674,
         "sku_count": 11529,
         "product_count": 11529
       },
@@ -34606,9 +34606,9 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 78677,
-        "sku_count": 4315,
-        "product_count": 4315
+        "total_qty": 78674,
+        "sku_count": 4314,
+        "product_count": 4314
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
@@ -34630,7 +34630,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 54767,
+        "total_qty": 54766,
         "sku_count": 2036,
         "product_count": 2036
       },
@@ -34646,15 +34646,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 78677,
-        "sku_count": 3258,
-        "product_count": 3258
+        "total_qty": 78674,
+        "sku_count": 3257,
+        "product_count": 3257
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 78269,
+        "total_qty": 78267,
         "sku_count": 2850,
         "product_count": 2850
       },
@@ -34662,7 +34662,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 8318,
+        "total_qty": 8317,
         "sku_count": 729,
         "product_count": 729
       },
@@ -34670,7 +34670,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 8318,
+        "total_qty": 8317,
         "sku_count": 729,
         "product_count": 729
       },
@@ -34678,9 +34678,9 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 2834,
-        "sku_count": 365,
-        "product_count": 365
+        "total_qty": 2831,
+        "sku_count": 364,
+        "product_count": 364
       },
       "gid://shopify/Collection/391854031102": {
         "title": "Women's",
@@ -34702,7 +34702,7 @@
         "title": "GUCCI",
         "handle": "gucci",
         "legacy_id": "421341364478",
-        "total_qty": 448,
+        "total_qty": 447,
         "sku_count": 301,
         "product_count": 301
       },
@@ -34742,9 +34742,9 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 14364,
-        "sku_count": 1214,
-        "product_count": 1214
+        "total_qty": 14362,
+        "sku_count": 1213,
+        "product_count": 1213
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -34758,7 +34758,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 4338,
+        "total_qty": 4337,
         "sku_count": 417,
         "product_count": 417
       },
@@ -34774,7 +34774,7 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 528,
+        "total_qty": 527,
         "sku_count": 58,
         "product_count": 58
       },
@@ -34782,9 +34782,9 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 7741,
-        "sku_count": 608,
-        "product_count": 608
+        "total_qty": 7740,
+        "sku_count": 607,
+        "product_count": 607
       },
       "gid://shopify/Collection/391853998334": {
         "title": "Men's",
@@ -34998,7 +34998,7 @@
         "title": "Gucci",
         "handle": "gucci-1",
         "legacy_id": "407282450686",
-        "total_qty": 448,
+        "total_qty": 447,
         "sku_count": 91,
         "product_count": 91
       },
@@ -35478,9 +35478,9 @@
         "title": "FENDI",
         "handle": "fendi",
         "legacy_id": "391774306558",
-        "total_qty": 103,
-        "sku_count": 26,
-        "product_count": 26
+        "total_qty": 102,
+        "sku_count": 25,
+        "product_count": 25
       },
       "gid://shopify/Collection/391775027454": {
         "title": "MONTBLANC",
@@ -54049,7 +54049,7 @@
         "sku": "SF-SF2985-320-52"
       },
       "gid://shopify/ProductVariant/46663438336254": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "SF2991-240-51",
         "sku": "SF-SF2991-240-51"
       },
@@ -75369,7 +75369,7 @@
         "sku": "GUCCI-GG1517S-002"
       },
       "gid://shopify/ProductVariant/47807389761790": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "GG1517S-003",
         "sku": "GUCCI-GG1517S-003"
       },
@@ -81259,7 +81259,7 @@
         "sku": "FENDI-FE4075US-28Z"
       },
       "gid://shopify/ProductVariant/48196685070590": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "FE4075US 5430A",
         "sku": "FENDI-FE4075US-30A"
       },
