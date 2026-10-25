@@ -34592,13 +34592,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-25T21:14:05.999418+00:00",
+    "updated_at": "2026-10-25T23:16:47.828506+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 78666,
+        "total_qty": 78665,
         "sku_count": 11529,
         "product_count": 11529
       },
@@ -34606,7 +34606,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 78666,
+        "total_qty": 78665,
         "sku_count": 4314,
         "product_count": 4314
       },
@@ -34646,7 +34646,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 78666,
+        "total_qty": 78665,
         "sku_count": 3257,
         "product_count": 3257
       },
@@ -34654,7 +34654,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 78258,
+        "total_qty": 78257,
         "sku_count": 2849,
         "product_count": 2849
       },
@@ -34742,7 +34742,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 14357,
+        "total_qty": 14356,
         "sku_count": 1213,
         "product_count": 1213
       },
@@ -34782,7 +34782,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 7739,
+        "total_qty": 7738,
         "sku_count": 607,
         "product_count": 607
       },
@@ -34910,7 +34910,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 389,
+        "total_qty": 388,
         "sku_count": 70,
         "product_count": 70
       },
@@ -88219,7 +88219,7 @@
         "sku": "KS-JOSI/S-086/HA"
       },
       "gid://shopify/ProductVariant/48683730600190": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "JOSI/S-HMW/9O",
         "sku": "KS-JOSI/S-HMW/9O"
       },
