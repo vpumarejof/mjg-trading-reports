@@ -34592,13 +34592,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-25T01:26:30.784554+00:00",
+    "updated_at": "2026-10-25T06:28:47.785485+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 78681,
+        "total_qty": 78680,
         "sku_count": 11529,
         "product_count": 11529
       },
@@ -34606,7 +34606,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 78681,
+        "total_qty": 78680,
         "sku_count": 4315,
         "product_count": 4315
       },
@@ -34630,15 +34630,15 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 54773,
-        "sku_count": 2038,
-        "product_count": 2038
+        "total_qty": 54770,
+        "sku_count": 2036,
+        "product_count": 2036
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
         "handle": "prada",
         "legacy_id": "391775289598",
-        "total_qty": 70,
+        "total_qty": 71,
         "sku_count": 13,
         "product_count": 13
       },
@@ -34646,15 +34646,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 78681,
-        "sku_count": 3260,
-        "product_count": 3260
+        "total_qty": 78680,
+        "sku_count": 3258,
+        "product_count": 3258
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 78271,
+        "total_qty": 78272,
         "sku_count": 2850,
         "product_count": 2850
       },
@@ -34678,7 +34678,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 2833,
+        "total_qty": 2835,
         "sku_count": 365,
         "product_count": 365
       },
@@ -34742,7 +34742,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 14362,
+        "total_qty": 14364,
         "sku_count": 1214,
         "product_count": 1214
       },
@@ -34758,7 +34758,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 4337,
+        "total_qty": 4338,
         "sku_count": 417,
         "product_count": 417
       },
@@ -34782,7 +34782,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 7740,
+        "total_qty": 7741,
         "sku_count": 608,
         "product_count": 608
       },
@@ -34798,7 +34798,7 @@
         "title": "LACOSTE",
         "handle": "lacoste",
         "legacy_id": "393068577022",
-        "total_qty": 849,
+        "total_qty": 848,
         "sku_count": 128,
         "product_count": 128
       },
@@ -35246,9 +35246,9 @@
         "title": "HARRY LARY",
         "handle": "harry-lary",
         "legacy_id": "472287772926",
-        "total_qty": 22,
-        "sku_count": 18,
-        "product_count": 18
+        "total_qty": 21,
+        "sku_count": 17,
+        "product_count": 17
       },
       "gid://shopify/Collection/397030424830": {
         "title": "CHOPARD",
@@ -35382,9 +35382,9 @@
         "title": "JAGUAR",
         "handle": "jaguar",
         "legacy_id": "475760034046",
-        "total_qty": 1678,
-        "sku_count": 159,
-        "product_count": 159
+        "total_qty": 1677,
+        "sku_count": 158,
+        "product_count": 158
       },
       "gid://shopify/Collection/476032958718": {
         "title": "LONGCHAMP",
@@ -35510,7 +35510,7 @@
         "title": "ANNA-KARIN KARLSSON",
         "handle": "anna-karin-karlsson",
         "legacy_id": "485871059198",
-        "total_qty": 1070,
+        "total_qty": 1071,
         "sku_count": 17,
         "product_count": 17
       },
@@ -63189,7 +63189,7 @@
         "sku": "HL-COLLECTY-2102"
       },
       "gid://shopify/ProductVariant/47353901580542": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "CONFORMITY-053M",
         "sku": "HL-CONFORMITY-053M"
       },
@@ -84794,7 +84794,7 @@
         "sku": "PRADA-PS-02YS-1BO06F"
       },
       "gid://shopify/ProductVariant/48392229519614": {
-        "qty": 4,
+        "qty": 5,
         "product_title": "PS-02ZSU-1BO05U",
         "sku": "PRADA-PS-02ZSU-1BO05U"
       },
@@ -84999,7 +84999,7 @@
         "sku": "AKK-SHADY-LUV-2.0-ROSE"
       },
       "gid://shopify/ProductVariant/48406940745982": {
-        "qty": 11,
+        "qty": 12,
         "product_title": "SHADY-LUV-2.0-WHITE GOLD",
         "sku": "AKK-SHADY-LUV-2.0-WHITE GOLD"
       },
@@ -90204,7 +90204,7 @@
         "sku": "JAGUAR-JG35600-6500-55"
       },
       "gid://shopify/ProductVariant/48963795255550": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "JG35601-3100-56",
         "sku": "JAGUAR-JG35601-3100-56"
       },
@@ -91699,7 +91699,7 @@
         "sku": "LACOSTE-L4002-217-54"
       },
       "gid://shopify/ProductVariant/67613236920574": {
-        "qty": 15,
+        "qty": 14,
         "product_title": "L4002-219-54",
         "sku": "LACOSTE-L4002-219-54"
       },
