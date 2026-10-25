@@ -34592,13 +34592,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-25T18:30:57.809100+00:00",
+    "updated_at": "2026-10-25T21:14:05.999418+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 78670,
+        "total_qty": 78666,
         "sku_count": 11529,
         "product_count": 11529
       },
@@ -34606,7 +34606,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 78670,
+        "total_qty": 78666,
         "sku_count": 4314,
         "product_count": 4314
       },
@@ -34614,7 +34614,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 20943,
+        "total_qty": 20942,
         "sku_count": 2588,
         "product_count": 2588
       },
@@ -34622,7 +34622,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 1057,
+        "total_qty": 1056,
         "sku_count": 931,
         "product_count": 931
       },
@@ -34630,7 +34630,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 54765,
+        "total_qty": 54763,
         "sku_count": 2036,
         "product_count": 2036
       },
@@ -34646,7 +34646,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 78670,
+        "total_qty": 78666,
         "sku_count": 3257,
         "product_count": 3257
       },
@@ -34654,9 +34654,9 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 78263,
-        "sku_count": 2850,
-        "product_count": 2850
+        "total_qty": 78258,
+        "sku_count": 2849,
+        "product_count": 2849
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
@@ -34678,7 +34678,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 2830,
+        "total_qty": 2829,
         "sku_count": 364,
         "product_count": 364
       },
@@ -34742,7 +34742,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 14359,
+        "total_qty": 14357,
         "sku_count": 1213,
         "product_count": 1213
       },
@@ -34774,7 +34774,7 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 527,
+        "total_qty": 526,
         "sku_count": 58,
         "product_count": 58
       },
@@ -34782,7 +34782,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 7740,
+        "total_qty": 7739,
         "sku_count": 607,
         "product_count": 607
       },
@@ -34798,7 +34798,7 @@
         "title": "LACOSTE",
         "handle": "lacoste",
         "legacy_id": "393068577022",
-        "total_qty": 848,
+        "total_qty": 847,
         "sku_count": 128,
         "product_count": 128
       },
@@ -34806,7 +34806,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2350,
+        "total_qty": 2349,
         "sku_count": 194,
         "product_count": 194
       },
@@ -35358,7 +35358,7 @@
         "title": "SPYDER",
         "handle": "spyder",
         "legacy_id": "474673479934",
-        "total_qty": 42,
+        "total_qty": 41,
         "sku_count": 10,
         "product_count": 10
       },
@@ -35614,7 +35614,7 @@
         "title": "CUTLER AND GROSS",
         "handle": "cutler-and-gross",
         "legacy_id": "512308904190",
-        "total_qty": 1577,
+        "total_qty": 1576,
         "sku_count": 68,
         "product_count": 68
       },
@@ -46144,7 +46144,7 @@
         "sku": "SF268S-795"
       },
       "gid://shopify/ProductVariant/45841808687358": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "SF727S-214",
         "sku": "SF727S-214"
       },
@@ -66984,7 +66984,7 @@
         "sku": "SPYDER-SP4036-400-55"
       },
       "gid://shopify/ProductVariant/47504333668606": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "SP4036-971-55",
         "sku": "SPYDER-SP4036-971-55"
       },
@@ -91644,7 +91644,7 @@
         "sku": "LACOSTE-L2933-N-230-54"
       },
       "gid://shopify/ProductVariant/67613236101374": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "L2961-214-53",
         "sku": "LACOSTE-L2961-214-53"
       },
@@ -92799,7 +92799,7 @@
         "sku": "CG-CGSN-1353-02"
       },
       "gid://shopify/ProductVariant/67667224690942": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "CGSN-1355-53-05",
         "sku": "CG-CGSN-1355-05"
       },
