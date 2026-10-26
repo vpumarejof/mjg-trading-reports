@@ -34592,7 +34592,7 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-26T01:26:25.179602+00:00",
+    "updated_at": "2026-10-26T06:37:41.276237+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
@@ -34607,8 +34607,8 @@
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
         "total_qty": 78665,
-        "sku_count": 4314,
-        "product_count": 4314
+        "sku_count": 4315,
+        "product_count": 4315
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
@@ -34647,14 +34647,14 @@
         "handle": "all",
         "legacy_id": "391850787070",
         "total_qty": 78665,
-        "sku_count": 3257,
-        "product_count": 3257
+        "sku_count": 3258,
+        "product_count": 3258
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 78257,
+        "total_qty": 78256,
         "sku_count": 2849,
         "product_count": 2849
       },
@@ -34678,9 +34678,9 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 2829,
-        "sku_count": 364,
-        "product_count": 364
+        "total_qty": 2830,
+        "sku_count": 365,
+        "product_count": 365
       },
       "gid://shopify/Collection/391854031102": {
         "title": "Women's",
@@ -34742,9 +34742,9 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 14356,
-        "sku_count": 1213,
-        "product_count": 1213
+        "total_qty": 14357,
+        "sku_count": 1214,
+        "product_count": 1214
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -34782,9 +34782,9 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 7738,
-        "sku_count": 607,
-        "product_count": 607
+        "total_qty": 7739,
+        "sku_count": 608,
+        "product_count": 608
       },
       "gid://shopify/Collection/391853998334": {
         "title": "Men's",
@@ -34934,7 +34934,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 24092,
+        "total_qty": 24091,
         "sku_count": 38,
         "product_count": 38
       },
@@ -35478,9 +35478,9 @@
         "title": "FENDI",
         "handle": "fendi",
         "legacy_id": "391774306558",
-        "total_qty": 102,
-        "sku_count": 25,
-        "product_count": 25
+        "total_qty": 103,
+        "sku_count": 26,
+        "product_count": 26
       },
       "gid://shopify/Collection/391775027454": {
         "title": "MONTBLANC",
@@ -47394,7 +47394,7 @@
         "sku": "MJ-MARC-463-0086-53"
       },
       "gid://shopify/ProductVariant/46059134714110": {
-        "qty": 9532,
+        "qty": 9531,
         "product_title": "DropShip",
         "sku": "DropShip"
       },
@@ -81259,7 +81259,7 @@
         "sku": "FENDI-FE4075US-28Z"
       },
       "gid://shopify/ProductVariant/48196685070590": {
-        "qty": 0,
+        "qty": 1,
         "product_title": "FE4075US 5430A",
         "sku": "FENDI-FE4075US-30A"
       },
@@ -92799,7 +92799,7 @@
         "sku": "CG-CGSN-1353-02"
       },
       "gid://shopify/ProductVariant/67667224690942": {
-        "qty": 4,
+        "qty": 5,
         "product_title": "CGSN-1355-53-05",
         "sku": "CG-CGSN-1355-05"
       },
@@ -92959,7 +92959,7 @@
         "sku": "CG-CGSN-1408-B1"
       },
       "gid://shopify/ProductVariant/67667226886398": {
-        "qty": 18,
+        "qty": 17,
         "product_title": "CGSN-9101-53-04",
         "sku": "CG-CGSN-9101-04"
       },
