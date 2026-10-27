@@ -34592,13 +34592,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-27T19:07:15.512714+00:00",
+    "updated_at": "2026-10-27T22:56:17.729740+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 78058,
+        "total_qty": 78057,
         "sku_count": 11529,
         "product_count": 11529
       },
@@ -34606,9 +34606,9 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 78058,
-        "sku_count": 4262,
-        "product_count": 4262
+        "total_qty": 78057,
+        "sku_count": 4261,
+        "product_count": 4261
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
@@ -34630,9 +34630,9 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 54652,
-        "sku_count": 2023,
-        "product_count": 2023
+        "total_qty": 54651,
+        "sku_count": 2022,
+        "product_count": 2022
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -34646,9 +34646,9 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 78058,
-        "sku_count": 3197,
-        "product_count": 3197
+        "total_qty": 78057,
+        "sku_count": 3196,
+        "product_count": 3196
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
@@ -34662,17 +34662,17 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 8286,
-        "sku_count": 725,
-        "product_count": 725
+        "total_qty": 8285,
+        "sku_count": 724,
+        "product_count": 724
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 8286,
-        "sku_count": 725,
-        "product_count": 725
+        "total_qty": 8285,
+        "sku_count": 724,
+        "product_count": 724
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
@@ -35238,9 +35238,9 @@
         "title": "COCO SONG",
         "handle": "coco-song",
         "legacy_id": "467688259838",
-        "total_qty": 85,
-        "sku_count": 24,
-        "product_count": 24
+        "total_qty": 84,
+        "sku_count": 23,
+        "product_count": 23
       },
       "gid://shopify/Collection/472287772926": {
         "title": "HARRY LARY",
@@ -62819,7 +62819,7 @@
         "sku": "CS-SWEET-MAMA-CV257.03-09"
       },
       "gid://shopify/ProductVariant/47272819654910": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "MONA-ROCK-CV258.02-09",
         "sku": "CS-MONA-ROCK-CV258.02-09"
       },
