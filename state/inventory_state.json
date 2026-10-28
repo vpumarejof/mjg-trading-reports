@@ -34589,13 +34589,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-28T14:44:50.159651+00:00",
+    "updated_at": "2026-10-28T19:53:56.291789+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 77962,
+        "total_qty": 77948,
         "sku_count": 11528,
         "product_count": 11528
       },
@@ -34603,7 +34603,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 77962,
+        "total_qty": 77948,
         "sku_count": 4253,
         "product_count": 4253
       },
@@ -34627,7 +34627,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 54564,
+        "total_qty": 54552,
         "sku_count": 2012,
         "product_count": 2012
       },
@@ -34643,7 +34643,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 77962,
+        "total_qty": 77948,
         "sku_count": 3185,
         "product_count": 3185
       },
@@ -34651,7 +34651,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 77563,
+        "total_qty": 77549,
         "sku_count": 2786,
         "product_count": 2786
       },
@@ -34659,7 +34659,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 8272,
+        "total_qty": 8266,
         "sku_count": 720,
         "product_count": 720
       },
@@ -34667,7 +34667,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 8272,
+        "total_qty": 8266,
         "sku_count": 720,
         "product_count": 720
       },
@@ -34675,7 +34675,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 2690,
+        "total_qty": 2688,
         "sku_count": 341,
         "product_count": 341
       },
@@ -34739,7 +34739,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 13863,
+        "total_qty": 13861,
         "sku_count": 1165,
         "product_count": 1165
       },
@@ -34747,7 +34747,7 @@
         "title": "TOMMY HILFIGER",
         "handle": "tommy-hilfiger",
         "legacy_id": "391775912190",
-        "total_qty": 202,
+        "total_qty": 201,
         "sku_count": 38,
         "product_count": 38
       },
@@ -34755,7 +34755,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 4243,
+        "total_qty": 4242,
         "sku_count": 405,
         "product_count": 405
       },
@@ -34779,7 +34779,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 7427,
+        "total_qty": 7426,
         "sku_count": 580,
         "product_count": 580
       },
@@ -34827,7 +34827,7 @@
         "title": "Kid's Eyeglasses",
         "handle": "kids-eyeglasses",
         "legacy_id": "408131305726",
-        "total_qty": 21553,
+        "total_qty": 21552,
         "sku_count": 100,
         "product_count": 100
       },
@@ -34883,7 +34883,7 @@
         "title": "Kids",
         "handle": "kids",
         "legacy_id": "454431080702",
-        "total_qty": 21555,
+        "total_qty": 21554,
         "sku_count": 137,
         "product_count": 137
       },
@@ -35107,7 +35107,7 @@
         "title": "FLEXON",
         "handle": "flexon",
         "legacy_id": "466401853694",
-        "total_qty": 82,
+        "total_qty": 81,
         "sku_count": 26,
         "product_count": 26
       },
@@ -35179,7 +35179,7 @@
         "title": "DIOR",
         "handle": "dior",
         "legacy_id": "391774077182",
-        "total_qty": 104,
+        "total_qty": 103,
         "sku_count": 34,
         "product_count": 34
       },
@@ -35195,7 +35195,7 @@
         "title": "VERSACE",
         "handle": "versace",
         "legacy_id": "391776010494",
-        "total_qty": 59,
+        "total_qty": 58,
         "sku_count": 16,
         "product_count": 16
       },
@@ -35227,7 +35227,7 @@
         "title": "COCO SONG",
         "handle": "coco-song",
         "legacy_id": "467688259838",
-        "total_qty": 84,
+        "total_qty": 83,
         "sku_count": 23,
         "product_count": 23
       },
@@ -35371,7 +35371,7 @@
         "title": "JAGUAR",
         "handle": "jaguar",
         "legacy_id": "475760034046",
-        "total_qty": 1599,
+        "total_qty": 1596,
         "sku_count": 151,
         "product_count": 151
       },
@@ -35411,7 +35411,7 @@
         "title": "PRODESIGN",
         "handle": "prodesign",
         "legacy_id": "478388125950",
-        "total_qty": 843,
+        "total_qty": 841,
         "sku_count": 108,
         "product_count": 108
       },
@@ -35443,7 +35443,7 @@
         "title": "MODO",
         "handle": "modo",
         "legacy_id": "481959280894",
-        "total_qty": 255,
+        "total_qty": 251,
         "sku_count": 28,
         "product_count": 28
       },
@@ -35515,9 +35515,9 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 437,
-        "sku_count": 47,
-        "product_count": 47
+        "total_qty": 112,
+        "sku_count": 16,
+        "product_count": 16
       },
       "gid://shopify/Collection/487431995646": {
         "title": "CANADA GOOSE",
@@ -62883,7 +62883,7 @@
         "sku": "CS-JERICHO-ROAD-CV235.01-09"
       },
       "gid://shopify/ProductVariant/47273075900670": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "JERICHO-ROAD-CV235.02-09",
         "sku": "CS-JERICHO-ROAD-CV235.02-09"
       },
@@ -68943,7 +68943,7 @@
         "sku": "JAGUAR-JG33629-6100-55"
       },
       "gid://shopify/ProductVariant/47589023219966": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "JG33631-4100-56",
         "sku": "JAGUAR-JG33631-4100-56"
       },
@@ -68978,7 +68978,7 @@
         "sku": "JAGUAR-JG37508-3100"
       },
       "gid://shopify/ProductVariant/47589023645950": {
-        "qty": 14,
+        "qty": 13,
         "product_title": "JG37508-6100",
         "sku": "JAGUAR-JG37508-6100"
       },
@@ -72698,7 +72698,7 @@
         "sku": "MOSCHINO-MOS153/S/US-86/IR"
       },
       "gid://shopify/ProductVariant/47761273946366": {
-        "qty": 11,
+        "qty": 10,
         "product_title": "1448-1021-53",
         "sku": "PD-1448-1021-53"
       },
@@ -78203,7 +78203,7 @@
         "sku": "MODO-4601-GOLD0-54"
       },
       "gid://shopify/ProductVariant/48061854286078": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "4601-SIL00-54",
         "sku": "MODO-4601-SIL00-54"
       },
@@ -78263,7 +78263,7 @@
         "sku": "MODO-4629-RGOLD-54"
       },
       "gid://shopify/ProductVariant/48061854908670": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "4632-DGRN0-58",
         "sku": "MODO-4632-DGRN0-58"
       },
@@ -84313,7 +84313,7 @@
         "sku": "TH-TH-1637-2F7-53"
       },
       "gid://shopify/ProductVariant/48349470294270": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "TH-1749-FLL-53",
         "sku": "TH-TH-1749-FLL-53"
       },
@@ -84383,7 +84383,7 @@
         "sku": "MODO-4627-DNAVY-51"
       },
       "gid://shopify/ProductVariant/48354208776446": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "4627-SMK00-51",
         "sku": "MODO-4627-SMK00-51"
       },
@@ -84393,7 +84393,7 @@
         "sku": "MODO-4628-DNAVY-52"
       },
       "gid://shopify/ProductVariant/48354208841982": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "4629-LBLU0-54",
         "sku": "MODO-4629-LBLU0-54"
       },
@@ -85768,7 +85768,7 @@
         "sku": "VERSACE-0VE3366-5428-53"
       },
       "gid://shopify/ProductVariant/48567757504766": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "0VE3366-GB1-55",
         "sku": "VERSACE-0VE3366-GB1-55"
       },
@@ -88443,7 +88443,7 @@
         "sku": "FLEXON-J4021-N-650-48"
       },
       "gid://shopify/ProductVariant/48698372555006": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "J4022-N-313-49",
         "sku": "FLEXON-J4022-N-313-49"
       },
@@ -88633,7 +88633,7 @@
         "sku": "DIOR-CD40189U-10N"
       },
       "gid://shopify/ProductVariant/48772225532158": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "CDIOR S4U B0L0",
         "sku": "DIOR-CD40203U-10Z"
       },
@@ -89173,7 +89173,7 @@
         "sku": "PD-ALUTRACK-3-4021-58"
       },
       "gid://shopify/ProductVariant/48913521672446": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "BOW-1-3731-53",
         "sku": "PD-BOW-1-3731-53"
       },
@@ -90038,7 +90038,7 @@
         "sku": "JAGUAR-JG33617-6500-56"
       },
       "gid://shopify/ProductVariant/48963792634110": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "JG33619-3100-56",
         "sku": "JAGUAR-JG33619-3100-56"
       },
