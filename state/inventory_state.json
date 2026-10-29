@@ -34589,13 +34589,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-28T23:44:33.571051+00:00",
+    "updated_at": "2026-10-29T02:54:56.350171+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 77866,
+        "total_qty": 77865,
         "sku_count": 11528,
         "product_count": 11528
       },
@@ -34603,7 +34603,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 77866,
+        "total_qty": 77865,
         "sku_count": 4248,
         "product_count": 4248
       },
@@ -34627,7 +34627,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 54477,
+        "total_qty": 54476,
         "sku_count": 1993,
         "product_count": 1993
       },
@@ -34643,7 +34643,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 77866,
+        "total_qty": 77865,
         "sku_count": 3166,
         "product_count": 3166
       },
@@ -34651,7 +34651,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 77472,
+        "total_qty": 77471,
         "sku_count": 2772,
         "product_count": 2772
       },
@@ -34675,7 +34675,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 2688,
+        "total_qty": 2687,
         "sku_count": 341,
         "product_count": 341
       },
@@ -35179,7 +35179,7 @@
         "title": "DIOR",
         "handle": "dior",
         "legacy_id": "391774077182",
-        "total_qty": 103,
+        "total_qty": 102,
         "sku_count": 34,
         "product_count": 34
       },
@@ -88793,7 +88793,7 @@
         "sku": "DIOR-DM40174I-01F"
       },
       "gid://shopify/ProductVariant/48772227563774": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "CD DIAMONDO R5U F000",
         "sku": "DIOR-DM50112U-016-50"
       },
