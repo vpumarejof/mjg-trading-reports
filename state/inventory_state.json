@@ -34589,13 +34589,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-29T21:05:58.897523+00:00",
+    "updated_at": "2026-10-30T00:56:55.482933+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 77700,
+        "total_qty": 77696,
         "sku_count": 11528,
         "product_count": 11528
       },
@@ -34603,7 +34603,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 77700,
+        "total_qty": 77696,
         "sku_count": 4241,
         "product_count": 4241
       },
@@ -34627,7 +34627,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 54352,
+        "total_qty": 54351,
         "sku_count": 1989,
         "product_count": 1989
       },
@@ -34643,7 +34643,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 77700,
+        "total_qty": 77696,
         "sku_count": 3157,
         "product_count": 3157
       },
@@ -34651,7 +34651,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 77302,
+        "total_qty": 77298,
         "sku_count": 2759,
         "product_count": 2759
       },
@@ -34659,7 +34659,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 8243,
+        "total_qty": 8242,
         "sku_count": 715,
         "product_count": 715
       },
@@ -34667,7 +34667,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 8243,
+        "total_qty": 8242,
         "sku_count": 715,
         "product_count": 715
       },
@@ -34739,7 +34739,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 13814,
+        "total_qty": 13812,
         "sku_count": 1160,
         "product_count": 1160
       },
@@ -34755,7 +34755,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 4228,
+        "total_qty": 4227,
         "sku_count": 404,
         "product_count": 404
       },
@@ -34779,7 +34779,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 7406,
+        "total_qty": 7405,
         "sku_count": 577,
         "product_count": 577
       },
@@ -34795,7 +34795,7 @@
         "title": "LACOSTE",
         "handle": "lacoste",
         "legacy_id": "393068577022",
-        "total_qty": 824,
+        "total_qty": 823,
         "sku_count": 128,
         "product_count": 128
       },
@@ -34923,7 +34923,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 24080,
+        "total_qty": 24079,
         "sku_count": 38,
         "product_count": 38
       },
@@ -34971,7 +34971,7 @@
         "title": "DAVID BECKHAM",
         "handle": "david-beckham",
         "legacy_id": "397089702142",
-        "total_qty": 437,
+        "total_qty": 436,
         "sku_count": 52,
         "product_count": 52
       },
@@ -34979,7 +34979,7 @@
         "title": "KARL LAGERFELD",
         "handle": "karl-lagerfeld",
         "legacy_id": "422907576574",
-        "total_qty": 320,
+        "total_qty": 319,
         "sku_count": 38,
         "product_count": 38
       },
@@ -47383,7 +47383,7 @@
         "sku": "MJ-MARC-463-0086-53"
       },
       "gid://shopify/ProductVariant/46059134714110": {
-        "qty": 9520,
+        "qty": 9519,
         "product_title": "DropShip",
         "sku": "DropShip"
       },
@@ -87198,7 +87198,7 @@
         "sku": "DB-DB-1159/S-EX4/2A"
       },
       "gid://shopify/ProductVariant/48648016625918": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "DB-1163/F/S-807/IR",
         "sku": "DB-DB-1163/F/S-807/IR"
       },
@@ -92228,7 +92228,7 @@
         "sku": "KL-KL357-N-041-56"
       },
       "gid://shopify/ProductVariant/67641437815038": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "KL6130-013-52",
         "sku": "KL-KL6130-013-52"
       },
@@ -92503,7 +92503,7 @@
         "sku": "LACOSTE-L6047S-N-214"
       },
       "gid://shopify/ProductVariant/67641447678206": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "L6047S-N-601",
         "sku": "LACOSTE-L6047S-N-601"
       },
