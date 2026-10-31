@@ -34634,13 +34634,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-31T07:47:41.338369+00:00",
+    "updated_at": "2026-10-31T14:05:33.075152+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 77676,
+        "total_qty": 77673,
         "sku_count": 11543,
         "product_count": 11543
       },
@@ -34648,7 +34648,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 77676,
+        "total_qty": 77673,
         "sku_count": 4245,
         "product_count": 4245
       },
@@ -34656,7 +34656,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 20711,
+        "total_qty": 20710,
         "sku_count": 2588,
         "product_count": 2588
       },
@@ -34672,7 +34672,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 54292,
+        "total_qty": 54290,
         "sku_count": 1977,
         "product_count": 1977
       },
@@ -34688,7 +34688,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 77676,
+        "total_qty": 77673,
         "sku_count": 3157,
         "product_count": 3157
       },
@@ -34696,9 +34696,9 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 77283,
-        "sku_count": 2764,
-        "product_count": 2764
+        "total_qty": 77279,
+        "sku_count": 2763,
+        "product_count": 2763
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
@@ -34784,7 +34784,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 13853,
+        "total_qty": 13852,
         "sku_count": 1172,
         "product_count": 1172
       },
@@ -34848,7 +34848,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2236,
+        "total_qty": 2235,
         "sku_count": 184,
         "product_count": 184
       },
@@ -35416,7 +35416,7 @@
         "title": "JAGUAR",
         "handle": "jaguar",
         "legacy_id": "475760034046",
-        "total_qty": 1578,
+        "total_qty": 1576,
         "sku_count": 149,
         "product_count": 149
       },
@@ -35648,7 +35648,7 @@
         "title": "CUTLER AND GROSS",
         "handle": "cutler-and-gross",
         "legacy_id": "512308904190",
-        "total_qty": 1547,
+        "total_qty": 1546,
         "sku_count": 68,
         "product_count": 68
       },
@@ -89983,7 +89983,7 @@
         "sku": "JAGUAR-JG31709-5100-49"
       },
       "gid://shopify/ProductVariant/48963791257854": {
-        "qty": 3,
+        "qty": 1,
         "product_title": "JG32010-5223-57",
         "sku": "JAGUAR-JG32010-5223-57"
       },
@@ -92988,7 +92988,7 @@
         "sku": "CG-CGSN-1408-B1"
       },
       "gid://shopify/ProductVariant/67667226886398": {
-        "qty": 16,
+        "qty": 15,
         "product_title": "CGSN-9101-53-04",
         "sku": "CG-CGSN-9101-04"
       },
