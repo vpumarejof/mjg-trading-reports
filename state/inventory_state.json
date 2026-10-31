@@ -34634,13 +34634,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-31T14:05:33.075152+00:00",
+    "updated_at": "2026-10-31T18:30:30.611534+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 77673,
+        "total_qty": 77670,
         "sku_count": 11543,
         "product_count": 11543
       },
@@ -34648,7 +34648,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 77673,
+        "total_qty": 77670,
         "sku_count": 4245,
         "product_count": 4245
       },
@@ -34680,7 +34680,7 @@
         "title": "PRADA",
         "handle": "prada",
         "legacy_id": "391775289598",
-        "total_qty": 55,
+        "total_qty": 54,
         "sku_count": 9,
         "product_count": 9
       },
@@ -34688,7 +34688,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 77673,
+        "total_qty": 77670,
         "sku_count": 3157,
         "product_count": 3157
       },
@@ -34696,9 +34696,9 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 77279,
-        "sku_count": 2763,
-        "product_count": 2763
+        "total_qty": 77275,
+        "sku_count": 2762,
+        "product_count": 2762
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
@@ -34720,7 +34720,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 2734,
+        "total_qty": 2732,
         "sku_count": 353,
         "product_count": 353
       },
@@ -34784,7 +34784,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 13852,
+        "total_qty": 13849,
         "sku_count": 1172,
         "product_count": 1172
       },
@@ -34800,7 +34800,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 4220,
+        "total_qty": 4219,
         "sku_count": 403,
         "product_count": 403
       },
@@ -34824,7 +34824,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 7456,
+        "total_qty": 7454,
         "sku_count": 590,
         "product_count": 590
       },
@@ -35224,7 +35224,7 @@
         "title": "DIOR",
         "handle": "dior",
         "legacy_id": "391774077182",
-        "total_qty": 102,
+        "total_qty": 101,
         "sku_count": 34,
         "product_count": 34
       },
@@ -35616,7 +35616,7 @@
         "title": "NICOLE MILLER",
         "handle": "nicole-miller",
         "legacy_id": "425337192702",
-        "total_qty": 177,
+        "total_qty": 176,
         "sku_count": 14,
         "product_count": 14
       },
@@ -63553,7 +63553,7 @@
         "sku": "PRADA-PR-B09S-16K08Z"
       },
       "gid://shopify/ProductVariant/47358979932414": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "PR-B11S-16K731",
         "sku": "PRADA-PR-B11S-16K731"
       },
@@ -88678,7 +88678,7 @@
         "sku": "DIOR-CD40189U-10N"
       },
       "gid://shopify/ProductVariant/48772225532158": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "CDIOR S4U B0L0",
         "sku": "DIOR-CD40203U-10Z"
       },
@@ -90893,7 +90893,7 @@
         "sku": "NM-PUNTACANA-C03"
       },
       "gid://shopify/ProductVariant/48983157244158": {
-        "qty": 13,
+        "qty": 12,
         "product_title": "SANTORINI-C01",
         "sku": "NM-SANTORINI-C01"
       },
