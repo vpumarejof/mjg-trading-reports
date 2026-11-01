@@ -34634,13 +34634,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-11-01T00:34:45.679269+00:00",
+    "updated_at": "2026-11-01T06:50:57.132526+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 77587,
+        "total_qty": 77582,
         "sku_count": 11543,
         "product_count": 11543
       },
@@ -34648,7 +34648,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 77587,
+        "total_qty": 77582,
         "sku_count": 4227,
         "product_count": 4227
       },
@@ -34656,7 +34656,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 20707,
+        "total_qty": 20706,
         "sku_count": 2588,
         "product_count": 2588
       },
@@ -34672,7 +34672,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 54284,
+        "total_qty": 54282,
         "sku_count": 1974,
         "product_count": 1974
       },
@@ -34688,7 +34688,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 77587,
+        "total_qty": 77582,
         "sku_count": 3138,
         "product_count": 3138
       },
@@ -34696,7 +34696,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 77195,
+        "total_qty": 77190,
         "sku_count": 2746,
         "product_count": 2746
       },
@@ -34704,7 +34704,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 8217,
+        "total_qty": 8216,
         "sku_count": 706,
         "product_count": 706
       },
@@ -34712,7 +34712,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 8217,
+        "total_qty": 8216,
         "sku_count": 706,
         "product_count": 706
       },
@@ -34752,7 +34752,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 18433,
+        "total_qty": 18432,
         "sku_count": 457,
         "product_count": 457
       },
@@ -34784,7 +34784,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 13772,
+        "total_qty": 13769,
         "sku_count": 1156,
         "product_count": 1156
       },
@@ -34800,7 +34800,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 4212,
+        "total_qty": 4211,
         "sku_count": 403,
         "product_count": 403
       },
@@ -34816,7 +34816,7 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 515,
+        "total_qty": 514,
         "sku_count": 57,
         "product_count": 57
       },
@@ -34824,7 +34824,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 7386,
+        "total_qty": 7384,
         "sku_count": 575,
         "product_count": 575
       },
@@ -35408,7 +35408,7 @@
         "title": "FACE A FACE",
         "handle": "face-a-face",
         "legacy_id": "475759968510",
-        "total_qty": 2319,
+        "total_qty": 2318,
         "sku_count": 264,
         "product_count": 264
       },
@@ -35464,7 +35464,7 @@
         "title": "WOOW",
         "handle": "woow",
         "legacy_id": "478400839934",
-        "total_qty": 24,
+        "total_qty": 23,
         "sku_count": 9,
         "product_count": 9
       },
@@ -35496,7 +35496,7 @@
         "title": "ELTON JOHN",
         "handle": "elton-john",
         "legacy_id": "482187051262",
-        "total_qty": 369,
+        "total_qty": 368,
         "sku_count": 46,
         "product_count": 46
       },
@@ -35624,7 +35624,7 @@
         "title": "MARCHON",
         "handle": "marchon",
         "legacy_id": "511749193982",
-        "total_qty": 29,
+        "total_qty": 28,
         "sku_count": 9,
         "product_count": 9
       },
@@ -73103,7 +73103,7 @@
         "sku": "WOOW-BIG-APPLE-2-0013-53"
       },
       "gid://shopify/ProductVariant/47761813930238": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "BIG-APPLE-2-0982-53",
         "sku": "WOOW-BIG-APPLE-2-0982-53"
       },
@@ -87733,7 +87733,7 @@
         "sku": "EJ-DGBYHEART-1-RED"
       },
       "gid://shopify/ProductVariant/48667528626430": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "DGBYHEART-2-BLACK",
         "sku": "EJ-DGBYHEART-2-BLACK"
       },
@@ -89888,7 +89888,7 @@
         "sku": "FF-ALIUM-WAVE-3-9404"
       },
       "gid://shopify/ProductVariant/48932971282686": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "BOCCA-CHESS-2-6300",
         "sku": "FF-BOCCA-CHESS-2-6300"
       },
@@ -91808,7 +91808,7 @@
         "sku": "MARCHON-M-8514-001-47"
       },
       "gid://shopify/ProductVariant/67613238460670": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "M-8515-240-52",
         "sku": "MARCHON-M-8515-240-52"
       },
@@ -92643,7 +92643,7 @@
         "sku": "SF-SF2043SLB-320"
       },
       "gid://shopify/ProductVariant/67641451544830": {
-        "qty": 11,
+        "qty": 10,
         "product_title": "SF2043SLB-432",
         "sku": "SF-SF2043SLB-432"
       },
