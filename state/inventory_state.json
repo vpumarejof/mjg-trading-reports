@@ -34634,13 +34634,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-10-31T21:48:36.171891+00:00",
+    "updated_at": "2026-11-01T00:34:45.679269+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 77588,
+        "total_qty": 77587,
         "sku_count": 11543,
         "product_count": 11543
       },
@@ -34648,7 +34648,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 77588,
+        "total_qty": 77587,
         "sku_count": 4227,
         "product_count": 4227
       },
@@ -34688,7 +34688,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 77588,
+        "total_qty": 77587,
         "sku_count": 3138,
         "product_count": 3138
       },
@@ -34696,7 +34696,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 77196,
+        "total_qty": 77195,
         "sku_count": 2746,
         "product_count": 2746
       },
@@ -34720,7 +34720,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 2662,
+        "total_qty": 2661,
         "sku_count": 336,
         "product_count": 336
       },
@@ -34784,7 +34784,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 13773,
+        "total_qty": 13772,
         "sku_count": 1156,
         "product_count": 1156
       },
@@ -34824,7 +34824,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 7387,
+        "total_qty": 7386,
         "sku_count": 575,
         "product_count": 575
       },
@@ -35656,7 +35656,7 @@
         "title": "LOEWE",
         "handle": "loewe",
         "legacy_id": "512782860542",
-        "total_qty": 49,
+        "total_qty": 48,
         "sku_count": 5,
         "product_count": 5
       }
@@ -93033,7 +93033,7 @@
         "sku": "FENDI-FE40205F-01A"
       },
       "gid://shopify/ProductVariant/67683063136510": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "LW40064U 5601Y",
         "sku": "LOEWE-LW40064U-5601Y"
       },
