@@ -34634,13 +34634,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-11-02T01:40:30.906875+00:00",
+    "updated_at": "2026-11-02T08:18:23.201701+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 77475,
+        "total_qty": 77474,
         "sku_count": 11543,
         "product_count": 11543
       },
@@ -34648,7 +34648,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 77475,
+        "total_qty": 77474,
         "sku_count": 4222,
         "product_count": 4222
       },
@@ -34672,7 +34672,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 54269,
+        "total_qty": 54267,
         "sku_count": 1974,
         "product_count": 1974
       },
@@ -34688,7 +34688,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 77475,
+        "total_qty": 77474,
         "sku_count": 3133,
         "product_count": 3133
       },
@@ -34696,9 +34696,9 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 77080,
-        "sku_count": 2738,
-        "product_count": 2738
+        "total_qty": 77078,
+        "sku_count": 2737,
+        "product_count": 2737
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
@@ -34720,7 +34720,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 2658,
+        "total_qty": 2657,
         "sku_count": 336,
         "product_count": 336
       },
@@ -34744,7 +34744,7 @@
         "title": "GUCCI",
         "handle": "gucci",
         "legacy_id": "421341364478",
-        "total_qty": 436,
+        "total_qty": 434,
         "sku_count": 301,
         "product_count": 301
       },
@@ -34784,7 +34784,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 13675,
+        "total_qty": 13676,
         "sku_count": 1151,
         "product_count": 1151
       },
@@ -34800,7 +34800,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 4209,
+        "total_qty": 4207,
         "sku_count": 403,
         "product_count": 403
       },
@@ -34816,7 +34816,7 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 512,
+        "total_qty": 513,
         "sku_count": 57,
         "product_count": 57
       },
@@ -34824,7 +34824,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 7317,
+        "total_qty": 7320,
         "sku_count": 571,
         "product_count": 571
       },
@@ -35032,7 +35032,7 @@
         "title": "Gucci",
         "handle": "gucci-1",
         "legacy_id": "407282450686",
-        "total_qty": 436,
+        "total_qty": 434,
         "sku_count": 86,
         "product_count": 86
       },
@@ -35112,7 +35112,7 @@
         "title": "MOSCHINO",
         "handle": "moschino",
         "legacy_id": "395943837950",
-        "total_qty": 393,
+        "total_qty": 394,
         "sku_count": 48,
         "product_count": 48
       },
@@ -35416,7 +35416,7 @@
         "title": "JAGUAR",
         "handle": "jaguar",
         "legacy_id": "475760034046",
-        "total_qty": 1570,
+        "total_qty": 1569,
         "sku_count": 149,
         "product_count": 149
       },
@@ -35544,7 +35544,7 @@
         "title": "ANNA-KARIN KARLSSON",
         "handle": "anna-karin-karlsson",
         "legacy_id": "485871059198",
-        "total_qty": 1064,
+        "total_qty": 1065,
         "sku_count": 17,
         "product_count": 17
       },
@@ -35608,7 +35608,7 @@
         "title": "CHAMPION",
         "handle": "champion-1",
         "legacy_id": "425337389310",
-        "total_qty": 240,
+        "total_qty": 239,
         "sku_count": 26,
         "product_count": 26
       },
@@ -75188,7 +75188,7 @@
         "sku": "GUCCI-GG1429O-001-54"
       },
       "gid://shopify/ProductVariant/47807386812670": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "GG1429O-002-54",
         "sku": "GUCCI-GG1429O-002-54"
       },
@@ -75198,7 +75198,7 @@
         "sku": "GUCCI-GG1445O-002-56"
       },
       "gid://shopify/ProductVariant/47807386878206": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "GG1446O-001-56",
         "sku": "GUCCI-GG1446O-001-56"
       },
@@ -84978,7 +84978,7 @@
         "sku": "AKK-LUCKY-GOES-TO-VEGAS-LEOPARD"
       },
       "gid://shopify/ProductVariant/48406939664638": {
-        "qty": 27,
+        "qty": 28,
         "product_title": "MOTHER-BEEP-BLACK CRYSTAL",
         "sku": "AKK-MOTHER-BEEP-BLACK CRYSTAL"
       },
@@ -87328,7 +87328,7 @@
         "sku": "MOSCHINO-MOS163/S-807/9O"
       },
       "gid://shopify/ProductVariant/48648017477886": {
-        "qty": 14,
+        "qty": 15,
         "product_title": "MOS173/S-S9W/08",
         "sku": "MOSCHINO-MOS173/S-S9W/08"
       },
@@ -90638,7 +90638,7 @@
         "sku": "JAGUAR-JG37624-6500"
       },
       "gid://shopify/ProductVariant/48963803152638": {
-        "qty": 20,
+        "qty": 19,
         "product_title": "JG37820-3100",
         "sku": "JAGUAR-JG37820-3100"
       },
@@ -90803,7 +90803,7 @@
         "sku": "CHAMPION-MELT-C03"
       },
       "gid://shopify/ProductVariant/48983156424958": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "MOW-C01",
         "sku": "CHAMPION-MOW-C01"
       },
@@ -92623,7 +92623,7 @@
         "sku": "SF-SF1110S-242"
       },
       "gid://shopify/ProductVariant/67641450496254": {
-        "qty": 4,
+        "qty": 5,
         "product_title": "SF2002S-024",
         "sku": "SF-SF2002S-024"
       },
