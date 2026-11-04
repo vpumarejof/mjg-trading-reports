@@ -34634,13 +34634,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-11-03T21:45:18.184746+00:00",
+    "updated_at": "2026-11-04T01:41:29.268003+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 77462,
+        "total_qty": 77458,
         "sku_count": 11543,
         "product_count": 11543
       },
@@ -34648,7 +34648,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 77462,
+        "total_qty": 77458,
         "sku_count": 4219,
         "product_count": 4219
       },
@@ -34688,7 +34688,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 77462,
+        "total_qty": 77458,
         "sku_count": 3125,
         "product_count": 3125
       },
@@ -34696,7 +34696,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 77069,
+        "total_qty": 77065,
         "sku_count": 2732,
         "product_count": 2732
       },
@@ -34784,7 +34784,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 13627,
+        "total_qty": 13623,
         "sku_count": 1145,
         "product_count": 1145
       },
@@ -34800,7 +34800,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 4200,
+        "total_qty": 4196,
         "sku_count": 403,
         "product_count": 403
       },
@@ -35608,7 +35608,7 @@
         "title": "CHAMPION",
         "handle": "champion-1",
         "legacy_id": "425337389310",
-        "total_qty": 238,
+        "total_qty": 234,
         "sku_count": 26,
         "product_count": 26
       },
@@ -90753,7 +90753,7 @@
         "sku": "CHAMPION-FIX-C03"
       },
       "gid://shopify/ProductVariant/48983155802366": {
-        "qty": 10,
+        "qty": 8,
         "product_title": "FL4027-C02",
         "sku": "CHAMPION-FL4027-C02"
       },
@@ -90808,7 +90808,7 @@
         "sku": "CHAMPION-MOW-C01"
       },
       "gid://shopify/ProductVariant/48983156490494": {
-        "qty": 8,
+        "qty": 6,
         "product_title": "NOIZ-C01",
         "sku": "CHAMPION-NOIZ-C01"
       },
