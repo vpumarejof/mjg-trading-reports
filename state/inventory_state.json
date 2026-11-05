@@ -34739,13 +34739,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-11-04T21:51:28.061036+00:00",
+    "updated_at": "2026-11-05T01:54:48.990578+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 77801,
+        "total_qty": 77797,
         "sku_count": 11578,
         "product_count": 11578
       },
@@ -34753,7 +34753,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 77801,
+        "total_qty": 77797,
         "sku_count": 4250,
         "product_count": 4250
       },
@@ -34777,7 +34777,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 54628,
+        "total_qty": 54625,
         "sku_count": 1992,
         "product_count": 1992
       },
@@ -34793,7 +34793,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 77801,
+        "total_qty": 77797,
         "sku_count": 3155,
         "product_count": 3155
       },
@@ -34801,15 +34801,15 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 77403,
-        "sku_count": 2757,
-        "product_count": 2757
+        "total_qty": 77398,
+        "sku_count": 2756,
+        "product_count": 2756
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 8244,
+        "total_qty": 8243,
         "sku_count": 709,
         "product_count": 709
       },
@@ -34817,7 +34817,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 8244,
+        "total_qty": 8243,
         "sku_count": 709,
         "product_count": 709
       },
@@ -34825,7 +34825,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 2689,
+        "total_qty": 2688,
         "sku_count": 337,
         "product_count": 337
       },
@@ -34889,7 +34889,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 13646,
+        "total_qty": 13645,
         "sku_count": 1155,
         "product_count": 1155
       },
@@ -34929,7 +34929,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 7303,
+        "total_qty": 7302,
         "sku_count": 574,
         "product_count": 574
       },
@@ -34945,7 +34945,7 @@
         "title": "LACOSTE",
         "handle": "lacoste",
         "legacy_id": "393068577022",
-        "total_qty": 800,
+        "total_qty": 799,
         "sku_count": 126,
         "product_count": 126
       },
@@ -35369,7 +35369,7 @@
         "title": "DKNY",
         "handle": "dkny",
         "legacy_id": "395943870718",
-        "total_qty": 429,
+        "total_qty": 427,
         "sku_count": 60,
         "product_count": 60
       },
@@ -35657,9 +35657,9 @@
         "title": "TIFFANY & CO",
         "handle": "tiffany-co",
         "legacy_id": "483397370110",
-        "total_qty": 61,
-        "sku_count": 17,
-        "product_count": 17
+        "total_qty": 59,
+        "sku_count": 16,
+        "product_count": 16
       },
       "gid://shopify/Collection/407946952958": {
         "title": "New Arrivals",
@@ -85176,7 +85176,7 @@
         "sku": "TF-TF1160B-6162-56"
       },
       "gid://shopify/ProductVariant/48493051609342": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "TF1166-6021-55",
         "sku": "TF-TF1166-6021-55"
       },
@@ -87761,7 +87761,7 @@
         "sku": "DKNY-DK555S-520"
       },
       "gid://shopify/ProductVariant/48648154874110": {
-        "qty": 15,
+        "qty": 14,
         "product_title": "DK560S-001",
         "sku": "DKNY-DK560S-001"
       },
@@ -91501,7 +91501,7 @@
         "sku": "DKNY-DK5053-248-51"
       },
       "gid://shopify/ProductVariant/67613230006526": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "DK5053-500-51",
         "sku": "DKNY-DK5053-500-51"
       },
@@ -91801,7 +91801,7 @@
         "sku": "LACOSTE-L2966-N-275-50"
       },
       "gid://shopify/ProductVariant/67613236265214": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "L2975-301-54",
         "sku": "LACOSTE-L2975-301-54"
       },
