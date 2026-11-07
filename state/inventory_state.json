@@ -34904,13 +34904,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-11-07T19:16:02.392222+00:00",
+    "updated_at": "2026-11-07T22:51:37.617166+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 79284,
+        "total_qty": 79278,
         "sku_count": 11633,
         "product_count": 11633
       },
@@ -34918,7 +34918,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 79284,
+        "total_qty": 79278,
         "sku_count": 4374,
         "product_count": 4374
       },
@@ -34942,7 +34942,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 55307,
+        "total_qty": 55304,
         "sku_count": 2093,
         "product_count": 2093
       },
@@ -34958,7 +34958,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 79284,
+        "total_qty": 79278,
         "sku_count": 3296,
         "product_count": 3296
       },
@@ -34966,7 +34966,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 78892,
+        "total_qty": 78886,
         "sku_count": 2904,
         "product_count": 2904
       },
@@ -34974,7 +34974,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 8785,
+        "total_qty": 8784,
         "sku_count": 795,
         "product_count": 795
       },
@@ -34982,7 +34982,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 8785,
+        "total_qty": 8784,
         "sku_count": 795,
         "product_count": 795
       },
@@ -34990,7 +34990,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3019,
+        "total_qty": 3017,
         "sku_count": 391,
         "product_count": 391
       },
@@ -35014,7 +35014,7 @@
         "title": "GUCCI",
         "handle": "gucci",
         "legacy_id": "421341364478",
-        "total_qty": 429,
+        "total_qty": 428,
         "sku_count": 301,
         "product_count": 301
       },
@@ -35054,7 +35054,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 14454,
+        "total_qty": 14451,
         "sku_count": 1196,
         "product_count": 1196
       },
@@ -35070,7 +35070,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 4172,
+        "total_qty": 4170,
         "sku_count": 405,
         "product_count": 405
       },
@@ -35086,7 +35086,7 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 490,
+        "total_qty": 489,
         "sku_count": 55,
         "product_count": 55
       },
@@ -35094,7 +35094,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 7748,
+        "total_qty": 7747,
         "sku_count": 596,
         "product_count": 596
       },
@@ -35286,7 +35286,7 @@
         "title": "DAVID BECKHAM",
         "handle": "david-beckham",
         "legacy_id": "397089702142",
-        "total_qty": 537,
+        "total_qty": 536,
         "sku_count": 62,
         "product_count": 62
       },
@@ -35302,7 +35302,7 @@
         "title": "Gucci",
         "handle": "gucci-1",
         "legacy_id": "407282450686",
-        "total_qty": 429,
+        "total_qty": 428,
         "sku_count": 85,
         "product_count": 85
       },
@@ -35678,7 +35678,7 @@
         "title": "FACE A FACE",
         "handle": "face-a-face",
         "legacy_id": "475759968510",
-        "total_qty": 2281,
+        "total_qty": 2280,
         "sku_count": 262,
         "product_count": 262
       },
@@ -35686,7 +35686,7 @@
         "title": "JAGUAR",
         "handle": "jaguar",
         "legacy_id": "475760034046",
-        "total_qty": 1539,
+        "total_qty": 1538,
         "sku_count": 146,
         "product_count": 146
       },
@@ -35918,7 +35918,7 @@
         "title": "CUTLER AND GROSS",
         "handle": "cutler-and-gross",
         "legacy_id": "512308904190",
-        "total_qty": 1522,
+        "total_qty": 1521,
         "sku_count": 68,
         "product_count": 68
       },
@@ -54311,7 +54311,7 @@
         "sku": "SF-SF2970-001-53"
       },
       "gid://shopify/ProductVariant/46663410188542": {
-        "qty": 14,
+        "qty": 13,
         "product_title": "SF2970-414-53",
         "sku": "SF-SF2970-414-53"
       },
@@ -74076,7 +74076,7 @@
         "sku": "FF-NOVVA-2-2122"
       },
       "gid://shopify/ProductVariant/47761820156158": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "NOVVA-2-2180",
         "sku": "FF-NOVVA-2-2180"
       },
@@ -75471,7 +75471,7 @@
         "sku": "GUCCI-GG1429O-002-54"
       },
       "gid://shopify/ProductVariant/47807386845438": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "GG1445O-002-56",
         "sku": "GUCCI-GG1445O-002-56"
       },
@@ -87691,7 +87691,7 @@
         "sku": "DB-DB 7020-WR7-53"
       },
       "gid://shopify/ProductVariant/48648025932030": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "DB-1019-807-57",
         "sku": "DB-DB-1019-807-57"
       },
@@ -90681,7 +90681,7 @@
         "sku": "JAGUAR-JG37281-5200"
       },
       "gid://shopify/ProductVariant/48963798401278": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "JG37281-5201",
         "sku": "JAGUAR-JG37281-5201"
       },
@@ -93111,7 +93111,7 @@
         "sku": "CG-CGSN-1355-05"
       },
       "gid://shopify/ProductVariant/67667224723710": {
-        "qty": 21,
+        "qty": 20,
         "product_title": "CGSN-1357-54-01",
         "sku": "CG-CGSN-1357-01"
       },
