@@ -34904,13 +34904,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-11-07T14:58:44.843999+00:00",
+    "updated_at": "2026-11-07T19:16:02.392222+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 79288,
+        "total_qty": 79284,
         "sku_count": 11633,
         "product_count": 11633
       },
@@ -34918,7 +34918,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 79288,
+        "total_qty": 79284,
         "sku_count": 4374,
         "product_count": 4374
       },
@@ -34926,7 +34926,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 21386,
+        "total_qty": 21385,
         "sku_count": 2610,
         "product_count": 2610
       },
@@ -34934,7 +34934,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 1110,
+        "total_qty": 1109,
         "sku_count": 940,
         "product_count": 940
       },
@@ -34942,7 +34942,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 55310,
+        "total_qty": 55307,
         "sku_count": 2093,
         "product_count": 2093
       },
@@ -34958,7 +34958,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 79288,
+        "total_qty": 79284,
         "sku_count": 3296,
         "product_count": 3296
       },
@@ -34966,9 +34966,9 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 78897,
-        "sku_count": 2905,
-        "product_count": 2905
+        "total_qty": 78892,
+        "sku_count": 2904,
+        "product_count": 2904
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
@@ -35022,7 +35022,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 18760,
+        "total_qty": 18759,
         "sku_count": 481,
         "product_count": 481
       },
@@ -35054,7 +35054,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 14455,
+        "total_qty": 14454,
         "sku_count": 1196,
         "product_count": 1196
       },
@@ -35062,7 +35062,7 @@
         "title": "TOMMY HILFIGER",
         "handle": "tommy-hilfiger",
         "legacy_id": "391775912190",
-        "total_qty": 245,
+        "total_qty": 244,
         "sku_count": 42,
         "product_count": 42
       },
@@ -35094,7 +35094,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 7749,
+        "total_qty": 7748,
         "sku_count": 596,
         "product_count": 596
       },
@@ -35678,7 +35678,7 @@
         "title": "FACE A FACE",
         "handle": "face-a-face",
         "legacy_id": "475759968510",
-        "total_qty": 2282,
+        "total_qty": 2281,
         "sku_count": 262,
         "product_count": 262
       },
@@ -35830,7 +35830,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 752,
+        "total_qty": 751,
         "sku_count": 93,
         "product_count": 93
       },
@@ -35918,7 +35918,7 @@
         "title": "CUTLER AND GROSS",
         "handle": "cutler-and-gross",
         "legacy_id": "512308904190",
-        "total_qty": 1523,
+        "total_qty": 1522,
         "sku_count": 68,
         "product_count": 68
       },
@@ -35934,7 +35934,7 @@
         "title": "RAY BAN",
         "handle": "ray-ban",
         "legacy_id": "391775387902",
-        "total_qty": 325,
+        "total_qty": 324,
         "sku_count": 22,
         "product_count": 22
       }
@@ -73721,7 +73721,7 @@
         "sku": "FF-ARMAN-2-1074-57"
       },
       "gid://shopify/ProductVariant/47761817272574": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "ARMAN-2-1902-57",
         "sku": "FF-ARMAN-2-1902-57"
       },
@@ -87841,7 +87841,7 @@
         "sku": "TH-TH-2115/F-KB7-53"
       },
       "gid://shopify/ProductVariant/48648028029182": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "TH-2131-086-52",
         "sku": "TH-TH-2131-086-52"
       },
@@ -93236,7 +93236,7 @@
         "sku": "CG-CGSN-1376-03"
       },
       "gid://shopify/ProductVariant/67667226460414": {
-        "qty": 25,
+        "qty": 24,
         "product_title": "CGSN-1377-52-03",
         "sku": "CG-CGSN-1377-03"
       },
@@ -93811,7 +93811,7 @@
         "sku": "RB-0RX5435-8382-54"
       },
       "gid://shopify/ProductVariant/67981464535294": {
-        "qty": 15,
+        "qty": 14,
         "product_title": "0RX5435-8382-56",
         "sku": "RB-0RX5435-8382-56"
       },
