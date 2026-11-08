@@ -34904,13 +34904,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-11-08T19:57:10.521003+00:00",
+    "updated_at": "2026-11-08T23:24:06.614163+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 79253,
+        "total_qty": 79252,
         "sku_count": 11633,
         "product_count": 11633
       },
@@ -34918,7 +34918,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 79253,
+        "total_qty": 79252,
         "sku_count": 4373,
         "product_count": 4373
       },
@@ -34958,7 +34958,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 79253,
+        "total_qty": 79252,
         "sku_count": 3295,
         "product_count": 3295
       },
@@ -34966,7 +34966,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 78859,
+        "total_qty": 78858,
         "sku_count": 2901,
         "product_count": 2901
       },
@@ -35054,7 +35054,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 14437,
+        "total_qty": 14436,
         "sku_count": 1195,
         "product_count": 1195
       },
@@ -35094,7 +35094,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 7742,
+        "total_qty": 7741,
         "sku_count": 596,
         "product_count": 596
       },
@@ -35838,7 +35838,7 @@
         "title": "CANADA GOOSE",
         "handle": "canada-goose",
         "legacy_id": "487431995646",
-        "total_qty": 271,
+        "total_qty": 270,
         "sku_count": 17,
         "product_count": 17
       },
@@ -86881,7 +86881,7 @@
         "sku": "CG-GC25627SE-002"
       },
       "gid://shopify/ProductVariant/48629791752446": {
-        "qty": 18,
+        "qty": 17,
         "product_title": "GC25627SE-318",
         "sku": "CG-GC25627SE-318"
       },
