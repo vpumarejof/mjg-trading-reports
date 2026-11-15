@@ -35477,13 +35477,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-11-15T01:00:21.240635+00:00",
+    "updated_at": "2026-11-15T07:40:30.254368+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81783,
+        "total_qty": 81779,
         "sku_count": 11824,
         "product_count": 11824
       },
@@ -35491,7 +35491,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81783,
+        "total_qty": 81779,
         "sku_count": 4582,
         "product_count": 4582
       },
@@ -35515,7 +35515,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 57973,
+        "total_qty": 57971,
         "sku_count": 2289,
         "product_count": 2289
       },
@@ -35531,7 +35531,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81783,
+        "total_qty": 81779,
         "sku_count": 3495,
         "product_count": 3495
       },
@@ -35539,7 +35539,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81361,
+        "total_qty": 81357,
         "sku_count": 3073,
         "product_count": 3073
       },
@@ -35547,7 +35547,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 11034,
+        "total_qty": 11033,
         "sku_count": 974,
         "product_count": 974
       },
@@ -35555,7 +35555,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 11034,
+        "total_qty": 11033,
         "sku_count": 974,
         "product_count": 974
       },
@@ -35627,7 +35627,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 14309,
+        "total_qty": 14308,
         "sku_count": 1199,
         "product_count": 1199
       },
@@ -35667,7 +35667,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 7686,
+        "total_qty": 7685,
         "sku_count": 605,
         "product_count": 605
       },
@@ -35811,7 +35811,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 24040,
+        "total_qty": 24039,
         "sku_count": 38,
         "product_count": 38
       },
@@ -35971,7 +35971,7 @@
         "title": "LIGHTEC-MOREL",
         "handle": "lightec-morel",
         "legacy_id": "466217926910",
-        "total_qty": 178,
+        "total_qty": 177,
         "sku_count": 28,
         "product_count": 28
       },
@@ -36259,7 +36259,7 @@
         "title": "FACE A FACE",
         "handle": "face-a-face",
         "legacy_id": "475759968510",
-        "total_qty": 2234,
+        "total_qty": 2233,
         "sku_count": 262,
         "product_count": 262
       },
@@ -36499,7 +36499,7 @@
         "title": "CUTLER AND GROSS",
         "handle": "cutler-and-gross",
         "legacy_id": "512308904190",
-        "total_qty": 1500,
+        "total_qty": 1499,
         "sku_count": 69,
         "product_count": 69
       },
@@ -48287,7 +48287,7 @@
         "sku": "MJ-MARC-463-0086-53"
       },
       "gid://shopify/ProductVariant/46059134714110": {
-        "qty": 9488,
+        "qty": 9487,
         "product_title": "DropShip",
         "sku": "DropShip"
       },
@@ -57582,7 +57582,7 @@
         "sku": "LIGHTEC-MOREL-30288L-RG09-55"
       },
       "gid://shopify/ProductVariant/46978958459134": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "LIGHTEC-30286L-BO02-51",
         "sku": "LIGHTEC-MOREL-30286L-BO02-51"
       },
@@ -74327,7 +74327,7 @@
         "sku": "FF-BOCCA-BLOOM-1-167-52"
       },
       "gid://shopify/ProductVariant/47761817600254": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "BOCCA-BLOOM-2-008-53",
         "sku": "FF-BOCCA-BLOOM-2-008-53"
       },
@@ -93857,7 +93857,7 @@
         "sku": "CG-CGSN-9797-A8"
       },
       "gid://shopify/ProductVariant/67667227148542": {
-        "qty": 47,
+        "qty": 46,
         "product_title": "CGSN-9926-50-A5",
         "sku": "CG-CGSN-9926-A5"
       },
