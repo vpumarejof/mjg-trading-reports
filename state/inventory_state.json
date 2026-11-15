@@ -35477,13 +35477,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-11-15T14:57:56.988339+00:00",
+    "updated_at": "2026-11-15T20:08:11.639194+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81666,
+        "total_qty": 81662,
         "sku_count": 11824,
         "product_count": 11824
       },
@@ -35491,7 +35491,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81666,
+        "total_qty": 81662,
         "sku_count": 4580,
         "product_count": 4580
       },
@@ -35499,7 +35499,7 @@
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 21441,
+        "total_qty": 21440,
         "sku_count": 2614,
         "product_count": 2614
       },
@@ -35515,7 +35515,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 57862,
+        "total_qty": 57859,
         "sku_count": 2287,
         "product_count": 2287
       },
@@ -35531,7 +35531,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81666,
+        "total_qty": 81662,
         "sku_count": 3493,
         "product_count": 3493
       },
@@ -35539,7 +35539,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81245,
+        "total_qty": 81241,
         "sku_count": 3072,
         "product_count": 3072
       },
@@ -35595,7 +35595,7 @@
         "title": "Unisex Eyeglasses",
         "handle": "unisex-eyeglasses",
         "legacy_id": "410150043902",
-        "total_qty": 18815,
+        "total_qty": 18814,
         "sku_count": 479,
         "product_count": 479
       },
@@ -35627,7 +35627,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 14304,
+        "total_qty": 14303,
         "sku_count": 1199,
         "product_count": 1199
       },
@@ -35667,7 +35667,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 7685,
+        "total_qty": 7684,
         "sku_count": 605,
         "product_count": 605
       },
@@ -35827,7 +35827,7 @@
         "title": "MARC JACOBS",
         "handle": "marc-jacobs",
         "legacy_id": "391774732542",
-        "total_qty": 348,
+        "total_qty": 347,
         "sku_count": 60,
         "product_count": 60
       },
@@ -36259,7 +36259,7 @@
         "title": "FACE A FACE",
         "handle": "face-a-face",
         "legacy_id": "475759968510",
-        "total_qty": 2233,
+        "total_qty": 2231,
         "sku_count": 262,
         "product_count": 262
       },
@@ -36411,7 +36411,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 1723,
+        "total_qty": 1722,
         "sku_count": 260,
         "product_count": 260
       },
@@ -36515,7 +36515,7 @@
         "title": "RAY BAN",
         "handle": "ray-ban",
         "legacy_id": "391775387902",
-        "total_qty": 277,
+        "total_qty": 276,
         "sku_count": 22,
         "product_count": 22
       }
@@ -90287,12 +90287,12 @@
         "sku": "FF-ALIUM-BOLT-1-0957-53"
       },
       "gid://shopify/ProductVariant/48932963877118": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "ALIUM-CLUB-1-0957-48",
         "sku": "FF-ALIUM-CLUB-1-0957-48"
       },
       "gid://shopify/ProductVariant/48932963942654": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "ALIUM-CLUB-1-9122-48",
         "sku": "FF-ALIUM-CLUB-1-9122-48"
       },
@@ -93967,7 +93967,7 @@
         "sku": "MJ-MARC-739/S-80S/HA"
       },
       "gid://shopify/ProductVariant/67726354383102": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "MARC-763/S-1ED/GB",
         "sku": "MJ-MARC-763/S-1ED/GB"
       },
@@ -94377,7 +94377,7 @@
         "sku": "RB-0RX5398-8111-50"
       },
       "gid://shopify/ProductVariant/67981463781630": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "0RX5435-8382-54",
         "sku": "RB-0RX5435-8382-54"
       },
