@@ -35477,13 +35477,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-11-15T23:57:23.281023+00:00",
+    "updated_at": "2026-11-16T04:34:45.704301+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81623,
+        "total_qty": 81620,
         "sku_count": 11824,
         "product_count": 11824
       },
@@ -35491,9 +35491,9 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81623,
-        "sku_count": 4575,
-        "product_count": 4575
+        "total_qty": 81620,
+        "sku_count": 4574,
+        "product_count": 4574
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
@@ -35515,9 +35515,9 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 57850,
-        "sku_count": 2285,
-        "product_count": 2285
+        "total_qty": 57848,
+        "sku_count": 2284,
+        "product_count": 2284
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -35531,15 +35531,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81623,
-        "sku_count": 3487,
-        "product_count": 3487
+        "total_qty": 81620,
+        "sku_count": 3486,
+        "product_count": 3486
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81204,
+        "total_qty": 81202,
         "sku_count": 3068,
         "product_count": 3068
       },
@@ -35547,17 +35547,17 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 10954,
-        "sku_count": 971,
-        "product_count": 971
+        "total_qty": 10953,
+        "sku_count": 970,
+        "product_count": 970
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 10954,
-        "sku_count": 971,
-        "product_count": 971
+        "total_qty": 10953,
+        "sku_count": 970,
+        "product_count": 970
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
@@ -35627,7 +35627,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 14273,
+        "total_qty": 14272,
         "sku_count": 1195,
         "product_count": 1195
       },
@@ -35643,7 +35643,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 4073,
+        "total_qty": 4072,
         "sku_count": 401,
         "product_count": 401
       },
@@ -36267,7 +36267,7 @@
         "title": "JAGUAR",
         "handle": "jaguar",
         "legacy_id": "475760034046",
-        "total_qty": 1514,
+        "total_qty": 1513,
         "sku_count": 146,
         "product_count": 146
       },
@@ -36459,7 +36459,7 @@
         "title": "CHAMPION",
         "handle": "champion-1",
         "legacy_id": "425337389310",
-        "total_qty": 221,
+        "total_qty": 220,
         "sku_count": 26,
         "product_count": 26
       },
@@ -85117,7 +85117,7 @@
         "sku": "LEVIS-LV-5026-HT8-52"
       },
       "gid://shopify/ProductVariant/48349469540606": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "MIS-0005-S37-54",
         "sku": "MISSONI-MIS-0005-S37-54"
       },
@@ -90902,7 +90902,7 @@
         "sku": "JAGUAR-JG33125-5100-60"
       },
       "gid://shopify/ProductVariant/48963792175358": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "JG33126-4100-57",
         "sku": "JAGUAR-JG33126-4100-57"
       },
@@ -91657,7 +91657,7 @@
         "sku": "CHAMPION-MOW-C01"
       },
       "gid://shopify/ProductVariant/48983156490494": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "NOIZ-C01",
         "sku": "CHAMPION-NOIZ-C01"
       },
