@@ -27,7 +27,7 @@ jobs:
           SHOPIFY_STORE: ${{ secrets.SHOPIFY_STORE }}
           GMAIL_EMAIL: ${{ secrets.GMAIL_EMAIL }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
-          REPORT_EMAIL: ${{ secrets.REPORT_EMAIL }}
+          REPORT_EMAIL: adam@mjgtrading.com  # only Adam needs this alert
         run: python reports/collection_alert.py
 
       - name: Commit updated state

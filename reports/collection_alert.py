@@ -82,9 +82,9 @@ def build_alert_email(alerts):
   <p class="col-url">{collection_url(col['handle'])}</p>
 
   <div class="stats">
-    <div class="stat"><div class="stat-num">{col['product_count']}</div><div class="stat-label">Productos</div></div>
+    <div class="stat"><div class="stat-num">{col['product_count']}</div><div class="stat-label">Products</div></div>
     <div class="stat"><div class="stat-num">{col['sku_count']}</div><div class="stat-label">SKUs</div></div>
-    <div class="stat"><div class="stat-num">0</div><div class="stat-label">Unidades ahora</div></div>
+    <div class="stat"><div class="stat-num">0</div><div class="stat-label">Units now</div></div>
   </div>"""
 
         if sold:
