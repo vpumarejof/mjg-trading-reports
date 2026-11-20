@@ -182,6 +182,19 @@ def main():
             })
             print(f"  ALERT: '{col['title']}' just went to zero!")
 
+    # Smart collections with an "inventory > 0" rule drop their products when
+    # they sell out, so they vanish from the list above instead of showing 0.
+    # Treat a collection that had stock last run and now has no active
+    # products as just emptied, and keep it in state at 0 so it alerts once.
+    for col_id, prev_col in prev_collections.items():
+        if col_id in current_collections:
+            continue
+        gone = {**prev_col, "total_qty": 0, "sku_count": 0, "product_count": 0}
+        current_collections[col_id] = gone
+        if (prev_col.get("total_qty") or 0) > 0:
+            alerts.append({"collection": gone, "sold_last_unit": []})
+            print(f"  ALERT: '{prev_col['title']}' just went to zero (no products left)!")
+
     if alerts:
         html = build_alert_email(alerts)
         names = ", ".join(a["collection"]["title"] for a in alerts)
