@@ -1,0 +1,33 @@
+name: Weekly Empty Collections (Adam)
+
+on:
+  schedule:
+    - cron: "0 13 * * 1"   # Every Monday ~8-9 AM New York
+  workflow_dispatch:
+    inputs:
+      test_recipient:
+        description: "Send only to this email (for testing)"
+        required: false
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4.2.2
+
+      - uses: actions/setup-python@v5.6.0
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests tzdata
+
+      - name: Run weekly empty collections report
+        env:
+          SHOPIFY_ACCESS_TOKEN: ${{ secrets.SHOPIFY_ACCESS_TOKEN }}
+          SHOPIFY_STORE: ${{ secrets.SHOPIFY_STORE }}
+          GMAIL_EMAIL: ${{ secrets.GMAIL_EMAIL }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          EMPTY_COLLECTIONS_EMAIL: ${{ github.event.inputs.test_recipient || 'adam@mjgtrading.com' }}
+        run: python reports/empty_collections_weekly.py
