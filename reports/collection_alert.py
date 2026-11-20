@@ -97,8 +97,8 @@ def build_alert_email(alerts):
 
         html += f"""
   <div style="margin-top:16px">
-    <a class="btn btn-red" href="{admin_url(col['legacy_id'])}">Hide collection &rarr;</a>
-    <a class="btn btn-dark" href="{collection_url(col['handle'])}">View in store &rarr;</a>
+    <a class="btn btn-red" href="https://business-mjgtrading.myshopify.com/admin/menus">Open menus in Shopify</a>
+    <a class="btn btn-dark" href="{collection_url(col['handle'])}">View in store</a>
   </div>
 </div>"""
 

@@ -63,6 +63,37 @@ query Collections($cursor: String, $pub: ID!) {
 """
 
 
+MENU_QUERY = """
+{ menus(first: 50) { nodes { id handle items {
+    title resourceId url
+    items { title resourceId url items { title resourceId url } }
+} } } }
+"""
+
+
+def main_menu_links(client):
+    """Return (menu_legacy_id, {collection gid or handle: 'Parent > Child'}) for the main menu."""
+    data = client.graphql(MENU_QUERY)
+    menu = next((m for m in data["menus"]["nodes"] if m["handle"] == "main-menu"), None)
+    if not menu:
+        return None, {}
+    links = {}
+
+    def walk(items, path):
+        for item in items:
+            label = " > ".join(path + [item["title"]])
+            if item.get("resourceId"):
+                links.setdefault(item["resourceId"], label)
+            url = item.get("url") or ""
+            if "/collections/" in url:
+                handle = url.split("/collections/")[1].split("?")[0].split("/")[0]
+                links.setdefault(handle, label)
+            walk(item.get("items") or [], path + [item["title"]])
+
+    walk(menu["items"], [])
+    return menu["id"].rsplit("/", 1)[-1], links
+
+
 def online_store_publication_id(client):
     data = client.graphql("{ publications(first: 50) { nodes { id name } } }")
     for pub in data["publications"]["nodes"]:
@@ -116,73 +147,64 @@ def find_empty_live_collections(client):
                 "active_products": s["products"],
                 "reason": "No active products" if s["products"] == 0 else "0 units in stock",
             })
-    empty.sort(key=lambda c: (c["active_products"] == 0, c["title"].lower()))
-    return empty, len(live)
+    menu_id, links = main_menu_links(client)
+    for c in empty:
+        c["menu_path"] = links.get(c["id"]) or links.get(c["handle"])
+    empty.sort(key=lambda c: (c["menu_path"] is None, c["menu_path"] or "", c["title"].lower()))
+    return empty, len(live), menu_id
 
 
-def _rows(cols, show_products):
-    rows = ""
-    for c in cols:
-        products_cell = (
-            f'<td style="padding:10px 8px;border-bottom:1px solid #eee;text-align:center">{c["active_products"]}</td>'
-            if show_products else ""
-        )
-        rows += f"""
-      <tr>
-        <td style="padding:10px 8px;border-bottom:1px solid #eee">
-          <strong>{escape(c['title'])}</strong><br>
-          <span style="color:#888;font-size:12px">/collections/{escape(c['handle'])}</span>
-        </td>{products_cell}
-        <td style="padding:10px 8px;border-bottom:1px solid #eee;white-space:nowrap">
-          <a href="{ADMIN_URL}/collections/{c['legacyResourceId']}" style="color:#dc3545;font-weight:bold">Hide</a>
-          &nbsp;·&nbsp;
-          <a href="{STORE_URL}/collections/{escape(c['handle'])}" style="color:#1a1a2e">View</a>
-        </td>
-      </tr>"""
-    return rows
-
-
-def _table(cols, show_products):
-    products_th = '<th style="padding:8px;text-align:center">Products</th>' if show_products else ""
-    return f"""
-  <table style="width:100%;border-collapse:collapse;font-size:14px;margin-bottom:28px">
-    <thead>
-      <tr style="background:#f8f9fa;text-align:left">
-        <th style="padding:8px">Collection</th>{products_th}
-        <th style="padding:8px">Action</th>
-      </tr>
-    </thead>
-    <tbody>{_rows(cols, show_products)}
-    </tbody>
-  </table>"""
-
-
-def build_html(empty, live_count, now):
+def build_html(empty, live_count, now, menu_id):
     date_str = now.strftime("%A, %B %d, %Y")
-    out_of_stock = [c for c in empty if c["active_products"] > 0]
-    no_products = [c for c in empty if c["active_products"] == 0]
+    in_menu = [c for c in empty if c["menu_path"]]
+    not_in_menu = [c for c in empty if not c["menu_path"]]
+    menu_admin = f"{ADMIN_URL}/menus/{menu_id}" if menu_id else f"{ADMIN_URL}/menus"
+
+    def status(c):
+        if c["active_products"]:
+            return f'{c["active_products"]} products, 0 units'
+        return "No products"
 
     if not empty:
-        body = '<p style="margin:0">All live collections have stock. Nothing to hide this week.</p>'
+        body = '<p style="margin:0">All live collections have stock. Nothing to change this week.</p>'
     else:
         body = ""
-        if out_of_stock:
+        if in_menu:
+            rows = "".join(f"""
+      <tr>
+        <td style="padding:9px 8px;border-bottom:1px solid #eee">
+          <strong>{escape(c['title'])}</strong><br>
+          <span style="color:#888;font-size:12px">{escape(c['menu_path'])}</span>
+        </td>
+        <td style="padding:9px 8px;border-bottom:1px solid #eee;font-size:13px">{status(c)}</td>
+        <td style="padding:9px 8px;border-bottom:1px solid #eee;white-space:nowrap">
+          <a href="{STORE_URL}/collections/{escape(c['handle'])}" style="color:#1a1a2e">View</a>
+        </td>
+      </tr>""" for c in in_menu)
             body += f"""
-  <h2 style="font-size:16px;margin:0 0 6px">Products listed, 0 units in stock ({len(out_of_stock)})</h2>
-  <p style="margin:0 0 12px;color:#555;font-size:13px">Shoppers see products here but none can be bought. Hide or restock.</p>
-  {_table(out_of_stock, True)}"""
-        if no_products:
+  <h2 style="font-size:16px;margin:0 0 6px">Still in the menu with no stock ({len(in_menu)})</h2>
+  <p style="margin:0 0 12px;color:#555;font-size:13px">These menu links open an empty page.
+  <a href="{menu_admin}" style="color:#dc3545;font-weight:bold">Open the main menu in Shopify</a> to remove them.</p>
+  <table style="width:100%;border-collapse:collapse;font-size:14px;margin-bottom:28px">
+    <thead><tr style="background:#f8f9fa;text-align:left">
+      <th style="padding:8px">Collection and menu location</th><th style="padding:8px">Status</th><th style="padding:8px"></th>
+    </tr></thead>
+    <tbody>{rows}
+    </tbody>
+  </table>"""
+        else:
+            body += '<p style="margin:0 0 20px"><strong>No empty collections are linked in the menu.</strong></p>'
+        if not_in_menu:
+            names = ", ".join(escape(c["title"]) for c in not_in_menu)
             body += f"""
-  <h2 style="font-size:16px;margin:0 0 6px">Live but no products at all ({len(no_products)})</h2>
-  <p style="margin:0 0 12px;color:#555;font-size:13px">Published collections that show an empty page.
-  Most are automated brand or category collections that only include items in stock, so they will fill again when that brand is restocked.</p>
-  {_table(no_products, False)}"""
+  <h2 style="font-size:15px;margin:0 0 6px;color:#555">Empty but not in the menu ({len(not_in_menu)})</h2>
+  <p style="margin:0;color:#777;font-size:12px;line-height:1.6">No action needed. For reference: {names}</p>"""
 
     return f"""<!DOCTYPE html>
 <html><head><meta charset="utf-8"></head>
 <body style="font-family:Arial,sans-serif;color:#333;max-width:700px;margin:0 auto;padding:20px">
   <div style="background:#1a1a2e;color:#fff;padding:20px 24px;border-radius:8px;margin-bottom:20px">
-    <h1 style="margin:0;font-size:20px">Empty Collections: {len(empty)} live with no stock</h1>
+    <h1 style="margin:0;font-size:20px">Empty Collections: {len(in_menu)} still in the menu</h1>
     <p style="margin:6px 0 0;opacity:.8;font-size:13px">Weekly report · {date_str} · {live_count} live collections checked</p>
   </div>
   {body}
@@ -195,14 +217,15 @@ def build_html(empty, live_count, now):
 def main():
     dry_run = "--dry-run" in sys.argv
     client = ShopifyClient()
-    empty, live_count = find_empty_live_collections(client)
+    empty, live_count, menu_id = find_empty_live_collections(client)
     print(f"{len(empty)} live collections with no stock:")
     for c in empty:
-        print(f"  - {c['title']} ({c['reason']}, {c['active_products']} active products)")
+        print(f"  - {c['title']} ({c['reason']}) menu: {c['menu_path'] or '-'}")
 
     now = datetime.now(NY)
-    html = build_html(empty, live_count, now)
-    subject = f"Weekly Empty Collections: {len(empty)} live with no stock · {now.strftime('%m/%d/%Y')}"
+    html = build_html(empty, live_count, now, menu_id)
+    in_menu = sum(1 for c in empty if c["menu_path"])
+    subject = f"Weekly Empty Collections: {in_menu} still in the menu · {now.strftime('%m/%d/%Y')}"
 
     if dry_run:
         out = Path(__file__).parent / "empty_collections_preview.html"
