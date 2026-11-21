@@ -35498,13 +35498,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-11-21T11:46:27.468055+00:00",
+    "updated_at": "2026-11-21T18:29:40.204129+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81475,
+        "total_qty": 81474,
         "sku_count": 11831,
         "product_count": 11831
       },
@@ -35512,7 +35512,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81475,
+        "total_qty": 81474,
         "sku_count": 4560,
         "product_count": 4560
       },
@@ -35552,7 +35552,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81475,
+        "total_qty": 81474,
         "sku_count": 3468,
         "product_count": 3468
       },
@@ -35560,7 +35560,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81062,
+        "total_qty": 81061,
         "sku_count": 3055,
         "product_count": 3055
       },
@@ -35584,7 +35584,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3010,
+        "total_qty": 3009,
         "sku_count": 394,
         "product_count": 394
       },
@@ -35648,7 +35648,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 14382,
+        "total_qty": 14381,
         "sku_count": 1204,
         "product_count": 1204
       },
@@ -35688,7 +35688,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 7607,
+        "total_qty": 7606,
         "sku_count": 602,
         "product_count": 602
       },
@@ -36416,7 +36416,7 @@
         "title": "ANNA-KARIN KARLSSON",
         "handle": "anna-karin-karlsson",
         "legacy_id": "485871059198",
-        "total_qty": 1047,
+        "total_qty": 1046,
         "sku_count": 17,
         "product_count": 17
       },
@@ -85845,7 +85845,7 @@
         "sku": "AKK-LUCKY-GOES-TO-VEGAS-LEOPARD"
       },
       "gid://shopify/ProductVariant/48406939664638": {
-        "qty": 27,
+        "qty": 26,
         "product_title": "MOTHER-BEEP-BLACK CRYSTAL",
         "sku": "AKK-MOTHER-BEEP-BLACK CRYSTAL"
       },
