@@ -35498,13 +35498,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-11-21T03:39:38.321938+00:00",
+    "updated_at": "2026-11-21T11:46:27.468055+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81477,
+        "total_qty": 81475,
         "sku_count": 11831,
         "product_count": 11831
       },
@@ -35512,7 +35512,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81477,
+        "total_qty": 81475,
         "sku_count": 4560,
         "product_count": 4560
       },
@@ -35536,7 +35536,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 57601,
+        "total_qty": 57600,
         "sku_count": 2257,
         "product_count": 2257
       },
@@ -35552,7 +35552,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81477,
+        "total_qty": 81475,
         "sku_count": 3468,
         "product_count": 3468
       },
@@ -35560,7 +35560,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81064,
+        "total_qty": 81062,
         "sku_count": 3055,
         "product_count": 3055
       },
@@ -35584,7 +35584,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3011,
+        "total_qty": 3010,
         "sku_count": 394,
         "product_count": 394
       },
@@ -35648,7 +35648,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 14383,
+        "total_qty": 14382,
         "sku_count": 1204,
         "product_count": 1204
       },
@@ -35664,7 +35664,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 4121,
+        "total_qty": 4120,
         "sku_count": 402,
         "product_count": 402
       },
@@ -36112,7 +36112,7 @@
         "title": "BURBERRY",
         "handle": "burberry",
         "legacy_id": "391771324670",
-        "total_qty": 66,
+        "total_qty": 65,
         "sku_count": 11,
         "product_count": 11
       },
@@ -36288,7 +36288,7 @@
         "title": "JAGUAR",
         "handle": "jaguar",
         "legacy_id": "475760034046",
-        "total_qty": 1494,
+        "total_qty": 1493,
         "sku_count": 146,
         "product_count": 146
       },
@@ -60190,7 +60190,7 @@
         "sku": "BURBERRY-0BE2362D-3961-55"
       },
       "gid://shopify/ProductVariant/47095920460030": {
-        "qty": 11,
+        "qty": 10,
         "product_title": "0BE2382D-3852-49",
         "sku": "BURBERRY-0BE2382D-3852-49"
       },
@@ -91265,7 +91265,7 @@
         "sku": "JAGUAR-JG37280-8940"
       },
       "gid://shopify/ProductVariant/48963798237438": {
-        "qty": 15,
+        "qty": 14,
         "product_title": "JG37281-5200",
         "sku": "JAGUAR-JG37281-5200"
       },
