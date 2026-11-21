@@ -35498,13 +35498,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-11-20T22:54:19.681930+00:00",
+    "updated_at": "2026-11-21T03:39:38.321938+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81488,
+        "total_qty": 81477,
         "sku_count": 11831,
         "product_count": 11831
       },
@@ -35512,9 +35512,9 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81488,
-        "sku_count": 4561,
-        "product_count": 4561
+        "total_qty": 81477,
+        "sku_count": 4560,
+        "product_count": 4560
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
@@ -35528,7 +35528,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 1136,
+        "total_qty": 1134,
         "sku_count": 949,
         "product_count": 949
       },
@@ -35536,9 +35536,9 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 57607,
-        "sku_count": 2258,
-        "product_count": 2258
+        "total_qty": 57601,
+        "sku_count": 2257,
+        "product_count": 2257
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -35552,15 +35552,15 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81488,
-        "sku_count": 3469,
-        "product_count": 3469
+        "total_qty": 81477,
+        "sku_count": 3468,
+        "product_count": 3468
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81074,
+        "total_qty": 81064,
         "sku_count": 3055,
         "product_count": 3055
       },
@@ -35568,7 +35568,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 10780,
+        "total_qty": 10778,
         "sku_count": 949,
         "product_count": 949
       },
@@ -35576,7 +35576,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 10780,
+        "total_qty": 10778,
         "sku_count": 949,
         "product_count": 949
       },
@@ -35584,7 +35584,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3017,
+        "total_qty": 3011,
         "sku_count": 394,
         "product_count": 394
       },
@@ -35608,7 +35608,7 @@
         "title": "GUCCI",
         "handle": "gucci",
         "legacy_id": "421341364478",
-        "total_qty": 408,
+        "total_qty": 406,
         "sku_count": 301,
         "product_count": 301
       },
@@ -35648,7 +35648,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 14388,
+        "total_qty": 14383,
         "sku_count": 1204,
         "product_count": 1204
       },
@@ -35664,7 +35664,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 4123,
+        "total_qty": 4121,
         "sku_count": 402,
         "product_count": 402
       },
@@ -35680,7 +35680,7 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 477,
+        "total_qty": 476,
         "sku_count": 55,
         "product_count": 55
       },
@@ -35688,9 +35688,9 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 7611,
-        "sku_count": 603,
-        "product_count": 603
+        "total_qty": 7607,
+        "sku_count": 602,
+        "product_count": 602
       },
       "gid://shopify/Collection/391853998334": {
         "title": "Men's",
@@ -35796,14 +35796,6 @@
         "sku_count": 137,
         "product_count": 137
       },
-      "gid://shopify/Collection/395943936254": {
-        "title": "CAROLINA HERRERA",
-        "handle": "carolina-herrera",
-        "legacy_id": "395943936254",
-        "total_qty": 76,
-        "sku_count": 9,
-        "product_count": 9
-      },
       "gid://shopify/Collection/391774634238": {
         "title": "KATE SPADE",
         "handle": "kate-spade",
@@ -35876,6 +35868,14 @@
         "sku_count": 1,
         "product_count": 1
       },
+      "gid://shopify/Collection/395943936254": {
+        "title": "CAROLINA HERRERA",
+        "handle": "carolina-herrera",
+        "legacy_id": "395943936254",
+        "total_qty": 75,
+        "sku_count": 8,
+        "product_count": 8
+      },
       "gid://shopify/Collection/397089702142": {
         "title": "DAVID BECKHAM",
         "handle": "david-beckham",
@@ -35896,7 +35896,7 @@
         "title": "Gucci",
         "handle": "gucci-1",
         "legacy_id": "407282450686",
-        "total_qty": 408,
+        "total_qty": 406,
         "sku_count": 83,
         "product_count": 83
       },
@@ -35904,7 +35904,7 @@
         "title": "Readers",
         "handle": "readers",
         "legacy_id": "373526069502",
-        "total_qty": 133,
+        "total_qty": 132,
         "sku_count": 40,
         "product_count": 40
       },
@@ -35912,7 +35912,7 @@
         "title": "EYEBOBS",
         "handle": "eyebobs",
         "legacy_id": "391774273790",
-        "total_qty": 150,
+        "total_qty": 149,
         "sku_count": 57,
         "product_count": 57
       },
@@ -35928,7 +35928,7 @@
         "title": "Women's Readers",
         "handle": "womens-readers",
         "legacy_id": "459347689726",
-        "total_qty": 79,
+        "total_qty": 78,
         "sku_count": 30,
         "product_count": 30
       },
@@ -36000,7 +36000,7 @@
         "title": "CALVIN KLEIN",
         "handle": "calvin-klein",
         "legacy_id": "393476997374",
-        "total_qty": 481,
+        "total_qty": 479,
         "sku_count": 54,
         "product_count": 54
       },
@@ -36280,7 +36280,7 @@
         "title": "FACE A FACE",
         "handle": "face-a-face",
         "legacy_id": "475759968510",
-        "total_qty": 2200,
+        "total_qty": 2199,
         "sku_count": 261,
         "product_count": 261
       },
@@ -36376,7 +36376,7 @@
         "title": "CELINE",
         "handle": "celine",
         "legacy_id": "483191193854",
-        "total_qty": 268,
+        "total_qty": 267,
         "sku_count": 48,
         "product_count": 48
       },
@@ -36416,7 +36416,7 @@
         "title": "ANNA-KARIN KARLSSON",
         "handle": "anna-karin-karlsson",
         "legacy_id": "485871059198",
-        "total_qty": 1049,
+        "total_qty": 1047,
         "sku_count": 17,
         "product_count": 17
       },
@@ -47585,7 +47585,7 @@
         "sku": "CH-HER-0129/S-0C9K/HA"
       },
       "gid://shopify/ProductVariant/45876726989054": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "HER-0132/G/S-0LHF/HA",
         "sku": "CH-HER-0132/G/S-0LHF/HA"
       },
@@ -51145,7 +51145,7 @@
         "sku": "EYEBOBS-3432-19-2.25"
       },
       "gid://shopify/ProductVariant/46356724613374": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "3432-19-2.50",
         "sku": "EYEBOBS-3432-19-2.50"
       },
@@ -54905,7 +54905,7 @@
         "sku": "SF-SF2970-001-53"
       },
       "gid://shopify/ProductVariant/46663410188542": {
-        "qty": 13,
+        "qty": 12,
         "product_title": "SF2970-414-53",
         "sku": "SF-SF2970-414-53"
       },
@@ -78965,7 +78965,7 @@
         "sku": "FF-KAKEMO-1-0238"
       },
       "gid://shopify/ProductVariant/48035788718334": {
-        "qty": 13,
+        "qty": 12,
         "product_title": "KAKEMO-1-3004",
         "sku": "FF-KAKEMO-1-3004"
       },
@@ -82500,7 +82500,7 @@
         "sku": "GUCCI-GG0025O-004-56"
       },
       "gid://shopify/ProductVariant/48288329892094": {
-        "qty": 11,
+        "qty": 10,
         "product_title": "GG0025O-013-56",
         "sku": "GUCCI-GG0025O-013-56"
       },
@@ -82600,7 +82600,7 @@
         "sku": "GUCCI-GG1428O-009-55"
       },
       "gid://shopify/ProductVariant/48288332611838": {
-        "qty": 19,
+        "qty": 18,
         "product_title": "GG1445O-006-59",
         "sku": "GUCCI-GG1445O-006-59"
       },
@@ -85810,12 +85810,12 @@
         "sku": "FLEXON-W3040-205-56"
       },
       "gid://shopify/ProductVariant/48406939107582": {
-        "qty": 146,
+        "qty": 145,
         "product_title": "COCO-STORIES-BLACK GOLD",
         "sku": "AKK-COCO-STORIES-BLACK GOLD"
       },
       "gid://shopify/ProductVariant/48406939173118": {
-        "qty": 107,
+        "qty": 106,
         "product_title": "COCO-STORIES-GREY WHITE GOLD",
         "sku": "AKK-COCO-STORIES-GREY WHITE GOLD"
       },
@@ -89510,7 +89510,7 @@
         "sku": "CELINE-CL50157I-053-52"
       },
       "gid://shopify/ProductVariant/48772224712958": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "CL50161I 54053",
         "sku": "CELINE-CL50161I-053-54"
       },
@@ -92005,7 +92005,7 @@
         "sku": "CK-CK24543-515-52"
       },
       "gid://shopify/ProductVariant/67613227286782": {
-        "qty": 13,
+        "qty": 11,
         "product_title": "CK25502S-601",
         "sku": "CK-CK25502S-601"
       },
