@@ -35498,13 +35498,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-11-21T18:29:40.204129+00:00",
+    "updated_at": "2026-11-21T23:32:13.988995+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81474,
+        "total_qty": 81468,
         "sku_count": 11831,
         "product_count": 11831
       },
@@ -35512,15 +35512,15 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81474,
-        "sku_count": 4560,
-        "product_count": 4560
+        "total_qty": 81468,
+        "sku_count": 4559,
+        "product_count": 4559
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
         "handle": "unisex",
         "legacy_id": "454431047934",
-        "total_qty": 21493,
+        "total_qty": 21492,
         "sku_count": 2617,
         "product_count": 2617
       },
@@ -35536,9 +35536,9 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 57600,
-        "sku_count": 2257,
-        "product_count": 2257
+        "total_qty": 57596,
+        "sku_count": 2256,
+        "product_count": 2256
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -35552,41 +35552,41 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81474,
-        "sku_count": 3468,
-        "product_count": 3468
+        "total_qty": 81468,
+        "sku_count": 3467,
+        "product_count": 3467
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81061,
-        "sku_count": 3055,
-        "product_count": 3055
+        "total_qty": 81055,
+        "sku_count": 3054,
+        "product_count": 3054
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 10778,
-        "sku_count": 949,
-        "product_count": 949
+        "total_qty": 10776,
+        "sku_count": 948,
+        "product_count": 948
       },
       "gid://shopify/Collection/410151354622": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 10778,
-        "sku_count": 949,
-        "product_count": 949
+        "total_qty": 10776,
+        "sku_count": 948,
+        "product_count": 948
       },
       "gid://shopify/Collection/472161255678": {
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 3009,
-        "sku_count": 394,
-        "product_count": 394
+        "total_qty": 3007,
+        "sku_count": 393,
+        "product_count": 393
       },
       "gid://shopify/Collection/391854031102": {
         "title": "Women's",
@@ -35648,7 +35648,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 14381,
+        "total_qty": 14380,
         "sku_count": 1204,
         "product_count": 1204
       },
@@ -35680,9 +35680,9 @@
         "title": "SALVATORE FERRAGAMO",
         "handle": "salvatore-ferragamo",
         "legacy_id": "391775715582",
-        "total_qty": 476,
-        "sku_count": 55,
-        "product_count": 55
+        "total_qty": 475,
+        "sku_count": 54,
+        "product_count": 54
       },
       "gid://shopify/Collection/410149978366": {
         "title": "Women's Sunglasses",
@@ -35712,7 +35712,7 @@
         "title": "Unisex Sunglasses",
         "handle": "unisex-sunglasses",
         "legacy_id": "410150011134",
-        "total_qty": 2699,
+        "total_qty": 2698,
         "sku_count": 203,
         "product_count": 203
       },
@@ -35800,7 +35800,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 637,
+        "total_qty": 636,
         "sku_count": 112,
         "product_count": 112
       },
@@ -35824,7 +35824,7 @@
         "title": "Over 300",
         "handle": "over-300",
         "legacy_id": "425967354110",
-        "total_qty": 24032,
+        "total_qty": 24031,
         "sku_count": 38,
         "product_count": 38
       },
@@ -36112,7 +36112,7 @@
         "title": "BURBERRY",
         "handle": "burberry",
         "legacy_id": "391771324670",
-        "total_qty": 65,
+        "total_qty": 64,
         "sku_count": 11,
         "product_count": 11
       },
@@ -36152,7 +36152,7 @@
         "title": "New Arrivals",
         "handle": "new-arrivals",
         "legacy_id": "407946952958",
-        "total_qty": 1058,
+        "total_qty": 1057,
         "sku_count": 175,
         "product_count": 175
       },
@@ -36288,7 +36288,7 @@
         "title": "JAGUAR",
         "handle": "jaguar",
         "legacy_id": "475760034046",
-        "total_qty": 1493,
+        "total_qty": 1492,
         "sku_count": 146,
         "product_count": 146
       },
@@ -36512,7 +36512,7 @@
         "title": "CUTLER AND GROSS",
         "handle": "cutler-and-gross",
         "legacy_id": "512308904190",
-        "total_qty": 1473,
+        "total_qty": 1472,
         "sku_count": 68,
         "product_count": 68
       },
@@ -48300,7 +48300,7 @@
         "sku": "MJ-MARC-463-0086-53"
       },
       "gid://shopify/ProductVariant/46059134714110": {
-        "qty": 9480,
+        "qty": 9479,
         "product_title": "DropShip",
         "sku": "DropShip"
       },
@@ -55005,7 +55005,7 @@
         "sku": "SF-SF2937R-655-54"
       },
       "gid://shopify/ProductVariant/46663462486270": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "SF2948-612-54",
         "sku": "SF-SF2948-612-54"
       },
@@ -60185,7 +60185,7 @@
         "sku": "VB-VB654S-234"
       },
       "gid://shopify/ProductVariant/47095920427262": {
-        "qty": 11,
+        "qty": 10,
         "product_title": "0BE2362D-3961-55",
         "sku": "BURBERRY-0BE2362D-3961-55"
       },
@@ -91085,7 +91085,7 @@
         "sku": "JAGUAR-JG33844-3100-55"
       },
       "gid://shopify/ProductVariant/48963795026174": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "JG35600-3100-55",
         "sku": "JAGUAR-JG35600-3100-55"
       },
@@ -93610,7 +93610,7 @@
         "sku": "CG-CGSN-1335-04"
       },
       "gid://shopify/ProductVariant/67667223150846": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "CGSN-1336-50-01",
         "sku": "CG-CGSN-1336-01"
       },
@@ -94835,7 +94835,7 @@
         "sku": "KS-HAZEN-807-49"
       },
       "gid://shopify/ProductVariant/68015675932926": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "JABRIA-B3V-53",
         "sku": "KS-JABRIA-B3V-53"
       },
