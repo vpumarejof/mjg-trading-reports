@@ -35498,13 +35498,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-11-22T11:49:19.954469+00:00",
+    "updated_at": "2026-11-22T18:52:25.678530+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81444,
+        "total_qty": 81376,
         "sku_count": 11831,
         "product_count": 11831
       },
@@ -35512,7 +35512,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81444,
+        "total_qty": 81376,
         "sku_count": 4559,
         "product_count": 4559
       },
@@ -35528,7 +35528,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 1132,
+        "total_qty": 1130,
         "sku_count": 949,
         "product_count": 949
       },
@@ -35536,7 +35536,7 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 57584,
+        "total_qty": 57583,
         "sku_count": 2256,
         "product_count": 2256
       },
@@ -35552,7 +35552,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81444,
+        "total_qty": 81376,
         "sku_count": 3467,
         "product_count": 3467
       },
@@ -35560,7 +35560,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81029,
+        "total_qty": 80961,
         "sku_count": 3052,
         "product_count": 3052
       },
@@ -35568,7 +35568,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 10766,
+        "total_qty": 10765,
         "sku_count": 948,
         "product_count": 948
       },
@@ -35576,7 +35576,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 10766,
+        "total_qty": 10765,
         "sku_count": 948,
         "product_count": 948
       },
@@ -35648,7 +35648,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 14368,
+        "total_qty": 14301,
         "sku_count": 1204,
         "product_count": 1204
       },
@@ -35664,7 +35664,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 4116,
+        "total_qty": 4054,
         "sku_count": 402,
         "product_count": 402
       },
@@ -35688,7 +35688,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 7601,
+        "total_qty": 7596,
         "sku_count": 602,
         "product_count": 602
       },
@@ -35840,7 +35840,7 @@
         "title": "MARC JACOBS",
         "handle": "marc-jacobs",
         "legacy_id": "391774732542",
-        "total_qty": 334,
+        "total_qty": 333,
         "sku_count": 57,
         "product_count": 57
       },
@@ -35984,7 +35984,7 @@
         "title": "MISSONI",
         "handle": "missoni",
         "legacy_id": "408673911038",
-        "total_qty": 812,
+        "total_qty": 811,
         "sku_count": 70,
         "product_count": 70
       },
@@ -36280,7 +36280,7 @@
         "title": "FACE A FACE",
         "handle": "face-a-face",
         "legacy_id": "475759968510",
-        "total_qty": 2199,
+        "total_qty": 2197,
         "sku_count": 261,
         "product_count": 261
       },
@@ -36288,7 +36288,7 @@
         "title": "JAGUAR",
         "handle": "jaguar",
         "legacy_id": "475760034046",
-        "total_qty": 1492,
+        "total_qty": 1430,
         "sku_count": 146,
         "product_count": 146
       },
@@ -36512,7 +36512,7 @@
         "title": "CUTLER AND GROSS",
         "handle": "cutler-and-gross",
         "legacy_id": "512308904190",
-        "total_qty": 1468,
+        "total_qty": 1466,
         "sku_count": 68,
         "product_count": 68
       },
@@ -62555,7 +62555,7 @@
         "sku": "MISSONI-MIS-0045-0KDX-52"
       },
       "gid://shopify/ProductVariant/47177369321726": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "MIS-0058-0086-53",
         "sku": "MISSONI-MIS-0058-0086-53"
       },
@@ -69885,52 +69885,52 @@
         "sku": "JAGUAR-JG36832-5100-58"
       },
       "gid://shopify/ProductVariant/47589023613182": {
-        "qty": 19,
+        "qty": 18,
         "product_title": "JG37508-3100",
         "sku": "JAGUAR-JG37508-3100"
       },
       "gid://shopify/ProductVariant/47589023645950": {
-        "qty": 7,
+        "qty": 6,
         "product_title": "JG37508-6100",
         "sku": "JAGUAR-JG37508-6100"
       },
       "gid://shopify/ProductVariant/47589023678718": {
-        "qty": 19,
+        "qty": 17,
         "product_title": "JG37509-3100",
         "sku": "JAGUAR-JG37509-3100"
       },
       "gid://shopify/ProductVariant/47589023711486": {
-        "qty": 14,
+        "qty": 12,
         "product_title": "JG37509-6100",
         "sku": "JAGUAR-JG37509-6100"
       },
       "gid://shopify/ProductVariant/47589023777022": {
-        "qty": 16,
+        "qty": 14,
         "product_title": "JG37510-3100",
         "sku": "JAGUAR-JG37510-3100"
       },
       "gid://shopify/ProductVariant/47589023809790": {
-        "qty": 17,
+        "qty": 15,
         "product_title": "JG37510-4200",
         "sku": "JAGUAR-JG37510-4200"
       },
       "gid://shopify/ProductVariant/47589023973630": {
-        "qty": 16,
+        "qty": 15,
         "product_title": "JG37510-6100",
         "sku": "JAGUAR-JG37510-6100"
       },
       "gid://shopify/ProductVariant/47589024006398": {
-        "qty": 16,
+        "qty": 15,
         "product_title": "JG37511-6100",
         "sku": "JAGUAR-JG37511-6100"
       },
       "gid://shopify/ProductVariant/47589024039166": {
-        "qty": 20,
+        "qty": 18,
         "product_title": "JG37622-5100",
         "sku": "JAGUAR-JG37622-5100"
       },
       "gid://shopify/ProductVariant/47589024071934": {
-        "qty": 18,
+        "qty": 16,
         "product_title": "JG37622-6100",
         "sku": "JAGUAR-JG37622-6100"
       },
@@ -69940,37 +69940,37 @@
         "sku": "JAGUAR-JG37622-6500"
       },
       "gid://shopify/ProductVariant/47589024137470": {
-        "qty": 13,
+        "qty": 11,
         "product_title": "JG37623-3100",
         "sku": "JAGUAR-JG37623-3100"
       },
       "gid://shopify/ProductVariant/47589024203006": {
-        "qty": 23,
+        "qty": 22,
         "product_title": "JG37623-5100",
         "sku": "JAGUAR-JG37623-5100"
       },
       "gid://shopify/ProductVariant/47589024268542": {
-        "qty": 19,
+        "qty": 17,
         "product_title": "JG37623-6100",
         "sku": "JAGUAR-JG37623-6100"
       },
       "gid://shopify/ProductVariant/47589024399614": {
-        "qty": 5,
+        "qty": 2,
         "product_title": "JG37626-3100",
         "sku": "JAGUAR-JG37626-3100"
       },
       "gid://shopify/ProductVariant/47589024465150": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "JG37626-6100",
         "sku": "JAGUAR-JG37626-6100"
       },
       "gid://shopify/ProductVariant/47589024497918": {
-        "qty": 7,
+        "qty": 5,
         "product_title": "JG37626-6500",
         "sku": "JAGUAR-JG37626-6500"
       },
       "gid://shopify/ProductVariant/47589024530686": {
-        "qty": 8,
+        "qty": 6,
         "product_title": "JG37823-4200",
         "sku": "JAGUAR-JG37823-4200"
       },
@@ -74605,7 +74605,7 @@
         "sku": "FF-NINNA-1-238"
       },
       "gid://shopify/ProductVariant/47761819631870": {
-        "qty": 5,
+        "qty": 4,
         "product_title": "NINNA-1-2548",
         "sku": "FF-NINNA-1-2548"
       },
@@ -90755,7 +90755,7 @@
         "sku": "FF-ALIUM-WAVE-3-9404"
       },
       "gid://shopify/ProductVariant/48932971282686": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "BOCCA-CHESS-2-6300",
         "sku": "FF-BOCCA-CHESS-2-6300"
       },
@@ -91150,7 +91150,7 @@
         "sku": "JAGUAR-JG37123-8840"
       },
       "gid://shopify/ProductVariant/48963796697342": {
-        "qty": 8,
+        "qty": 6,
         "product_title": "JG37123-8940",
         "sku": "JAGUAR-JG37123-8940"
       },
@@ -91170,7 +91170,7 @@
         "sku": "JAGUAR-JG37124-8940"
       },
       "gid://shopify/ProductVariant/48963796992254": {
-        "qty": 14,
+        "qty": 13,
         "product_title": "JG37125-5223",
         "sku": "JAGUAR-JG37125-5223"
       },
@@ -91190,7 +91190,7 @@
         "sku": "JAGUAR-JG37181-4928"
       },
       "gid://shopify/ProductVariant/48963797254398": {
-        "qty": 11,
+        "qty": 10,
         "product_title": "JG37181-4929",
         "sku": "JAGUAR-JG37181-4929"
       },
@@ -91210,7 +91210,7 @@
         "sku": "JAGUAR-JG37204-5206"
       },
       "gid://shopify/ProductVariant/48963797582078": {
-        "qty": 18,
+        "qty": 17,
         "product_title": "JG37204-8940",
         "sku": "JAGUAR-JG37204-8940"
       },
@@ -91230,12 +91230,12 @@
         "sku": "JAGUAR-JG37261-4627"
       },
       "gid://shopify/ProductVariant/48963797811454": {
-        "qty": 15,
+        "qty": 14,
         "product_title": "JG37261-4676",
         "sku": "JAGUAR-JG37261-4676"
       },
       "gid://shopify/ProductVariant/48963797844222": {
-        "qty": 13,
+        "qty": 12,
         "product_title": "JG37261-8840",
         "sku": "JAGUAR-JG37261-8840"
       },
@@ -91250,12 +91250,12 @@
         "sku": "JAGUAR-JG37263-5313"
       },
       "gid://shopify/ProductVariant/48963797975294": {
-        "qty": 15,
+        "qty": 13,
         "product_title": "JG37263-8840",
         "sku": "JAGUAR-JG37263-8840"
       },
       "gid://shopify/ProductVariant/48963798040830": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "JG37280-5194",
         "sku": "JAGUAR-JG37280-5194"
       },
@@ -91270,7 +91270,7 @@
         "sku": "JAGUAR-JG37281-5200"
       },
       "gid://shopify/ProductVariant/48963798401278": {
-        "qty": 11,
+        "qty": 10,
         "product_title": "JG37281-5201",
         "sku": "JAGUAR-JG37281-5201"
       },
@@ -91290,22 +91290,22 @@
         "sku": "JAGUAR-JG37282-5140"
       },
       "gid://shopify/ProductVariant/48963798565118": {
-        "qty": 8,
+        "qty": 7,
         "product_title": "JG37283-4982",
         "sku": "JAGUAR-JG37283-4982"
       },
       "gid://shopify/ProductVariant/48963798794494": {
-        "qty": 14,
+        "qty": 13,
         "product_title": "JG37283-5286",
         "sku": "JAGUAR-JG37283-5286"
       },
       "gid://shopify/ProductVariant/48963798958334": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "JG37283-5336",
         "sku": "JAGUAR-JG37283-5336"
       },
       "gid://shopify/ProductVariant/48963799023870": {
-        "qty": 11,
+        "qty": 10,
         "product_title": "JG37284-4801",
         "sku": "JAGUAR-JG37284-4801"
       },
@@ -91320,12 +91320,12 @@
         "sku": "JAGUAR-JG37284-5306"
       },
       "gid://shopify/ProductVariant/48963799744766": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "JG37366-6000",
         "sku": "JAGUAR-JG37366-6000"
       },
       "gid://shopify/ProductVariant/48963799810302": {
-        "qty": 14,
+        "qty": 13,
         "product_title": "JG37366-6500",
         "sku": "JAGUAR-JG37366-6500"
       },
@@ -91345,7 +91345,7 @@
         "sku": "JAGUAR-JG37368-4200"
       },
       "gid://shopify/ProductVariant/48963800531198": {
-        "qty": 15,
+        "qty": 13,
         "product_title": "JG37368-6000",
         "sku": "JAGUAR-JG37368-6000"
       },
@@ -91370,7 +91370,7 @@
         "sku": "JAGUAR-JG37369-6100"
       },
       "gid://shopify/ProductVariant/48963800858878": {
-        "qty": 16,
+        "qty": 14,
         "product_title": "JG37370-2100",
         "sku": "JAGUAR-JG37370-2100"
       },
@@ -91420,7 +91420,7 @@
         "sku": "JAGUAR-JG37467-5333"
       },
       "gid://shopify/ProductVariant/48963801776382": {
-        "qty": 10,
+        "qty": 9,
         "product_title": "JG37468-4200",
         "sku": "JAGUAR-JG37468-4200"
       },
@@ -91430,7 +91430,7 @@
         "sku": "JAGUAR-JG37468-5100"
       },
       "gid://shopify/ProductVariant/48963801972990": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "JG37468-6000",
         "sku": "JAGUAR-JG37468-6000"
       },
@@ -91450,7 +91450,7 @@
         "sku": "JAGUAR-JG37502-6500"
       },
       "gid://shopify/ProductVariant/48963802136830": {
-        "qty": 7,
+        "qty": 4,
         "product_title": "JG37503-4200",
         "sku": "JAGUAR-JG37503-4200"
       },
@@ -91460,7 +91460,7 @@
         "sku": "JAGUAR-JG37505-6100"
       },
       "gid://shopify/ProductVariant/48963802267902": {
-        "qty": 11,
+        "qty": 10,
         "product_title": "JG37505-6500",
         "sku": "JAGUAR-JG37505-6500"
       },
@@ -91470,17 +91470,17 @@
         "sku": "JAGUAR-JG37506-3100"
       },
       "gid://shopify/ProductVariant/48963802431742": {
-        "qty": 15,
+        "qty": 14,
         "product_title": "JG37506-6100",
         "sku": "JAGUAR-JG37506-6100"
       },
       "gid://shopify/ProductVariant/48963802628350": {
-        "qty": 16,
+        "qty": 15,
         "product_title": "JG37508-4200",
         "sku": "JAGUAR-JG37508-4200"
       },
       "gid://shopify/ProductVariant/48963802661118": {
-        "qty": 16,
+        "qty": 15,
         "product_title": "JG37621-3100",
         "sku": "JAGUAR-JG37621-3100"
       },
@@ -91500,7 +91500,7 @@
         "sku": "JAGUAR-JG37624-6100"
       },
       "gid://shopify/ProductVariant/48963803054334": {
-        "qty": 18,
+        "qty": 17,
         "product_title": "JG37624-6500",
         "sku": "JAGUAR-JG37624-6500"
       },
@@ -91510,12 +91510,12 @@
         "sku": "JAGUAR-JG37820-3100"
       },
       "gid://shopify/ProductVariant/48963803283710": {
-        "qty": 3,
+        "qty": 2,
         "product_title": "JG37823-6100",
         "sku": "JAGUAR-JG37823-6100"
       },
       "gid://shopify/ProductVariant/48963803414782": {
-        "qty": 12,
+        "qty": 11,
         "product_title": "JG37823-6500",
         "sku": "JAGUAR-JG37823-6500"
       },
@@ -93735,7 +93735,7 @@
         "sku": "CG-CGSN-1367-02"
       },
       "gid://shopify/ProductVariant/67667225280766": {
-        "qty": 15,
+        "qty": 14,
         "product_title": "CGSN-1367-55-04",
         "sku": "CG-CGSN-1367-04"
       },
@@ -93865,7 +93865,7 @@
         "sku": "CG-CGSN-9126-A9"
       },
       "gid://shopify/ProductVariant/67667226984702": {
-        "qty": 18,
+        "qty": 17,
         "product_title": "CGSN-9126-48-B1",
         "sku": "CG-CGSN-9126-B1"
       },
@@ -93990,7 +93990,7 @@
         "sku": "MJ-MARC-763/S-1ED/GB"
       },
       "gid://shopify/ProductVariant/67726354448638": {
-        "qty": 6,
+        "qty": 5,
         "product_title": "MARC-774/S-086/HA",
         "sku": "MJ-MARC-774/S-086/HA"
       },
