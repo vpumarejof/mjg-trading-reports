@@ -35498,13 +35498,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-11-22T03:28:55.558772+00:00",
+    "updated_at": "2026-11-22T11:49:19.954469+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 81445,
+        "total_qty": 81444,
         "sku_count": 11831,
         "product_count": 11831
       },
@@ -35512,7 +35512,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 81445,
+        "total_qty": 81444,
         "sku_count": 4559,
         "product_count": 4559
       },
@@ -35528,7 +35528,7 @@
         "title": "Havana",
         "handle": "havana",
         "legacy_id": "454449725694",
-        "total_qty": 1133,
+        "total_qty": 1132,
         "sku_count": 949,
         "product_count": 949
       },
@@ -35552,7 +35552,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 81445,
+        "total_qty": 81444,
         "sku_count": 3467,
         "product_count": 3467
       },
@@ -35560,7 +35560,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 81030,
+        "total_qty": 81029,
         "sku_count": 3052,
         "product_count": 3052
       },
@@ -35648,7 +35648,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 14369,
+        "total_qty": 14368,
         "sku_count": 1204,
         "product_count": 1204
       },
@@ -35688,7 +35688,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 7602,
+        "total_qty": 7601,
         "sku_count": 602,
         "product_count": 602
       },
@@ -35800,7 +35800,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 630,
+        "total_qty": 629,
         "sku_count": 112,
         "product_count": 112
       },
@@ -89125,7 +89125,7 @@
         "sku": "KS-JOSI/S-SK4/3X"
       },
       "gid://shopify/ProductVariant/48683730665726": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "KIYA2/G/S/US-086/HA",
         "sku": "KS-KIYA2/G/S/US-086/HA"
       },
