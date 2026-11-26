@@ -35498,13 +35498,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-11-25T23:56:15.639015+00:00",
+    "updated_at": "2026-11-26T06:06:25.050766+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 80337,
+        "total_qty": 80336,
         "sku_count": 11831,
         "product_count": 11831
       },
@@ -35512,7 +35512,7 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 80337,
+        "total_qty": 80336,
         "sku_count": 4484,
         "product_count": 4484
       },
@@ -35552,7 +35552,7 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 80337,
+        "total_qty": 80336,
         "sku_count": 3388,
         "product_count": 3388
       },
@@ -35560,7 +35560,7 @@
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 79930,
+        "total_qty": 79929,
         "sku_count": 2981,
         "product_count": 2981
       },
@@ -35584,7 +35584,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 2816,
+        "total_qty": 2815,
         "sku_count": 384,
         "product_count": 384
       },
@@ -35648,7 +35648,7 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 13410,
+        "total_qty": 13409,
         "sku_count": 1135,
         "product_count": 1135
       },
@@ -35688,7 +35688,7 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 7030,
+        "total_qty": 7029,
         "sku_count": 557,
         "product_count": 557
       },
@@ -36416,7 +36416,7 @@
         "title": "ANNA-KARIN KARLSSON",
         "handle": "anna-karin-karlsson",
         "legacy_id": "485871059198",
-        "total_qty": 887,
+        "total_qty": 886,
         "sku_count": 13,
         "product_count": 13
       },
@@ -85815,7 +85815,7 @@
         "sku": "AKK-COCO-STORIES-BLACK GOLD"
       },
       "gid://shopify/ProductVariant/48406939173118": {
-        "qty": 106,
+        "qty": 105,
         "product_title": "COCO-STORIES-GREY WHITE GOLD",
         "sku": "AKK-COCO-STORIES-GREY WHITE GOLD"
       },
