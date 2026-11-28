@@ -35498,13 +35498,13 @@
     }
   },
   "current": {
-    "updated_at": "2026-11-28T09:42:19.043624+00:00",
+    "updated_at": "2026-11-28T17:49:23.245718+00:00",
     "collections": {
       "gid://shopify/Collection/391862550782": {
         "title": "Best selling products",
         "handle": "best-selling-collection",
         "legacy_id": "391862550782",
-        "total_qty": 80127,
+        "total_qty": 80120,
         "sku_count": 11831,
         "product_count": 11831
       },
@@ -35512,9 +35512,9 @@
         "title": "Men's Eyeglasses",
         "handle": "mens-eyeglasses",
         "legacy_id": "410150142206",
-        "total_qty": 80127,
-        "sku_count": 4467,
-        "product_count": 4467
+        "total_qty": 80120,
+        "sku_count": 4466,
+        "product_count": 4466
       },
       "gid://shopify/Collection/454431047934": {
         "title": "Unisex",
@@ -35536,9 +35536,9 @@
         "title": "Eyeglasses",
         "handle": "eyeglasses",
         "legacy_id": "373525971198",
-        "total_qty": 57337,
-        "sku_count": 2235,
-        "product_count": 2235
+        "total_qty": 57335,
+        "sku_count": 2234,
+        "product_count": 2234
       },
       "gid://shopify/Collection/391775289598": {
         "title": "PRADA",
@@ -35552,23 +35552,23 @@
         "title": "ALL",
         "handle": "all",
         "legacy_id": "391850787070",
-        "total_qty": 80127,
-        "sku_count": 3367,
-        "product_count": 3367
+        "total_qty": 80120,
+        "sku_count": 3365,
+        "product_count": 3365
       },
       "gid://shopify/Collection/391862518014": {
         "title": "New products",
         "handle": "new-collection",
         "legacy_id": "391862518014",
-        "total_qty": 79727,
-        "sku_count": 2967,
-        "product_count": 2967
+        "total_qty": 79721,
+        "sku_count": 2966,
+        "product_count": 2966
       },
       "gid://shopify/Collection/410149912830": {
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses-1",
         "legacy_id": "410149912830",
-        "total_qty": 10648,
+        "total_qty": 10647,
         "sku_count": 938,
         "product_count": 938
       },
@@ -35576,7 +35576,7 @@
         "title": "Women's Eyeglasses",
         "handle": "womens-eyeglasses",
         "legacy_id": "410151354622",
-        "total_qty": 10648,
+        "total_qty": 10647,
         "sku_count": 938,
         "product_count": 938
       },
@@ -35584,7 +35584,7 @@
         "title": "Luxury Brands",
         "handle": "luxury-brands",
         "legacy_id": "472161255678",
-        "total_qty": 2770,
+        "total_qty": 2769,
         "sku_count": 378,
         "product_count": 378
       },
@@ -35648,9 +35648,9 @@
         "title": "Sunglasses",
         "handle": "sunglasses",
         "legacy_id": "373525872894",
-        "total_qty": 13308,
-        "sku_count": 1125,
-        "product_count": 1125
+        "total_qty": 13303,
+        "sku_count": 1124,
+        "product_count": 1124
       },
       "gid://shopify/Collection/391775912190": {
         "title": "TOMMY HILFIGER",
@@ -35664,7 +35664,7 @@
         "title": "Men's Sunglasses",
         "handle": "mens-sunglasses",
         "legacy_id": "410150076670",
-        "total_qty": 4059,
+        "total_qty": 4058,
         "sku_count": 403,
         "product_count": 403
       },
@@ -35688,9 +35688,9 @@
         "title": "Women's Sunglasses",
         "handle": "womens-sunglasses",
         "legacy_id": "410149978366",
-        "total_qty": 6981,
-        "sku_count": 549,
-        "product_count": 549
+        "total_qty": 6977,
+        "sku_count": 548,
+        "product_count": 548
       },
       "gid://shopify/Collection/391853998334": {
         "title": "Men's",
@@ -35704,9 +35704,9 @@
         "title": "LACOSTE",
         "handle": "lacoste",
         "legacy_id": "393068577022",
-        "total_qty": 744,
-        "sku_count": 122,
-        "product_count": 122
+        "total_qty": 743,
+        "sku_count": 121,
+        "product_count": 121
       },
       "gid://shopify/Collection/410150011134": {
         "title": "Unisex Sunglasses",
@@ -35752,7 +35752,7 @@
         "title": "CARRERA",
         "handle": "carrera",
         "legacy_id": "391773749502",
-        "total_qty": 1368,
+        "total_qty": 1367,
         "sku_count": 87,
         "product_count": 87
       },
@@ -35800,7 +35800,7 @@
         "title": "KATE SPADE",
         "handle": "kate-spade",
         "legacy_id": "391774634238",
-        "total_qty": 633,
+        "total_qty": 632,
         "sku_count": 114,
         "product_count": 114
       },
@@ -36216,9 +36216,9 @@
         "title": "ROXY",
         "handle": "roxy",
         "legacy_id": "474031227134",
-        "total_qty": 57,
-        "sku_count": 10,
-        "product_count": 10
+        "total_qty": 56,
+        "sku_count": 9,
+        "product_count": 9
       },
       "gid://shopify/Collection/474673250558": {
         "title": "ANNE KLEIN",
@@ -36424,7 +36424,7 @@
         "title": "TIFFANY & CO",
         "handle": "tiffany-co",
         "legacy_id": "483397370110",
-        "total_qty": 134,
+        "total_qty": 133,
         "sku_count": 26,
         "product_count": 26
       },
@@ -36480,7 +36480,7 @@
         "title": "NICOLE MILLER",
         "handle": "nicole-miller",
         "legacy_id": "425337192702",
-        "total_qty": 158,
+        "total_qty": 157,
         "sku_count": 14,
         "product_count": 14
       },
@@ -36512,7 +36512,7 @@
         "title": "CUTLER AND GROSS",
         "handle": "cutler-and-gross",
         "legacy_id": "512308904190",
-        "total_qty": 1427,
+        "total_qty": 1426,
         "sku_count": 68,
         "product_count": 68
       },
@@ -66395,7 +66395,7 @@
         "sku": "ROXY-RX7001-PUR"
       },
       "gid://shopify/ProductVariant/47455922782462": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "RX7001-TO",
         "sku": "ROXY-RX7001-TO"
       },
@@ -88030,7 +88030,7 @@
         "sku": "CARRERA-CARDUC-022/S-V81/H4"
       },
       "gid://shopify/ProductVariant/48648015741182": {
-        "qty": 2,
+        "qty": 1,
         "product_title": "CARDUC-036/S-003/UZ",
         "sku": "CARRERA-CARDUC-036/S-003/UZ"
       },
@@ -89150,7 +89150,7 @@
         "sku": "KS-NATHALIE/G/S/US-086/LA"
       },
       "gid://shopify/ProductVariant/48683730829566": {
-        "qty": 9,
+        "qty": 8,
         "product_title": "NATHALIE/G/S/US-807/FF",
         "sku": "KS-NATHALIE/G/S/US-807/FF"
       },
@@ -91755,7 +91755,7 @@
         "sku": "NM-PUNTACANA-C02"
       },
       "gid://shopify/ProductVariant/48983157211390": {
-        "qty": 15,
+        "qty": 14,
         "product_title": "PUNTACANA-C03",
         "sku": "NM-PUNTACANA-C03"
       },
@@ -92495,7 +92495,7 @@
         "sku": "LACOSTE-L2919-N-214-54"
       },
       "gid://shopify/ProductVariant/67613235577086": {
-        "qty": 1,
+        "qty": 0,
         "product_title": "L2922-N-603-53",
         "sku": "LACOSTE-L2922-N-603-53"
       },
@@ -92975,7 +92975,7 @@
         "sku": "TF-TF2221-8134-54"
       },
       "gid://shopify/ProductVariant/67613650321662": {
-        "qty": 4,
+        "qty": 3,
         "product_title": "TF2221F-813454",
         "sku": "TF-TF2221F-8134-54"
       },
@@ -93660,7 +93660,7 @@
         "sku": "CG-CGSN-1349-02"
       },
       "gid://shopify/ProductVariant/67667223937278": {
-        "qty": 17,
+        "qty": 16,
         "product_title": "CGSN-1350-56-05",
         "sku": "CG-CGSN-1350-05"
       },
